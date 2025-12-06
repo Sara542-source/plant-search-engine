@@ -1,0 +1,203 @@
+{
+  "id": "131870",
+  "infos_generales": {
+    "nom_scientifique": "Sesamum indicum",
+    "nom_commun": "Sésame",
+    "noms_darija": [
+      "Jeljlan",
+      "جلجلان"
+    ],
+    "noms_alternatifs": [
+      "Gingelly",
+      "Benne"
+    ],
+    "famille": "Pedaliaceae",
+    "genre": "Sesamum"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/8cdd47145dbabddd4709f19440a1cc219d22508d",
+    "https://bs.plantnet.org/image/o/12100eb9c6b55e9f205af29d5d79a7e270b29bdf"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Sol léger et bien drainé",
+    "regions_origine": [
+      "Afrique",
+      "Inde"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "cycle_de_vie": "Annuel",
+    "type_de_plante": "Herbacée",
+    "fructification": "Capsules contenant des graines",
+    "graines": "Riches en huile et protéines"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Anti-inflammatoire",
+      "Tonique",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Épice",
+      "Aromatique",
+      "Cuit",
+      "Dessert"
+    ],
+    "decoration": [
+      "Jardin"
+    ]
+  },
+  "source_data": {
+    "resume": "Le sésame (Sesamum indicum) est une plante herbacée annuelle, cultivée principalement pour ses graines riches en huile. Originaire d'Afrique et d'Inde, il est largement utilisé en cuisine comme épice, pour l'huile de sésame, et en pâtisserie. Ses graines possèdent également des propriétés médicinales. C'est une culture importante dans de nombreuses régions du monde.",
+    "texte_complet": {
+      "introduction": "Le sésame (Sesamum indicum) est une espèce de plantes dicotylédones de la famille des Pedaliaceae, originaire d'Afrique et d'Inde, largement cultivée pour ses graines oléagineuses qui entrent dans la composition de nombreux plats d'Afrique, d'Asie et du Moyen-Orient. Ses graines sont une source de produits alimentaires comme l'huile de sésame ou le tahini.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le sésame est une plante herbacée annuelle qui peut atteindre de 0,5 à 2 mètres de haut. Sa racine pivotante est profonde. Sa tige est velue et dressée, avec une section quadrangulaire, cannelée, de couleur verte, et portant de nombreuses ramifications latérales. Elle est parfois pubescente.",
+          "children": [
+            {
+              "id": "feuilles",
+              "level": 2,
+              "title": "Feuilles",
+              "content": "Les feuilles sont entières et opposées à la base de la tige, alternes vers le haut. Elles sont généralement pubescentes et de forme variable, ovales-lancéolées, oblongues à l'état jeune, étroitement lancéolées, voire linéaires, au sommet. Elles mesurent de 4 à 14 cm de long sur 1,5 à 10 cm de large.",
+              "children": []
+            },
+            {
+              "id": "fleurs",
+              "level": 2,
+              "title": "Fleurs",
+              "content": "Les fleurs, zygomorphes, généralement solitaires, parfois fasciculées par 2 ou 3 à l'aisselle des feuilles, sont portées par un pédicelle court (2 à 3 mm). Elles sont de couleur blanche, rose ou pourpre et présentent des taches jaunes. Le calice est formé de 5 sépales, lancéolés et velus, de 5 à 8 mm de long. La corolle est un tube évasé, de 2 à 3 cm de long, et est formée de 5 lobes inégaux.",
+              "children": []
+            },
+            {
+              "id": "fruits",
+              "level": 2,
+              "title": "Fruits",
+              "content": "Le fruit est une capsule oblongue, déhiscente (s'ouvrant à maturité par quatre fentes longitudinales), ou indéhiscente pour certaines variétés cultivées. Elle est recouverte de poils et mesure de 2 à 4 cm de long sur 6 à 8 mm de large, et se termine par un bec court. Elle contient de 50 à 100 graines.",
+              "children": []
+            },
+            {
+              "id": "graines",
+              "level": 2,
+              "title": "Graines",
+              "content": "Les graines, petites, aplaties, ovoïdes, de 2 à 4 mm de long sur 1 à 2 mm de large, sont lisses et luisantes, de couleur variable : blanche, crème, jaune, brune, rouge ou noire. Elles sont riches en matières grasses (45 à 57 %) et en protéines (18 à 25 %).",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "distribution",
+          "level": 1,
+          "title": "Distribution",
+          "content": "L'espèce Sesamum indicum est originaire d'Afrique et d'Inde. Elle est naturalisée dans toutes les régions tropicales et subtropicales du monde où elle est cultivée.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "C'est une plante qui préfère la chaleur et le soleil. Elle est sensible au gel. Elle nécessite un sol léger, bien drainé et fertile.",
+          "children": [
+            {
+              "id": "maladies_et_ravageurs",
+              "level": 2,
+              "title": "Maladies et ravageurs",
+              "content": "Le sésame est sensible à diverses maladies cryptogamiques (oïdium, pourriture des racines, etc.) et à des ravageurs (pucerons, chenilles, etc.).",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "utilisation",
+          "level": 1,
+          "title": "Utilisation",
+          "content": "Les graines de sésame sont utilisées en cuisine comme épice, pour la fabrication de l'huile de sésame, du tahini (pâte de sésame), du gomasio (mélange de sésame grillé et de sel), ou encore pour garnir pains et pâtisseries.",
+          "children": [
+            {
+              "id": "huile_de_sesame",
+              "level": 2,
+              "title": "Huile de sésame",
+              "content": "L'huile de sésame est une huile végétale alimentaire, extraite des graines de sésame. Elle est riche en acides gras insaturés (acide linoléique, acide oléique) et en antioxydants (sésamol, sésamine). Elle est utilisée en cuisine (sauces, vinaigrettes, fritures) et en cosmétique.",
+              "children": []
+            },
+            {
+              "id": "tahini",
+              "level": 2,
+              "title": "Tahini",
+              "content": "Le tahini est une pâte de sésame grillé, broyé et parfois décortiqué. Il est un ingrédient essentiel de la cuisine méditerranéenne et moyen-orientale, notamment pour la préparation du houmous et du caviar d'aubergine.",
+              "children": []
+            },
+            {
+              "id": "gomasio",
+              "level": 2,
+              "title": "Gomasio",
+              "content": "Le gomasio est un condiment japonais à base de graines de sésame grillées et de sel. Il est utilisé pour assaisonner les plats.",
+              "children": []
+            },
+            {
+              "id": "medecine_traditionnelle",
+              "level": 2,
+              "title": "Médecine traditionnelle",
+              "content": "En médecine traditionnelle, les graines de sésame sont utilisées pour leurs propriétés laxatives, émollientes et galactogènes. Elles sont également considérées comme toniques et aphrodisiaques.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "varietes",
+          "level": 1,
+          "title": "Variétés",
+          "content": "Il existe de nombreuses variétés de sésame, distinguées par la couleur de leurs graines (blanches, noires, brunes) ou leur aptitude à la déhiscence (capsules déhiscentes ou indéhiscentes).",
+          "children": []
+        },
+        {
+          "id": "histoire",
+          "level": 1,
+          "title": "Histoire",
+          "content": "Le sésame est une des plus anciennes plantes oléagineuses cultivées. Son origine remonte à plusieurs millénaires, avec des traces de culture en Mésopotamie, en Égypte et en Inde.",
+          "children": []
+        },
+        {
+          "id": "production",
+          "level": 1,
+          "title": "Production",
+          "content": "La production mondiale de sésame s'élève à environ 6 millions de tonnes par an. Les principaux pays producteurs sont la Birmanie, l'Inde, la Chine, le Soudan, le Nigeria et la Tanzanie.",
+          "children": []
+        },
+        {
+          "id": "composition_et_valeur_nutritionnelle",
+          "level": 1,
+          "title": "Composition et valeur nutritionnelle",
+          "content": "Les graines de sésame sont une excellente source de minéraux (calcium, magnésium, fer, zinc), de vitamines (B1, B6, E) et de fibres alimentaires. Elles contiennent également des lignanes (sésamine, sésamoline), des composés phénoliques et des phytostérols.",
+          "children": [
+            {
+              "id": "valeur_nutritionnelle_pour_100_g",
+              "level": 2,
+              "title": "Valeur nutritionnelle pour 100 g",
+              "content": "La valeur nutritionnelle pour 100g de graines de sésame non décortiquées est environ : Énergie : 573 kcal (2397 kJ) ; Glucides : 23,45 g (dont sucres : 0,3 g) ; Protéines : 17,73 g ; Lipides : 49,67 g (dont acides gras saturés : 6,96 g, monoinsaturés : 18,76 g, polyinsaturés : 21,77 g) ; Fibres alimentaires : 11,8 g. Minéraux : Calcium : 975 mg ; Fer : 14,55 mg ; Magnésium : 351 mg ; Phosphore : 629 mg ; Potassium : 468 mg ; Zinc : 7,75 mg. Vitamines : Vitamine B1 : 0,79 mg ; Vitamine B2 : 0,25 mg ; Vitamine B3 : 4,52 mg ; Vitamine B6 : 0,24 mg ; Folates : 97 µg ; Vitamine E : 0,25 mg.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "pharmacologie_et_toxicologie",
+          "level": 1,
+          "title": "Pharmacologie et toxicologie",
+          "content": "Des études ont montré que les lignanes du sésame (sésamine, sésamoline) ont des propriétés antioxydantes, anti-inflammatoires et hypocholestérolémiantes. Bien que le sésame soit généralement sûr à consommer, il peut provoquer des réactions allergiques chez certaines personnes.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/sesamum-indicum",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Sesamum_indicum"
+    }
+  }
+}

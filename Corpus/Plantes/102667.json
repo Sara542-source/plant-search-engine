@@ -1,0 +1,224 @@
+{
+  "id": "102667",
+  "infos_generales": {
+    "nom_scientifique": "Opuntia ficus-indica",
+    "nom_commun": "Figuier de Barbarie",
+    "noms_darija": [
+      "Kermouss el Hindi",
+      "كرموس الهندي",
+      "Hendiya"
+    ],
+    "noms_alternatifs": [
+      "Nopal",
+      "Cactée raquette",
+      "Poire épineuse"
+    ],
+    "famille": "Cactaceae",
+    "genre": "Opuntia"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/ef3710f9d1cfa04b0e32722bc7ad7a3c8a3fc84e",
+    "https://bs.plantnet.org/image/o/5f7646dddada8103a09326ea38f5b49c7b8f8841"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Drainé, sablonneux, calcaire, pauvre",
+    "regions_origine": [
+      "Mexique",
+      "Bassin méditerranéen (naturalisée et cultivée)"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Présence d'épines": "Oui, glochidies fines et épines rigides sur les cladodes et fruits.",
+    "Résistance à la sécheresse": "Très élevée",
+    "Type de croissance": "Arbustive à arborescente",
+    "Organes caractéristiques": "Cladodes (tiges aplaties et charnues)",
+    "Rusticité": "Généralement faible au gel intense, mais certaines variétés sont plus résistantes."
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Anti-inflammatoire",
+      "Tonique",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Salade",
+      "Cuit",
+      "Dessert",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Haie",
+      "Jardin sec",
+      "Couvre-sol"
+    ]
+  },
+  "source_data": {
+    "resume": "L'Opuntia ficus-indica, ou figuier de Barbarie, est une plante succulente de la famille des Cactaceae, originaire du Mexique mais largement naturalisée et cultivée dans les régions arides et semi-arides du monde, notamment au Maroc. Caractérisée par ses cladodes épineux et ses fruits comestibles, elle est très résistante à la sécheresse. La plante est appréciée pour ses fruits juteux et sucrés, ses jeunes pousses (nopales) consommées comme légume, et ses propriétés médicinales. Elle joue également un rôle écologique important dans la stabilisation des sols et comme brise-vent. Sa culture est économiquement significative dans de nombreuses régions.",
+    "texte_complet": {
+      "introduction": "L'Opuntia ficus-indica, communément appelé figuier de Barbarie, est une espèce de plante succulente arborescente du genre Opuntia et de la famille des Cactaceae. Originaire du Mexique, elle s'est naturalisée dans de nombreuses régions du monde, notamment dans le bassin méditerranéen, en Afrique du Nord, et en Australie. Caractérisée par ses tiges aplaties (cladodes) couvertes d'épines et ses fruits comestibles et juteux, cette plante est remarquablement résistante à la sécheresse et joue un rôle économique, écologique et culturel majeur dans les régions où elle est cultivée. Elle est reconnue pour sa capacité à prospérer dans des environnements arides et semi-arides, fournissant des ressources alimentaires, médicinales et cosmétiques précieuses, tout en contribuant à la stabilisation des sols et à la biodiversité.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le figuier de Barbarie est une plante arborescente qui peut atteindre 3 à 5 mètres de hauteur. Il est composé de 'raquettes' ou cladodes, qui sont des tiges aplaties et succulentes, de couleur vert-bleuâtre. Ces cladodes, de forme ovale et d'une longueur de 30 à 60 cm, sont recouverts de petites épines (glochidies) et parfois de quelques épines plus longues. La plante développe un système racinaire superficiel mais étendu, lui permettant de capter l'eau de pluie efficacement. Les fleurs, généralement jaunes ou oranges, apparaissent sur les bords des cladodes et donnent naissance aux fruits.",
+          "children": [
+            {
+              "id": "morphologie_generale",
+              "level": 2,
+              "title": "Morphologie générale",
+              "content": "L'Opuntia ficus-indica est un cactus arborescent ou arbustif, ramifié, composé de segments articulés. Il peut former des massifs denses ou des arbres solitaires. Sa longévité est remarquable, certains spécimens pouvant vivre plusieurs décennies dans des conditions optimales.",
+              "children": []
+            },
+            {
+              "id": "cladodes",
+              "level": 2,
+              "title": "Cladodes",
+              "content": "Les cladodes, aussi appelés 'raquettes' ou 'palettes', sont des tiges aplaties, charnues et succulentes, de forme obovale à elliptique. Ils sont photosynthétiques et stockent l'eau. Leur surface est parsemée d'aréoles portant des glochidies (petites épines barbelées) et parfois des épines plus longues. C'est la partie végétative la plus caractéristique de la plante.",
+              "children": []
+            },
+            {
+              "id": "fleurs",
+              "level": 2,
+              "title": "Fleurs",
+              "content": "Les fleurs, solitaires, sont sessiles et apparaissent sur les aréoles situées sur le pourtour des cladodes. Elles sont généralement de couleur jaune-orangé vif, bien que des variétés roses ou rouges existent. La floraison a lieu principalement au printemps et au début de l'été, attirant divers pollinisateurs.",
+              "children": []
+            },
+            {
+              "id": "fruits",
+              "level": 2,
+              "title": "Fruits",
+              "content": "Le fruit, appelé figue de Barbarie, est une baie charnue de forme ovoïde ou elliptique, mesurant de 5 à 10 cm. Sa couleur varie du vert au jaune, orange, rouge ou violet à maturité. Il est recouvert de glochidies fines qui doivent être retirées avant consommation. La pulpe est juteuse, sucrée, et contient de nombreuses petites graines.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "distribution_et_habitat",
+          "level": 1,
+          "title": "Distribution et habitat",
+          "content": "Bien que l'Opuntia ficus-indica soit aujourd'hui largement répandue à travers le monde dans les régions arides et semi-arides, son origine est bien localisée sur le continent américain, d'où elle a été dispersée par l'homme.",
+          "children": [
+            {
+              "id": "origine",
+              "level": 2,
+              "title": "Origine",
+              "content": "Cette espèce est originaire du Mexique, où elle a été domestiquée il y a des milliers d'années par les civilisations précolombiennes. Elle faisait partie intégrante de leur alimentation et de leur culture.",
+              "children": []
+            },
+            {
+              "id": "naturalisation",
+              "level": 2,
+              "title": "Naturalisation",
+              "content": "Le figuier de Barbarie a été introduit en Europe (notamment en Espagne) après la découverte de l'Amérique, puis s'est propagé dans tout le bassin méditerranéen, en Afrique, en Asie et en Australie, où il s'est souvent naturalisé et est devenu une composante essentielle des paysages et des économies locales.",
+              "children": []
+            },
+            {
+              "id": "culture",
+              "level": 2,
+              "title": "Culture",
+              "content": "Il est largement cultivé dans les régions semi-arides et arides du monde, notamment au Maroc, en Algérie, en Tunisie, en Italie, en Sicile, en Espagne, au Moyen-Orient et dans certaines parties de l'Inde et de l'Afrique du Sud, pour ses fruits, ses cladodes et d'autres produits dérivés.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "Le figuier de Barbarie est une plante polyvalente dont toutes les parties sont exploitées pour divers usages, qu'ils soient alimentaires, médicinaux, cosmétiques ou écologiques.",
+          "children": [
+            {
+              "id": "alimentation_humaine",
+              "level": 2,
+              "title": "Alimentation humaine",
+              "content": "Les fruits, ou figues de Barbarie, sont consommés frais, en jus, en confitures ou en liqueurs. Les jeunes cladodes, appelés 'nopales', sont consommés comme légume, crus en salade ou cuits, et sont très populaires dans la cuisine mexicaine et méditerranéenne. Ils sont riches en fibres et en vitamines.",
+              "children": []
+            },
+            {
+              "id": "alimentation_animale",
+              "level": 2,
+              "title": "Alimentation animale",
+              "content": "Les cladodes dénués d'épines sont utilisés comme fourrage pour le bétail, surtout pendant les périodes de sécheresse, grâce à leur teneur en eau et en nutriments.",
+              "children": []
+            },
+            {
+              "id": "medecine_traditionnelle_et_moderne",
+              "level": 2,
+              "title": "Médecine traditionnelle et moderne",
+              "content": "Dans la médecine traditionnelle, différentes parties de la plante sont utilisées pour traiter les brûlures, les blessures, les inflammations et les problèmes digestifs. Des études modernes explorent ses propriétés hypoglycémiantes, hypocholestérolémiantes et antioxydantes, suggérant son potentiel dans la gestion du diabète de type 2 et des maladies cardiovasculaires.",
+              "children": []
+            },
+            {
+              "id": "cosmetique",
+              "level": 2,
+              "title": "Cosmétique",
+              "content": "L'huile extraite des graines de figue de Barbarie est très prisée en cosmétique pour ses propriétés antioxydantes, régénératrices et hydratantes, particulièrement dans les produits anti-âge. Le mucilage des cladodes est également utilisé dans des formulations pour la peau et les cheveux.",
+              "children": []
+            },
+            {
+              "id": "role_ecologique",
+              "level": 2,
+              "title": "Rôle écologique",
+              "content": "Le figuier de Barbarie est planté pour lutter contre l'érosion des sols, pour former des haies vives protectrices et comme brise-vent. Il offre également un habitat et une source de nourriture pour la faune locale dans les écosystèmes arides.",
+              "children": []
+            },
+            {
+              "id": "autres_usages",
+              "level": 2,
+              "title": "Autres usages",
+              "content": "Le cactus est également une plante hôte pour la cochenille Dactylopius coccus, utilisée pour produire le colorant carmin. Ses cladodes peuvent aussi être transformés en biocarburant ou en matériaux de construction.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture_et_propagation",
+          "level": 1,
+          "title": "Culture et propagation",
+          "content": "La culture du figuier de Barbarie est relativement facile en raison de sa grande adaptabilité aux conditions difficiles et de sa résilience.",
+          "children": [
+            {
+              "id": "conditions_de_culture",
+              "level": 2,
+              "title": "Conditions de culture",
+              "content": "Le figuier de Barbarie préfère les sols bien drainés, même pauvres ou calcaires, et nécessite un ensoleillement direct et intense. Il est très tolérant à la sécheresse et supporte mal l'excès d'humidité, qui peut provoquer la pourriture des racines. Il est sensible aux gels prolongés, bien que certaines variétés montrent une meilleure rusticité.",
+              "children": []
+            },
+            {
+              "id": "multiplication",
+              "level": 2,
+              "title": "Multiplication",
+              "content": "La plante se multiplie très facilement par bouturage de cladodes. Il suffit de laisser sécher une raquette coupée pendant quelques jours pour qu'une pellicule se forme sur la coupe, puis de la planter directement en terre. La germination des graines est également possible mais plus lente et moins courante pour la production.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "composition_chimique",
+          "level": 1,
+          "title": "Composition chimique",
+          "content": "L'Opuntia ficus-indica est riche en composés bioactifs. Ses cladodes contiennent des mucilages (polysaccharides), des fibres alimentaires, des minéraux (calcium, potassium), des vitamines (A, C, K), et des antioxydants (flavonoïdes, polyphénols). Les fruits sont riches en sucres, en vitamine C, en bétalaïnes (pigments antioxydants), et en acides aminés. Les graines contiennent une huile précieuse, riche en acides gras essentiels (acide linoléique) et en vitamine E.",
+          "children": []
+        },
+        {
+          "id": "histoire_et_symbolisme",
+          "level": 1,
+          "title": "Histoire et symbolisme",
+          "content": "Le figuier de Barbarie a une longue histoire au Mexique, où il est un symbole national (présent sur le drapeau mexicain). Il a été vénéré par les Aztèques et utilisé pour son alimentation, sa médecine et ses pigments. Son introduction en Europe et son expansion dans le bassin méditerranéen ont marqué une nouvelle ère pour la plante, devenant un élément emblématique des paysages arides et une ressource vitale pour de nombreuses communautés.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/opuntia-ficus-indica",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Opuntia_ficus-indica"
+    }
+  }
+}

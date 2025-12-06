@@ -1,0 +1,105 @@
+{
+  "id": "64135",
+  "infos_generales": {
+    "nom_scientifique": "Nerium oleander",
+    "nom_commun": "Laurier-rose",
+    "noms_darija": [
+      "Difla",
+      "دفلة"
+    ],
+    "noms_alternatifs": [
+      "Nérion",
+      "Oléandre"
+    ],
+    "famille": "Apocynaceae",
+    "genre": "Nerium"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/2ff93222759bd7436338492c834074bba64948f4",
+    "https://bs.plantnet.org/image/o/7c810fc7ccdadd712ab81000ceaa45ceea5c514b"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Tout type de sol bien drainé",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Asie du Sud-Ouest"
+    ],
+    "toxicite": true
+  },
+  "attributs_specifiques": {
+    "toxicite_details": "Toutes les parties de la plante sont hautement toxiques par ingestion ou contact (sève), pouvant entraîner des troubles cardiaques graves et être mortelles.",
+    "resistance_secheresse": "Élevée",
+    "feuillage": "Persistant",
+    "floraison": "Longue et abondante, du printemps à l'automne",
+    "parfum_fleurs": "Délicat et variable selon les cultivars"
+  },
+  "utilisations": {
+    "medicale": [
+      "Autre usage médical"
+    ],
+    "culinaire": [],
+    "decoration": [
+      "Jardin",
+      "Haie",
+      "Jardin sec",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "Le laurier-rose (Nerium oleander) est un arbuste ornemental méditerranéen très répandu, apprécié pour sa floraison spectaculaire et sa grande résistance aux conditions arides. Cependant, toutes ses parties sont extrêmement toxiques, nécessitant une manipulation prudente et une vigilance accrue en présence d'enfants et d'animaux domestiques. Il est un symbole de beauté et de résilience, mais aussi un rappel de la prudence que la nature exige.",
+    "texte_complet": {
+      "introduction": "Le Laurier-rose (Nerium oleander) est un arbuste ou petit arbre de la famille des Apocynacées, originaire du bassin méditerranéen et de l'Asie. C'est une plante ornementale très répandue dans les régions chaudes du monde en raison de sa floraison spectaculaire et de sa grande résistance. Toutefois, il est essentiel de noter que toutes les parties du laurier-rose sont hautement toxiques par ingestion, et son contact peut provoquer des irritations.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le laurier-rose est un arbuste à feuillage persistant pouvant atteindre 2 à 6 mètres de hauteur, avec des tiges dressées et ramifiées. Ses feuilles sont vert foncé, coriaces, lancéolées et disposées par trois en verticilles. Les fleurs, très décoratives, apparaissent en bouquets terminaux et peuvent être simples ou doubles, de couleur blanche, rose, rouge ou jaune pâle. Elles fleurissent généreusement du printemps à l'automne. Le fruit est une capsule allongée, qui libère des graines plumeuses au vent.",
+          "children": []
+        },
+        {
+          "id": "distribution-et-habitat",
+          "level": 1,
+          "title": "Distribution et habitat",
+          "content": "Originaire du bassin méditerranéen et d'une vaste région s'étendant jusqu'à l'Asie, le laurier-rose pousse naturellement dans les lits de rivières asséchés (ou oueds), les vallées rocheuses et les zones côtières. Il s'est naturalisé dans de nombreuses régions chaudes du monde où il est cultivé comme plante ornementale, notamment en Californie, en Floride et en Australie. Sa tolérance à la sécheresse et aux sols pauvres en fait une espèce très adaptable.",
+          "children": []
+        },
+        {
+          "id": "toxicite",
+          "level": 1,
+          "title": "Toxicité",
+          "content": "Le laurier-rose est une plante extrêmement toxique. Toutes ses parties (feuilles, fleurs, tiges, racines, sève, et même le bois brûlé ou l'eau dans laquelle les fleurs ont trempé) contiennent des hétérosides cardiotoniques puissants, notamment l'oléandrine et la nériantine. L'ingestion, même en petites quantités, peut être fatale pour l'homme et les animaux (chevaux, bovins, chiens, chats). Les symptômes d'intoxication incluent des troubles digestifs (nausées, vomissements, diarrhée), des troubles cardiaques graves (bradycardie, arythmies) et des troubles neurologiques. Le contact avec la sève peut également provoquer des dermatites.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "Le laurier-rose est principalement utilisé comme plante ornementale dans les parcs, les jardins, le long des routes et en tant que haie. Sa capacité à prospérer dans des conditions difficiles en fait un choix populaire pour l'aménagement paysager dans les climats chauds. Historiquement, et malgré sa toxicité, certaines cultures ont utilisé le laurier-rose à des fins médicinales traditionnelles, souvent sous forme d'extraits très dilués pour des affections dermatologiques ou cardiaques, mais toujours avec un risque mortel élevé. Il est crucial de souligner que de telles utilisations sont extrêmement dangereuses et ne sont pas recommandées.",
+          "children": [
+            {
+              "id": "jardinage",
+              "level": 2,
+              "title": "Jardinage",
+              "content": "Le laurier-rose est largement cultivé pour sa beauté et sa résilience. Il est idéal pour les haies brise-vent, les massifs fleuris, et peut également être cultivé en pot sur les terrasses et balcons dans les régions plus froides, où il est rentré en hiver. Il préfère le plein soleil et un sol bien drainé, mais tolère une grande variété de sols. Une taille régulière permet de maintenir sa forme et de stimuler la floraison.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le laurier-rose est une plante facile d'entretien une fois établi. Il nécessite peu d'arrosage en période de sécheresse, mais un apport d'eau régulier durant la floraison favorise une meilleure production de fleurs. La fertilisation printanière stimule également la croissance. Il est rustique jusqu'à environ -5°C, mais des variétés plus résistantes existent. En région froide, il est souvent cultivé en pot et hiverné à l'abri du gel.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/nerium-oleander",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Nerium_oleander"
+    }
+  }
+}

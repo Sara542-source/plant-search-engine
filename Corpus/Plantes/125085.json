@@ -1,0 +1,135 @@
+{
+  "id": "125085",
+  "infos_generales": {
+    "nom_scientifique": "Peganum harmala",
+    "nom_commun": "Harmal",
+    "noms_darija": [
+      "Harmel",
+      "الحرمل"
+    ],
+    "noms_alternatifs": [
+      "Rue syrienne",
+      "Rue sauvage",
+      "Harmala"
+    ],
+    "famille": "Nitrariaceae",
+    "genre": "Peganum"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/dfbebcf1a052ce538a35c561cfc10ce6844b919a",
+    "https://d2seqvvyy3b8p2.cloudfront.net/21a96fd022124139f74f71b805afff8f.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/60/Peganum_harmala1.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Aride, sablonneux, calcaire, bien drainé",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Afrique du Nord",
+      "Moyen-Orient",
+      "Asie centrale"
+    ],
+    "toxicite": true
+  },
+  "attributs_specifiques": {
+    "odeur": "Forte et caractéristique",
+    "racines": "Profondes, utilisées traditionnellement pour la teinture rouge",
+    "proprietes_chimiques": "Contient des alcaloïdes harmala (harmine, harmaline) à effets psychotropes et inhibiteurs de la MAO"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Apaisant",
+      "Autre usage médical"
+    ],
+    "culinaire": [],
+    "decoration": [
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Peganum harmala, communément appelé Harmal ou Rue syrienne, est une plante herbacée vivace originaire d'Afrique du Nord, du Moyen-Orient et d'Asie centrale. Elle est hautement reconnue pour ses puissantes propriétés médicinales et psychotropes, principalement dues aux alcaloïdes harmala présents dans ses graines. Traditionnellement utilisée en fumigation pour la purification et la protection, elle trouve également des applications dans la médecine populaire pour ses vertus antiseptiques, digestives et anti-inflammatoires, ainsi que comme source de teinture rouge. Sa toxicité requiert une grande prudence.",
+    "texte_complet": {
+      "introduction": "Le Peganum harmala, appelé Harmal ou Harmel, est une plante herbacée vivace de la famille des Nitrariacées, parfois classée dans les Zygophyllacées ou les Pégadacées. Originaire d'une vaste zone allant du bassin méditerranéen à l'Asie centrale, elle est connue pour ses propriétés médicinales et psychotropes, principalement dues à la présence d'alcaloïdes harmala dans ses graines. Son usage remonte à l'Antiquité, où elle était utilisée dans diverses cultures à des fins rituelles, thérapeutiques et tinctoriales. La plante est caractérisée par une forte odeur et pousse dans des environnements arides et semi-arides.",
+      "sections": [
+        {
+          "id": "biologie",
+          "level": 1,
+          "title": "Biologie",
+          "content": "Le Peganum harmala est une plante vivace robuste atteignant 30 à 100 cm de hauteur. Ses feuilles sont alternes, profondément divisées en segments étroits. Les fleurs sont petites, blanches ou jaune-verdâtre, solitaires ou en cymes, apparaissant de mai à août. Le fruit est une capsule globuleuse contenant de nombreuses petites graines brun-noirâtres. Les racines sont profondes et ligneuses, permettant à la plante de survivre dans des conditions de sécheresse extrême.",
+          "children": [
+            {
+              "id": "biologie-description",
+              "level": 2,
+              "title": "Description",
+              "content": "La plante présente une forte odeur caractéristique, particulièrement lorsque ses feuilles sont froissées. Les tiges sont ramifiées, souvent lignifiées à la base. Les graines sont de petite taille, de forme irrégulière, et sont la partie de la plante la plus recherchée pour ses composés actifs."
+            },
+            {
+              "id": "biologie-repartition-et-habitat",
+              "level": 2,
+              "title": "Répartition et habitat",
+              "content": "Le Peganum harmala est originaire des steppes et des zones semi-désertiques du pourtour méditerranéen, d'Afrique du Nord (dont le Maroc), du Moyen-Orient, de l'Asie centrale et de l'Inde. Elle préfère les sols arides, sablonneux ou caillouteux, souvent calcaires, et supporte bien la sécheresse et les températures élevées. On la trouve fréquemment en bord de chemins, dans les friches et les pâturages secs."
+            }
+          ]
+        },
+        {
+          "id": "composes-chimiques",
+          "level": 1,
+          "title": "Composés chimiques",
+          "content": "La plante est riche en alcaloïdes, principalement concentrés dans les graines. Les alcaloïdes majeurs sont l'harmine, l'harmaline, l'harmalol et la tétrahydroharmine, qui appartiennent à la classe des bêta-carbolines. Ces composés sont connus pour leurs propriétés inhibitrices de la monoamine oxydase (IMAO). D'autres alcaloïdes comme la vasicine et la vasicinone sont également présents, contribuant aux effets pharmacologiques de la plante. Les graines contiennent également des flavonoïdes et d'autres métabolites secondaires."
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "Le Peganum harmala a une longue histoire d'utilisation dans diverses cultures, tant pour ses propriétés médicinales que pour ses applications rituelles et tinctoriales.",
+          "children": [
+            {
+              "id": "utilisations-medicales",
+              "level": 2,
+              "title": "Utilisations médicinales",
+              "content": "Traditionnellement, le Harmal est utilisé pour traiter une variété d'affections. Ses propriétés antiseptiques et anti-inflammatoires sont exploitées pour les problèmes cutanés et les infections. Il est également employé comme vermifuge, abortif, et pour soulager les troubles digestifs. En phytothérapie, il est étudié pour ses potentiels effets antidépresseurs et anxiolytiques à faibles doses, en raison de son action IMAO. Cependant, son utilisation doit être très prudente en raison de sa toxicité."
+            },
+            {
+              "id": "utilisations-rituelles-et-traditionnelles",
+              "level": 2,
+              "title": "Utilisations rituelles et traditionnelles",
+              "content": "Dans certaines cultures du Maghreb et du Moyen-Orient, les graines de Harmal sont brûlées comme encens lors de rituels de fumigation pour chasser le mauvais œil, purifier les lieux et attirer la chance. Elles sont également utilisées dans certaines pratiques chamaniques et enthéogènes pour leurs effets psychotropes, induisant des états modifiés de conscience."
+            },
+            {
+              "id": "utilisations-autres",
+              "level": 2,
+              "title": "Autres utilisations",
+              "content": "Les racines de Peganum harmala sont une source de colorant rouge traditionnel, utilisé pour teindre les tapis, les textiles et le cuir. Les graines peuvent aussi produire un colorant jaune. Des recherches sont en cours sur le potentiel insecticide et herbicide de certains de ses composés."
+            }
+          ]
+        },
+        {
+          "id": "pharmacologie",
+          "level": 1,
+          "title": "Pharmacologie",
+          "content": "Les alcaloïdes harmala agissent principalement comme inhibiteurs réversibles de la monoamine oxydase A (IMAO-A), ce qui augmente les niveaux de neurotransmetteurs comme la sérotonine, la noradrénaline et la dopamine dans le cerveau. Cette action est à l'origine de ses effets antidépresseurs, anxiolytiques et psychotropes. À des doses plus élevées, ils peuvent provoquer des effets hallucinogènes et des perturbations du système nerveux central. Des études in vitro et in vivo suggèrent également des activités antimicrobiennes, antiparasitaires et anticancéreuses."
+        },
+        {
+          "id": "precautions-et-toxicite",
+          "level": 1,
+          "title": "Précautions et toxicité",
+          "content": "Le Peganum harmala est une plante toxique. La consommation des graines peut entraîner des nausées, vomissements, diarrhées, bradycardie, hallucinations et, à fortes doses, des convulsions et un coma. L'interaction des alcaloïdes harmala avec certains médicaments (antidépresseurs, stimulants) et aliments (riches en tyramine) peut être dangereuse, voire mortelle, en raison du syndrome sérotoninergique. Son usage est fortement déconseillé sans supervision médicale stricte."
+        },
+        {
+          "id": "reglementation",
+          "level": 1,
+          "title": "Réglementation",
+          "content": "En raison de ses propriétés psychotropes et de sa toxicité, le Peganum harmala et ses alcaloïdes sont soumis à des réglementations diverses selon les pays. Dans certaines juridictions, la plante est classée comme stupéfiant ou substance contrôlée, rendant sa culture, sa possession ou sa vente illégale sans autorisation spécifique."
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/peganum-harmala",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Peganum_harmala"
+    }
+  }
+}

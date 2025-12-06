@@ -1,0 +1,96 @@
+{
+  "id": "194712",
+  "infos_generales": {
+    "nom_scientifique": "Hibiscus rosa-sinensis",
+    "nom_commun": "Hibiscus rose de Chine",
+    "noms_darija": [
+      "Hibiscus",
+      "هيبسكوس",
+      "الوردة الصينية"
+    ],
+    "noms_alternatifs": [
+      "Rose de Chine",
+      "Faux-hibiscus"
+    ],
+    "famille": "Malvaceae",
+    "genre": "Hibiscus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/a2b8cb049d071ed0bae3d324f7516b794399c4c8",
+    "https://d2seqvvyy3b8p2.cloudfront.net/5480e4a9d098c32d93563f22b6bd5fcd.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Fréquent",
+    "luminosite": "Plein soleil",
+    "type_sol": "Riche, bien drainé, légèrement acide à neutre",
+    "regions_origine": [
+      "Asie orientale"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "floraison_periode": "Printemps à automne (continue en climat chaud)",
+    "couleur_fleurs": "Rouge, rose, orange, jaune, blanc, bicolore",
+    "feuillage": "Persistant",
+    "type_plante": "Arbuste",
+    "taille_adulte": "2 à 5 mètres"
+  },
+  "utilisations": {
+    "medicale": [
+      "Dermatologique",
+      "Anti-inflammatoire",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Salade"
+    ],
+    "decoration": [
+      "Jardin",
+      "Intérieur",
+      "Haie",
+      "Balcon",
+      "Fleurs coupées"
+    ]
+  },
+  "source_data": {
+    "resume": "L'Hibiscus rosa-sinensis, communément appelé rose de Chine, est un arbuste ornemental tropical de la famille des Malvaceae. Largement cultivé pour ses grandes fleurs voyantes, il est populaire dans les climats chauds, y compris au Maroc. Il requiert un ensoleillement direct et un arrosage régulier. Ses fleurs et feuilles sont utilisées traditionnellement à des fins médicinales et culinaires.",
+    "texte_complet": {
+      "introduction": "L'Hibiscus rosa-sinensis, communément appelé rose de Chine, est un arbuste tropical de la famille des Malvaceae, largement cultivé pour ses grandes fleurs voyantes. Originaire d'Asie orientale, il est devenu une plante ornementale populaire dans les climats chauds et tempérés du monde entier, y compris au Maroc où il est souvent planté dans les jardins et les parcs.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "L'Hibiscus rosa-sinensis est un arbuste persistant qui peut atteindre 2 à 5 mètres de hauteur. Ses feuilles sont vert foncé, brillantes, ovales ou lancéolées, et dentelées sur les bords. Les fleurs, généralement grandes et solitaires, sont la caractéristique la plus frappante de cette plante. Elles peuvent atteindre 10 à 15 cm de diamètre et se déclinent en une large gamme de couleurs, notamment le rouge, le rose, l'orange, le jaune, le blanc, et des combinaisons bicolores. La fleur possède cinq pétales et un long style central tubulaire d'où émergent les étamines.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Cette plante préfère un emplacement en plein soleil et un sol riche, bien drainé et légèrement acide à neutre. Elle nécessite un arrosage régulier, surtout pendant les périodes chaudes et de floraison, mais doit être protégée du gel. Dans les régions tempérées, elle est souvent cultivée en pot et rentrée à l'intérieur pendant l'hiver. La taille est recommandée pour maintenir une forme compacte et favoriser une floraison abondante.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "L'Hibiscus rosa-sinensis est principalement cultivé comme plante ornementale pour embellir les jardins, les parcs et les balcons. Ses fleurs éclatantes sont également utilisées comme fleurs coupées. Dans certaines cultures traditionnelles, les feuilles et les fleurs ont été employées pour leurs propriétés médicinales, notamment dans la préparation de teintures capillaires ou de remèdes pour diverses affections cutanées. Les fleurs sont parfois consommées crues en salade ou utilisées pour faire des infusions.",
+          "children": []
+        },
+        {
+          "id": "varietes-et-hybrides",
+          "level": 1,
+          "title": "Variétés et hybrides",
+          "content": "De nombreuses variétés et hybrides ont été développés, offrant une incroyable diversité de formes, de tailles et de couleurs de fleurs. Ces cultivars sont le résultat de sélections et de croisements intensifs pour améliorer la résistance, la floraison et l'attrait esthétique de la plante.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/hibiscus-rosa-sinensis",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Hibiscus_rosa-sinensis"
+    }
+  }
+}

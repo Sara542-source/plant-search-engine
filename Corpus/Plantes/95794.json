@@ -1,0 +1,119 @@
+{
+  "id": "95794",
+  "infos_generales": {
+    "nom_scientifique": "Juniperus communis",
+    "nom_commun": "Genévrier commun",
+    "noms_darija": [
+      "Ar'ar",
+      "عرعر"
+    ],
+    "noms_alternatifs": [
+      "Genévrier",
+      "Genévrier vulgaire"
+    ],
+    "famille": "Cupressaceae",
+    "genre": "Juniperus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/e4676fc7c7ba86abd9273548ad8542756d3d8e23",
+    "https://bs.plantnet.org/image/o/7f8b5f4e8197d1c7e10c791a43982f218421d6cd",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jalowiec_jagody1.jpg/1000px-Jalowiec_jagody1.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé",
+    "regions_origine": [
+      "Europe",
+      "Asie",
+      "Amérique du Nord",
+      "Afrique du Nord"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Aromatique, résineuse",
+    "feuillage": "Persistant, aiguilles piquantes",
+    "fructification": "Cônes charnus (appelés baies)",
+    "port": "Arbuste ou petit arbre"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Épice",
+      "Aromatique",
+      "Infusion"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Genévrier commun (Juniperus communis) est un conifère de la famille des Cupressaceae, largement répandu dans l'hémisphère nord, y compris en Afrique du Nord. C'est un arbuste ou petit arbre persistant, reconnaissable à ses aiguilles piquantes et ses cônes charnus bleu-noir, souvent appelés \"baies\". Apprécié pour son feuillage aromatique et sa robustesse, il tolère les sols pauvres et le plein soleil, ce qui le rend idéal pour les jardins secs. Ses baies sont utilisées comme épice en cuisine, notamment pour aromatiser le gin et les plats de gibier. En médecine traditionnelle, elles sont reconnues pour leurs propriétés digestives, antiseptiques et diurétiques.",
+    "texte_complet": {
+      "introduction": "Le Genévrier commun (Juniperus communis) est une espèce d'arbres ou d'arbustes sempervirents de la famille des Cupressacées. Il est le conifère ayant la plus vaste aire de répartition dans le monde, s'étendant à travers l'hémisphère nord depuis les régions arctiques jusqu'aux zones tempérées, y compris les montagnes d'Afrique du Nord. Caractérisé par des aiguilles persistantes et des cônes charnus appelés \"baies de genièvre\", il est connu pour son adaptation à divers environnements et ses nombreuses utilisations traditionnelles.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le Genévrier commun se présente généralement comme un arbuste de 1 à 4 mètres de haut, mais il peut parfois atteindre 10 mètres et prendre la forme d'un petit arbre. Son port est très variable, allant du rampant dans les zones subalpines à érigé. Les feuilles sont des aiguilles vert foncé, rigides et très piquantes, disposées par trois en verticilles. Une bande stomatique blanche est visible sur la face supérieure de chaque aiguille. La floraison a lieu au printemps. Les cônes femelles, communément appelés \"baies de genièvre\", sont charnus, globuleux, et mettent deux à trois ans pour arriver à maturité, passant du vert au bleu-noir pruineux. Ils contiennent généralement trois graines.",
+          "children": []
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "Juniperus communis est l'une des espèces végétales les plus largement distribuées dans le monde. On le trouve naturellement en Europe, en Asie (jusqu'au Japon), en Amérique du Nord (du Canada au sud des États-Unis) et en Afrique du Nord, notamment dans les montagnes du Maroc. Il est capable de s'adapter à une grande variété d'habitats, des dunes côtières aux landes de bruyère, en passant par les forêts claires et les lisières forestières, les pâturages de montagne et les affleurements rocheux. Il préfère les sols bien drainés et ensoleillés, souvent calcaires ou sableux, mais peut tolérer des sols pauvres et acides.",
+          "children": []
+        },
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "Le Genévrier commun est une plante aux multiples usages, tant en cuisine qu'en médecine traditionnelle et en aménagement paysager.",
+          "children": [
+            {
+              "id": "usages_culinaires",
+              "level": 2,
+              "title": "Usages culinaires",
+              "content": "Les baies de genièvre sont un ingrédient clé dans la fabrication du gin, auquel elles confèrent son arôme caractéristique. Elles sont également très utilisées en cuisine pour aromatiser les plats de gibier, les marinades, les ragoûts, les choucroutes et certains pâtés. Elles peuvent être utilisées entières ou concassées et sont souvent associées à d'autres épices.",
+              "children": []
+            },
+            {
+              "id": "usages_medicaux",
+              "level": 2,
+              "title": "Usages médicaux",
+              "content": "En phytothérapie, les baies de genièvre sont reconnues pour leurs propriétés diurétiques, digestives, antiseptiques et carminatives. Elles sont traditionnellement utilisées pour soulager les troubles digestifs, les infections urinaires légères, et pour leurs effets anti-inflammatoires. L'huile essentielle de genièvre, obtenue par distillation des baies, est employée avec prudence en aromathérapie pour ses vertus toniques et purifiantes, mais son usage doit être strictement contrôlé.",
+              "children": []
+            },
+            {
+              "id": "usages_paysagers",
+              "level": 2,
+              "title": "Usages paysagers",
+              "content": "Grâce à sa robustesse et sa tolérance à la sécheresse et aux sols pauvres, le Genévrier commun est une plante appréciée pour l'aménagement des jardins secs, les rocailles, les talus et les haies brise-vent. Ses différentes formes et cultivars permettent de l'intégrer dans divers styles de jardins. Il est également important pour la faune locale, fournissant abri et nourriture.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "ecologie_et_conservation",
+          "level": 1,
+          "title": "Écologie et conservation",
+          "content": "Le Genévrier commun joue un rôle écologique important en offrant un habitat et de la nourriture à diverses espèces animales, notamment des oiseaux qui consomment ses baies et contribuent à la dispersion de ses graines. Cependant, dans certaines régions, ses populations sont en déclin en raison de la perte d'habitat, de la diminution du pâturage (qui aide à maintenir des habitats ouverts), et de maladies.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/juniperus-communis",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Juniperus_communis"
+    }
+  }
+}

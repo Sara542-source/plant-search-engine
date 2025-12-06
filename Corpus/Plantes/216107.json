@@ -1,0 +1,102 @@
+{
+  "id": "216107",
+  "infos_generales": {
+    "nom_scientifique": "Jasminum officinale",
+    "nom_commun": "Jasmin commun",
+    "noms_darija": [
+      "Yasmin",
+      "ياسمين"
+    ],
+    "noms_alternatifs": [
+      "Jasmin blanc",
+      "Jasmin poète"
+    ],
+    "famille": "Oleaceae",
+    "genre": "Jasminum"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/425a5eda38e7f788502f555c196ed42a142c2d09",
+    "https://d2seqvvyy3b8p2.cloudfront.net/fbf52fd6fbef105498c669d2bffc4b8e.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/6e/Jasminum_officinale_-_Bot._Mag._31%2C_1787.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Riche et bien drainé",
+    "regions_origine": [
+      "Asie",
+      "Europe du Sud-Est"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Parfum": "Très prononcé, doux et enivrant",
+    "Type de croissance": "Plante grimpante, volubile",
+    "Floraison": "Abondante en été (juin à septembre)",
+    "Feuillage": "Caduc à semi-persistant selon le climat"
+  },
+  "utilisations": {
+    "medicale": [
+      "Apaisant",
+      "Antiseptique",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Balcon",
+      "Fleurs coupées"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Jasminum officinale, également connu sous le nom de jasmin commun, est une plante grimpante de la famille des Oleaceae, originaire d'Eurasie. Ses fleurs blanches sont réputées pour leur parfum intense et enivrant, ce qui en fait une espèce très prisée pour l'ornementation, la parfumerie et l'aromathérapie. Il est souvent utilisé en infusion pour ses propriétés apaisantes et peut être cultivé en plein soleil ou à mi-ombre dans un sol riche et bien drainé.",
+    "texte_complet": {
+      "introduction": "Le Jasminum officinale, communément appelé jasmin commun ou jasmin officinal, est une espèce de plante à fleurs de la famille des Oleaceae, originaire des régions tempérées de l'Eurasie. Cette plante grimpante est largement cultivée pour ses fleurs très parfumées, qui sont utilisées en parfumerie, en aromathérapie et comme plante ornementale.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le Jasminum officinale est une liane arbustive caduque ou semi-persistante, pouvant atteindre 4 à 5 mètres de hauteur. Ses tiges sont fines, anguleuses et volubiles. Les feuilles sont composées, opposées, généralement formées de 5 à 9 folioles elliptiques vert foncé. La floraison a lieu de juin à septembre, produisant des grappes de fleurs blanches ou parfois légèrement rosées, très odorantes, composées de cinq pétales.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le jasmin officinal est une plante relativement facile à cultiver. Il préfère un emplacement ensoleillé ou mi-ombragé et un sol bien drainé, riche en matière organique. Il est rustique jusqu'à environ -10°C, mais nécessite une protection dans les régions aux hivers rigoureux. L'arrosage doit être régulier pendant la période de croissance et de floraison, réduit en hiver. La taille s'effectue après la floraison pour maintenir une forme équilibrée et favoriser une floraison abondante l'année suivante.",
+          "children": [
+            {
+              "id": "multiplication",
+              "level": 2,
+              "title": "Multiplication",
+              "content": "La multiplication se fait principalement par bouturage de tiges semi-aoûtées en été, ou par marcottage. Le semis est également possible mais plus long et moins fiable pour reproduire fidèlement les caractéristiques de la plante mère.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "Les fleurs de Jasminum officinale sont très appréciées pour leur parfum intense. Elles sont traditionnellement utilisées dans la fabrication de parfums et d'huiles essentielles. En médecine traditionnelle, elles sont réputées pour leurs propriétés apaisantes et relaxantes, notamment pour soulager le stress et l'insomnie. Elles peuvent également être consommées en infusion.",
+          "children": []
+        },
+        {
+          "id": "distribution-et-habitat",
+          "level": 1,
+          "title": "Distribution et habitat",
+          "content": "Originaire d'Asie centrale et du sud-ouest de la Chine, ainsi que du Caucase et du Proche-Orient, le Jasminum officinale s'est naturalisé dans de nombreuses régions du monde, y compris en Méditerranée. Il pousse dans les forêts claires, les lisières et les zones arbustives, souvent sur des sols calcaires.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/jasminum-officinale",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Jasminum_officinale"
+    }
+  }
+}
