@@ -1,0 +1,190 @@
+{
+  "id": "78383",
+  "infos_generales": {
+    "nom_scientifique": "Rosmarinus officinalis",
+    "nom_commun": "Romarin",
+    "noms_darija": [
+      "Azir",
+      "أزير"
+    ],
+    "noms_alternatifs": [
+      "Herbe aux couronnes",
+      "Encensier"
+    ],
+    "famille": "Lamiaceae",
+    "genre": "Rosmarinus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/45c47e31c6a0c5378581f0bc89c0b44405868dd1",
+    "https://bs.plantnet.org/image/o/52eca4d6eaf652c6bdc78a964751064cc6738ed2"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, calcaire, sec",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Afrique du Nord",
+      "Europe du Sud"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Odeur": "Fortement aromatique, camphrée",
+    "Type de feuillage": "Persistant, aciculaire",
+    "Fleurs": "Petites, bilabiées, bleu-violet à blanc",
+    "Période de floraison": "Majoritairement printemps et été, parfois toute l'année selon le climat",
+    "Port": "Arbuste érigé, ramifié",
+    "Résistance au froid": "Modérée (jusqu'à -10°C à -15°C)"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Tonique",
+      "Apaisant",
+      "Respiratoire",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Aromatique",
+      "Épice",
+      "Infusion",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Haie",
+      "Jardin sec",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Romarin (Rosmarinus officinalis), désormais aussi connu sous le nom de Salvia rosmarinus, est un arbuste méditerranéen emblématique de la famille des Lamiacées. Apprécié pour son feuillage persistant, ses petites fleurs bleues et son parfum camphré, il est largement utilisé en cuisine comme aromate, en phytothérapie pour ses multiples vertus (digestives, antiseptiques, toniques) et comme plante ornementale dans les jardins secs. Très résistant à la sécheresse, il est typique des garrigues et maquis d'Afrique du Nord et d'Europe du Sud.",
+    "texte_complet": {
+      "introduction": "Le romarin (Rosmarinus officinalis L., désormais Salvia rosmarinus Spenn.) est une espèce d'arbrisseaux de la famille des Lamiacées, poussant à l'état sauvage sur le pourtour méditerranéen, en particulier dans les garrigues arides et rocailleuses, sur des sols calcaires. On le rencontre en France, en Espagne, en Italie, au Portugal, en Grèce, en Turquie, au Liban, en Israël, en Algérie, en Tunisie et au Maroc. Le nom scientifique Rosmarinus, donné par Linné, signifie littéralement « rosée de mer » (du latin ros, « rosée » et marinus, « marin »). L'odeur de camphre typique de cette plante est due à l'un de ses constituants majoritaires, le 1,8-cinéole. Le romarin est très apprécié en cuisine et en phytothérapie. Il est aussi utilisé en parfumerie et en cosmétique.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le romarin est un arbrisseau méditerranéen caractérisé par son port buissonnant et ses feuilles persistantes très aromatiques.",
+          "children": [
+            {
+              "id": "aspect_general",
+              "level": 2,
+              "title": "Aspect général",
+              "content": "Le romarin est un arbrisseau, mesurant de 0,5 à 2 mètres de hauteur. Ses tiges sont ligneuses, très ramifiées, et portent une écorce grise et crevassée avec l'âge.",
+              "children": []
+            },
+            {
+              "id": "feuilles",
+              "level": 2,
+              "title": "Feuilles",
+              "content": "Les feuilles sont petites, persistantes, linéaires et coriaces, rappelant des aiguilles. Elles sont vert foncé et luisantes sur le dessus, et blanchâtres, duveteuses en dessous, avec les bords enroulés. Elles dégagent un parfum puissant quand on les froisse.",
+              "children": []
+            },
+            {
+              "id": "fleurs",
+              "level": 2,
+              "title": "Fleurs",
+              "content": "Les fleurs du romarin sont petites, hermaphrodites et de couleur généralement bleu-violet pâle, parfois blanches ou roses. Elles sont bilabiées et groupées en petits bouquets axillaires. La floraison est longue, débutant souvent en hiver et se prolongeant jusqu'au printemps ou l'été, voire toute l'année dans les climats doux.",
+              "children": []
+            },
+            {
+              "id": "fruits",
+              "level": 2,
+              "title": "Fruits",
+              "content": "Le fruit est un tétrakène de couleur brune, composé de quatre petites graines (akènes) lisses et ovoïdes.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "biologie",
+          "level": 1,
+          "title": "Biologie",
+          "content": "Le romarin est bien adapté à son environnement méditerranéen, caractérisé par des étés chauds et secs.",
+          "children": [
+            {
+              "id": "milieu",
+              "level": 2,
+              "title": "Milieu",
+              "content": "Cette plante est héliophile et xérophile, préférant les expositions en plein soleil et les sols calcaires, secs et bien drainés. On la trouve typiquement dans les garrigues, maquis et collines arides du pourtour méditerranéen. Elle supporte la sécheresse et les embruns marins, et est rustique jusqu'à environ -10°C à -15°C.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le romarin est une plante ornementale et utilitaire très appréciée, facile à cultiver dans les régions au climat adapté.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "Le romarin est une plante aux multiples usages, tant en cuisine qu'en médecine ou en cosmétique.",
+          "children": [
+            {
+              "id": "usage_culinaire",
+              "level": 2,
+              "title": "Usage culinaire",
+              "content": "Le romarin est une herbe aromatique essentielle de la cuisine méditerranéenne. Il parfume les viandes (agneau, volaille, porc), les poissons, les légumes (pommes de terre, ratatouille), les soupes, les sauces, et les marinades. Il est aussi utilisé dans les infusions et fait partie des célèbres Herbes de Provence. Il peut être utilisé frais ou séché.",
+              "children": []
+            },
+            {
+              "id": "usage_medicinal",
+              "level": 2,
+              "title": "Usage médicinal",
+              "content": "En phytothérapie, le romarin est réputé pour ses propriétés stimulantes, digestives, diurétiques, antispasmodiques, antiseptiques, anti-inflammatoires et antioxydantes. Il est employé pour soulager les troubles digestifs (ballonnements, lenteurs), les maux de tête, les états de fatigue générale, les affections respiratoires (toux, bronchite) et pour améliorer la circulation. Il est utilisé sous diverses formes : infusions, décoctions, huiles essentielles, hydrolats ou teintures mères.",
+              "children": []
+            },
+            {
+              "id": "autres_usages",
+              "level": 2,
+              "title": "Autres usages",
+              "content": "Outre ses usages culinaires et médicinaux, le romarin est utilisé en parfumerie pour ses notes aromatiques, en cosmétique pour ses bienfaits sur la peau et les cheveux (tonifiant, purifiant), et comme plante mellifère très appréciée des abeilles.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "composition",
+          "level": 1,
+          "title": "Composition",
+          "content": "La richesse des propriétés du romarin s'explique par sa composition biochimique complexe.",
+          "children": []
+        },
+        {
+          "id": "historique_et_symbolique",
+          "level": 1,
+          "title": "Historique et symbolique",
+          "content": "Le romarin possède une longue histoire, imprégnée de légendes et de symbolismes.",
+          "children": []
+        },
+        {
+          "id": "galerie",
+          "level": 1,
+          "title": "Galerie",
+          "content": "Cette section visuelle offre un aperçu des différentes facettes du romarin.",
+          "children": []
+        },
+        {
+          "id": "aspects_culturels",
+          "level": 1,
+          "title": "Aspects culturels",
+          "content": "Le romarin occupe une place significative dans la culture et les traditions populaires méditerranéennes.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/rosmarinus-officinalis",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Rosmarinus_officinalis"
+    }
+  }
+}

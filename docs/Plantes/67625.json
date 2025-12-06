@@ -1,0 +1,233 @@
+{
+  "id": "67625",
+  "infos_generales": {
+    "nom_scientifique": "Argania spinosa",
+    "nom_commun": "Arganier",
+    "noms_darija": [
+      "Argan",
+      "أركان",
+      "Tili",
+      "Tamat"
+    ],
+    "noms_alternatifs": [
+      "Argan tree",
+      "Moroccan ironwood"
+    ],
+    "famille": "Sapotaceae",
+    "genre": "Argania"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/d85ec275c5c101a3a2e3b9618056c255f1c724a2",
+    "https://bs.plantnet.org/image/o/6a943c616edf71fa2a49fa31b4f580b2287b18b4"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Sec, sableux, rocheux, bien drainé",
+    "regions_origine": [
+      "Sud-ouest du Maroc"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "esperance_vie": "Longue (150-200 ans)",
+    "racines": "Profondes (jusqu'à 30m)",
+    "particularite": "Arbre épineux, résistant à la sécheresse, rôle écologique majeur",
+    "produits_derives": "Huile d'argan (cosmétique et alimentaire), bois, fourrage"
+  },
+  "utilisations": {
+    "medicale": [
+      "Dermatologique",
+      "Anti-inflammatoire",
+      "Tonique"
+    ],
+    "culinaire": [
+      "Aromatique",
+      "Salade",
+      "Cuit",
+      "Dessert"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "L'arganier (Argania spinosa) est un arbre endémique du sud-ouest du Maroc, résistant à la sécheresse et épineux. Il est principalement connu pour son fruit duquel est extraite l'huile d'argan, précieuse en cosmétique pour ses propriétés hydratantes et anti-âge, et en cuisine pour son goût distinctif et ses bienfaits nutritionnels. L'arganeraie joue un rôle écologique crucial dans la lutte contre la désertification et soutient l'économie locale. L'espèce est protégée et l'arganeraie est reconnue Réserve de Biosphère par l'UNESCO.",
+    "texte_complet": {
+      "introduction": "L'arganier (Argania spinosa (L.) Skeels) est un arbre endémique du Maroc, notamment du sud-ouest (région de Souss). C'est la seule espèce du genre Argania. Il est adapté aux sols arides et est essentiel pour l'écosystème local et l'économie. L'huile d'argan, extraite de ses fruits, est très prisée en cosmétique et en cuisine. L'arganeraie est classée Réserve de biosphère par l'UNESCO depuis 1998 et l'huile d'argan est inscrite au patrimoine culturel immatériel de l'humanité.",
+      "sections": [
+        {
+          "id": "histoire_et_aire_de_repartition",
+          "level": 1,
+          "title": "Histoire et aire de répartition",
+          "content": "L'arganier est une espèce relicte dont la présence au Maroc est attestée depuis le Tertiaire. Son aire de répartition s'est progressivement réduite. Aujourd'hui, il est majoritairement présent dans la région du Souss-Massa au Maroc.",
+          "children": [
+            {
+              "id": "une_espece_relicte_de_l_ere_tertiaire",
+              "level": 2,
+              "title": "Une espèce relicte de l'ère tertiaire",
+              "content": "Des fossiles attestent de sa présence en Europe il y a plusieurs millions d'années. Les changements climatiques l'ont confiné à sa zone actuelle.",
+              "children": []
+            },
+            {
+              "id": "un_endemisme_quasi_marocain",
+              "level": 2,
+              "title": "Un endémisme quasi marocain",
+              "content": "Bien qu'il y ait quelques occurrences en Algérie, l'arganier est considéré comme un arbre quasi endémique du Maroc, où il forme de vastes forêts appelées arganeraies.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "L'arganier est un arbre de taille moyenne, souvent épineux. Il peut atteindre 8 à 10 mètres de hauteur et vivre jusqu'à 200 ans.",
+          "children": [
+            {
+              "id": "morphologie_generale",
+              "level": 2,
+              "title": "Morphologie générale",
+              "content": "Son tronc est tortueux, ses branches sont épineuses. Il a un système racinaire profond lui permettant de capter l'eau en profondeur.",
+              "children": []
+            },
+            {
+              "id": "le_fruit_et_la_graine",
+              "level": 2,
+              "title": "Le fruit et la graine",
+              "content": "Le fruit est une drupe ovale de couleur jaune-vert. Il contient une noix dure, l'arganon, qui renferme une à trois amandons riches en huile.",
+              "children": []
+            },
+            {
+              "id": "la_feuille",
+              "level": 2,
+              "title": "La feuille",
+              "content": "Les feuilles sont petites, coriaces et persistantes, adaptées à la sécheresse.",
+              "children": []
+            },
+            {
+              "id": "la_fleur",
+              "level": 2,
+              "title": "La fleur",
+              "content": "Les fleurs sont petites, verdâtres-jaunâtres et apparaissent au printemps.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "L'arganier est cultivé dans sa zone d'origine, souvent de manière traditionnelle. La germination des graines est difficile et la croissance est lente. Des efforts de reboisement sont en cours.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "L'arganier est une ressource précieuse avec de multiples usages, le plus connu étant la production d'huile.",
+          "children": [
+            {
+              "id": "la_production_de_l_huile_d_argane",
+              "level": 2,
+              "title": "La production de l'huile d'argane",
+              "content": "L'huile d'argan est obtenue par pression à froid des amandons. Le processus est traditionnellement manuel et long.",
+              "children": []
+            },
+            {
+              "id": "l_huile_cosmetique_et_therapeutique",
+              "level": 2,
+              "title": "L'huile cosmétique et thérapeutique",
+              "content": "Riche en vitamine E et en acides gras essentiels, l'huile est utilisée pour ses propriétés hydratantes, anti-âge, cicatrisantes pour la peau et fortifiantes pour les cheveux.",
+              "children": []
+            },
+            {
+              "id": "l_huile_alimentaire",
+              "level": 2,
+              "title": "L'huile alimentaire",
+              "content": "L'huile alimentaire, souvent légèrement torréfiée, a un goût de noisette. Elle est utilisée en salade, pour accompagner le pain ou dans des plats traditionnels comme le tajine ou l'amlou.",
+              "children": []
+            },
+            {
+              "id": "le_bois",
+              "level": 2,
+              "title": "Le bois",
+              "content": "Le bois de l'arganier est très dur et est utilisé comme bois de chauffage ou pour la fabrication d'outils traditionnels.",
+              "children": []
+            },
+            {
+              "id": "le_tourteau",
+              "level": 2,
+              "title": "Le tourteau",
+              "content": "Les résidus solides après l'extraction de l'huile (tourteau) sont utilisés comme fourrage pour le bétail.",
+              "children": []
+            },
+            {
+              "id": "les_coques",
+              "level": 2,
+              "title": "Les coques",
+              "content": "Les coques des noix sont utilisées comme combustible.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "protection",
+          "level": 1,
+          "title": "Protection",
+          "content": "L'arganier est une espèce menacée par la déforestation, le surpâturage et l'expansion urbaine. Des efforts de conservation sont déployés.",
+          "children": [
+            {
+              "id": "une_espece_en_danger",
+              "level": 2,
+              "title": "Une espèce en danger",
+              "content": "La survie de l'arganier est menacée, entraînant une désertification progressive des zones où il disparaît.",
+              "children": []
+            },
+            {
+              "id": "la_reserve_de_biosphere_de_l_arganeraie",
+              "level": 2,
+              "title": "La Réserve de biosphère de l'arganeraie",
+              "content": "L'UNESCO a désigné l'arganeraie comme Réserve de biosphère pour protéger l'écosystème et promouvoir le développement durable.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "liste_de_la_sous_espece_argania_spinosa_subsp_spinosa",
+          "level": 1,
+          "title": "Liste de la sous-espèce Argania spinosa subsp. spinosa",
+          "content": "Une seule sous-espèce est reconnue : Argania spinosa subsp. spinosa.",
+          "children": []
+        },
+        {
+          "id": "phylogenie",
+          "level": 1,
+          "title": "Phylogénie",
+          "content": "L'arganier appartient à la famille des Sapotacées. Des études génétiques ont permis de clarifier sa position taxonomique.",
+          "children": []
+        },
+        {
+          "id": "aspects_culturels",
+          "level": 1,
+          "title": "Aspects culturels",
+          "content": "L'arganier est profondément ancré dans la culture marocaine et symbolise la résilience et la richesse de la nature locale.",
+          "children": [
+            {
+              "id": "l_arganier_dans_l_art",
+              "level": 2,
+              "title": "L'arganier dans l'art",
+              "content": "L'arbre et ses produits sont souvent représentés dans l'artisanat et la poésie marocaine.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/argania-spinosa",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Argania_spinosa"
+    }
+  }
+}

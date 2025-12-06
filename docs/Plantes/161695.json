@@ -1,0 +1,116 @@
+{
+  "id": "161695",
+  "infos_generales": {
+    "nom_scientifique": "Citrus × aurantium L.",
+    "nom_commun": "Oranger amer",
+    "noms_darija": [
+      "Narenj",
+      "نارنج",
+      "Limon merr",
+      "ليمون مر"
+    ],
+    "noms_alternatifs": [
+      "Bigaradier",
+      "Oranger de Séville",
+      "Oranger aigre",
+      "Chadeck"
+    ],
+    "famille": "Rutaceae",
+    "genre": "Citrus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/e1916efdae04b4239bbf6197a9efd58676be28f8",
+    "https://d2seqvvyy3b8p2.cloudfront.net/38ed820bc37d3025647b8d21ffcd9078.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, Riche, Argilo-calcaire",
+    "regions_origine": [
+      "Asie du Sud-Est (origine naturelle)",
+      "Bassin méditerranéen (largement cultivé)"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Fleurs intensément parfumées (néroli), feuilles et fruits aromatiques",
+    "fruit": "Fruit amer, non consommé frais, mais prisé pour son zeste et ses propriétés aromatiques",
+    "huiles_essentielles": "Production de trois huiles essentielles majeures : Néroli (fleurs), Petit grain bigarade (feuilles et jeunes rameaux), Bigarade (zeste du fruit)",
+    "resistance_froid": "Plus rustique que l'oranger doux, supporte de légers gels",
+    "branches": "Rameaux souvent épineux"
+  },
+  "utilisations": {
+    "medicale": [
+      "Apaisant",
+      "Digestif",
+      "Antiseptique",
+      "Tonique"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Aromatique",
+      "Cuit",
+      "Épice"
+    ],
+    "decoration": [
+      "Jardin",
+      "Balcon",
+      "Fleurs coupées"
+    ]
+  },
+  "source_data": {
+    "resume": "L'Oranger amer, ou Bigaradier (Citrus × aurantium L.), est un arbre fruitier de la famille des Rutacées, originaire d'Asie du Sud-Est et largement cultivé dans le bassin méditerranéen, y compris au Maroc. Il est apprécié pour ses fruits amers, principalement utilisés en confiserie et pour ses propriétés aromatiques. Ses fleurs, feuilles et fruits sont la source de précieuses huiles essentielles (néroli, petit grain bigarade, bigarade) utilisées en parfumerie, cosmétique et aromathérapie. Reconnu pour ses vertus apaisantes et digestives, il est aussi un bel arbre ornemental.",
+    "texte_complet": {
+      "introduction": "L'Oranger amer (Citrus × aurantium L.), également connu sous les noms de bigaradier, oranger de Séville ou oranger aigre, est un arbre fruitier de la famille des Rutacées. Il est le produit d'une hybridation naturelle ou ancienne entre le pamplemoussier (Citrus maxima) et le mandarinier (Citrus reticulata). Originaire d'Asie du Sud-Est, il est aujourd'hui largement cultivé dans les régions chaudes et tempérées du globe, notamment le bassin méditerranéen, pour ses fruits, ses fleurs et ses feuilles très aromatiques. Moins doux que l'oranger doux (Citrus sinensis), ses fruits amers sont principalement destinés à la fabrication de marmelades, de liqueurs et d'huiles essentielles, et sont peu consommés frais. L'arbre est également prisé pour ses qualités ornementales et sa robustesse.",
+      "sections": [
+        {
+          "id": "description-botanique",
+          "level": 1,
+          "title": "Description botanique",
+          "content": "Le Bigaradier est un arbre de taille moyenne, pouvant atteindre 5 à 10 mètres de haut, au port souvent arrondi et à l'écorce grisâtre. Ses jeunes rameaux sont généralement épineux. Ses feuilles persistantes sont vert foncé, coriaces, ovales et légèrement crénelées, caractérisées par un pétiole ailé. Elles dégagent une odeur forte et agréable lorsqu'on les froisse. Les fleurs blanches, très parfumées, apparaissent au printemps, souvent solitaires ou regroupées par petites grappes à l'aisselle des feuilles. Elles sont hermaphrodites et possèdent cinq pétales. Le fruit, la bigarade, est sphérique, légèrement aplati, avec une peau épaisse et rugueuse de couleur orange foncé à maturité. Sa pulpe est très acide et amère, divisée en de nombreux quartiers.",
+          "children": []
+        },
+        {
+          "id": "culture-et-habitat",
+          "level": 1,
+          "title": "Culture et habitat",
+          "content": "Le Bigaradier est plus rustique que l'oranger doux et peut supporter des températures négatives légères (jusqu'à -7°C pour des sujets adultes bien établis et protégés). Il préfère les sols riches, bien drainés, profonds et légèrement acides à neutres. Il requiert une exposition en plein soleil pour une floraison et une fructification abondantes. Sa culture est répandue dans les régions méditerranéennes, où il est souvent utilisé comme porte-greffe pour d'autres agrumes en raison de sa résistance. L'arrosage doit être régulier durant les périodes chaudes, mais modéré le reste du temps pour éviter l'engorgement des racines. Il est sensible à certains parasites et maladies communs aux agrumes.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "L'Oranger amer est une plante aux multiples usages, allant de l'alimentation à la parfumerie et la médecine traditionnelle.",
+          "children": [
+            {
+              "id": "usages-culinaires",
+              "level": 2,
+              "title": "Usages culinaires",
+              "content": "Les fruits, très amers, ne sont pas consommés frais. Leur zeste est toutefois très recherché pour la fabrication de marmelades, confitures, gelées et liqueurs (comme le Curaçao ou le Cointreau). Les fleurs sont distillées pour produire l'eau de fleur d'oranger, un ingrédient clé dans la pâtisserie orientale et méditerranéenne, ou utilisées en infusion. Le zeste séché et réduit en poudre sert également d'épice aromatique.",
+              "children": []
+            },
+            {
+              "id": "usages-medicaux-et-therapeutiques",
+              "level": 2,
+              "title": "Usages médicaux et thérapeutiques",
+              "content": "L'eau de fleur d'oranger est traditionnellement utilisée pour ses propriétés apaisantes et sédatives, favorisant la détente et le sommeil, et aidant à la digestion. Les infusions de feuilles et de fleurs sont employées pour soulager les troubles nerveux, l'insomnie et certains maux digestifs. Les huiles essentielles extraites de l'oranger amer (Néroli des fleurs, Petit grain bigarade des feuilles et Bigarade du zeste) sont très prisées en aromathérapie. Elles sont reconnues pour leurs vertus antiseptiques, toniques, antispasmodiques et anxiolytiques, utilisées par voie cutanée diluée ou en diffusion.",
+              "children": []
+            },
+            {
+              "id": "usages-industriels-et-ornementaux",
+              "level": 2,
+              "title": "Usages industriels et ornementaux",
+              "content": "L'industrie de la parfumerie utilise intensément les huiles essentielles de Néroli et de Petit grain pour leurs notes florales et fraîches. La bigarade est également utilisée pour aromatiser certains cosmétiques. Comme arbre ornemental, le Bigaradier est apprécié pour son feuillage persistant, sa floraison parfumée et ses fruits colorés qui persistent longtemps sur l'arbre, embellissant jardins et terrasses, notamment dans les climats doux.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/citrus-x-aurantium",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Citrus_aurantium"
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "id": "51508",
+  "infos_generales": {
+    "nom_scientifique": "Glycyrrhiza glabra",
+    "nom_commun": "Réglisse",
+    "noms_darija": [
+      "Araq as-sūs",
+      "عرق السوس"
+    ],
+    "noms_alternatifs": [
+      "Bois doux",
+      "Licorice"
+    ],
+    "famille": "Fabaceae",
+    "genre": "Glycyrrhiza"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/c0c7c9bf95f78d398d506fa9325327bbc018a6d6",
+    "https://storage.googleapis.com/powop-assets/kew_profiles/Glycyrrhiza_glabra_flowers1_main_web_2015_fullsize.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Riche, humide, profond, bien drainé",
+    "regions_origine": [
+      "Europe du Sud",
+      "Asie de l'Ouest",
+      "Afrique du Nord"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "racines_rhizomes": "Très sucrés, responsables du goût caractéristique de la réglisse, récoltés pour leurs propriétés médicinales et aromatiques.",
+    "type_de_plante": "Plante herbacée vivace, dressée, pouvant atteindre 1 à 1,5 mètre de hauteur.",
+    "floraison": "Fleurs petites, de couleur bleu-violacé, regroupées en grappes dressées."
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Respiratoire",
+      "Anti-inflammatoire",
+      "Apaisant",
+      "Tonique",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin"
+    ]
+  },
+  "source_data": {
+    "resume": "La réglisse (Glycyrrhiza glabra) est une plante herbacée vivace de la famille des Fabacées, originaire d'Europe du Sud-Est, d'Asie de l'Ouest et d'Afrique du Nord. Elle est principalement reconnue pour ses racines et rhizomes intensément sucrés, utilisés depuis des millénaires en médecine traditionnelle et en confiserie. Appréciée pour ses propriétés digestives, respiratoires et anti-inflammatoires, elle est également un arôme populaire dans diverses préparations culinaires et boissons. Sa culture est répandue dans les régions méditerranéennes, y compris au Maroc.",
+    "texte_complet": {
+      "introduction": "La réglisse (Glycyrrhiza glabra L.) est une espèce de plantes herbacées vivaces de la famille des Fabacées. Elle est originaire d'Europe méditerranéenne (Portugal, Espagne, Italie, Grèce), d'Europe de l'Est (Ukraine, Russie), d'Afrique du Nord (Maroc, Algérie, Tunisie, Égypte) et d'Asie (Turquie, Syrie, Iran, Irak, Afghanistan, Pakistan, Chine). Sa racine, appelée \"bois doux\", est utilisée depuis des millénaires pour ses propriétés médicinales et comme édulcorant naturel.",
+      "sections": [
+        {
+          "id": "etymologie",
+          "level": 1,
+          "title": "Étymologie",
+          "content": "Le terme \"réglisse\" vient du latin liquoritia (liquor, \"liquide\" et glycyrrhiza, \"réglisse\"), lui-même issu du grec ancien γλυκύρριζα (glykúrrhiza), qui signifie \"racine douce\" (de γλυκύς, glykys, \"doux\" et ῥίζα, rhiza, \"racine\").",
+          "children": []
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "La réglisse est une plante herbacée vivace atteignant 1 à 1,5 mètre de hauteur. Ses tiges sont dressées et ramifiées. Les feuilles sont composées, imparipennées, avec 9 à 17 folioles ovales et collantes. Les fleurs, de couleur bleu-violacé, sont petites et regroupées en grappes dressées. Elles apparaissent généralement en été. Le fruit est une petite gousse plate et glabre contenant plusieurs graines. Le système racinaire est particulièrement développé, avec une racine principale profonde et de nombreux rhizomes traçants qui s'étendent horizontalement. Ce sont ces rhizomes qui sont les plus prisés pour leurs propriétés.",
+          "children": []
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "La réglisse est indigène aux régions méditerranéennes d'Europe, d'Afrique du Nord et d'Asie occidentale et centrale. Elle prospère dans les sols profonds, humides et bien drainés, souvent argileux ou limoneux. On la trouve fréquemment en bordure des cours d'eau, dans les fossés et les prairies humides. Bien que présente à l'état sauvage, elle est également largement cultivée dans de nombreuses régions pour ses racines.",
+          "children": []
+        },
+        {
+          "id": "composition_chimique",
+          "level": 1,
+          "title": "Composition chimique",
+          "content": "Le principal constituant actif de la réglisse est la glycyrrhizine, un composé triterpénique au pouvoir sucrant environ 50 fois supérieur à celui du saccharose. Elle contient également des flavonoïdes (licochalcone, glabridin), des coumarines, des polysaccharides et des stérols. Ces composés sont responsables de la plupart de ses propriétés pharmacologiques.",
+          "children": []
+        },
+        {
+          "id": "proprietes_et_utilisations",
+          "level": 1,
+          "title": "Propriétés et utilisations",
+          "content": "Historiquement, la réglisse a été utilisée en Égypte ancienne, en Chine et en Grèce pour ses vertus médicinales. Elle est traditionnellement employée comme expectorant, antitussif, anti-inflammatoire et antiviral. Elle est particulièrement efficace pour apaiser les troubles digestifs, comme les ulcères gastriques et les brûlures d'estomac. Ses propriétés adaptogènes lui confèrent également un rôle dans le soutien des glandes surrénales. En cuisine, l'extrait de réglisse est utilisé comme édulcorant et agent aromatisant dans les confiseries, les boissons (pastis, anisette, bières), le tabac et certains plats salés.",
+          "children": []
+        },
+        {
+          "id": "culture_et_recolte",
+          "level": 1,
+          "title": "Culture et récolte",
+          "content": "La réglisse est cultivée pour ses racines et ses rhizomes. Elle préfère un climat chaud et ensoleillé avec des étés longs. La récolte des racines a lieu généralement à l'automne, lorsque la plante a atteint l'âge de deux à trois ans. Les racines sont ensuite nettoyées, séchées et transformées en poudre, en bâtons ou en extraits.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/glycyrrhiza-glabra",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Glycyrrhiza_glabra"
+    }
+  }
+}

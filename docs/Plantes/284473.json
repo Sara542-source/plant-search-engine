@@ -1,0 +1,133 @@
+{
+  "id": "284473",
+  "infos_generales": {
+    "nom_scientifique": "Moringa oleifera",
+    "nom_commun": "Moringa",
+    "noms_darija": [
+      "Moringa",
+      "المورينجا",
+      "شجرة الحياة"
+    ],
+    "noms_alternatifs": [
+      "Arbre de vie",
+      "Arbre à raifort"
+    ],
+    "famille": "Moringaceae",
+    "genre": "Moringa"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/985388eea271c3a166f37ed3d6ddd0ec08e47af8",
+    "https://bs.plantnet.org/image/o/2ace921aa4e94e2357ef979287da2ec96633e467",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Moringa_flower_5.jpg/1000px-Moringa_flower_5.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, tolère divers sols",
+    "regions_origine": [
+      "Inde",
+      "Afrique",
+      "Asie"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Vitesse de croissance": "Très rapide",
+    "Parties comestibles": "Feuilles, fleurs, graines, gousses, racines",
+    "Haute valeur nutritive": "Riche en vitamines (A, C, E), minéraux (calcium, potassium, fer), protéines et antioxydants",
+    "Adaptation": "Tolère la sécheresse et les sols pauvres"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Anti-inflammatoire",
+      "Tonique",
+      "Antiseptique",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique",
+      "Salade",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Moringa oleifera est un arbre tropical à croissance rapide, originaire d'Inde mais largement cultivé pour ses nombreuses applications. Connu sous le nom \"d'arbre de vie\", toutes ses parties sont comestibles et très nutritives, en faisant un super-aliment prisé. Il est également utilisé en médecine traditionnelle et pour ses capacités d'adaptation aux environnements arides.",
+    "texte_complet": {
+      "introduction": "Le Moringa oleifera est une espèce d'arbre tropical de la famille des Moringaceae. Originaire d'Inde, il est maintenant cultivé dans de nombreuses régions tropicales et subtropicales du monde. Il est souvent surnommé \"l'arbre de vie\" ou \"arbre aux miracles\" en raison de ses multiples usages nutritionnels et médicinaux. Toutes les parties de la plante sont comestibles et extrêmement riches en nutriments, ce qui en fait une ressource précieuse pour la nutrition et la santé dans les régions où il pousse.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le Moringa oleifera est un arbre à croissance rapide qui peut atteindre 10 à 12 mètres de hauteur. Son tronc peut atteindre un diamètre de 45 cm. L'écorce est blanchâtre-grisâtre et se trouve dans un épais bouchon de liège. Les jeunes pousses sont pubescentes, violacées ou verdâtres. Les feuilles sont caduques en saison sèche, pennées, de 30 à 60 cm de long, et composées de petites folioles ovales. Les fleurs sont bisexuées, de couleur blanc crème, parfumées, et regroupées en panicules axillaires ou terminales. Les fruits sont des gousses trilobées, pendantes, vertes à maturité, de 20 à 60 cm de long, contenant de nombreuses graines triangulaires ailées.",
+          "children": []
+        },
+        {
+          "id": "distribution-et-habitat",
+          "level": 1,
+          "title": "Distribution et habitat",
+          "content": "Originaire de la région sub-himalayenne du nord de l'Inde, le Moringa oleifera s'est naturalisé dans les zones tropicales et subtropicales du monde entier. Il pousse préférentiellement dans les zones semi-arides, en sols sableux bien drainés. Il est particulièrement résistant à la sécheresse et peut survivre dans des conditions difficiles.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le moringa est facile à cultiver à partir de graines ou de boutures. Il préfère un climat chaud et sec et un ensoleillement direct. Sa croissance est très rapide, ce qui permet plusieurs récoltes de feuilles par an. Il est largement cultivé pour ses feuilles, ses gousses immatures (drumsticks), ses fleurs et ses graines.",
+          "children": []
+        },
+        {
+          "id": "composition-et-proprietes",
+          "level": 1,
+          "title": "Composition et propriétés",
+          "content": "Le moringa est exceptionnellement riche en nutriments essentiels. Les feuilles de moringa contiennent des quantités significatives de vitamines A, C, E, K, et de nombreuses vitamines B, ainsi que des minéraux comme le calcium, le potassium, le fer, le magnésium, le zinc. Il est également une source de protéines végétales complètes, contenant tous les acides aminés essentiels. De plus, il est riche en antioxydants, dont la quercétine, l'acide chlorogénique et la zéatine, qui contribuent à ses propriétés anti-inflammatoires et protectrices.",
+          "children": []
+        },
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "Les usages du moringa sont multiples et variés, allant de l'alimentation humaine et animale à la médecine traditionnelle et la purification de l'eau.",
+          "children": [
+            {
+              "id": "usages-culinaires",
+              "level": 2,
+              "title": "Usages culinaires",
+              "content": "Les feuilles de moringa sont consommées fraîches en salade, cuites comme des épinards, ou séchées et réduites en poudre pour être ajoutées à diverses préparations culinaires, smoothies, soupes, sauces. Les jeunes gousses sont consommées comme des haricots verts. Les fleurs peuvent être utilisées en salade ou frites. Les graines peuvent être consommées grillées ou utilisées pour produire de l'huile (huile de ben), qui est comestible et stable."
+            },
+            {
+              "id": "usages-medicaux",
+              "level": 2,
+              "title": "Usages médicaux",
+              "content": "En médecine traditionnelle, le moringa est utilisé pour traiter une grande variété d'affections, y compris les inflammations, les infections, les troubles digestifs, l'anémie, l'hypertension artérielle, et le diabète. Ses propriétés antioxydantes, anti-inflammatoires, antibactériennes et antifongiques sont bien documentées. Il est souvent considéré comme un supplément nutritionnel pour combattre la malnutrition."
+            },
+            {
+              "id": "autres-usages",
+              "level": 2,
+              "title": "Autres usages",
+              "content": "Les graines de moringa sont également utilisées pour la purification de l'eau, grâce à leurs propriétés floculantes qui permettent d'agglomérer les impuretés. L'huile de ben est utilisée en cosmétique pour ses propriétés hydratantes et anti-âge."
+            }
+          ]
+        },
+        {
+          "id": "toxicite-plante",
+          "level": 1,
+          "title": "Toxicité",
+          "content": "Le Moringa oleifera est généralement considéré comme non toxique et sans danger pour la consommation humaine. Toutes ses parties, y compris les feuilles, les fleurs, les gousses et les graines, sont consommées dans de nombreuses cultures sans effets indésirables significatifs. Cependant, la consommation de grandes quantités de racines ou d'extraits de racines est déconseillée en raison de la présence de spirochine, un alcaloïde potentiellement toxique. Pour les feuilles et les fruits, aucun problème de toxicité n'a été signalé aux doses habituelles.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/moringa-oleifera",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Moringa_oleifera"
+    }
+  }
+}

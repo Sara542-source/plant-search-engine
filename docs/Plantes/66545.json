@@ -1,0 +1,115 @@
+{
+  "id": "66545",
+  "infos_generales": {
+    "nom_scientifique": "Origanum majorana",
+    "nom_commun": "Marjolaine",
+    "noms_darija": [
+      "Mardadouch",
+      "مرددوش"
+    ],
+    "noms_alternatifs": [
+      "Marjolaine des jardins",
+      "Thym de jardin"
+    ],
+    "famille": "Lamiaceae",
+    "genre": "Origanum"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/f8fdfa120b3bfe60b5012d8ad6ef506eb47e0383",
+    "https://bs.plantnet.org/image/o/6305dc4eb586269641ae5fca3429f11cef281aa9"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, léger, calcaire",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Moyen-Orient"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Odeur": "Aromatique et délicate",
+    "Périodicité": "Vivace (souvent cultivée comme annuelle)",
+    "Feuillage": "Gris-vert, duveteux"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Apaisant",
+      "Antiseptique",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "La marjolaine, Origanum majorana, est une plante aromatique et médicinale de la famille des Lamiacées, originaire du bassin méditerranéen et du Moyen-Orient. Souvent confondue avec l'origan, elle se distingue par un parfum plus doux et des feuilles plus veloutées. Très appréciée en cuisine pour parfumer de nombreux plats, elle est également utilisée en phytothérapie pour ses propriétés digestives, apaisantes et antiseptiques. C'est une vivace souvent cultivée comme annuelle dans les régions plus froides, nécessitant plein soleil et un sol bien drainé.",
+    "texte_complet": {
+      "introduction": "La marjolaine (Origanum majorana), parfois appelée marjolaine des jardins ou thym de jardin, est une espèce de plante herbacée vivace de la famille des Lamiacées. Originaire du bassin méditerranéen et du Moyen-Orient, elle est largement cultivée comme plante aromatique et médicinale pour ses feuilles et ses fleurs aux arômes doux et délicats. Souvent confondue avec l'origan, elle s'en distingue par son profil aromatique et ses caractéristiques botaniques plus fines. Elle est très appréciée dans la cuisine méditerranéenne et moyen-orientale.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "La marjolaine est une plante herbacée buissonnante qui atteint généralement 30 à 60 cm de hauteur. Ses tiges sont ramifiées, souvent rougeâtres et légèrement velues. Les feuilles sont petites, ovales à spatulées, d'un vert grisâtre, doux au toucher et recouvertes d'un fin duvet. Elles dégagent un parfum aromatique puissant lorsqu'on les froisse. Les fleurs, petites et blanchâtres ou rosées, sont regroupées en épis compacts et axillaires. Elles apparaissent généralement en été. La plante est sensible au froid et est souvent cultivée comme annuelle dans les régions tempérées froides, bien qu'elle soit vivace dans son habitat naturel.",
+          "children": []
+        },
+        {
+          "id": "histoire",
+          "level": 1,
+          "title": "Histoire",
+          "content": "La marjolaine est connue et utilisée depuis l'Antiquité. Les Grecs et les Romains l'associaient à l'amour et au bonheur, et l'utilisaient dans leurs couronnes nuptiales. Elle était également employée à des fins médicinales et aromatiques. Son nom dérive probablement du latin major ou de l'arabe marjamie (monarde). Au Moyen Âge, elle fut introduite en Europe du Nord où elle devint populaire dans les jardins monastiques et les herboristeries pour ses multiples vertus.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "La marjolaine préfère un emplacement en plein soleil et un sol léger, bien drainé et légèrement calcaire. Elle craint l'excès d'humidité, surtout en hiver. La multiplication se fait par semis au printemps ou par bouturage. Dans les régions sujettes au gel, elle est souvent cultivée en pot pour pouvoir être rentrée ou comme annuelle. Elle nécessite un arrosage modéré et peut bénéficier d'une taille régulière pour encourager un port buissonnant et la production de feuilles.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "La marjolaine est une plante aux usages variés, tant en cuisine qu'en médecine traditionnelle.",
+          "children": [
+            {
+              "id": "alimentaire",
+              "level": 2,
+              "title": "Alimentaire",
+              "content": "Ses feuilles fraîches ou séchées sont utilisées comme herbe aromatique pour assaisonner viandes, poissons, légumes, soupes, sauces et plats à base de tomates. Elle est un ingrédient clé dans de nombreux mélanges d'herbes, notamment les herbes de Provence. Son arôme doux et légèrement citronné la rend polyvalente en cuisine.",
+              "children": []
+            },
+            {
+              "id": "medicinale",
+              "level": 2,
+              "title": "Médicinale",
+              "content": "En phytothérapie, la marjolaine est reconnue pour ses propriétés digestives, carminatives, antispasmodiques et sédatives. Elle est traditionnellement utilisée pour soulager les troubles digestifs, les maux de tête liés au stress, l'anxiété et les insomnies. En usage externe, son huile essentielle est employée pour ses vertus antiseptiques et anti-inflammatoires, notamment en cas de douleurs musculaires ou de troubles cutanés.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "confusion-avec-lorigan",
+          "level": 1,
+          "title": "Confusion avec l'origan",
+          "content": "Bien que l'origan (Origanum vulgare) et la marjolaine appartiennent au même genre Origanum, ce sont des espèces distinctes. L'origan a un goût plus prononcé et plus piquant, tandis que la marjolaine offre un arôme plus doux et plus délicat, presque floral. Les feuilles de marjolaine sont également plus veloutées et d'un vert plus clair que celles de l'origan. Elles sont souvent interchangeables dans certaines recettes, mais leur profil aromatique diffère nettement.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/origanum-majorana",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Origanum_majorana"
+    }
+  }
+}

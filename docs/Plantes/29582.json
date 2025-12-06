@@ -1,0 +1,161 @@
+{
+  "id": "29582",
+  "infos_generales": {
+    "nom_scientifique": "Artemisia absinthium",
+    "nom_commun": "Absinthe",
+    "noms_darija": [
+      "Chiba",
+      "الشيبة"
+    ],
+    "noms_alternatifs": [
+      "Grande absinthe",
+      "Armoise amère",
+      "Herbe aux vers"
+    ],
+    "famille": "Asteraceae",
+    "genre": "Artemisia"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/b2b996e0b80966f37091678808b5fed13c33d04d",
+    "https://d2seqvvyy3b8p2.cloudfront.net/b094d55cfe8fd1d054f5a35823f495da.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, sablonneux à limoneux",
+    "regions_origine": [
+      "Europe",
+      "Asie",
+      "Afrique du Nord"
+    ],
+    "toxicite": true
+  },
+  "attributs_specifiques": {
+    "odeur": "Forte, aromatique, caractéristique",
+    "goût": "Très amer",
+    "feuillage": "Feuillage gris-argenté, duveteux, très aromatique"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Tonique",
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "L'absinthe (Artemisia absinthium) est une plante herbacée vivace aromatique, célèbre pour son amertume et son rôle historique dans la boisson alcoolisée éponyme. Originaire d'Europe, d'Asie et d'Afrique du Nord, elle est appréciée pour son feuillage gris-argenté et ses propriétés médicinales. Elle est traditionnellement utilisée comme digestif, vermifuge et tonique, mais sa toxicité due à la thuyone exige une consommation modérée. Au Maroc, elle est parfois associée à la \"Chiba\".",
+    "texte_complet": {
+      "introduction": "L'absinthe (Artemisia absinthium) est une espèce de plantes herbacées vivaces de la famille des Astéracées, caractérisée par une forte amertume et des feuilles très divisées, d'aspect grisâtre. Elle est aussi appelée grande absinthe, armoise amère ou herbe aux vers. Elle est originaire des régions tempérées d'Europe, d'Asie et d'Afrique du Nord. Elle est célèbre pour être l'ingrédient principal de la boisson alcoolisée qui porte son nom, l'absinthe. Elle est également utilisée en phytothérapie et pour ses propriétés répulsives contre certains insectes.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "",
+          "children": [
+            {
+              "id": "appareil-vegetatif",
+              "level": 2,
+              "title": "Appareil végétatif",
+              "content": "L'absinthe est une plante vivace de 60 cm à 1 m de hauteur. La tige, ramifiée à la partie supérieure, est ligneuse à la base. Elle est recouverte d'un duvet soyeux, gris-argenté. Les feuilles, très découpées, pennatiséquées, sont aussi duveteuses et de couleur gris-vert. Les feuilles inférieures sont pétiolées et tripennatiséquées, celles du milieu bipennatiséquées et sessiles, celles du haut simplement pennatiséquées. Le limbe est glabre sur le dessus et soyeux sur le dessous. Les fleurs sont jaunâtres, globuleuses, petites et groupées en capitules de 3 à 5 mm de diamètre. Elles sont rassemblées en panicules feuillées, pendantes, apparaissant de juillet à septembre. Le fruit est un akène sans pappus.",
+              "children": []
+            },
+            {
+              "id": "appareil-reproducteur",
+              "level": 2,
+              "title": "Appareil reproducteur",
+              "content": "Les fleurs de l'absinthe sont hermaphrodites et sont pollinisées par le vent (anémophilie). La floraison a lieu de juillet à septembre. Les graines sont dispersées par le vent (anémochorie).",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "habitat-et-repartition",
+          "level": 1,
+          "title": "Habitat et répartition",
+          "content": "L'absinthe est originaire des régions tempérées d'Europe, d'Asie et d'Afrique du Nord. Elle pousse spontanément dans les lieux incultes et secs, les pentes ensoleillées, les bords de chemins, les décombres et les friches.",
+          "children": []
+        },
+        {
+          "id": "toxicite",
+          "level": 1,
+          "title": "Toxicité",
+          "content": "L'absinthe contient de la thuyone, un composé neurotoxique qui peut provoquer des convulsions et des hallucinations à fortes doses. C'est ce composé qui est responsable des effets psychoactifs de la boisson absinthe. La plante est toxique si ingérée en grande quantité.",
+          "children": []
+        },
+        {
+          "id": "composition",
+          "level": 1,
+          "title": "Composition",
+          "content": "La plante contient des huiles essentielles (dont la thuyone), des lactones sesquiterpéniques (absinthine, anabsinthine), des flavonoïdes, des tanins et des acides phénoliques.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "",
+          "children": [
+            {
+              "id": "medicinales",
+              "level": 2,
+              "title": "Médicinales",
+              "content": "L'absinthe est traditionnellement utilisée en phytothérapie pour ses propriétés digestives, apéritives, cholérétiques, emménagogues, vermifuges et fébrifuges. Elle est aussi utilisée pour traiter les troubles digestifs, la perte d'appétit et les parasites intestinaux. Elle est parfois appliquée en cataplasme pour soulager les douleurs articulaires.",
+              "children": []
+            },
+            {
+              "id": "culinaires",
+              "level": 2,
+              "title": "Culinaires",
+              "content": "Outre la boisson absinthe, la plante est très amère et n'est pas couramment utilisée en cuisine. Cependant, de petites quantités peuvent être utilisées pour aromatiser des liqueurs, des vermouths ou des tisanes digestives.",
+              "children": []
+            },
+            {
+              "id": "repulsives",
+              "level": 2,
+              "title": "Répulsives",
+              "content": "Elle est utilisée comme répulsif naturel contre les insectes (mouches, mites) et les rongeurs, notamment en jardinage.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "histoire-et-culture",
+          "level": 1,
+          "title": "Histoire et culture",
+          "content": "",
+          "children": [
+            {
+              "id": "boisson-absinthe",
+              "level": 2,
+              "title": "Boisson absinthe",
+              "content": "La boisson absinthe, populaire au XIXe siècle, a été interdite dans de nombreux pays au début du XXe siècle en raison de ses effets réputés dangereux. Sa réhabilitation progressive depuis la fin du XXe siècle a permis de redécouvrir cette boisson emblématique.",
+              "children": []
+            },
+            {
+              "id": "symbole-culturel",
+              "level": 2,
+              "title": "Symbole culturel",
+              "content": "L'absinthe a inspiré de nombreux artistes, écrivains et poètes, devenant un symbole de la bohème et de la créativité.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/artemisia-absinthium",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Artemisia_absinthium"
+    }
+  }
+}
