@@ -1,0 +1,702 @@
+[
+    {
+        "id": "61646",
+        "trefle": "https://trefle.io/explore/species/mentha-spicata",
+        "wiki": "https://fr.wikipedia.org/wiki/Mentha_spicata",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/d2fbfed914d6e385ee73fa27a5408227e287a13c",
+            "https://bs.plantnet.org/image/o/569a24c1ee6f23cec8bbd5643d297d3101a2b409",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mentha_Spicata2.jpg/1000px-Mentha_Spicata2.jpg"
+        ]
+    },
+    {
+        "id": "78383",
+        "trefle": "https://trefle.io/explore/species/rosmarinus-officinalis",
+        "wiki": "https://fr.wikipedia.org/wiki/Rosmarinus_officinalis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/45c47e31c6a0c5378581f0bc89c0b44405868dd1",
+            "https://bs.plantnet.org/image/o/52eca4d6eaf652c6bdc78a964751064cc6738ed2"
+        ]
+    },
+    {
+        "id": "87441",
+        "trefle": "https://trefle.io/explore/species/thymus-vulgaris",
+        "wiki": "https://fr.wikipedia.org/wiki/Thymus_vulgaris",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/8709185087a881e96ffc55ce766b53f7e861cb3b",
+            "https://d2seqvvyy3b8p2.cloudfront.net/b88ea9fb81b86329558cae985fdf17a0.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/1/12/Thymus_vulgaris_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-271.jpg"
+        ]
+    },
+    {
+        "id": "64847",
+        "trefle": "https://trefle.io/explore/species/ocimum-basilicum",
+        "wiki": "https://fr.wikipedia.org/wiki/Ocimum_basilicum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/eaf722de31333a8724b4bb72c8d51959530fae56",
+            "https://bs.plantnet.org/image/o/b03db90006e46afa7b3f7a61d77e1336a61c4b2d"
+        ]
+    },
+    {
+        "id": "200080",
+        "trefle": "https://trefle.io/explore/species/petroselinum-crispum",
+        "wiki": "https://fr.wikipedia.org/wiki/Petroselinum_crispum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/5624f3f0f3899e6597279aacadfb411d6d6e35dc",
+            "https://bs.plantnet.org/image/o/1e73001e60145c1d15894b5958c84cefc02e2129"
+        ]
+    },
+    {
+        "id": "165723",
+        "trefle": "https://trefle.io/explore/species/coriandrum-sativum",
+        "wiki": "https://fr.wikipedia.org/wiki/Coriandrum_sativum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/fffc094e64e175593ed4c1e8c1ac4bde8ccaffa9",
+            "https://d2seqvvyy3b8p2.cloudfront.net/573fc816958f41e55371a94a216a1e3c.jpg"
+        ]
+    },
+    {
+        "id": "79591",
+        "trefle": "https://trefle.io/explore/species/salvia-officinalis",
+        "wiki": "https://fr.wikipedia.org/wiki/Salvia_officinalis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/ba565945528a0f63276ac76495e7e1cd3d47e127",
+            "https://d2seqvvyy3b8p2.cloudfront.net/ef8fe2fa4c932b501f1ffe40699eb5da.jpg"
+        ]
+    },
+    {
+        "id": "55246",
+        "trefle": "https://trefle.io/explore/species/lavandula-angustifolia",
+        "wiki": "https://fr.wikipedia.org/wiki/Lavandula_angustifolia",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/010ffc8860641c73888c8664743f1527d284f258",
+            "https://bs.plantnet.org/image/o/bd4e8d4a5bd9ad754cc685c59b6170382d626cab",
+            "https://upload.wikimedia.org/wikipedia/commons/9/93/Lavandula-angustifolia-flowering.JPG"
+        ]
+    },
+    {
+        "id": "66568",
+        "trefle": "https://trefle.io/explore/species/origanum-vulgare",
+        "wiki": "https://fr.wikipedia.org/wiki/Origanum_vulgare",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/856c07cfa49f4665dbcc7434542d0f1e27cb17eb",
+            "https://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_010657_fullsize.jpg"
+        ]
+    },
+    {
+        "id": "186006",
+        "trefle": "https://trefle.io/explore/species/foeniculum-vulgare",
+        "wiki": "https://fr.wikipedia.org/wiki/Foeniculum_vulgare",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/201ab26c5329eb6583e52176b48c2bfe0cb3e13e",
+            "https://d2seqvvyy3b8p2.cloudfront.net/f06ab213b3458d9e39456cafcd05068f.jpg"
+        ]
+    },
+    {
+        "id": "252096",
+        "trefle": "https://trefle.io/explore/species/aloysia-citrodora",
+        "wiki": "https://fr.wikipedia.org/wiki/Aloysia_citrodora",
+        "images_auto": [
+            "https://d2seqvvyy3b8p2.cloudfront.net/4358b28e4c893d9dc01deea975a618cb.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Aloysia_citriodora_002.jpg/1000px-Aloysia_citriodora_002.jpg"
+        ]
+    },
+    {
+        "id": "66545",
+        "trefle": "https://trefle.io/explore/species/origanum-majorana",
+        "wiki": "https://fr.wikipedia.org/wiki/Origanum_majorana",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/f8fdfa120b3bfe60b5012d8ad6ef506eb47e0383",
+            "https://bs.plantnet.org/image/o/6305dc4eb586269641ae5fca3429f11cef281aa9"
+        ]
+    },
+    {
+        "id": "103942",
+        "trefle": "https://trefle.io/explore/species/pimpinella-anisum",
+        "wiki": "https://fr.wikipedia.org/wiki/Pimpinella_anisum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/17b9e4e35ef955761c4a6f1f431c4f6b21fb6db7",
+            "https://bs.plantnet.org/image/o/cd56c9ce307a9ce65c1619f4b448e919d04b1769"
+        ]
+    },
+    {
+        "id": "161063",
+        "trefle": "https://trefle.io/explore/species/cinnamomum-verum",
+        "wiki": "https://fr.wikipedia.org/wiki/Cinnamomum_verum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/7575327327ffc765c83d8bbf655c5a30563fffee",
+            "https://bs.plantnet.org/image/o/b6687d2c83e40cbce223d8a011a0103a061cba51"
+        ]
+    },
+    {
+        "id": "164710",
+        "trefle": "https://trefle.io/explore/species/zingiber-officinale",
+        "wiki": "https://fr.wikipedia.org/wiki/Zingiber_officinale",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/998efa512a7e3d3bc28a010610e58cc41d476dde",
+            "https://storage.googleapis.com/powop-assets/kew_profiles/PPCONT_009116_fullsize.jpg"
+        ]
+    },
+    {
+        "id": "98206",
+        "trefle": "https://trefle.io/explore/species/curcuma-longa",
+        "wiki": "https://fr.wikipedia.org/wiki/Curcuma_longa",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/95523b50239774e2b60e94607ed8226e2c709fd5",
+            "https://storage.googleapis.com/powop-assets/kew_profiles/Curcuma_longa_illustration_main_v3_fullsize.jpg"
+        ]
+    },
+    {
+        "id": "107333",
+        "trefle": "https://trefle.io/explore/species/elettaria-cardamomum",
+        "wiki": "https://fr.wikipedia.org/wiki/Elettaria_cardamomum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/a8ad3c8a7699b14621710abf94703480fea71d71",
+            "https://storage.googleapis.com/powop-assets/kew_profiles/EBC_Green_Cardamom_050111AM002_main_web_fullsize.jpg"
+        ]
+    },
+    {
+        "id": "84725",
+        "trefle": "https://trefle.io/explore/species/syzygium-aromaticum",
+        "wiki": "https://fr.wikipedia.org/wiki/Syzygium_aromaticum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/e6e3e00f3f5922f142ccdf2043b6b6e5b009cdc1",
+            "https://bs.plantnet.org/image/o/196646d7d41785cbdc9b95de4ca665ed93d448ee"
+        ]
+    },
+    {
+        "id": "211789",
+        "trefle": "https://trefle.io/explore/species/crocus-sativus",
+        "wiki": "https://fr.wikipedia.org/wiki/Crocus_sativus",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/9c8f97b74ed8391f37b11352f65822d6abfffa39",
+            "https://bs.plantnet.org/image/o/aeb65f296bd9b869e5e7eeaf0d89848a5dcc046d",
+            "https://upload.wikimedia.org/wikipedia/commons/d/d6/Crocus_sativus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-194.jpg"
+        ]
+    },
+    {
+        "id": "97680",
+        "trefle": "https://trefle.io/explore/species/laurus-nobilis",
+        "wiki": "https://fr.wikipedia.org/wiki/Laurus_nobilis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/1146e597d3b9db40a4d4b350df8bcd5a6a484644",
+            "https://bs.plantnet.org/image/o/5ae6ab57e38ef3b465c73669c021d41f2b99900d",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Illustration_Laurus_nobilis0.jpg/1000px-Illustration_Laurus_nobilis0.jpg"
+        ]
+    },
+    {
+        "id": "29582",
+        "trefle": "https://trefle.io/explore/species/artemisia-absinthium",
+        "wiki": "https://fr.wikipedia.org/wiki/Artemisia_absinthium",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/b2b996e0b80966f37091678808b5fed13c33d04d",
+            "https://d2seqvvyy3b8p2.cloudfront.net/b094d55cfe8fd1d054f5a35823f495da.jpg"
+        ]
+    },
+    {
+        "id": "934",
+        "trefle": "https://trefle.io/explore/species/matricaria-chamomilla",
+        "wiki": "https://fr.wikipedia.org/wiki/Matricaria_chamomilla",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/4b09bcd73ff4f23b479a0ac45fb8dc3fb319c770",
+            "https://bs.plantnet.org/image/o/12b740be4d99e95987df2ceafa4a608d228eca16",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg/1000px-Matricaria_recutita_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-091.jpg"
+        ]
+    },
+    {
+        "id": "383367",
+        "trefle": "https://trefle.io/explore/species/artemisia-sieberi",
+        "wiki": "https://fr.wikipedia.org/wiki/Artemisia_herba-alba",
+        "images_auto": [
+          "https://fr.wikipedia.org/wiki/Armoise_herbe_blanche#/media/Fichier:Artemisa_herba_alba_floratrek2013.jpg",
+            "https://fr.wikipedia.org/wiki/Armoise_herbe_blanche#/media/Fichier:Artemisia_absinthium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-164.jpg"
+        ]
+    },
+    {
+        "id": "101391",
+        "trefle": "https://trefle.io/explore/species/nigella-sativa",
+        "wiki": "https://fr.wikipedia.org/wiki/Nigella_sativa",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/40240f910a87c4f26ccbbe9ec22767297bb8e277",
+            "https://bs.plantnet.org/image/o/02b3e1d55ac4f7e61cdd9af6ee5adbfbf104e864"
+        ]
+    },
+    {
+        "id": "51508",
+        "trefle": "https://trefle.io/explore/species/glycyrrhiza-glabra",
+        "wiki": "https://fr.wikipedia.org/wiki/Glycyrrhiza_glabra",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/c0c7c9bf95f78d398d506fa9325327bbc018a6d6",
+            "https://storage.googleapis.com/powop-assets/kew_profiles/Glycyrrhiza_glabra_flowers1_main_web_2015_fullsize.jpg"
+        ]
+    },
+    {
+        "id": "122295",
+        "trefle": "https://trefle.io/explore/species/ruta-graveolens",
+        "wiki": "https://fr.wikipedia.org/wiki/Ruta_graveolens",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/64b12cb0e496fd0e77e96eb8091f5d531fb377ae",
+            "https://d2seqvvyy3b8p2.cloudfront.net/9b2ae347cabe4dc23b2add27bb4491ac.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/4/48/Ruta_graveolens_jfg.jpg"
+        ]
+    },
+    {
+        "id": "117959",
+        "trefle": "https://trefle.io/explore/species/malva-sylvestris",
+        "wiki": "https://fr.wikipedia.org/wiki/Malva_sylvestris",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/9ef825ff8902126e52b3e06e8efae2c66bed75a3",
+            "https://bs.plantnet.org/image/o/75c27385b2e3d8644a8d421c7123ce9a42ab810d"
+        ]
+    },
+    {
+        "id": "51586",
+        "trefle": "https://trefle.io/explore/species/trigonella-foenum-graecum",
+        "wiki": "https://fr.wikipedia.org/wiki/Trigonella_foenum-graecum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/26691315b48cb795375473de9f790d0f3b9f2c56",
+            "https://bs.plantnet.org/image/o/877a7ca4b5fcd3ce98bb85c527d4dc4661996f8c"
+        ]
+    },
+    {
+        "id": "204029",
+        "trefle": "https://trefle.io/explore/species/allium-sativum",
+        "wiki": "https://fr.wikipedia.org/wiki/Allium_sativum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/64c2063c4bd0cc98e41198ed6c136425e6849b05",
+            "https://storage.googleapis.com/powop-assets/kew_profiles/Allium_sativum_KewImages_AMcRobbPLA_Veg_20080619AM228_main_web_2015_fullsize.jpg"
+        ]
+    },
+    {
+        "id": "253369",
+        "trefle": "https://trefle.io/explore/species/eucalyptus-globulus",
+        "wiki": "https://fr.wikipedia.org/wiki/Eucalyptus_globulus",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/116004a6809a711c398baf347476432f62c5893f",
+            "https://bs.plantnet.org/image/o/636d7297a742e978c6f9f62ff3e257f9c8c277dc",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eucalyptus-12.jpg/1000px-Eucalyptus-12.jpg"
+        ]
+    },
+    {
+        "id": "109482",
+        "trefle": "https://trefle.io/explore/species/urtica-dioica",
+        "wiki": "https://fr.wikipedia.org/wiki/Urtica_dioica",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/9db58cbb3538a6b77384f972971d51869228e545",
+            "https://bs.plantnet.org/image/o/907178ec556f25c25e649eb237188a6b41f24ff6"
+        ]
+    },
+    {
+        "id": "5945",
+        "trefle": "https://trefle.io/explore/species/taraxacum-erythrospermum",
+        "wiki": "https://fr.wikipedia.org/wiki/Taraxacum_officinale",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/fe2b003c521fbbecd93bf8aa4ef8d4250b731d30",
+            "https://bs.plantnet.org/image/o/8eedf2f56eaee5942f3f3b3165120da3779c5697"
+        ]
+    },
+    {
+        "id": "35671",
+        "trefle": "https://trefle.io/explore/species/senna-alexandrina",
+        "wiki": "https://fr.wikipedia.org/wiki/Senna_alexandrina",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/9dd3aeb5687cc460be55ea8d6afb36807d04ecfa",
+            "https://d2seqvvyy3b8p2.cloudfront.net/bd80cb60e33a2e4178f6057813190b3d.jpg"
+        ]
+    },
+    {
+        "id": "63441",
+        "trefle": "https://trefle.io/explore/species/myrtus-communis",
+        "wiki": "https://fr.wikipedia.org/wiki/Myrtus_communis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/44f2f0c8ae112c416036aeb6c1fd81d44f2d8a00",
+            "https://bs.plantnet.org/image/o/eb547f13d50bc2d99b8e2c972ad39b342fa92be5",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/%28MHNT%29_Myrtus_communis_subsp._tarentina.jpg/1000px-%28MHNT%29_Myrtus_communis_subsp._tarentina.jpg"
+        ]
+    },
+    {
+        "id": "125085",
+        "trefle": "https://trefle.io/explore/species/peganum-harmala",
+        "wiki": "https://fr.wikipedia.org/wiki/Peganum_harmala",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/dfbebcf1a052ce538a35c561cfc10ce6844b919a",
+            "https://d2seqvvyy3b8p2.cloudfront.net/21a96fd022124139f74f71b805afff8f.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/6/60/Peganum_harmala1.jpg"
+        ]
+    },
+    {
+        "id": "4170",
+        "trefle": "https://trefle.io/explore/species/silybum-marianum",
+        "wiki": "https://fr.wikipedia.org/wiki/Silybum_marianum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/74b5b8a85b3ed2620a99a2d2799300e56f78b4ea",
+            "https://bs.plantnet.org/image/o/f5a09200f08755a40b432113d5319ba51d6cfecb"
+        ]
+    },
+    {
+        "id": "95794",
+        "trefle": "https://trefle.io/explore/species/juniperus-communis",
+        "wiki": "https://fr.wikipedia.org/wiki/Juniperus_communis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/e4676fc7c7ba86abd9273548ad8542756d3d8e23",
+            "https://bs.plantnet.org/image/o/7f8b5f4e8197d1c7e10c791a43982f218421d6cd",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jalowiec_jagody1.jpg/1000px-Jalowiec_jagody1.jpg"
+        ]
+    },
+    {
+        "id": "157344",
+        "trefle": "https://trefle.io/explore/species/carum-carvi",
+        "wiki": "https://fr.wikipedia.org/wiki/Carum_carvi",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/c4b904b89aedb622ba4fb9b6244ed9b831f79536",
+            "https://bs.plantnet.org/image/o/368d75619f0b6ab93838e5c71c5c69d6594fa2ab"
+        ]
+    },
+    {
+        "id": "265222",
+        "trefle": "https://trefle.io/explore/species/alchemilla-vulgaris",
+        "wiki": "https://fr.wikipedia.org/wiki/Alchemilla_vulgaris",
+        "images_auto": [
+            "https://d2seqvvyy3b8p2.cloudfront.net/a2fbac4ecbbc245f8c81981984525645.jpg"
+        ]
+    },
+    {
+        "id": "385323",
+        "trefle": "https://trefle.io/explore/species/dolomiaea-costus",
+        "wiki": "https://fr.wikipedia.org/wiki/Saussurea_costus",
+        "images_auto": [
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Saussurea_%C2%BF_costus_%3F_%287839595576%29.jpg/1000px-Saussurea_%C2%BF_costus_%3F_%287839595576%29.jpg"
+        ]
+    },
+    {
+        "id": "265528",
+        "trefle": "https://trefle.io/explore/species/rosa-x-damascena",
+        "wiki": "https://fr.wikipedia.org/wiki/Rosa_%C3%97damascena",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/f7afb12760eaecaf21f8ef875cffbb5f6c18ff08",
+            "https://bs.plantnet.org/image/o/2e9f5dbea473039f517276e90b43411c264e60c6",
+            "https://upload.wikimedia.org/wikipedia/commons/5/52/Rosa_damascena0.jpg"
+        ]
+    },
+    {
+        "id": "216107",
+        "trefle": "https://trefle.io/explore/species/jasminum-officinale",
+        "wiki": "https://fr.wikipedia.org/wiki/Jasminum_officinale",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/425a5eda38e7f788502f555c196ed42a142c2d09",
+            "https://d2seqvvyy3b8p2.cloudfront.net/fbf52fd6fbef105498c669d2bffc4b8e.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/6/6e/Jasminum_officinale_-_Bot._Mag._31%2C_1787.jpg"
+        ]
+    },
+    {
+        "id": "64135",
+        "trefle": "https://trefle.io/explore/species/nerium-oleander",
+        "wiki": "https://fr.wikipedia.org/wiki/Nerium_oleander",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/2ff93222759bd7436338492c834074bba64948f4",
+            "https://bs.plantnet.org/image/o/7c810fc7ccdadd712ab81000ceaa45ceea5c514b"
+        ]
+    },
+    {
+        "id": "194712",
+        "trefle": "https://trefle.io/explore/species/hibiscus-rosa-sinensis",
+        "wiki": "https://fr.wikipedia.org/wiki/Hibiscus_rosa-sinensis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/a2b8cb049d071ed0bae3d324f7516b794399c4c8",
+            "https://d2seqvvyy3b8p2.cloudfront.net/5480e4a9d098c32d93563f22b6bd5fcd.jpg"
+        ]
+    },
+    {
+        "id": "153102",
+        "trefle": "https://trefle.io/explore/species/bougainvillea-spectabilis",
+        "wiki": "https://fr.wikipedia.org/wiki/Bougainvillea_spectabilis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/ed7396e8da5f269f1ed1b98986a82fbe9882c65e",
+            "https://bs.plantnet.org/image/o/24391f8e1e6dff5a505b9f95c74d02b1b594d364",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bougainvillea_spectabilis_Flowers_Closeup2_TorreLaMata.jpg/1000px-Bougainvillea_spectabilis_Flowers_Closeup2_TorreLaMata.jpg"
+        ]
+    },
+    {
+        "id": "123023",
+        "trefle": "https://trefle.io/explore/species/pelargonium-graveolens",
+        "wiki": "https://fr.wikipedia.org/wiki/Pelargonium_graveolens",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/93355030f81f7c430db04d764486ab734eb04c57",
+            "https://d2seqvvyy3b8p2.cloudfront.net/ea2b5f389abec2e767ab422526e8c3a6.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%28MHNT%29_Pelargonium_graveolens_flower_and_leaves.jpg/1000px-%28MHNT%29_Pelargonium_graveolens_flower_and_leaves.jpg"
+        ]
+    },
+    {
+        "id": "69568",
+        "trefle": "https://trefle.io/explore/species/phoenix-dactylifera",
+        "wiki": "https://fr.wikipedia.org/wiki/Phoenix_dactylifera",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/ef4c8d5ad2165859246aeb4f5d1c72c19b6449c6",
+            "https://bs.plantnet.org/image/o/87a9c0b08d4a8e3c01f51a8e26ab3295e9a4e3c3",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Dattiers.jpg/1000px-Dattiers.jpg"
+        ]
+    },
+    {
+        "id": "168420",
+        "trefle": "https://trefle.io/explore/species/cupressus-sempervirens",
+        "wiki": "https://fr.wikipedia.org/wiki/Cupressus_sempervirens",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/848595e3da41dd054bd0a941840b2d1aa5298cf6",
+            "https://d2seqvvyy3b8p2.cloudfront.net/7ceea836bc2c4eb5b83090b105feff0d.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/7/75/Cypress.JPG"
+        ]
+    },
+    {
+        "id": "54862",
+        "trefle": "https://trefle.io/explore/species/lantana-camara",
+        "wiki": "https://fr.wikipedia.org/wiki/Lantana_camara",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/3e223b316f056e39a2232d1baef217d6e4f711c7",
+            "https://bs.plantnet.org/image/o/c7115d280905bed45922698d808945261c148b56",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lantana.jpg/1000px-Lantana.jpg"
+        ]
+    },
+    {
+        "id": "217398",
+        "trefle": "https://trefle.io/explore/species/olea-europaea",
+        "wiki": "https://fr.wikipedia.org/wiki/Olea_europaea",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/de82f7f1a82590515b6c24c36fb52c0c745751d6",
+            "https://bs.plantnet.org/image/o/ea662532c01cd8256d64016e7bd2340009ef7a96",
+            "https://upload.wikimedia.org/wikipedia/commons/1/16/Olea_europaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-229.jpg"
+        ]
+    },
+    {
+        "id": "161695",
+        "trefle": "https://trefle.io/explore/species/citrus-x-aurantium",
+        "wiki": "https://fr.wikipedia.org/wiki/Citrus_aurantium",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/e1916efdae04b4239bbf6197a9efd58676be28f8",
+            "https://d2seqvvyy3b8p2.cloudfront.net/38ed820bc37d3025647b8d21ffcd9078.jpg"
+        ]
+    },
+    {
+        "id": "145097",
+        "trefle": "https://trefle.io/explore/species/arbutus-unedo",
+        "wiki": "https://fr.wikipedia.org/wiki/Arbutus_unedo",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/c41fdca72fdd5e6f6491434adf92ed5998112d94",
+            "https://d2seqvvyy3b8p2.cloudfront.net/7960b85474b2db9abf4f833ea12431b2.jpg"
+        ]
+    },
+    {
+        "id": "35939",
+        "trefle": "https://trefle.io/explore/species/ceratonia-siliqua",
+        "wiki": "https://fr.wikipedia.org/wiki/Ceratonia_siliqua",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/f34c22811dd0660fb16198bb39ed70f83400f1c4",
+            "https://bs.plantnet.org/image/o/24a0d4b28fa0a3bc7d7d8233a33e0b2e7043a6e8"
+        ]
+    },
+    {
+        "id": "265454",
+        "trefle": "https://trefle.io/explore/species/mespilus-germanica",
+        "wiki": "https://fr.wikipedia.org/wiki/Mespilus_germanica",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/620342667b288f04039ad5c4887c4132e34b9c67",
+            "https://bs.plantnet.org/image/o/d197957a3501df03ebd37f32feef3ab95cc6891c"
+        ]
+    },
+    {
+        "id": "158382",
+        "trefle": "https://trefle.io/explore/species/cedrus-atlantica",
+        "wiki": "https://fr.wikipedia.org/wiki/Cedrus_atlantica",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/af4ceec8b97feb832468c287bb6b9b1a398765b5",
+            "https://d2seqvvyy3b8p2.cloudfront.net/4eabbf87798fae259ff289406e5c7dfc.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cedrus_atlantica.jpg"
+        ]
+    },
+    {
+        "id": "51968",
+        "trefle": "https://trefle.io/explore/species/cercis-siliquastrum",
+        "wiki": "https://fr.wikipedia.org/wiki/Ficus_carica",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/8741d256dfbbae374cf5d80084c52110309173cb",
+            "https://bs.plantnet.org/image/o/0b08fd89452867997e06c53702a8deea701e76d0",
+            "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ficus_carica_L%2C_1771.jpg"
+        ]
+    },
+    {
+        "id": "123309",
+        "trefle": "https://trefle.io/explore/species/punica-granatum",
+        "wiki": "https://fr.wikipedia.org/wiki/Punica_granatum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/67563697e6f51079fd804833ac0ec22b58f35992",
+            "https://d2seqvvyy3b8p2.cloudfront.net/3bcf139e9f20059ca1f17592dec31e49.jpg"
+        ]
+    },
+    {
+        "id": "110975",
+        "trefle": "https://trefle.io/explore/species/vitis-vinifera",
+        "wiki": "https://fr.wikipedia.org/wiki/Vitis_vinifera",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/c162dac99b91633ce32a6dd3cd486a01081f2086",
+            "https://d2seqvvyy3b8p2.cloudfront.net/a909debce990c3c305c95657da280f81.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/e/e4/Vitis_vinifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-145.jpg"
+        ]
+    },
+    {
+        "id": "67625",
+        "trefle": "https://trefle.io/explore/species/argania-spinosa",
+        "wiki": "https://fr.wikipedia.org/wiki/Argania_spinosa",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/d85ec275c5c101a3a2e3b9618056c255f1c724a2",
+            "https://bs.plantnet.org/image/o/6a943c616edf71fa2a49fa31b4f580b2287b18b4"
+        ]
+    },
+    {
+        "id": "98373",
+        "trefle": "https://trefle.io/explore/species/lawsonia-inermis",
+        "wiki": "https://fr.wikipedia.org/wiki/Lawsonia_inermis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/d7169d16d8702ddccbb706b3ec0259ba143f63c7",
+            "https://bs.plantnet.org/image/o/e1b25f2b147bfbf3b7204d786acc65fd0f8d3cea"
+        ]
+    },
+    {
+        "id": "204705",
+        "trefle": "https://trefle.io/explore/species/aloe-vera",
+        "wiki": "https://fr.wikipedia.org/wiki/Aloe_vera",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/170cc12d490078fc218c45d6ea2f76546b44d416",
+            "https://bs.plantnet.org/image/o/c7fe313538e137b5fda7e68bb14d2abb332da181",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aloe_vera_Lanzarote.jpg/1000px-Aloe_vera_Lanzarote.jpg"
+        ]
+    },
+    {
+        "id": "102667",
+        "trefle": "https://trefle.io/explore/species/opuntia-ficus-indica",
+        "wiki": "https://fr.wikipedia.org/wiki/Opuntia_ficus-indica",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/ef3710f9d1cfa04b0e32722bc7ad7a3c8a3fc84e",
+            "https://bs.plantnet.org/image/o/5f7646dddada8103a09326ea38f5b49c7b8f8841"
+        ]
+    },
+    {
+        "id": "296871",
+        "trefle": "https://trefle.io/explore/species/ziziphus-spina-christi",
+        "wiki": "https://fr.wikipedia.org/wiki/Ziziphus_spina-christi",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/b3e88509acb0ec1882b3bd70335cc93d32abf768",
+            "https://bs.plantnet.org/image/o/5414f9e135dd7bce8a24a5daf72c6c4cdb488c46",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ziziphus-areva-israel.jpg/1000px-Ziziphus-areva-israel.jpg"
+        ]
+    },
+    {
+        "id": "127170",
+        "trefle": "https://trefle.io/explore/species/papaver-rhoeas",
+        "wiki": "https://fr.wikipedia.org/wiki/Papaver_rhoeas",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/401c147ff21437f2cc7a1629ca7afafdd07e1eeb",
+            "https://bs.plantnet.org/image/o/d19cd2c25469605e65f8c14f0e8e1828fe5af259"
+        ]
+    },
+    {
+        "id": "131870",
+        "trefle": "https://trefle.io/explore/species/sesamum-indicum",
+        "wiki": "https://fr.wikipedia.org/wiki/Sesamum_indicum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/8cdd47145dbabddd4709f19440a1cc219d22508d",
+            "https://bs.plantnet.org/image/o/12100eb9c6b55e9f205af29d5d79a7e270b29bdf"
+        ]
+    },
+    {
+        "id": "264858",
+        "trefle": "https://trefle.io/explore/species/prunus-dulcis",
+        "wiki": "https://fr.wikipedia.org/wiki/Prunus_dulcis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/7bc8f32d97b764e1dfb4c71b97cfce2055dbf53c",
+            "https://bs.plantnet.org/image/o/d2c242a91df7fd713f71fa56cf39502cf06aede8"
+        ]
+    },
+    {
+        "id": "61640",
+        "trefle": "https://trefle.io/explore/species/mentha-pulegium",
+        "wiki": "https://fr.wikipedia.org/wiki/Mentha_pulegium",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/4770dbec80886ee1869a21ff3f03677fb7b9033b",
+            "https://bs.plantnet.org/image/o/1584bc34e258ce1f90413af1871a6b1af722d246"
+        ]
+    },
+    {
+        "id": "161718",
+        "trefle": "https://trefle.io/explore/species/citrus-medica",
+        "wiki": "https://fr.wikipedia.org/wiki/Citrus_limon",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/3d180f016211568294fc6eafb4b1c298c101c3b3",
+            "https://d2seqvvyy3b8p2.cloudfront.net/3eea4792e2fcb6b08d1950d69bbe4165.jpg"
+        ]
+    },
+    {
+        "id": "284473",
+        "trefle": "https://trefle.io/explore/species/moringa-oleifera",
+        "wiki": "https://fr.wikipedia.org/wiki/Moringa_oleifera",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/985388eea271c3a166f37ed3d6ddd0ec08e47af8",
+            "https://bs.plantnet.org/image/o/2ace921aa4e94e2357ef979287da2ec96633e467",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Moringa_flower_5.jpg/1000px-Moringa_flower_5.jpg"
+        ]
+    },
+    {
+        "id": "6874",
+        "trefle": "https://trefle.io/explore/species/carthamus-tinctorius",
+        "wiki": "https://fr.wikipedia.org/wiki/Carthamus_tinctorius",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/e695defab2923bccd1420a6b3cb8e5e592772068",
+            "https://bs.plantnet.org/image/o/59a1fb7dd576259ee4f8f9cd8b0ed34d26f2f7fc"
+        ]
+    },
+    {
+        "id": "2164",
+        "trefle": "https://trefle.io/explore/species/calendula-officinalis",
+        "wiki": "https://fr.wikipedia.org/wiki/Calendula_officinalis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/b3eb301c46e71b508cf06ce459fd83c487859907",
+            "https://bs.plantnet.org/image/o/aa07cb47d8182f0c7c84441c27db127cf0721b04"
+        ]
+    },
+    {
+        "id": "104788",
+        "trefle": "https://trefle.io/explore/species/pistacia-lentiscus",
+        "wiki": "https://fr.wikipedia.org/wiki/Pistacia_lentiscus",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/a2bde857c21b179504cbb8ef7120c780651e2460",
+            "https://bs.plantnet.org/image/o/239f69a4ccdfb8e64199eb3a4cb466231da8444c",
+            "https://upload.wikimedia.org/wikipedia/commons/2/24/Pistacia_lentiscus_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-110.jpg"
+        ]
+    },
+    {
+        "id": "194717",
+        "trefle": "https://trefle.io/explore/species/hibiscus-sabdariffa",
+        "wiki": "https://fr.wikipedia.org/wiki/Hibiscus_sabdariffa",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/3b0134283c94a2e6c0f701624be79bbc00cb8a23",
+            "https://bs.plantnet.org/image/o/f74bbeda07f6d1cc00e5d3f67691455ace8b7bb5",
+            "https://upload.wikimedia.org/wikipedia/commons/9/94/Flor_de_Jamaica.jpg"
+        ]
+    },
+    {
+        "id": "98299",
+        "trefle": "https://trefle.io/explore/species/linum-usitatissimum",
+        "wiki": "https://fr.wikipedia.org/wiki/Linum_usitatissimum",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/d5757a3317a02d6b847cfa90989f9487c9c751c6",
+            "https://bs.plantnet.org/image/o/eeb26a2c519cd3f4c40f73897f6e51ad7ba63096"
+        ]
+    },
+    {
+        "id": "78078",
+        "trefle": "https://trefle.io/explore/species/ricinus-communis",
+        "wiki": "https://fr.wikipedia.org/wiki/Ricinus_communis",
+        "images_auto": [
+            "https://bs.plantnet.org/image/o/b975bbd67f037c4784c6b14f5e3ad86caebd6b1f",
+            "https://d2seqvvyy3b8p2.cloudfront.net/93135238aef973d96decfff9f0f0b3aa.jpg"
+        ]
+    }
+]
