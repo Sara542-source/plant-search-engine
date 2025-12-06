@@ -1,0 +1,130 @@
+{
+  "id": "61646",
+  "infos_generales": {
+    "nom_scientifique": "Mentha spicata",
+    "nom_commun": "Menthe verte",
+    "noms_darija": [
+      "Naanaa",
+      "نعناع"
+    ],
+    "noms_alternatifs": [
+      "Menthe en épi",
+      "Menthe douce",
+      "Menthe marocaine"
+    ],
+    "famille": "Lamiaceae",
+    "genre": "Mentha"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/d2fbfed914d6e385ee73fa27a5408227e287a13c",
+    "https://bs.plantnet.org/image/o/569a24c1ee6f23cec8bbd5643d297d3101a2b409",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mentha_Spicata2.jpg/1000px-Mentha_Spicata2.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Fréquent",
+    "luminosite": "Plein soleil",
+    "type_sol": "Humide, bien drainé et riche",
+    "regions_origine": [
+      "Europe",
+      "Asie tempérée",
+      "Largement cultivée et naturalisée en Afrique du Nord"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Mentholée, fraîche et caractéristique",
+    "croissance": "Rapide, peut être envahissante",
+    "feuilles": "Vertes, lancéolées, dentelées, légèrement froissées",
+    "fleurs": "Petites, roses à lilas, regroupées en épis terminaux",
+    "habitat_naturel": "Bords de chemins, zones humides, terrains incultes",
+    "rusticite": "Bonne, résiste au froid"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Respiratoire",
+      "Apaisant",
+      "Antiseptique",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Aromatique",
+      "Salade",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "La Menthe verte (Mentha spicata) est une plante herbacée vivace très appréciée pour son arôme frais et ses multiples usages. Originaire d'Europe et d'Asie, elle est devenue un pilier de la culture et de la cuisine marocaine, notamment pour la préparation du thé à la menthe. Connue pour ses propriétés digestives et apaisantes, elle est facile à cultiver et s'adapte à divers environnements.",
+    "texte_complet": {
+      "introduction": "Mentha spicata, communément appelée menthe verte ou menthe en épi, est une espèce de plante herbacée vivace de la famille des Lamiacées. Native d'Europe et d'Asie tempérée, elle est l'une des menthes les plus cultivées et utilisées à travers le monde, notamment pour ses qualités aromatiques et médicinales. Sa présence est emblématique dans la culture culinaire et sociale du Maroc, où elle est indissociable du rituel du thé. Elle se caractérise par ses feuilles parfumées et ses petites fleurs organisées en épis.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "La Mentha spicata est une plante vivace qui peut atteindre 30 à 100 cm de hauteur. Ses tiges sont carrées, dressées et ramifiées, souvent légèrement velues. Les feuilles sont opposées, lancéolées à ovales, de couleur vert clair à vert foncé, avec des marges dentelées et une surface parfois rugueuse ou légèrement froissée. Elles sont sessiles ou très courtement pétiolées. Les fleurs, petites et de couleur blanche, rose pâle ou lilas, sont regroupées en épis terminaux denses et allongés qui apparaissent généralement de juillet à septembre. Le système racinaire est rhizomateux, permettant une propagation rapide et parfois envahissante de la plante.",
+          "children": []
+        },
+        {
+          "id": "varietes_et_cultivars",
+          "level": 1,
+          "title": "Variétés et cultivars",
+          "content": "Il existe plusieurs variétés et cultivars de Mentha spicata, chacun ayant des nuances d'arôme ou des caractéristiques morphologiques spécifiques. Parmi les plus connus, on trouve Mentha spicata 'Crispa' avec des feuilles fortement frisées, Mentha spicata 'Nana' (la menthe marocaine typique), ou encore des variétés plus douces en saveur. Ces cultivars sont souvent développés pour optimiser le rendement en huile essentielle ou pour des applications culinaires spécifiques.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "La menthe verte est une plante robuste et facile à cultiver. Elle préfère un sol humide, riche et bien drainé, et une exposition en plein soleil ou à mi-ombre. En raison de sa nature rhizomateuse, elle peut devenir très envahissante si elle n'est pas contenue, il est donc souvent recommandé de la cultiver en pot ou de délimiter son espace au jardin. La multiplication se fait aisément par division des rhizomes, bouturage de tiges ou semis. Un arrosage régulier est essentiel, surtout en période de sécheresse. La taille régulière favorise une croissance buissonnante et une meilleure production de feuilles aromatiques.",
+          "children": []
+        },
+        {
+          "id": "utilisation",
+          "level": 1,
+          "title": "Utilisation",
+          "content": "La Mentha spicata est une plante aux multiples usages, tant dans le domaine culinaire que médicinal et aromatique, particulièrement en Afrique du Nord où elle est un élément central de la culture.",
+          "children": [
+            {
+              "id": "usages_culinaires",
+              "level": 2,
+              "title": "Usages culinaires",
+              "content": "C'est un ingrédient fondamental dans de nombreuses cuisines. Au Maroc, elle est célèbre pour le thé à la menthe, une boisson emblématique de l'hospitalité. Ses feuilles fraîches aromatisent les salades, les taboulés, les sauces, les boissons rafraîchissantes et les desserts. Elle est également utilisée dans la confection de sirops et de confiseries pour sa saveur distinctive et rafraîchissante.",
+              "children": []
+            },
+            {
+              "id": "usages_medicaux_traditionnels",
+              "level": 2,
+              "title": "Usages médicinaux et traditionnels",
+              "content": "La menthe verte est traditionnellement reconnue pour ses propriétés digestives, aidant à soulager les ballonnements, les indigestions et les nausées. Elle est également employée pour ses effets apaisants, contribuant à réduire le stress et l'anxiété légère, ainsi que pour ses vertus respiratoires, décongestionnant les voies aériennes en cas de rhume ou de toux. Ses composés lui confèrent des propriétés antiseptiques et anti-inflammatoires, utiles en application locale ou en infusion.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "composition_chimique",
+          "level": 1,
+          "title": "Composition chimique",
+          "content": "L'arôme caractéristique de Mentha spicata provient principalement de son huile essentielle, dont les composants majoritaires sont la carvone (qui lui confère une odeur moins 'mentholée' que la Mentha piperita) et le limonène. On trouve également en moindre mesure du dihydrocarvone, du menthone, du cinéol et d'autres monoterpènes. Ces composés volatils sont responsables de ses propriétés organoleptiques et de ses effets thérapeutiques.",
+          "children": []
+        },
+        {
+          "id": "ecologie",
+          "level": 1,
+          "title": "Écologie",
+          "content": "Bien que native d'Europe et d'Asie tempérée, Mentha spicata s'est naturalisée dans de nombreuses régions du monde, y compris en Amérique du Nord et en Afrique. Elle colonise facilement les milieux perturbés, les bords de cours d'eau, les fossés et les zones humides. Sa capacité à se propager rapidement par ses rhizomes peut la rendre compétitive face à la flore indigène dans certains écosystèmes, mais elle est généralement considérée comme une plante bénéfique dans les environnements anthropisés.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/mentha-spicata",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Mentha_spicata"
+    }
+  }
+}

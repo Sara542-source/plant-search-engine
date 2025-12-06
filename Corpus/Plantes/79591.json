@@ -1,0 +1,198 @@
+{
+  "id": "79591",
+  "infos_generales": {
+    "nom_scientifique": "Salvia officinalis",
+    "nom_commun": "Sauge officinale",
+    "noms_darija": [
+      "Salmia",
+      "سلمية"
+    ],
+    "noms_alternatifs": [
+      "Sauge commune",
+      "Thé d'Europe"
+    ],
+    "famille": "Lamiaceae",
+    "genre": "Salvia"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/ba565945528a0f63276ac76495e7e1cd3d47e127",
+    "https://d2seqvvyy3b8p2.cloudfront.net/ef8fe2fa4c932b501f1ffe40699eb5da.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Sol bien drainé, sec à frais, calcaire",
+    "regions_origine": [
+      "Bassin méditerranéen"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Forte, aromatique, camphrée",
+    "feuillage": "Persistant",
+    "type_racine": "Fasciculée",
+    "floraison": "De mai à juillet, fleurs bleu-violet"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Respiratoire",
+      "Dermatologique",
+      "Apaisant",
+      "Tonique",
+      "Antiseptique",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "La Sauge officinale (Salvia officinalis) est une plante aromatique et médicinale emblématique du bassin méditerranéen. Appréciée pour son feuillage persistant gris-vert et ses fleurs violettes, elle est largement cultivée pour ses propriétés culinaires comme épice et pour ses multiples vertus thérapeutiques, notamment digestives, antiseptiques et anti-inflammatoires. Robuste et tolérante à la sécheresse, elle s'adapte bien aux jardins ensoleillés et aux sols drainés, en faisant une plante polyvalente et très prisée.",
+    "texte_complet": {
+      "introduction": "La Sauge officinale (Salvia officinalis L.), appelée aussi Salvia ou Grande sauge, est une espèce de sous-arbrisseaux de la famille des Lamiacées. Elle fait partie du genre Salvia.\nC'est une plante aromatique, condimentaire et médicinale utilisée depuis l'Antiquité.\nElle est spontanée sur le pourtour du bassin méditerranéen, notamment dans les régions calcaires et arides, on la rencontre aussi naturalisée dans de nombreuses régions du monde.\nSon nom vient du latin salvia qui signifie « qui sauve » ou « qui guérit », de salvus, « sain ».",
+      "sections": [
+        {
+          "id": "histoire",
+          "level": 1,
+          "title": "Histoire",
+          "content": "La sauge officinale est considérée par certains botanistes comme la panacée des Anciens. Les Grecs l'utilisaient pour la cicatrisation des plaies, les arrêts des hémorragies et pour ses propriétés digestives et toniques. Le médecin grec Hippocrate recommandait la sauge officinale comme fortifiant général et pour soigner les blessures et les morsures de serpent. Au Moyen Âge, la sauge officinale est cultivée dans les jardins monastiques, pour la consommation et pour ses vertus médicinales. Elle est utilisée pour la conservation de la viande et sa valeur thérapeutique est reconnue. Les moines la considèrent comme un remède universel. L'école de Salerne écrit au XIIIe siècle : « Cur moriatur homo, cui salvia crescit in horto ? » (Pourquoi mourir, l'homme, puisque la sauge pousse dans son jardin ?). La sauge est aussi un symbole de la longévité.\nEn 1775, on lit dans l'Encyclopédie de Diderot et d'Alembert : « La sauge est une plante très connue et très employée en médecine. Ses feuilles sont détersives, diurétiques, apéritives, vulnéraires et céphaliques ; elles sont bonnes contre la suppression des règles, les engorgements, les obstructions, les affections nerveuses, les tremblements, les paralysies, les maux de tête. On les prend en infusion, en décoction, en vin ou en électuaire. On en fait aussi des lotions, des gargarismes, des cataplasmes et des frictions. »",
+          "children": []
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "La sauge officinale est un sous-arbrisseau de 30 à 70 cm de haut. Ses tiges de section carrée sont ligneuses à la base et herbacées au sommet. Elles sont ramifiées et ramifiées.",
+          "children": [
+            {
+              "id": "description_feuillage",
+              "level": 2,
+              "title": "Feuillage",
+              "content": "Ses feuilles persistantes sont ovales, épaisses, ridées et de couleur gris-vert. Elles sont fortement aromatiques et recouvertes d'un duvet fin qui leur donne un aspect velouté. Les feuilles sont opposées sur la tige.",
+              "children": []
+            },
+            {
+              "id": "description_fleurs",
+              "level": 2,
+              "title": "Fleurs",
+              "content": "Les fleurs sont groupées en épis terminaux de couleur bleu-violet, parfois roses ou blanches. Elles apparaissent de mai à juillet. La corolle est bilabiée, typique des Lamiacées.",
+              "children": []
+            },
+            {
+              "id": "description_fruits",
+              "level": 2,
+              "title": "Fruits",
+              "content": "Les fruits sont des tétra-akènes enfermés dans le calice persistant.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "La sauge officinale préfère les sols calcaires, secs et bien drainés. Elle supporte la sécheresse et le plein soleil. Elle est rustique jusqu'à −15 °C. Elle se cultive facilement en pots, en pleine terre ou en massifs.",
+          "children": [
+            {
+              "id": "culture_multiplication",
+              "level": 2,
+              "title": "Multiplication",
+              "content": "La multiplication se fait par semis au printemps, par bouturage de tiges non florifères en été ou par division de touffes au printemps ou à l'automne.",
+              "children": []
+            },
+            {
+              "id": "culture_ennemis",
+              "level": 2,
+              "title": "Ennemis",
+              "content": "Elle est généralement résistante aux maladies et ravageurs, mais peut être sujette à l'oïdium en atmosphère humide ou aux pucerons.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "principaux_cultivars",
+          "level": 1,
+          "title": "Principaux cultivars",
+          "content": "Il existe plusieurs cultivars de sauge officinale, présentant des variations de couleur de feuillage ou de fleurs :\n\n*   'Purpurascens' : feuilles pourpres.\n*   'Tricolor' : feuilles panachées de vert, crème et rose-rouge.\n*   'Icterina' : feuilles panachées de vert et jaune d'or.\n*   'Alba' : fleurs blanches.",
+          "children": []
+        },
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "La sauge officinale est une plante aux multiples usages, tant en cuisine qu'en médecine.",
+          "children": [
+            {
+              "id": "usages_alimentaires",
+              "level": 2,
+              "title": "Usages alimentaires",
+              "content": "Les feuilles fraîches ou séchées sont utilisées comme herbe aromatique pour parfumer les viandes (porc, volaille), les poissons, les légumes, les soupes et les sauces. Elle est un ingrédient clé dans la cuisine méditerranéenne. On l'utilise aussi pour des infusions digestives.",
+              "children": []
+            },
+            {
+              "id": "usages_plante_medicinale",
+              "level": 2,
+              "title": "Plante médicinale",
+              "content": "La sauge officinale est très réputée pour ses propriétés médicinales.",
+              "children": [
+                {
+                  "id": "usages_plante_medicinale_historique",
+                  "level": 3,
+                  "title": "Historique",
+                  "content": "Historiquement, elle a été utilisée pour une grande variété de maux, comme mentionné précédemment (digestifs, toniques, etc.).",
+                  "children": []
+                },
+                {
+                  "id": "usages_plante_medicinale_composants",
+                  "level": 3,
+                  "title": "Composants",
+                  "content": "Les principaux composants actifs sont les huiles essentielles (thuyone, camphre, cinéole), les flavonoïdes, les tanins et les diterpènes. Ces composés lui confèrent ses propriétés pharmacologiques.",
+                  "children": []
+                },
+                {
+                  "id": "usages_plante_medicinale_proprietes_medicinales",
+                  "level": 3,
+                  "title": "Propriétés médicinales",
+                  "content": "Elle est reconnue pour ses vertus digestives, antispasmodiques, antiseptiques, anti-inflammatoires, toniques et sudorifiques. Elle aide à soulager les troubles gastro-intestinaux, les maux de gorge, les gingivites, et est traditionnellement utilisée pour réguler la transpiration excessive et apaiser les troubles liés à la ménopause.",
+                  "children": []
+                },
+                {
+                  "id": "usages_plante_medicinale_precautions_emploi",
+                  "level": 3,
+                  "title": "Précautions d'emploi",
+                  "content": "Bien que généralement sûre à doses culinaires et thérapeutiques normales, l'huile essentielle de sauge officinale contient de la thuyone, qui peut être neurotoxique à fortes doses. La consommation de très grandes quantités ou l'utilisation prolongée est déconseillée aux femmes enceintes, allaitantes, aux personnes épileptiques ou souffrant d'insuffisance rénale. Il est recommandé de consulter un professionnel de santé avant une utilisation médicinale intense.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "usages_autre_utilisation",
+              "level": 2,
+              "title": "Autre utilisation",
+              "content": "La sauge est également utilisée en cosmétique et en parfumerie.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "especes_proches",
+          "level": 1,
+          "title": "Espèces proches",
+          "content": "Le genre Salvia est très vaste et compte de nombreuses espèces proches de Salvia officinalis, parfois utilisées de manière similaire ou pour des propriétés distinctes, comme Salvia sclarea (sauge sclarée) ou Salvia divinorum (sauge divinatoire).",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/salvia-officinalis",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Salvia_officinalis"
+    }
+  }
+}
