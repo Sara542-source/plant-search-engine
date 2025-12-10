@@ -7,6 +7,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # 2. On définit où sont les données par rapport à ce fichier
 DATA_DIR_JSON = os.path.join(BASE_DIR, '..', 'docs', 'Plantes')
 DATA_DIR_PDF = os.path.join(BASE_DIR, '..', 'docs', 'Concepts')
+FICHIER_DICO_LOCAL = os.path.join(BASE_DIR, '..', 'docs')
 
 # 3. Où va-t-on sauvegarder l'index final ?
 INDEX_OUTPUT_PATH = os.path.join(BASE_DIR, 'index_inversé.json')
