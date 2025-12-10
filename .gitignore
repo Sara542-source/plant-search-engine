@@ -17,3 +17,7 @@ indexer/*.json
 
 # --- MAIS on garde les données sources ! ---
 !docs/*.json
+
+# Fichiers de configuration IntelliJ / PyCharm (IML)
+*.iml
+.idea/
