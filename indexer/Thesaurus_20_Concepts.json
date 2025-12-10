@@ -1,0 +1,614 @@
+{
+  "Arrosage": {
+    "BT": [
+      "irrigation"
+    ],
+    "NT": [
+      "bassinage",
+      "aspersion",
+      "drip"
+    ],
+    "RT": [
+      "arroser",
+      "eau",
+      "humidit",
+      "sol",
+      "ollas"
+    ],
+    "UF": [
+      "Arrosage des plantes",
+      "Watering",
+      "Irrigation des cultures",
+      "Hydratation",
+      "Apport en eau"
+    ],
+    "SN": "Action d'apporter de l'eau aux plantes pour satisfaire leurs besoins hydriques, cruciale pour leur survie et leur croissance."
+  },
+  "Luminosité": {
+    "BT": [
+      "lumire"
+    ],
+    "NT": [
+      "photopriode"
+    ],
+    "RT": [
+      "soleil",
+      "exposition",
+      "clairage",
+      "photosynthse",
+      "hliophile",
+      "sciaphile",
+      "lux",
+      "luxmtre",
+      "led"
+    ],
+    "UF": [
+      "Exposition lumineuse",
+      "Intensité lumineuse",
+      "Ensoleillement",
+      "Light intensity"
+    ],
+    "SN": "Mesure de l'intensité et de la durée de l'exposition à la lumière reçue par une plante, essentielle pour la photosynthèse et la floraison."
+  },
+  "Types de sol / substrat": {
+    "BT": [
+      "sol"
+    ],
+    "NT": [
+      "argile",
+      "sable",
+      "limon",
+      "terreau",
+      "tourbe",
+      "sphaigne",
+      "perlite",
+      "pouzzolane",
+      "humus",
+      "gravier",
+      "calcaire",
+      "coco"
+    ],
+    "RT": [
+      "substrat",
+      "argileux",
+      "sableux",
+      "limoneux",
+      "compact",
+      "friable",
+      "drainant",
+      "humifre",
+      "poreuse",
+      "poreux",
+      "pdologie",
+      "texture",
+      "composition",
+      "agrgat"
+    ],
+    "UF": [
+      "Composition du sol",
+      "Milieu de culture",
+      "Mélange de rempotage",
+      "Terre"
+    ],
+    "SN": "Classification des différentes compositions de milieux de culture, incluant les sols naturels et les substrats artificiels, influençant la rétention d'eau, la nutrition et l'ancrage des plantes."
+  },
+  "pH du sol": {
+    "BT": [
+      "ph"
+    ],
+    "NT": [],
+    "RT": [
+      "acidit",
+      "alcalinit",
+      "acide",
+      "alcalin",
+      "neutre",
+      "acidification",
+      "alcalinisation",
+      "calcaire",
+      "sol",
+      "capteur"
+    ],
+    "UF": [
+      "Acidité du sol",
+      "Alcalinité du sol",
+      "Niveau de pH",
+      "Réaction du sol"
+    ],
+    "SN": "Mesure de l'acidité ou de l'alcalinité du sol, exprimée sur une échelle logarithmique (pH), essentielle pour l'absorption des nutriments par les racines."
+  },
+  "Température": {
+    "BT": [
+      "climat"
+    ],
+    "NT": [
+      "gel"
+    ],
+    "RT": [
+      "chaud",
+      "froid",
+      "chaleur",
+      "thermique",
+      "atmosphre",
+      "microclimat",
+      "thermophile",
+      "thermomtre",
+      "thermistance",
+      "thermocouple",
+      "stress",
+      "hivernage",
+      "estival",
+      "printanier",
+      "automne",
+      "climatique"
+    ],
+    "UF": [
+      "Température ambiante",
+      "Température du sol",
+      "Température de l'air",
+      "Chaleur",
+      "Froid"
+    ],
+    "SN": "Degré de chaleur ou de froideur de l'environnement, affectant les processus physiologiques des plantes comme la germination, la croissance et la floraison."
+  },
+  "Humidité ambiante": {
+    "BT": [
+      "humidit"
+    ],
+    "NT": [],
+    "RT": [
+      "air",
+      "atmosphre",
+      "hygromtrie",
+      "hygromtrique",
+      "vaporisation",
+      "feuillage",
+      "transpiration",
+      "hygromtre"
+    ],
+    "UF": [
+      "Humidité de l'air",
+      "Hygrométrie",
+      "Taux d'humidité",
+      "Humidité atmosphérique"
+    ],
+    "SN": "Teneur en vapeur d'eau présente dans l'atmosphère autour des plantes, influençant la transpiration et le risque de maladies fongiques."
+  },
+  "Engrais / nutrition NPK": {
+    "BT": [
+      "engrais",
+      "nutrition"
+    ],
+    "NT": [
+      "npk",
+      "macronutriment",
+      "micronutriment",
+      "azote",
+      "phosphore",
+      "potassium",
+      "calcium",
+      "magnsium",
+      "bore",
+      "fer",
+      "manganse",
+      "zinc",
+      "fumier",
+      "compost",
+      "guano"
+    ],
+    "RT": [
+      "fertilisation",
+      "fertiliser",
+      "amendement",
+      "carence",
+      "fertigation"
+    ],
+    "UF": [
+      "Fertilisation",
+      "Apport nutritif",
+      "NPK",
+      "Alimentation des plantes",
+      "Nutriments"
+    ],
+    "SN": "Apport de substances, organiques ou minérales, pour enrichir le sol en nutriments essentiels (Azote, Phosphore, Potassium, etc.) et soutenir la croissance des plantes."
+  },
+  "Rempotage": {
+    "BT": [
+      "plantation"
+    ],
+    "NT": [
+      "empotage"
+    ],
+    "RT": [
+      "rempoter",
+      "pot",
+      "substrat",
+      "sol",
+      "racine",
+      "racinaire",
+      "croissance",
+      "dpotage"
+    ],
+    "UF": [
+      "Changer de pot",
+      "Transplanter",
+      "Transplantation en pot",
+      "Rempotage des plantes"
+    ],
+    "SN": "Action de transférer une plante d'un pot à un autre, généralement plus grand, ou de renouveler son substrat, favorisant ainsi son développement racinaire et sa croissance."
+  },
+  "Plantation (mise en terre / pot)": {
+    "BT": [
+      "culture"
+    ],
+    "NT": [
+      "semis",
+      "replantation",
+      "empotage"
+    ],
+    "RT": [
+      "planter",
+      "plant",
+      "sol",
+      "pot",
+      "terre",
+      "trou",
+      "plantule",
+      "graine",
+      "dpotage"
+    ],
+    "UF": [
+      "Mise en terre",
+      "Mise en pot",
+      "Semis",
+      "Repiquage",
+      "Installation des plantes"
+    ],
+    "SN": "Opération consistant à mettre en place une plante, une graine ou une plantule dans le sol ou un contenant (pot) afin qu'elle puisse s'y développer."
+  },
+  "Drainage": {
+    "BT": [
+      "gestion"
+    ],
+    "NT": [],
+    "RT": [
+      "drainer",
+      "drainant",
+      "eau",
+      "excs",
+      "engorgement",
+      "anoxie",
+      "sol",
+      "substrat",
+      "poreux",
+      "porosit",
+      "gravier",
+      "perlite",
+      "pouzzolane",
+      "humidit"
+    ],
+    "UF": [
+      "Évacuation de l'eau",
+      "Égouttement",
+      "Perméabilité du sol",
+      "Capacité de drainage"
+    ],
+    "SN": "Processus d'élimination de l'excès d'eau du sol ou du substrat, essentiel pour prévenir l'asphyxie racinaire et la pourriture."
+  },
+  "Propagation / reproduction": {
+    "BT": [
+      "dveloppement",
+      "biologie"
+    ],
+    "NT": [
+      "bouturage",
+      "bouture",
+      "semis",
+      "marcottage",
+      "greffage",
+      "greffe",
+      "division"
+    ],
+    "RT": [
+      "propager",
+      "reproduire",
+      "graine",
+      "sexuer",
+      "asexu",
+      "rhizome",
+      "bulbe",
+      "plantule"
+    ],
+    "UF": [
+      "Multiplication végétale",
+      "Reproduction des plantes",
+      "Bouturage",
+      "Marcottage",
+      "Semis"
+    ],
+    "SN": "Ensemble des méthodes permettant d'obtenir de nouvelles plantes à partir d'une plante mère, que ce soit par voie sexuée (graines) ou asexuée (boutures, divisions, etc.)."
+  },
+  "Taille et élagage": {
+    "BT": [
+      "entretien"
+    ],
+    "NT": [],
+    "RT": [
+      "tailler",
+      "coupe",
+      "couper",
+      "cisaille",
+      "scateur",
+      "branche",
+      "rameau",
+      "cicatrisation",
+      "arbre",
+      "arbuste"
+    ],
+    "UF": [
+      "Pruning",
+      "Ébranchage",
+      "Émondage",
+      "Coupe des branches",
+      "Entretien des végétaux"
+    ],
+    "SN": "Opérations consistant à couper sélectivement des parties d'une plante (branches, tiges) pour contrôler sa forme, sa croissance, sa floraison ou sa fructification."
+  },
+  "Maladies fongiques": {
+    "BT": [
+      "maladie",
+      "champignon"
+    ],
+    "NT": [
+      "botrytis",
+      "mildiou",
+      "odium",
+      "fusariose",
+      "phytophthora",
+      "pythium",
+      "armillaria",
+      "fumagine",
+      "rouille"
+    ],
+    "RT": [
+      "antifongique",
+      "oomycte",
+      "cryptogamique",
+      "pathogne",
+      "infection"
+    ],
+    "UF": [
+      "Mycoses des plantes",
+      "Fongoses",
+      "Infections fongiques",
+      "Moisissures"
+    ],
+    "SN": "Affections des plantes causées par des champignons phytopathogènes, pouvant entraîner des symptômes variés comme des taches, des pourritures ou un flétrissement."
+  },
+  "Parasites courants": {
+    "BT": [
+      "parasite",
+      "insecte",
+      "ravageur"
+    ],
+    "NT": [
+      "acarien",
+      "puceron",
+      "cochenille",
+      "aleurode",
+      "thrips",
+      "araigne",
+      "sciaride",
+      "nmatode",
+      "chenille"
+    ],
+    "RT": [
+      "nuisible",
+      "insecticide",
+      "biopesticide",
+      "lutte",
+      "infestation",
+      "symptme",
+      "piqre"
+    ],
+    "UF": [
+      "Nuisibles",
+      "Ravageurs des cultures",
+      "Insectes ravageurs",
+      "Pests"
+    ],
+    "SN": "Organismes (insectes, acariens, nématodes, etc.) qui se nourrissent ou vivent aux dépens des plantes, causant des dégâts et affaiblissant leur vitalité."
+  },
+  "Toxicité (humains & animaux)": {
+    "BT": [
+      "danger",
+      "sant"
+    ],
+    "NT": [],
+    "RT": [
+      "toxique",
+      "poison",
+      "ingestion",
+      "animal",
+      "humain",
+      "intoxication",
+      "symptme",
+      "fatal",
+      "mortel",
+      "ricine",
+      "atropin",
+      "scopolamin",
+      "cardnolide"
+    ],
+    "UF": [
+      "Plantes toxiques",
+      "Danger pour la santé",
+      "Poisoning",
+      "Intoxication végétale"
+    ],
+    "SN": "Capacité d'une substance ou d'une plante à provoquer des effets nocifs ou mortels chez les humains et les animaux suite à l'exposition (ingestion, contact, etc.)."
+  },
+  "Croissance et développement": {
+    "BT": [
+      "physiologie"
+    ],
+    "NT": [
+      "germination",
+      "floraison",
+      "fructification",
+      "maturation",
+      "snescence"
+    ],
+    "RT": [
+      "crotre",
+      "dvelopper",
+      "cycle",
+      "morphologie",
+      "hormone",
+      "nutrition",
+      "lumire",
+      "temprature",
+      "humidit",
+      "eau"
+    ],
+    "UF": [
+      "Physiologie végétale",
+      "Cycle végétatif",
+      "Phases de croissance",
+      "Développement végétal"
+    ],
+    "SN": "Ensemble des processus biologiques qui régissent l'augmentation de la taille et de la masse d'une plante (croissance) et les changements structuraux et fonctionnels qu'elle subit au cours de son cycle de vie (développement)."
+  },
+  "Stress hydrique / thermique / lumineux": {
+    "BT": [
+      "stress"
+    ],
+    "NT": [
+      "hydrique",
+      "thermique",
+      "lumineux",
+      "scheresse",
+      "gel"
+    ],
+    "RT": [
+      "eau",
+      "chaleur",
+      "froid",
+      "lumire",
+      "excessif",
+      "dficit",
+      "ralentissement",
+      "brlur",
+      "fltrissement",
+      "dormance"
+    ],
+    "UF": [
+      "Stress environnemental",
+      "Adaptation au stress",
+      "Tolérance au stress",
+      "Dérèglement climatique"
+    ],
+    "SN": "Conditions environnementales défavorables (manque ou excès d'eau, températures extrêmes, lumière insuffisante ou excessive) qui entravent la croissance et le fonctionnement normal des plantes."
+  },
+  "Cycle de vie (annuelle / vivace / arbuste...)": {
+    "BT": [
+      "biologie",
+      "vgtal"
+    ],
+    "NT": [
+      "annuel",
+      "vivace",
+      "arbuste",
+      "arbre",
+      "bisannuel"
+    ],
+    "RT": [
+      "cycle",
+      "vie",
+      "croissance",
+      "dveloppement",
+      "dormance",
+      "floraison",
+      "reproduction"
+    ],
+    "UF": [
+      "Durée de vie des plantes",
+      "Période végétative",
+      "Types de plantes selon le cycle"
+    ],
+    "SN": "Séquence des étapes de développement qu'une plante traverse, de la graine à la production de nouvelles graines, caractérisée par sa durée (annuelle, bisannuelle, vivace) et son port (herbace, arbuste, arbre)."
+  },
+  "Origine géographique & biomes": {
+    "BT": [
+      "origine",
+      "environnement"
+    ],
+    "NT": [
+      "biome",
+      "biomes",
+      "continental",
+      "dsertique",
+      "tropical",
+      "subtropical",
+      "alpin",
+      "mditerranen"
+    ],
+    "RT": [
+      "habitat",
+      "rgion",
+      "environnement",
+      "adaptation",
+      "endmique",
+      "aride"
+    ],
+    "UF": [
+      "Habitat naturel",
+      "Distribution géographique",
+      "Zone climatique",
+      "Écosystème"
+    ],
+    "SN": "Lieu d'où une espèce végétale est native et les grandes zones écologiques (biomes) caractérisées par leur climat et leur végétation typique, influençant les exigences culturales de la plante."
+  },
+  "Technologies horticoles modernes (LED, capteurs, hydroponie…)": {
+    "BT": [
+      "technologie",
+      "horticulture"
+    ],
+    "NT": [
+      "led",
+      "capteur",
+      "hydroponie",
+      "aroponie",
+      "iot",
+      "tensiomtre",
+      "hygromtre",
+      "thermomtre",
+      "conductimtre",
+      "luxmtre"
+    ],
+    "RT": [
+      "agtech",
+      "automatisation",
+      "logiciel",
+      "culture",
+      "environnement",
+      "contrle",
+      "numrique",
+      "arduino",
+      "raspberry",
+      "ph",
+      "automatiser",
+      "monitoring"
+    ],
+    "UF": [
+      "AgTech",
+      "Horticulture de précision",
+      "Smart farming",
+      "Agriculture connectée",
+      "Hydroponics",
+      "LED lighting",
+      "Sensors"
+    ],
+    "SN": "Ensemble des outils et méthodes innovants, basés sur la science et l'ingénierie, utilisés pour optimiser la production, le suivi et la gestion des cultures horticoles."
+  }
+}

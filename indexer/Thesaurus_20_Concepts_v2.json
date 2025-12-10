@@ -1,0 +1,1473 @@
+{
+  "arrosage": {
+    "BT": [
+      "Entretien"
+    ],
+    "NT": [
+      "irrigation",
+      "aspersion",
+      "drip"
+    ],
+    "RT": [
+      "eau",
+      "humidit",
+      "sol"
+    ],
+    "UF": [
+      "سقي (safi)",
+      "watering",
+      "action d'arroser les plantes",
+      "apport hydrique",
+      "gestion de l'eau"
+    ],
+    "SN": "Procédé consistant à apporter de l'eau aux plantes pour leur hydratation et leur croissance."
+  },
+  "irrigation": {
+    "BT": [
+      "arrosage"
+    ],
+    "NT": [
+      "fertigation"
+    ],
+    "RT": [
+      "systme",
+      "eau",
+      "conduire"
+    ],
+    "UF": [
+      "irrigation des plantes",
+      "système d'arrosage",
+      "goutte-à-goutte"
+    ],
+    "SN": "Application artificielle d'eau au sol pour faciliter la croissance des cultures."
+  },
+  "aspersion": {
+    "BT": [
+      "arrosage"
+    ],
+    "NT": [],
+    "RT": [
+      "brumisation",
+      "pluie",
+      "eau"
+    ],
+    "UF": [
+      "arrosage par aspersion",
+      "sprinklage",
+      "jet d'eau"
+    ],
+    "SN": "Méthode d'arrosage simulant la pluie, par projection d'eau en fines gouttelettes."
+  },
+  "drip": {
+    "BT": [
+      "irrigation"
+    ],
+    "NT": [],
+    "RT": [
+      "arrosage",
+      "goutte"
+    ],
+    "UF": [
+      "goutte à goutte",
+      "drip system",
+      "arrosage localisé"
+    ],
+    "SN": "Technique d'arrosage économe en eau, distribuant des gouttes directement à la base des plantes."
+  },
+  "luminosit": {
+    "BT": [
+      "Environnement"
+    ],
+    "NT": [
+      "intense",
+      "faible"
+    ],
+    "RT": [
+      "lumire",
+      "exposition",
+      "photosynthse"
+    ],
+    "UF": [
+      "intensité lumineuse",
+      "clarté",
+      "niveau de lumière"
+    ],
+    "SN": "Mesure de l'intensité de la lumière disponible pour les plantes, essentielle à leur croissance."
+  },
+  "lumire": {
+    "BT": [
+      "luminosit"
+    ],
+    "NT": [
+      "artificiel",
+      "solaire"
+    ],
+    "RT": [
+      "photon",
+      "spectre",
+      "clairage"
+    ],
+    "UF": [
+      "lumière du jour",
+      "éclairage",
+      "ضو (daw)"
+    ],
+    "SN": "Rayonnement électromagnétique visible, source d'énergie pour la photosynthèse."
+  },
+  "exposition": {
+    "BT": [
+      "luminosit"
+    ],
+    "NT": [],
+    "RT": [
+      "emplacement",
+      "orientation",
+      "soleil"
+    ],
+    "UF": [
+      "exposition solaire",
+      "ensoleillement",
+      "localisation lumineuse"
+    ],
+    "SN": "Degré d'accès d'une plante à la lumière naturelle ou artificielle."
+  },
+  "soleil": {
+    "BT": [
+      "lumire"
+    ],
+    "NT": [],
+    "RT": [
+      "chaleur",
+      "rayonnement",
+      "hliophile"
+    ],
+    "UF": [
+      "rayon de soleil",
+      "lumière naturelle",
+      "شمس (chams)"
+    ],
+    "SN": "Étoile centrale du système solaire, source primaire de lumière et de chaleur pour la vie végétale."
+  },
+  "sol": {
+    "BT": [
+      "Environnement"
+    ],
+    "NT": [
+      "argileux",
+      "sableux",
+      "calcaire"
+    ],
+    "RT": [
+      "substrat",
+      "ph",
+      "nutrition"
+    ],
+    "UF": [
+      "terre",
+      "terreau",
+      "milieu de culture",
+      "تربة (tourba)"
+    ],
+    "SN": "Couche superficielle de la Terre où les plantes s'enracinent et trouvent leurs nutriments."
+  },
+  "substrat": {
+    "BT": [
+      "sol"
+    ],
+    "NT": [
+      "terreau",
+      "perlite",
+      "sphaigne"
+    ],
+    "RT": [
+      "drainage",
+      "rempotage",
+      "motte"
+    ],
+    "UF": [
+      "mélange de culture",
+      "milieu de croissance",
+      "compost"
+    ],
+    "SN": "Matériau supportant les plantes et fournissant nutriments, eau et ancrage."
+  },
+  "terreau": {
+    "BT": [
+      "substrat"
+    ],
+    "NT": [],
+    "RT": [
+      "compost",
+      "humus",
+      "organique"
+    ],
+    "UF": [
+      "terre végétale",
+      "potting soil",
+      "mélange terreux"
+    ],
+    "SN": "Mélange de terre et de matières organiques, riche en nutriments pour la culture."
+  },
+  "argileux": {
+    "BT": [
+      "sol"
+    ],
+    "NT": [],
+    "RT": [
+      "lourd",
+      "compact",
+      "rtention"
+    ],
+    "UF": [
+      "terre argileuse",
+      "sol lourd"
+    ],
+    "SN": "Type de sol caractérisé par une forte proportion d'argile, retenant bien l'eau mais pouvant être compact."
+  },
+  "ph": {
+    "BT": [
+      "Proprit"
+    ],
+    "NT": [
+      "acide",
+      "basique"
+    ],
+    "RT": [
+      "sol",
+      "acidit",
+      "alcalinit"
+    ],
+    "UF": [
+      "potentiel hydrogène",
+      "niveau d'acidité",
+      "PH"
+    ],
+    "SN": "Mesure de l'acidité ou de l'alcalinité d'un sol ou d'une solution, impactant la disponibilité des nutriments."
+  },
+  "acidit": {
+    "BT": [
+      "ph"
+    ],
+    "NT": [
+      "acidification"
+    ],
+    "RT": [
+      "acidophile",
+      "tourbe",
+      "sol"
+    ],
+    "UF": [
+      "sol acide",
+      "faible pH",
+      "acidose"
+    ],
+    "SN": "Caractéristique d'un milieu ayant un pH inférieur à 7."
+  },
+  "alcalinit": {
+    "BT": [
+      "ph"
+    ],
+    "NT": [
+      "alcalinisation"
+    ],
+    "RT": [
+      "alcalin",
+      "calcaire",
+      "sol"
+    ],
+    "UF": [
+      "sol alcalin",
+      "pH élevé",
+      "basicité"
+    ],
+    "SN": "Caractéristique d'un milieu ayant un pH supérieur à 7."
+  },
+  "acidophile": {
+    "BT": [
+      "Plante"
+    ],
+    "NT": [],
+    "RT": [
+      "acidit",
+      "sol",
+      "tourbe"
+    ],
+    "UF": [
+      "plante de terre de bruyère",
+      "amateur d'acide",
+      "héliophile"
+    ],
+    "SN": "Plante qui se développe de préférence dans des sols acides."
+  },
+  "temprature": {
+    "BT": [
+      "Environnement"
+    ],
+    "NT": [
+      "optimal",
+      "minimal"
+    ],
+    "RT": [
+      "humidit",
+      "chaleur",
+      "froid"
+    ],
+    "UF": [
+      "degré de chaleur",
+      "température ambiante",
+      "درجة الحرارة (darajat al harara)"
+    ],
+    "SN": "Mesure du degré de chaleur ou de froid d'un milieu, influençant les processus biologiques des plantes."
+  },
+  "chaleur": {
+    "BT": [
+      "temprature"
+    ],
+    "NT": [
+      "canicule"
+    ],
+    "RT": [
+      "stress thermique",
+      "soleil",
+      "brlure"
+    ],
+    "UF": [
+      "haute température",
+      "coup de chaud",
+      "حرارة (harara)"
+    ],
+    "SN": "Énergie thermique élevée pouvant affecter la physiologie des plantes."
+  },
+  "froid": {
+    "BT": [
+      "temprature"
+    ],
+    "NT": [
+      "gel"
+    ],
+    "RT": [
+      "hiver",
+      "stress thermique",
+      "dormance"
+    ],
+    "UF": [
+      "basse température",
+      "gelée",
+      "برد (bard)"
+    ],
+    "SN": "Température basse pouvant induire un stress ou un ralentissement du métabolisme végétal."
+  },
+  "stress thermique": {
+    "BT": [
+      "stress"
+    ],
+    "NT": [],
+    "RT": [
+      "chaleur",
+      "froid",
+      "temprature"
+    ],
+    "UF": [
+      "choc thermique",
+      "stress par le froid",
+      "stress par la chaleur"
+    ],
+    "SN": "Réaction physiologique des plantes à des températures extrêmes ou à des variations brusques de température."
+  },
+  "humidit": {
+    "BT": [
+      "Environnement"
+    ],
+    "NT": [
+      "ambiante",
+      "du sol"
+    ],
+    "RT": [
+      "arrosage",
+      "hygromtrie",
+      "eau"
+    ],
+    "UF": [
+      "humidité de l'air",
+      "taux d'humidité",
+      "رطوبة (rotouba)"
+    ],
+    "SN": "Quantité de vapeur d'eau présente dans l'air ou de teneur en eau du sol."
+  },
+  "hygromtrie": {
+    "BT": [
+      "humidit"
+    ],
+    "NT": [],
+    "RT": [
+      "capteur",
+      "mesure",
+      "air"
+    ],
+    "UF": [
+      "humidité relative",
+      "taux d'humidité de l'air",
+      "capteur d'humidité"
+    ],
+    "SN": "Mesure du degré d'humidité de l'air."
+  },
+  "brumisation": {
+    "BT": [
+      "humidification"
+    ],
+    "NT": [],
+    "RT": [
+      "humidit",
+      "pulvriser",
+      "eau"
+    ],
+    "UF": [
+      "vaporisation d'eau",
+      "spray d'eau",
+      "nébulisation"
+    ],
+    "SN": "Technique consistant à diffuser de fines gouttelettes d'eau dans l'air pour augmenter l'humidité ambiante."
+  },
+  "atmosphre": {
+    "BT": [
+      "Environnement"
+    ],
+    "NT": [],
+    "RT": [
+      "air",
+      "humidit",
+      "temprature"
+    ],
+    "UF": [
+      "air ambiant",
+      "ambiance",
+      "atmosphère terrestre"
+    ],
+    "SN": "Enveloppe gazeuse entourant la Terre, dont la composition et les conditions influencent la croissance végétale."
+  },
+  "engrais": {
+    "BT": [
+      "Nutrition"
+    ],
+    "NT": [
+      "organique",
+      "chimique"
+    ],
+    "RT": [
+      "npk",
+      "sol",
+      "nutritionnel"
+    ],
+    "UF": [
+      "fertilisant",
+      "amendement",
+      "سماد (smad)"
+    ],
+    "SN": "Substance apportée au sol ou aux plantes pour améliorer leur croissance et leur rendement."
+  },
+  "nutrition": {
+    "BT": [
+      "Physiologie"
+    ],
+    "NT": [
+      "minral",
+      "foliaire"
+    ],
+    "RT": [
+      "engrais",
+      "croissance",
+      "nutriment"
+    ],
+    "UF": [
+      "alimentation des plantes",
+      "apport nutritif",
+      "fertilisation"
+    ],
+    "SN": "Processus par lequel une plante absorbe et utilise les nutriments pour son développement."
+  },
+  "npk": {
+    "BT": [
+      "engrais"
+    ],
+    "NT": [],
+    "RT": [
+      "azote",
+      "phosphore",
+      "potassium"
+    ],
+    "UF": [
+      "NPK engrais",
+      "engrais complet",
+      "composés nutritifs"
+    ],
+    "SN": "Acronyme désignant les trois macronutriments essentiels pour les plantes : Azote (N), Phosphore (P), Potassium (K)."
+  },
+  "azote": {
+    "BT": [
+      "nutriment"
+    ],
+    "NT": [],
+    "RT": [
+      "croissance",
+      "npk",
+      "protine"
+    ],
+    "UF": [
+      "N",
+      "nitrate",
+      "urée"
+    ],
+    "SN": "Macronutriment essentiel à la croissance végétative des plantes, constituant des protéines et de la chlorophylle."
+  },
+  "rempotage": {
+    "BT": [
+      "Entretien"
+    ],
+    "NT": [],
+    "RT": [
+      "substrat",
+      "pot",
+      "racine"
+    ],
+    "UF": [
+      "changer de pot",
+      "transpotage",
+      "repotting",
+      "تبديل الأصيص (tabdil al assiss)"
+    ],
+    "SN": "Action de transférer une plante d'un pot à un autre, généralement plus grand, avec un nouveau substrat."
+  },
+  "rempoter": {
+    "BT": [
+      "rempotage"
+    ],
+    "NT": [],
+    "RT": [
+      "dpotage",
+      "substrat",
+      "pot"
+    ],
+    "UF": [
+      "transplanter en pot",
+      "replanter en pot",
+      "changer de contenant"
+    ],
+    "SN": "Effectuer l'action de rempotage pour une plante."
+  },
+  "dpotage": {
+    "BT": [
+      "rempotage"
+    ],
+    "NT": [],
+    "RT": [
+      "extraire",
+      "racine",
+      "motte"
+    ],
+    "UF": [
+      "dépotage",
+      "retirer du pot",
+      "dépoter"
+    ],
+    "SN": "Action de retirer une plante de son pot d'origine."
+  },
+  "plantation": {
+    "BT": [
+      "Horticulture"
+    ],
+    "NT": [
+      "semis",
+      "repiquage"
+    ],
+    "RT": [
+      "sol",
+      "planter",
+      "pot"
+    ],
+    "UF": [
+      "mise en terre",
+      "empotage",
+      "planting",
+      "غرس (ghars)"
+    ],
+    "SN": "Action de mettre une plante ou une graine en terre ou en pot pour sa croissance."
+  },
+  "planter": {
+    "BT": [
+      "plantation"
+    ],
+    "NT": [],
+    "RT": [
+      "terre",
+      "racine",
+      "graine"
+    ],
+    "UF": [
+      "mettre en terre",
+      "cultiver",
+      "enraciner"
+    ],
+    "SN": "Action d'insérer une plante ou une graine dans le sol ou un substrat."
+  },
+  "semis": {
+    "BT": [
+      "plantation"
+    ],
+    "NT": [],
+    "RT": [
+      "graine",
+      "germination",
+      "plantule"
+    ],
+    "UF": [
+      "semence",
+      "semer",
+      "sowing"
+    ],
+    "SN": "Action de déposer des graines dans le sol ou un substrat pour qu'elles germent."
+  },
+  "pot": {
+    "BT": [
+      "Contenant"
+    ],
+    "NT": [],
+    "RT": [
+      "rempotage",
+      "substrat",
+      "plante"
+    ],
+    "UF": [
+      "contenant de plante",
+      "jardinière",
+      " أصيص (assis)"
+    ],
+    "SN": "Récipient utilisé pour cultiver une plante, généralement de petite taille."
+  },
+  "drainage": {
+    "BT": [
+      "sol"
+    ],
+    "NT": [
+      "gravitaire",
+      "capillaire"
+    ],
+    "RT": [
+      "substrat",
+      "eau",
+      "engorgement"
+    ],
+    "UF": [
+      "évacuation d'eau",
+      "perméabilité du sol",
+      "égouttement"
+    ],
+    "SN": "Capacité d'un sol ou d'un substrat à évacuer l'excès d'eau."
+  },
+  "drainant": {
+    "BT": [
+      "Caractristique"
+    ],
+    "NT": [],
+    "RT": [
+      "sol",
+      "poreux",
+      "substrat"
+    ],
+    "UF": [
+      "bien drainé",
+      "filtrant",
+      "perméable"
+    ],
+    "SN": "Qualifie un sol ou substrat qui permet une bonne évacuation de l'eau."
+  },
+  "engorgement": {
+    "BT": [
+      "Problme"
+    ],
+    "NT": [],
+    "RT": [
+      "eau",
+      "anoxie",
+      "racine"
+    ],
+    "UF": [
+      "excès d'eau",
+      "sol gorgé d'eau",
+      "sur-arrosage"
+    ],
+    "SN": "Saturation du sol en eau, entraînant un manque d'oxygène pour les racines."
+  },
+  "anoxie": {
+    "BT": [
+      "Stress"
+    ],
+    "NT": [],
+    "RT": [
+      "engorgement",
+      "racine",
+      "eau"
+    ],
+    "UF": [
+      "manque d'oxygène",
+      "hypoxie",
+      "asphyxie racinaire"
+    ],
+    "SN": "Absence totale d'oxygène, souvent causée par un excès d'eau dans le sol, néfaste pour les racines."
+  },
+  "propagation": {
+    "BT": [
+      "Multiplication"
+    ],
+    "NT": [
+      "bouturage",
+      "semis",
+      "greffage"
+    ],
+    "RT": [
+      "reproduction",
+      "bouture",
+      "graine"
+    ],
+    "UF": [
+      "multiplication végétale",
+      "reproduction des plantes",
+      "propager"
+    ],
+    "SN": "Méthode de création de nouvelles plantes à partir de plantes existantes."
+  },
+  "reproduction": {
+    "BT": [
+      "Biologie"
+    ],
+    "NT": [
+      "sexue",
+      "asexue"
+    ],
+    "RT": [
+      "propagation",
+      "graine",
+      "floraison"
+    ],
+    "UF": [
+      "procréation végétale",
+      "cycle reproductif",
+      "تكاثر (takathur)"
+    ],
+    "SN": "Processus biologique permettant aux organismes de donner naissance à de nouveaux individus."
+  },
+  "bouturage": {
+    "BT": [
+      "propagation"
+    ],
+    "NT": [],
+    "RT": [
+      "bouture",
+      "enracinement",
+      "tige"
+    ],
+    "UF": [
+      "faire des boutures",
+      "coupe de bouture",
+      "cuttings"
+    ],
+    "SN": "Technique de multiplication végétative utilisant des fragments de plante (boutures)."
+  },
+  "greffage": {
+    "BT": [
+      "propagation"
+    ],
+    "NT": [],
+    "RT": [
+      "greffe",
+      "greffon",
+      "porte"
+    ],
+    "UF": [
+      "greffer",
+      "technique de greffe",
+      "marcottage"
+    ],
+    "SN": "Opération chirurgicale végétale consistant à souder une partie d'une plante (greffon) sur une autre (porte-greffe)."
+  },
+  "taille": {
+    "BT": [
+      "Entretien"
+    ],
+    "NT": [
+      "lagage",
+      "pincement"
+    ],
+    "RT": [
+      "tailler",
+      "branche",
+      "lague"
+    ],
+    "UF": [
+      "élagage",
+      "coupe",
+      "pruning",
+      "تقليم (taqlim)"
+    ],
+    "SN": "Action de couper des parties d'une plante pour améliorer sa forme, sa santé ou sa fructification."
+  },
+  "lagage": {
+    "BT": [
+      "taille"
+    ],
+    "NT": [],
+    "RT": [
+      "arbre",
+      "branche",
+      "couper"
+    ],
+    "UF": [
+      "élaguer",
+      "taille d'arbre",
+      "réduction de ramure"
+    ],
+    "SN": "Opération de taille visant à enlever les branches mortes, malades ou indésirables d'un arbre."
+  },
+  "tailler": {
+    "BT": [
+      "taille"
+    ],
+    "NT": [],
+    "RT": [
+      "couper",
+      "scateur",
+      "branch"
+    ],
+    "UF": [
+      "élaguer",
+      "réduire",
+      "former"
+    ],
+    "SN": "Exécuter l'action de couper des parties de la plante."
+  },
+  "branche": {
+    "BT": [
+      "Organe"
+    ],
+    "NT": [],
+    "RT": [
+      "tige",
+      "feuill",
+      "arbre"
+    ],
+    "UF": [
+      "ramification",
+      "rameau",
+      "شعبة (shou'ba)"
+    ],
+    "SN": "Partie ligneuse secondaire issue du tronc ou d'une autre branche d'un arbre ou arbuste."
+  },
+  "maladie": {
+    "BT": [
+      "Pathologie"
+    ],
+    "NT": [
+      "fongique",
+      "virale"
+    ],
+    "RT": [
+      "parasite",
+      "symptme",
+      "infection"
+    ],
+    "UF": [
+      "affection végétale",
+      "pathologie",
+      "disease",
+      "مرض (marad)"
+    ],
+    "SN": "Altération de la santé d'une plante due à un agent pathogène ou à un désordre physiologique."
+  },
+  "fongique": {
+    "BT": [
+      "maladie"
+    ],
+    "NT": [
+      "mildiou",
+      "odium",
+      "botrytis"
+    ],
+    "RT": [
+      "champignon",
+      "humidit",
+      "cryptogamique"
+    ],
+    "UF": [
+      "maladie cryptogamique",
+      "infection fongique",
+      "mycose végétale"
+    ],
+    "SN": "Qui est causé par un champignon."
+  },
+  "champignon": {
+    "BT": [
+      "Organisme"
+    ],
+    "NT": [
+      "pathogne",
+      "bnfique"
+    ],
+    "RT": [
+      "fongique",
+      "moisissure",
+      "mycorhizien"
+    ],
+    "UF": [
+      "fungi",
+      "organisme fongique",
+      "فطر (fitr)"
+    ],
+    "SN": "Organisme eucaryote hétérotrophe, pouvant être pathogène pour les plantes."
+  },
+  "mildiou": {
+    "BT": [
+      "maladie fongique"
+    ],
+    "NT": [],
+    "RT": [
+      "oomycte",
+      "humidit",
+      "feuille"
+    ],
+    "UF": [
+      "mildew",
+      "mildiou de la vigne",
+      "pourriture"
+    ],
+    "SN": "Maladie cryptogamique causée par un oomycète, affectant principalement les feuilles et les fruits."
+  },
+  "parasite": {
+    "BT": [
+      "Bioagresseur"
+    ],
+    "NT": [
+      "insecte",
+      "acarien",
+      "nmatode"
+    ],
+    "RT": [
+      "maladie",
+      "infestation",
+      "ravageur"
+    ],
+    "UF": [
+      "nuisible",
+      "organisme nuisible",
+      "pest",
+      "طفيلي (toufayli)"
+    ],
+    "SN": "Organisme vivant aux dépens d'un autre (l'hôte) en lui causant préjudice."
+  },
+  "acarien": {
+    "BT": [
+      "parasite"
+    ],
+    "NT": [
+      "araigne"
+    ],
+    "RT": [
+      "feuille",
+      "tetranychu",
+      "miellat"
+    ],
+    "UF": [
+      "mite",
+      "tégénaire",
+      "araignée rouge"
+    ],
+    "SN": "Petit arthropode, souvent phytophage, causant des dégâts aux plantes."
+  },
+  "puceron": {
+    "BT": [
+      "parasite"
+    ],
+    "NT": [],
+    "RT": [
+      "miellat",
+      "cochenille",
+      "insecte"
+    ],
+    "UF": [
+      "aphid",
+      "puce des plantes",
+      "من (mann)"
+    ],
+    "SN": "Petit insecte suceur de sève, causant déformations et affaiblissement des plantes."
+  },
+  "bioagresseur": {
+    "BT": [
+      "Menace"
+    ],
+    "NT": [
+      "parasite",
+      "pathogne"
+    ],
+    "RT": [
+      "lutte",
+      "protection",
+      "ennemi"
+    ],
+    "UF": [
+      "agresseur biologique",
+      "pestes",
+      "maladie et parasite"
+    ],
+    "SN": "Organisme vivant causant des dégâts aux cultures ou aux plantes."
+  },
+  "toxicit": {
+    "BT": [
+      "Danger"
+    ],
+    "NT": [
+      "phyto",
+      "neurotoxique"
+    ],
+    "RT": [
+      "toxique",
+      "poison",
+      "intoxication"
+    ],
+    "UF": [
+      "toxicité végétale",
+      "dangerosité",
+      "poisonnement"
+    ],
+    "SN": "Caractère d'une substance capable de provoquer des effets nocifs sur un organisme vivant."
+  },
+  "toxique": {
+    "BT": [
+      "Substance"
+    ],
+    "NT": [],
+    "RT": [
+      "poison",
+      "toxicit",
+      "symptme"
+    ],
+    "UF": [
+      "poison",
+      "dangereux",
+      "vénimeux"
+    ],
+    "SN": "Qui a la capacité de provoquer des effets nocifs ou létaux sur les organismes vivants."
+  },
+  "poison": {
+    "BT": [
+      "toxique"
+    ],
+    "NT": [],
+    "RT": [
+      "intoxication",
+      "fatal",
+      "toxicit"
+    ],
+    "UF": [
+      "substance vénéneuse",
+      "toxine",
+      "سم (samm)"
+    ],
+    "SN": "Substance qui, même à faible dose, peut altérer gravement les fonctions vitales ou entraîner la mort."
+  },
+  "intoxication": {
+    "BT": [
+      "Effet"
+    ],
+    "NT": [],
+    "RT": [
+      "poison",
+      "symptme",
+      "animal"
+    ],
+    "UF": [
+      "empoisonnement",
+      "toxicose",
+      "réaction toxique"
+    ],
+    "SN": "Ensemble des troubles résultant de l'absorption d'une substance toxique."
+  },
+  "croissance": {
+    "BT": [
+      "Physiologie"
+    ],
+    "NT": [
+      "vgtaive",
+      "florale"
+    ],
+    "RT": [
+      "dveloppement",
+      "nutrition",
+      "lmet"
+    ],
+    "UF": [
+      "développement végétal",
+      "grandir",
+      "pousse"
+    ],
+    "SN": "Augmentation irréversible de la taille d'une plante ou de ses organes."
+  },
+  "dveloppement": {
+    "BT": [
+      "Biologie"
+    ],
+    "NT": [
+      "morphogense",
+      "ontogense"
+    ],
+    "RT": [
+      "croissance",
+      "cycle de vie",
+      "stade"
+    ],
+    "UF": [
+      "maturation",
+      "évolution",
+      "formation"
+    ],
+    "SN": "Ensemble des transformations qu'une plante subit depuis sa germination jusqu'à sa mort."
+  },
+  "floraison": {
+    "BT": [
+      "dveloppement"
+    ],
+    "NT": [],
+    "RT": [
+      "fleur",
+      "reproduction",
+      "fruit"
+    ],
+    "UF": [
+      "période de floraison",
+      "fleurir",
+      "blossom"
+    ],
+    "SN": "Période durant laquelle une plante produit ses fleurs."
+  },
+  "fructification": {
+    "BT": [
+      "dveloppement"
+    ],
+    "NT": [],
+    "RT": [
+      "fruit",
+      "rcolte",
+      "semence"
+    ],
+    "UF": [
+      "production de fruits",
+      "porter des fruits",
+      "maturation du fruit"
+    ],
+    "SN": "Processus de formation et de maturation des fruits après la floraison."
+  },
+  "stress": {
+    "BT": [
+      "Condition"
+    ],
+    "NT": [
+      "hydrique",
+      "thermique",
+      "lumineux"
+    ],
+    "RT": [
+      "adaptation",
+      "rsistance",
+      "anoxie"
+    ],
+    "UF": [
+      "contrainte environnementale",
+      "agression",
+      "choc"
+    ],
+    "SN": "Réponse physiologique d'une plante à des conditions environnementales défavorables."
+  },
+  "hydrique": {
+    "BT": [
+      "stress"
+    ],
+    "NT": [
+      "scheresse"
+    ],
+    "RT": [
+      "eau",
+      "desschement",
+      "humidit"
+    ],
+    "UF": [
+      "stress hydrique",
+      "manque d'eau",
+      "sécheresse physiologique"
+    ],
+    "SN": "Relatif à l'eau, souvent utilisé pour décrire un stress dû à un manque ou un excès d'eau."
+  },
+  "thermique": {
+    "BT": [
+      "stress"
+    ],
+    "NT": [
+      "brlure"
+    ],
+    "RT": [
+      "temprature",
+      "chaleur",
+      "froid"
+    ],
+    "UF": [
+      "stress thermique",
+      "stress dû à la température",
+      "régulation thermique"
+    ],
+    "SN": "Relatif à la chaleur ou au froid, souvent utilisé pour décrire un stress dû à des températures extrêmes."
+  },
+  "lumineux": {
+    "BT": [
+      "stress"
+    ],
+    "NT": [
+      "tiolement"
+    ],
+    "RT": [
+      "lumire",
+      "luminosit",
+      "brlure"
+    ],
+    "UF": [
+      "stress lumineux",
+      "manque de lumière",
+      "excès de lumière"
+    ],
+    "SN": "Relatif à la lumière, souvent utilisé pour décrire un stress dû à une intensité lumineuse inadéquate."
+  },
+  "cycle": {
+    "BT": [
+      "Priode"
+    ],
+    "NT": [
+      "annuel",
+      "vivace"
+    ],
+    "RT": [
+      "dveloppement",
+      "vie",
+      "stade"
+    ],
+    "UF": [
+      "cycle de vie",
+      "cycle biologique",
+      "période de vie",
+      "دورة الحياة (dawrat al hayat)"
+    ],
+    "SN": "Ensemble des phases successives et répétitives du développement d'une plante."
+  },
+  "annuel": {
+    "BT": [
+      "cycle"
+    ],
+    "NT": [],
+    "RT": [
+      "semis",
+      "graine",
+      "floraison"
+    ],
+    "UF": [
+      "plante annuelle",
+      "un an",
+      "cycle d'une année"
+    ],
+    "SN": "Qualifie une plante qui accomplit son cycle de vie complet (de la germination à la production de graines) en une seule saison de croissance."
+  },
+  "vivace": {
+    "BT": [
+      "cycle"
+    ],
+    "NT": [],
+    "RT": [
+      "longvit",
+      "persistant",
+      "arbuste"
+    ],
+    "UF": [
+      "plante vivace",
+      "pérenne",
+      "plusieurs années"
+    ],
+    "SN": "Qualifie une plante qui vit plusieurs années et fleurit généralement chaque année."
+  },
+  "arbuste": {
+    "BT": [
+      "Plante"
+    ],
+    "NT": [],
+    "RT": [
+      "arbre",
+      "ligneux",
+      "taille"
+    ],
+    "UF": [
+      "petit arbre",
+      "buisson",
+      "arbustif"
+    ],
+    "SN": "Plante ligneuse de taille moyenne, ramifiée dès la base, sans tronc principal marqué."
+  },
+  "origine": {
+    "BT": [
+      "Caractristique"
+    ],
+    "NT": [
+      "gographique",
+      "gntique"
+    ],
+    "RT": [
+      "habitat",
+      "adaptation",
+      "biome"
+    ],
+    "UF": [
+      "provenance",
+      "source",
+      "racine",
+      "أصل (asl)"
+    ],
+    "SN": "Lieu ou manière dont une plante est apparue ou d'où elle provient."
+  },
+  "géographique": {
+    "BT": [
+      "origine"
+    ],
+    "NT": [
+      "rgion"
+    ],
+    "RT": [
+      "biome",
+      "habitat",
+      "climat",
+      "gographique"
+    ],
+    "UF": [
+      "région d'origine",
+      "localisation géographique",
+      "distribution spatiale"
+    ],
+    "SN": "Relatif à la distribution spatiale ou à la localisation d'une plante."
+  },
+  "biome": {
+    "BT": [
+      "cosystme"
+    ],
+    "NT": [
+      "dsertique",
+      "tropical",
+      "montagneux"
+    ],
+    "RT": [
+      "habitat",
+      "climat",
+      "vgtation"
+    ],
+    "UF": [
+      "zone biogéographique",
+      "écosystème majeur",
+      "type de milieu"
+    ],
+    "SN": "Grande région écologique caractérisée par un climat et une végétation spécifiques."
+  },
+  "dsertique": {
+    "BT": [
+      "biome"
+    ],
+    "NT": [],
+    "RT": [
+      "aridit",
+      "xrophyte",
+      "sol"
+    ],
+    "UF": [
+      "milieu désertique",
+      "aride",
+      "zone sèche"
+    ],
+    "SN": "Relatif au désert, caractérisé par un climat sec et peu de végétation."
+  },
+  "technologie": {
+    "BT": [
+      "Innovation"
+    ],
+    "NT": [
+      "moderne",
+      "horticole"
+    ],
+    "RT": [
+      "capteur",
+      "automatisation",
+      "numrique"
+    ],
+    "UF": [
+      "outils modernes",
+      "avancée technique",
+      "tech",
+      "تقنية (taqniya)"
+    ],
+    "SN": "Application des connaissances scientifiques à des fins pratiques, notamment en horticulture."
+  },
+  "led": {
+    "BT": [
+      "clairage"
+    ],
+    "NT": [],
+    "RT": [
+      "lumire",
+      "photon",
+      "spectre"
+    ],
+    "UF": [
+      "diodes électroluminescentes",
+      "LED horticole",
+      "lumière LED"
+    ],
+    "SN": "Diode électroluminescente, utilisée pour l'éclairage horticole en raison de son efficacité et de son spectre ajustable."
+  },
+  "capteur": {
+    "BT": [
+      "Technologie"
+    ],
+    "NT": [
+      "humidit",
+      "temprature",
+      "lumire"
+    ],
+    "RT": [
+      "mesure",
+      "iot",
+      "automatisation"
+    ],
+    "UF": [
+      "sonde",
+      "détecteur",
+      "sensor"
+    ],
+    "SN": "Dispositif mesurant une grandeur physique (ex: humidité, température) et la convertissant en signal."
+  },
+  "hydroponie": {
+    "BT": [
+      "Culture"
+    ],
+    "NT": [
+      "aroponie"
+    ],
+    "RT": [
+      "eau",
+      "substrat",
+      "nutrition"
+    ],
+    "UF": [
+      "culture hors-sol",
+      "hydroculture",
+      "aquaponie"
+    ],
+    "SN": "Méthode de culture des plantes sans sol, où les racines sont immergées dans une solution nutritive aqueuse."
+  }
+}
