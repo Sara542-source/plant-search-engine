@@ -1,0 +1,200 @@
+{
+  "id": "55246",
+  "infos_generales": {
+    "nom_scientifique": "Lavandula angustifolia",
+    "nom_commun": "Lavande vraie",
+    "noms_darija": [
+      "Khzama",
+      "خزامى"
+    ],
+    "noms_alternatifs": [
+      "Lavande officinale",
+      "Lavande fine",
+      "Lavande à feuilles étroites"
+    ],
+    "famille": "Lamiaceae",
+    "genre": "Lavandula"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/010ffc8860641c73888c8664743f1527d284f258",
+    "https://bs.plantnet.org/image/o/bd4e8d4a5bd9ad754cc685c59b6170382d626cab",
+    "https://upload.wikimedia.org/wikipedia/commons/9/93/Lavandula-angustifolia-flowering.JPG"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Sol bien drainé, calcaire, voire pauvre",
+    "regions_origine": [
+      "Bassin méditerranéen (Europe du Sud)",
+      "Cultivée au Maroc"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Parfum floral et herbacé caractéristique, très apprécié",
+    "floraison": "Été (juin-août)",
+    "feuillage": "Persistant, gris-vert, linéaire",
+    "rusticite": "Très rustique (jusqu'à -15°C)"
+  },
+  "utilisations": {
+    "medicale": [
+      "Apaisant",
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Dermatologique",
+      "Respiratoire",
+      "Digestif"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Aromatique",
+      "Dessert"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec",
+      "Fleurs coupées"
+    ]
+  },
+  "source_data": {
+    "resume": "La lavande vraie (Lavandula angustifolia) est un arbrisseau aromatique méditerranéen, très apprécié pour ses fleurs violettes parfumées. Elle est largement cultivée au Maroc pour son huile essentielle et ses usages médicinaux, culinaires et décoratifs. Reconnaissable à son feuillage persistant gris-vert, elle préfère les sols bien drainés et le plein soleil, offrant une grande rusticité et une floraison estivale abondante.",
+    "texte_complet": {
+      "introduction": "Lavandula angustifolia, aussi appelée lavande vraie ou lavande officinale, est une espèce de plantes à fleurs de la famille des Lamiacées. C'est un sous-arbrisseau, parfois nommé lavande fine en raison de la finesse de son parfum. Elle est originaire des montagnes de Haute-Provence et peut atteindre une hauteur de 60 cm.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le sous-arbrisseau appelé lavande vraie est une plante vivace d'une hauteur d'environ 30 à 60 cm. Ses feuilles sont persistantes, linéaires ou oblancéolées, opposées, entières, de couleur vert-grisâtre à vert argenté, et tomenteuses. Elles mesurent entre 2 et 5 cm de long et sont aromatiques. Les fleurs hermaphrodites sont réunies en épis terminaux de 6 à 10 cm, le plus souvent ramifiés à leur base. Elles sont bilabiées, de couleur bleu-violet, et exhalent un parfum puissant et agréable. Le calice est persistant et glanduleux. La corolle, en tube, est velue. La floraison a lieu de juin à août, selon l'altitude et le climat. Les fruits sont des tétrakènes bruns, brillants et lisses.",
+          "children": [
+            {
+              "id": "caracteristiques",
+              "level": 2,
+              "title": "Caractéristiques",
+              "content": "La lavande vraie se distingue par ses feuilles étroites et son port compact. Elle est très rustique et supporte des températures négatives allant jusqu'à -15 °C. Elle se développe sur des sols calcaires, secs et bien drainés, en plein soleil. Sa longévité est généralement de 10 à 15 ans, mais elle peut parfois atteindre 20 ans.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "biologie",
+          "level": 1,
+          "title": "Biologie",
+          "content": "La lavande vraie est une plante mellifère, très appréciée des abeilles et autres pollinisateurs, contribuant ainsi à la biodiversité. Elle se reproduit principalement par graines ou par bouturage. La germination des graines est lente et irrégulière, tandis que le bouturage est une méthode plus courante et efficace pour la multiplication végétative.",
+          "children": []
+        },
+        {
+          "id": "ecologie",
+          "level": 1,
+          "title": "Écologie",
+          "content": "La lavande vraie est typique des garrigues et maquis méditerranéens, où elle pousse spontanément dans les zones montagneuses ensoleillées. Elle préfère les sols calcaires, secs et caillouteux. Sa capacité à résister à la sécheresse et à s'adapter aux sols pauvres en fait une espèce pionnière dans certains environnements dégradés. Elle est sensible à l'excès d'humidité, qui peut provoquer des maladies fongiques.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "La lavande vraie est cultivée depuis des siècles pour son huile essentielle. Elle est principalement plantée dans les régions méditerranéennes, en particulier en Provence, en Espagne, en Italie et dans certains pays d'Afrique du Nord comme le Maroc. La plantation s'effectue généralement au printemps ou à l'automne, en espaçant les plants d'environ 50 cm. Un sol bien drainé et une exposition en plein soleil sont essentiels. La taille s'effectue après la floraison pour maintenir une forme compacte et favoriser une floraison abondante l'année suivante. L'irrigation n'est généralement pas nécessaire après l'établissement des plants, sauf en période de sécheresse prolongée.",
+          "children": []
+        },
+        {
+          "id": "classification",
+          "level": 1,
+          "title": "Classification",
+          "content": "La Lavandula angustifolia appartient au genre Lavandula, qui regroupe une trentaine d'espèces de plantes à fleurs de la famille des Lamiacées. Elle est parfois confondue avec d'autres espèces de lavande, comme la lavande aspic (Lavandula latifolia) ou le lavandin (Lavandula × intermedia), un hybride stérile entre la lavande vraie et la lavande aspic.",
+          "children": [
+            {
+              "id": "noms_vernaculaires",
+              "level": 2,
+              "title": "Noms vernaculaires",
+              "content": "En français, elle est couramment appelée lavande vraie, lavande officinale ou lavande fine. Dans d'autres langues, elle est connue sous des noms variés : True Lavender (anglais), Echter Lavendel (allemand), Lavanda (espagnol, italien). Au Maroc, on la connaît souvent sous le nom générique de 'Khzama' (خزامى).",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "La lavande vraie est réputée pour ses multiples utilisations, notamment en médecine traditionnelle, en aromathérapie, en cosmétique et en cuisine, grâce à ses propriétés aromatiques et médicinales.",
+          "children": [
+            {
+              "id": "histoire",
+              "level": 2,
+              "title": "Histoire",
+              "content": "L'utilisation de la lavande remonte à l'Antiquité. Les Romains l'employaient pour parfumer leurs bains, d'où son nom lavandula, dérivé du verbe latin lavare (laver). Au Moyen Âge, elle était utilisée pour ses vertus antiseptiques et pour éloigner les insectes. Son usage s'est ensuite répandu en Europe, notamment en Provence, où sa culture a pris de l'ampleur.",
+              "children": []
+            },
+            {
+              "id": "pharmacologie",
+              "level": 2,
+              "title": "Pharmacologie",
+              "content": "L'huile essentielle de lavande vraie est riche en linalol et acétate de linalyle, des composés qui lui confèrent des propriétés anxiolytiques, sédatives, antispasmodiques, anti-inflammatoires et antiseptiques. Elle est souvent utilisée pour soulager le stress, l'insomnie, les maux de tête et les douleurs musculaires. Des études ont montré son efficacité pour la relaxation et la réduction de l'anxiété.",
+              "children": []
+            },
+            {
+              "id": "cosmetologie",
+              "level": 2,
+              "title": "Cosmétologie",
+              "content": "En cosmétique, l'huile essentielle de lavande est présente dans de nombreux produits : savons, lotions, crèmes, shampoings. Elle est appréciée pour son parfum agréable, ses propriétés purifiantes et apaisantes pour la peau. Elle peut aider à calmer les irritations et à favoriser la régénération cellulaire.",
+              "children": []
+            },
+            {
+              "id": "aromatherapie",
+              "level": 2,
+              "title": "Aromathérapie",
+              "content": "En aromathérapie, l'huile essentielle de lavande vraie est l'une des plus populaires et polyvalentes. Elle est utilisée en diffusion pour assainir l'air et créer une atmosphère relaxante, en massage diluée dans une huile végétale pour soulager les tensions, ou en inhalation pour dégager les voies respiratoires et favoriser le sommeil.",
+              "children": []
+            },
+            {
+              "id": "parfumerie",
+              "level": 2,
+              "title": "Parfumerie",
+              "content": "La lavande est un ingrédient clé en parfumerie, apportant une note fraîche, florale et herbacée. Elle est souvent utilisée dans les compositions masculines et féminines, seule ou en association avec d'autres essences. Son parfum classique et intemporel en fait une matière première très prisée des parfumeurs.",
+              "children": []
+            },
+            {
+              "id": "cuisine",
+              "level": 2,
+              "title": "Cuisine",
+              "content": "Les fleurs de lavande peuvent être utilisées en cuisine, avec parcimonie, pour aromatiser des desserts (crèmes brûlées, glaces), des sirops, des confitures, ou des plats salés méditerranéens. Elles apportent une touche florale délicate. Les infusions de fleurs de lavande sont également appréciées pour leurs vertus digestives et relaxantes.",
+              "children": []
+            },
+            {
+              "id": "phytotherapie",
+              "level": 2,
+              "title": "Phytothérapie",
+              "content": "En phytothérapie, les sommités fleuries de lavande sont utilisées sous forme de tisanes, d'extraits ou de teintures mères pour traiter les troubles nerveux (anxiété, insomnie), les spasmes digestifs et les affections des voies respiratoires supérieures (toux, bronchite).",
+              "children": []
+            },
+            {
+              "id": "usages_veterinaires",
+              "level": 2,
+              "title": "Usages vétérinaires",
+              "content": "Historiquement, la lavande était aussi employée dans certains remèdes vétérinaires traditionnels pour ses propriétés antiseptiques et répulsives contre les parasites. Elle pouvait être appliquée sur les plaies ou utilisée pour éloigner les insectes des animaux.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "danger",
+          "level": 1,
+          "title": "Danger",
+          "content": "Bien que généralement considérée comme sûre en utilisation modérée, l'huile essentielle de lavande vraie doit être utilisée avec précaution, surtout chez les jeunes enfants, les femmes enceintes ou allaitantes, et les personnes épileptiques ou asthmatiques. Elle peut provoquer des réactions cutanées chez certaines personnes sensibles. Son ingestion pure est déconseillée.",
+          "children": []
+        },
+        {
+          "id": "production",
+          "level": 1,
+          "title": "Production",
+          "content": "La France, en particulier la région Provence-Alpes-Côte d'Azur, est historiquement l'un des principaux producteurs de lavande vraie. D'autres pays comme la Bulgarie, l'Espagne, l'Italie et l'Australie ont également développé une production significative. La récolte a lieu en été, lorsque les fleurs sont en pleine floraison, et l'huile essentielle est extraite par distillation à la vapeur d'eau des sommités fleuries.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/lavandula-angustifolia",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Lavandula_angustifolia"
+    }
+  }
+}

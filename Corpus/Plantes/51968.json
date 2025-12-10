@@ -1,0 +1,128 @@
+{
+  "id": "51968",
+  "infos_generales": {
+    "nom_scientifique": "Ficus carica",
+    "nom_commun": "Figuier commun",
+    "noms_darija": [
+      "Kermous",
+      "تين",
+      "شجرة التين"
+    ],
+    "noms_alternatifs": [
+      "Figuier",
+      "Figuier comestible"
+    ],
+    "famille": "Moraceae",
+    "genre": "Ficus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/8741d256dfbbae374cf5d80084c52110309173cb",
+    "https://bs.plantnet.org/image/o/0b08fd89452867997e06c53702a8deea701e76d0",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ficus_carica_L%2C_1771.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Tout sol bien drainé, préfère les sols légers et légèrement calcaires.",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Asie occidentale"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "latex": "Contient un latex blanc irritant qui s'écoule lors de la coupe.",
+    "fruits": "Produit des sycones, couramment appelés figues, qui sont en réalité des inflorescences charnues contenant de nombreuses petites fleurs.",
+    "caducite": "Arbre caduc ou semi-caduc selon le climat.",
+    "feuillage": "Grandes feuilles lobées, rugueuses sur le dessus."
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Anti-inflammatoire",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Cuit",
+      "Dessert",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "Le figuier commun (Ficus carica) est un arbre fruitier emblématique du bassin méditerranéen, apprécié pour ses délicieux fruits, les figues. Cultivé depuis l'Antiquité, il est facile d'entretien et s'adapte à divers climats doux. Outre ses fruits sucrés consommés frais, secs ou transformés, ses feuilles sont également utilisées en cuisine et en médecine traditionnelle. C'est une plante rustique et ornementale, idéale pour les jardins ensoleillés.",
+    "texte_complet": {
+      "introduction": "Le figuier commun, de son nom scientifique Ficus carica, est une espèce d'arbre fruitier de la famille des Moracées, originaire du bassin méditerranéen et d'Asie occidentale. C'est un arbre emblématique des paysages méditerranéens, cultivé depuis l'Antiquité pour ses fruits sucrés, les figues. Il peut atteindre une hauteur de 3 à 10 mètres et est caractérisé par ses larges feuilles lobées et son écorce lisse.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Ficus carica est un petit arbre ou un grand arbuste, souvent buissonnant, avec un système racinaire puissant. Son espérance de vie peut atteindre plusieurs dizaines d'années. Il est généralement caduc dans les régions tempérées, mais peut être semi-persistant dans les climats plus doux. Les jeunes rameaux sont verts puis deviennent grisâtres.",
+          "children": [
+            {
+              "id": "port-et-feuillage",
+              "level": 2,
+              "title": "Port et feuillage",
+              "content": "Le figuier présente un port étalé, avec une cime irrégulière. Ses grandes feuilles sont alternes, palmatilobées, découpées en trois à cinq lobes plus ou moins profonds, et rugueuses au toucher sur la face supérieure. Elles sont d'un vert foncé brillant sur le dessus et plus pâles et pubescentes en dessous. Un latex blanc et laiteux s'écoule des pétioles et des rameaux en cas de blessure."
+            },
+            {
+              "id": "fleurs-et-fruits",
+              "level": 2,
+              "title": "Fleurs et fruits",
+              "content": "Les fleurs du figuier sont très particulières. Elles sont enfermées à l'intérieur d'une enveloppe charnue appelée sycone, qui est ce que nous consommons et appelons 'figue'. Il existe des figuiers mâles (caprifiguiers) et des figuiers femelles. La pollinisation est assurée par une petite guêpe, le blastophage, qui entre et sort par l'ostiole, une petite ouverture au sommet du sycone. Les figues mûrissent généralement en été et en automne, offrant une ou deux récoltes selon les variétés."
+            }
+          ]
+        },
+        {
+          "id": "culture-et-varietes",
+          "level": 1,
+          "title": "Culture et variétés",
+          "content": "Le figuier est une plante relativement facile à cultiver, tolérant bien la sécheresse une fois établi. Il préfère les climats chauds et ensoleillés et les sols bien drainés.",
+          "children": [
+            {
+              "id": "exigences",
+              "level": 2,
+              "title": "Exigences",
+              "content": "Le figuier prospère en plein soleil, dans un sol léger, profond et bien drainé. Il tolère une large gamme de pH, mais préfère les sols légèrement calcaires. Il est relativement rustique et peut supporter des températures négatives jusqu'à environ -15°C, surtout si son pied est protégé. L'arrosage est important pour les jeunes plants, mais les arbres établis sont très résistants à la sécheresse."
+            },
+            {
+              "id": "varietes",
+              "level": 2,
+              "title": "Variétés",
+              "content": "Il existe de nombreuses variétés de figuiers, classées en général selon leur capacité à produire une ou deux récoltes par an (unifères ou bifères). Parmi les variétés populaires, on trouve 'Noire de Caromb', 'Brunswick', 'Violette de Solliès', 'Pastilière', ou encore 'Madeleine des deux saisons'. Chaque variété offre des fruits aux saveurs, couleurs et textures distinctes."
+            }
+          ]
+        },
+        {
+          "id": "usages-et-proprietes",
+          "level": 1,
+          "title": "Usages et propriétés",
+          "content": "Le figuier est avant tout apprécié pour ses fruits, mais d'autres parties de la plante ont également des usages.",
+          "children": [
+            {
+              "id": "usage-alimentaire",
+              "level": 2,
+              "title": "Usage alimentaire",
+              "content": "Les figues sont consommées fraîches, séchées, ou transformées en confitures, tartes et autres desserts. Elles sont riches en fibres, en minéraux (potassium, calcium, fer) et en vitamines. Le figuier produit des fruits naturellement sucrés, souvent consommés comme fruit de table ou intégrés dans des plats salés. Les feuilles de figuier peuvent aussi être utilisées pour aromatiser des plats ou des infusions."
+            },
+            {
+              "id": "usages-medicaux-traditionnels",
+              "level": 2,
+              "title": "Usages médicaux traditionnels",
+              "content": "Dans la médecine traditionnelle, les figues sont connues pour leurs propriétés laxatives douces. Le latex du figuier était parfois utilisé pour traiter les verrues, bien que son usage doive être prudent en raison de son caractère irritant. Les feuilles en infusion sont employées pour leurs vertus digestives ou pour aider à réguler la glycémie."
+            }
+          ]
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/cercis-siliquastrum",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Ficus_carica"
+    }
+  }
+}

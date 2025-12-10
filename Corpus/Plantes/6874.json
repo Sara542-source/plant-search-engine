@@ -1,0 +1,156 @@
+{
+  "id": "6874",
+  "infos_generales": {
+    "nom_scientifique": "Carthamus tinctorius",
+    "nom_commun": "Carthame des teinturiers",
+    "noms_darija": [
+      "Guerṭem",
+      "قرطم",
+      "عصفر"
+    ],
+    "noms_alternatifs": [
+      "Safran des teinturiers",
+      "Faux-safran"
+    ],
+    "famille": "Asteraceae",
+    "genre": "Carthamus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/e695defab2923bccd1420a6b3cb8e5e592772068",
+    "https://bs.plantnet.org/image/o/59a1fb7dd576259ee4f8f9cd8b0ed34d26f2f7fc"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Profond, bien drainé, argilo-sableux",
+    "regions_origine": [
+      "Moyen-Orient",
+      "Asie",
+      "Afrique du Nord"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Plante tinctoriale": "Produit un colorant jaune à rouge à partir de ses fleurs.",
+    "Graines oléagineuses": "Riches en huile utilisée en cuisine et industrie.",
+    "Fleurs comestibles": "Pétales utilisés comme substitut du safran.",
+    "Plante annuelle": "Cycle de vie d'un an."
+  },
+  "utilisations": {
+    "medicale": [
+      "Tonique",
+      "Anti-inflammatoire",
+      "Digestif",
+      "Dermatologique",
+      "Apaisant"
+    ],
+    "culinaire": [
+      "Épice",
+      "Infusion",
+      "Salade"
+    ],
+    "decoration": [
+      "Jardin",
+      "Fleurs coupées",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Carthame des teinturiers (Carthamus tinctorius) est une plante annuelle de la famille des Astéracées, originaire du Moyen-Orient et d'Asie. Cultivée depuis des millénaires, elle est appréciée pour ses fleurs colorées, source d'un colorant jaune à rouge, et pour ses graines oléagineuses. Son huile est utilisée en cuisine et en cosmétique, tandis que ses pétales servent de substitut au safran en cuisine et en médecine traditionnelle pour leurs propriétés diverses. Elle est adaptée aux climats chauds et secs.",
+    "texte_complet": {
+      "introduction": "Le Carthame des teinturiers (Carthamus tinctorius), encore appelé Safran des teinturiers ou Faux-safran, est une espèce de plante herbacée annuelle de la famille des Astéracées (Composées).\nOriginaire du Moyen-Orient (Iran, Afghanistan) et d'Asie, il est cultivé pour l'huile extraite de ses graines et pour ses fleurs tubulées et jaunes à rouge-orangé, utilisées pour des préparations alimentaires (colorant, succédané de safran) et en médecine traditionnelle. Il existe plusieurs variétés de carthame dont les fleurs peuvent être de couleurs différentes.",
+      "sections": [
+        {
+          "id": "histoire-et-utilisation",
+          "level": 1,
+          "title": "Histoire et utilisation",
+          "content": "Le carthame est une plante très ancienne, cultivée depuis plusieurs millénaires en Mésopotamie, en Égypte et en Grèce. Des guirlandes de carthame ont été trouvées dans la tombe du pharaon Toutânkhamon. Il était autrefois cultivé pour ses colorants et ses graines oléagineuses. Le colorant jaune et rouge était extrait de ses fleurs et servait à teindre les textiles (soie, coton) et à colorer les aliments. Il est encore utilisé pour cela dans certaines régions du monde. L'huile de carthame était utilisée pour l'éclairage et la cuisine. En Inde, il est cultivé pour ses pétales qui servent à teindre les vêtements et comme remède traditionnel. En Chine, il est également utilisé en médecine traditionnelle pour traiter diverses affections.",
+          "children": []
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le Carthame des teinturiers est une plante annuelle, dressée, ramifiée, pouvant atteindre 1,5 mètre de haut. Les feuilles sont alternes, sessiles, de forme ovale à lancéolée, avec des bords épineux. Les fleurs sont regroupées en capitules terminaux, solitaires ou en petits groupes, de 2 à 4 cm de diamètre. Elles sont de couleur jaune vif à orange-rougeâtre. Les fruits sont des akènes, de couleur blanche à grise, d'environ 5 mm de long, ressemblant à de petites graines de tournesol.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le carthame est une plante résistante à la sécheresse et à la chaleur, ce qui en fait une culture intéressante dans les régions arides ou semi-arides. Il préfère les sols profonds, bien drainés et limoneux-sableux, mais tolère une grande variété de sols. La semence a lieu au printemps. La plante est sensible aux gelées. Il nécessite une exposition en plein soleil.",
+          "children": [
+            {
+              "id": "culture-principaux-pays-producteurs",
+              "level": 2,
+              "title": "Principaux pays producteurs",
+              "content": "Les principaux pays producteurs sont l'Inde, les États-Unis, le Mexique, l'Éthiopie, le Kazakhstan et l'Australie. En France, sa culture est très limitée.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "statut-et-menaces",
+          "level": 1,
+          "title": "Statut et menaces",
+          "content": "L'espèce n'est pas considérée comme menacée globalement. Cependant, la monoculture intensive peut entraîner une perte de diversité génétique.",
+          "children": []
+        },
+        {
+          "id": "composition",
+          "level": 1,
+          "title": "Composition",
+          "content": "Les graines de carthame sont riches en huile (jusqu'à 40%), composée principalement d'acides gras insaturés (acide linoléique, acide oléique). Les fleurs contiennent des pigments flavonoïdes (carthamine, carthamidine) et des polysaccharides.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "",
+          "children": [
+            {
+              "id": "utilisations-colorant",
+              "level": 2,
+              "title": "Colorant",
+              "content": "Les fleurs de carthame produisent un colorant naturel jaune (safflor jaune) et rouge (carthamine). La carthamine est utilisée pour teindre la soie, le coton et d'autres fibres, ainsi que pour colorer des aliments. C'est un substitut bon marché du safran.",
+              "children": []
+            },
+            {
+              "id": "utilisations-alimentaire",
+              "level": 2,
+              "title": "Alimentaire",
+              "content": "L'huile de carthame, extraite des graines, est une huile alimentaire de haute qualité, riche en acides gras insaturés. Elle est utilisée en cuisine pour la friture, les salades et les margarines. Les jeunes feuilles peuvent être consommées en salade. Les pétales de carthame sont utilisés comme condiment et colorant dans la cuisine asiatique et moyen-orientale, souvent comme alternative au safran.",
+              "children": []
+            },
+            {
+              "id": "utilisations-medicinale",
+              "level": 2,
+              "title": "Médicinale",
+              "content": "En médecine traditionnelle chinoise et ayurvédique, le carthame est utilisé pour ses propriétés toniques, antispasmodiques, anti-inflammatoires et pour améliorer la circulation sanguine. Il est également employé pour les troubles menstruels. L'huile est également utilisée pour ses propriétés émollientes et pour la peau.",
+              "children": []
+            },
+            {
+              "id": "utilisations-cosmetique",
+              "level": 2,
+              "title": "Cosmétique",
+              "content": "L'huile de carthame est largement utilisée en cosmétique pour ses propriétés hydratantes et nourrissantes, notamment dans les crèmes, lotions et produits capillaires.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "synonymes",
+          "level": 1,
+          "title": "Synonymes",
+          "content": "Le nom scientifique Carthamus tinctorius possède plusieurs synonymes botaniques, reflétant l'histoire de sa classification et ses variations régionales.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/carthamus-tinctorius",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Carthamus_tinctorius"
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "id": "186006",
+  "infos_generales": {
+    "nom_scientifique": "Foeniculum vulgare",
+    "nom_commun": "Fenouil commun",
+    "noms_darija": [
+      "Basbas",
+      "بسباس",
+      "Nafaa",
+      "نافع"
+    ],
+    "noms_alternatifs": [
+      "Fenouil officinal",
+      "Fenouil amer",
+      "Aneth doux",
+      "Fenouil sauvage"
+    ],
+    "famille": "Apiaceae",
+    "genre": "Foeniculum"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/201ab26c5329eb6583e52176b48c2bfe0cb3e13e",
+    "https://d2seqvvyy3b8p2.cloudfront.net/f06ab213b3458d9e39456cafcd05068f.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Sols légers et bien drainés",
+    "regions_origine": [
+      "Bassin méditerranéen"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Anisée",
+    "saveur": "Anisée, douce",
+    "cycle_vie": "Vivace",
+    "hauteur_max": "Jusqu'à 2 mètres",
+    "fleurs": "Petites, jaunes, en ombelles",
+    "feuillage": "Très découpé en lanières fines, vert-bleuté",
+    "resistance_froid": "Jusqu'à -10 °C"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Respiratoire",
+      "Apaisant",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique",
+      "Salade",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Fenouil commun (Foeniculum vulgare) est une plante vivace herbacée de la famille des Apiacées, originaire du bassin méditerranéen. Reconnaissable à son odeur anisée, il est largement cultivé et apprécié pour ses multiples usages culinaires, médicinaux et aromatiques. Toutes ses parties, du bulbe aux graines, sont comestibles et contribuent à sa popularité comme légume, épice et remède traditionnel pour les troubles digestifs et respiratoires. Il préfère les sols ensoleillés et bien drainés.",
+    "texte_complet": {
+      "introduction": "Le Fenouil commun (Foeniculum vulgare), parfois appelé fenouil officinal, fenouil amer ou aneth doux, est une espèce de plante vivace de la famille des Apiacées (anciennement Ombellifères), cultivée pour ses feuilles, ses graines et sa racine. C'est une plante potagère et médicinale. Son appellation de fenouil sauvage est plus ambiguë. Bien que la plante soit subspontanée et vivace, la forme cultivée potagère est issue d'une sélection. En revanche, le Fenouil des Alpes (Meum athamanticum) est une espèce différente mais de la même famille. Le fenouil est aussi utilisé comme plante aromatique.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le Fenouil commun est une plante herbacée vivace, ou parfois bisannuelle, pouvant atteindre 2 m de hauteur. Ses feuilles sont très découpées en lanières fines, vert-bleuté. Ses fleurs sont petites et jaunes, regroupées en grandes ombelles. Les fruits sont des diakènes de couleur verdâtre ou grisâtre. Toute la plante a une forte odeur anisée. Elle pousse spontanément sur les sols calcaires et secs, notamment au bord de la mer Méditerranée. Elle fleurit de juillet à septembre. La plante est résistante au froid (jusqu'à -10 °C).",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le fenouil est cultivé pour ses parties aériennes (feuilles, graines) et parfois pour sa base renflée (le « bulbe » de fenouil). Il apprécie les sols légers, profonds, frais et ensoleillés. Il est sensible à la sécheresse et nécessite un arrosage régulier. La récolte des feuilles se fait au fur et à mesure des besoins. Les graines sont récoltées quand les ombelles sont mûres, généralement en fin d'été.",
+          "children": []
+        },
+        {
+          "id": "utilisation",
+          "level": 1,
+          "title": "Utilisation",
+          "content": "",
+          "children": [
+            {
+              "id": "usage_culinaire",
+              "level": 2,
+              "title": "Usage culinaire",
+              "content": "Toutes les parties du fenouil commun sont comestibles. Le bulbe, les tiges et les feuilles peuvent être consommés crus en salade, ou cuits à la vapeur, braisés, gratinés. Les graines sont utilisées comme épice pour aromatiser les plats (poissons, viandes), les pains, les pâtisseries ou les liqueurs. Elles sont aussi utilisées en infusion."
+            },
+            {
+              "id": "usage_medicinal",
+              "level": 2,
+              "title": "Usage médicinal",
+              "content": "Le fenouil est une plante médicinale reconnue. Il est utilisé pour ses propriétés digestives (carminatif, antispasmodique), diurétiques, galactogènes (favorise la lactation) et expectorantes. Il est riche en anéthol, un composé aromatique qui lui confère son odeur et sa saveur caractéristiques, et qui a des propriétés œstrogéniques. Il est souvent utilisé en tisane pour soulager les troubles digestifs, les coliques infantiles et la toux. L'huile essentielle de fenouil est également utilisée, mais avec précaution en raison de sa forte concentration en anéthol."
+            },
+            {
+              "id": "autres_usages",
+              "level": 2,
+              "title": "Autres usages",
+              "content": "Le fenouil est aussi utilisé en cosmétologie pour ses propriétés toniques et purifiantes."
+            }
+          ]
+        },
+        {
+          "id": "proprietes_composition",
+          "level": 1,
+          "title": "Propriétés et composition",
+          "content": "Le fenouil est riche en fibres, en vitamines (C, B9) et en minéraux (potassium, calcium, fer). Il contient des composés phénoliques, des flavonoïdes et des coumarines, qui sont des antioxydants. L'huile essentielle est principalement composée d'anéthol, de fenchone et d'estragole.",
+          "children": []
+        },
+        {
+          "id": "etymologie",
+          "level": 1,
+          "title": "Étymologie",
+          "content": "Le nom Foeniculum vient du latin fenum, « foin », par allusion à la finesse de ses feuilles. Vulgare signifie « commun ».",
+          "children": []
+        },
+        {
+          "id": "taxonomie",
+          "level": 1,
+          "title": "Taxonomie",
+          "content": "Plusieurs sous-espèces et variétés sont reconnues, comme Foeniculum vulgare subsp. vulgare (fenouil sauvage) et Foeniculum vulgare subsp. dulce (fenouil doux ou de Florence, cultivé pour son bulbe).",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/foeniculum-vulgare",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Foeniculum_vulgare"
+    }
+  }
+}

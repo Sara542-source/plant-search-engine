@@ -1,0 +1,177 @@
+{
+  "id": "123023",
+  "infos_generales": {
+    "nom_scientifique": "Pelargonium graveolens",
+    "nom_commun": "Géranium rosat",
+    "noms_darija": [
+      "Atrach",
+      "عطرش"
+    ],
+    "noms_alternatifs": [
+      "Géranium odorant",
+      "Pélargonium à forte odeur"
+    ],
+    "famille": "Geraniaceae",
+    "genre": "Pelargonium"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/93355030f81f7c430db04d764486ab734eb04c57",
+    "https://d2seqvvyy3b8p2.cloudfront.net/ea2b5f389abec2e767ab422526e8c3a6.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/%28MHNT%29_Pelargonium_graveolens_flower_and_leaves.jpg/1000px-%28MHNT%29_Pelargonium_graveolens_flower_and_leaves.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, fertile",
+    "regions_origine": [
+      "Afrique du Sud"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Odeur": "Rosée, citronnée, épicée",
+    "Feuillage": "Feuilles duveteuses et profondément lobées, très aromatiques",
+    "Floraison": "Fleurs petites, roses à blanchâtres, avec des marques violettes",
+    "Utilisation principale": "Production d'huile essentielle"
+  },
+  "utilisations": {
+    "medicale": [
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Apaisant",
+      "Tonique",
+      "Dermatologique",
+      "Digestif"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Aromatique",
+      "Dessert"
+    ],
+    "decoration": [
+      "Jardin",
+      "Balcon",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Géranium rosat (Pelargonium graveolens) est une plante aromatique originaire d'Afrique du Sud, prisée pour son feuillage duveteux et son parfum rappelant la rose, le citron et les épices. Largement cultivé au Maroc et dans d'autres régions méditerranéennes pour la production de son huile essentielle, il est utilisé en parfumerie, cosmétique et aromathérapie pour ses propriétés antiseptiques et apaisantes. Ses feuilles sont également employées en cuisine et en infusion. Facile d'entretien, il est apprécié pour agrémenter jardins et balcons.",
+    "texte_complet": {
+      "introduction": "Pelargonium graveolens est une espèce de plante herbacée vivace du genre Pelargonium et de la famille des Géraniacées, originaire d'Afrique australe. Elle est connue sous plusieurs noms vernaculaires dont celui de géranium rosat ou pélargonium à forte odeur. Elle est cultivée pour son feuillage très aromatique et ses fleurs roses ou blanches. Son huile essentielle est utilisée en parfumerie, cosmétique et aromathérapie.",
+      "sections": [
+        {
+          "id": "histoire_et_etymologie",
+          "level": 1,
+          "title": "Histoire et étymologie",
+          "content": "Le nom du genre Pelargonium vient du grec « pelargos » qui signifie « cigogne », en référence à la forme du fruit qui rappelle le bec de cet oiseau. L'épithète spécifique « graveolens » est dérivé du latin « gravis » (lourd, fort) et « olere » (sentir), en référence à son odeur forte. Le Géranium rosat a été introduit en Europe au 17ème siècle et rapidement cultivé pour son parfum. Son usage en parfumerie s'est développé au 19ème siècle.",
+          "children": []
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le Pelargonium graveolens est un arbuste buissonnant et ramifié qui peut atteindre 1,5 mètre de hauteur dans son habitat naturel. Ses tiges sont herbacées, devenant ligneuses avec l'âge. Toute la plante est couverte de poils glanduleux qui libèrent une forte odeur au froissement.",
+          "children": [
+            {
+              "id": "description_feuilles",
+              "level": 2,
+              "title": "Feuilles",
+              "content": "Les feuilles sont alternes, palmées, profondément lobées, duveteuses et très aromatiques. Leur forme varie, allant de presque rondes à profondément découpées, avec des lobes dentés ou crénelés. La texture est douce au toucher en raison de la pilosité.",
+              "children": []
+            },
+            {
+              "id": "description_fleurs",
+              "level": 2,
+              "title": "Fleurs",
+              "content": "Les fleurs sont petites, regroupées en ombelles. Elles ont cinq pétales inégaux, de couleur rose pâle à pourpre, souvent avec des marques plus foncées sur les deux pétales supérieurs. La floraison a lieu du printemps à l'automne.",
+              "children": []
+            },
+            {
+              "id": "description_fruits",
+              "level": 2,
+              "title": "Fruits",
+              "content": "Le fruit est une capsule allongée typique des Géraniacées, ressemblant à un bec de cigogne, qui se divise en cinq méricarpes contenant chacun une graine.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "Cette espèce est originaire d'Afrique du Sud, où elle pousse naturellement dans des régions au climat tempéré à subtropical, souvent dans les zones montagneuses ou le long des côtes. Elle est devenue naturalisée dans d'autres régions du monde avec des climats similaires, notamment en Méditerranée.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le Géranium rosat est largement cultivé dans de nombreuses régions du monde pour la production de son huile essentielle, notamment en Égypte, à la Réunion, en Chine et au Maroc. Il préfère un sol bien drainé, riche et une exposition en plein soleil. Il est sensible au gel et est souvent cultivé comme plante annuelle ou en pot dans les régions plus froides. La multiplication se fait facilement par bouturage.",
+          "children": []
+        },
+        {
+          "id": "utilisation",
+          "level": 1,
+          "title": "Utilisation",
+          "content": "Le Pelargonium graveolens est une plante aux multiples usages, principalement reconnue pour son parfum et ses propriétés médicinales.",
+          "children": [
+            {
+              "id": "utilisation_usage_traditionnel",
+              "level": 2,
+              "title": "Usage traditionnel",
+              "content": "Historiquement, les feuilles de Pelargonium graveolens ont été utilisées en médecine traditionnelle pour traiter diverses affections, notamment les troubles digestifs, les infections et les inflammations cutanées. On les froissait et les appliquait directement ou on en faisait des infusions.",
+              "children": []
+            },
+            {
+              "id": "utilisation_huile_essentielle_de_geranium_rosat",
+              "level": 2,
+              "title": "Huile essentielle de géranium rosat",
+              "content": "L'huile essentielle de géranium rosat est extraite par distillation à la vapeur d'eau des feuilles et des tiges de la plante. Elle est très prisée en aromathérapie et en parfumerie.",
+              "children": [
+                {
+                  "id": "utilisation_huile_essentielle_de_geranium_rosat_composition",
+                  "level": 3,
+                  "title": "Composition",
+                  "content": "Sa composition chimique est complexe, dominée par des monoterpénols comme le citronnellol et le géraniol, ainsi que des esters comme le formiate de citronnellyle et le formiate de géranyle, qui sont responsables de son arôme caractéristique.",
+                  "children": []
+                },
+                {
+                  "id": "utilisation_huile_essentielle_de_geranium_rosat_proprietes",
+                  "level": 3,
+                  "title": "Propriétés",
+                  "content": "Elle possède des propriétés antiseptiques, anti-inflammatoires, cicatrisantes, toniques et astringentes. Elle est également réputée pour ses effets apaisants et équilibrants sur le système nerveux.",
+                  "children": []
+                },
+                {
+                  "id": "utilisation_huile_essentielle_de_geranium_rosat_applications",
+                  "level": 3,
+                  "title": "Applications",
+                  "content": "Elle est utilisée en cosmétique pour les soins de la peau (acné, vergetures, peaux grasses), en parfumerie comme note florale et rosée, et en aromathérapie pour le stress, l'anxiété et les troubles cutanés.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "utilisation_usage_culinaire",
+              "level": 2,
+              "title": "Usage culinaire",
+              "content": "Les feuilles aromatiques du Pelargonium graveolens peuvent être utilisées pour aromatiser des thés, des confitures, des sirops, des gâteaux et des desserts. Elles ajoutent une note florale et citronnée.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "synonymes",
+          "level": 1,
+          "title": "Synonymes",
+          "content": "Parmi les synonymes botaniques de Pelargonium graveolens, on trouve Geranium terebinthinaceum et Pelargonium terebinthinaceum, bien que le nom Pelargonium graveolens soit le plus largement accepté et utilisé aujourd'hui.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/pelargonium-graveolens",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Pelargonium_graveolens"
+    }
+  }
+}

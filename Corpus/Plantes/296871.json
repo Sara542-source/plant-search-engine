@@ -1,0 +1,128 @@
+{
+  "id": "296871",
+  "infos_generales": {
+    "nom_scientifique": "Ziziphus spina-christi",
+    "nom_commun": "Jujubier de Palestine",
+    "noms_darija": [
+      "Sidr",
+      "السدر"
+    ],
+    "noms_alternatifs": [
+      "Épine du Christ",
+      "Jujubier épineux",
+      "Pommier de Sidon"
+    ],
+    "famille": "Rhamnaceae",
+    "genre": "Ziziphus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/b3e88509acb0ec1882b3bd70335cc93d32abf768",
+    "https://bs.plantnet.org/image/o/5414f9e135dd7bce8a24a5daf72c6c4cdb488c46",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ziziphus-areva-israel.jpg/1000px-Ziziphus-areva-israel.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, sablonneux à limoneux",
+    "regions_origine": [
+      "Afrique du Nord",
+      "Moyen-Orient",
+      "Sahel"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Épineux": "Oui",
+    "Fruits comestibles": "Oui",
+    "Racines profondes": "Oui",
+    "Feuilles utilisées comme nettoyant naturel": "Oui"
+  },
+  "utilisations": {
+    "medicale": [
+      "Anti-inflammatoire",
+      "Antiseptique",
+      "Dermatologique",
+      "Digestif",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Dessert",
+      "Infusion"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec",
+      "Haie"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Ziziphus spina-christi, connu sous le nom de Jujubier de Palestine ou Sidr, est un arbre épineux originaire d'Afrique du Nord et du Moyen-Orient. Très résistant à la sécheresse, il est apprécié pour ses fruits comestibles, le nabq, et ses multiples propriétés médicinales. Ses feuilles sont également utilisées comme nettoyant naturel. Il joue un rôle important dans les écosystèmes arides et semi-arides.",
+    "texte_complet": {
+      "introduction": "Ziziphus spina-christi est une espèce de plantes à fleurs de la famille des Rhamnacées. C'est un arbre épineux qui est connu sous différents noms, y compris Épine du Christ, Jujubier épineux, Jujubier de Palestine, Pommier de Sidon. Ses fruits sont comestibles. Il est originaire d'une vaste zone allant de l'Afrique du Nord à l'Asie du Sud-Ouest et au Moyen-Orient. Dans la tradition populaire, il est souvent mentionné comme l'arbre à partir duquel la couronne d'épines du Christ aurait été faite, bien que d'autres plantes aient été proposées pour cette distinction.",
+      "sections": [
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "L'arbre est originaire d'une vaste zone géographique englobant l'Afrique du Nord, le Moyen-Orient et l'Asie du Sud-Ouest. On le trouve souvent dans les oueds, les zones semi-désertiques et les régions arides, où il s'adapte bien aux conditions de sécheresse.",
+          "children": []
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Ziziphus spina-christi est un arbre à feuilles persistantes ou semi-persistantes, pouvant atteindre 10 à 15 mètres de hauteur. Son tronc est souvent tortueux et son écorce est fissurée. Les branches portent de nombreuses épines acérées. Les feuilles sont ovales, alternes, avec des bords légèrement dentelés et une surface vert brillant. Les petites fleurs verdâtres sont discrètes.",
+          "children": [
+            {
+              "id": "fruits",
+              "level": 2,
+              "title": "Fruits",
+              "content": "Les fruits, appelés nabk (en arabe), sont de petites drupes rondes ou ovales, d'environ 1 à 2 cm de diamètre. Ils passent du vert au jaune puis au rougeâtre-brunâtre à maturité. La chair est farineuse et sucrée, contenant un noyau dur.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "Les fruits sont comestibles et appréciés frais ou séchés. Ils sont consommés directement ou transformés en jus, confitures ou pâtisseries. L'arbre fournit également du bois de chauffage et du fourrage pour le bétail.",
+          "children": [
+            {
+              "id": "usage_medicinal",
+              "level": 2,
+              "title": "Usage médicinal",
+              "content": "En médecine traditionnelle, diverses parties de l'arbre sont utilisées. Les feuilles et l'écorce ont des propriétés astringentes, anti-inflammatoires et antiseptiques. Elles sont employées pour traiter les plaies, les ulcères, les affections cutanées, ainsi que certaines fièvres et problèmes digestifs. Les fruits sont laxatifs et expectorants.",
+              "children": []
+            },
+            {
+              "id": "usage_cosmetique",
+              "level": 2,
+              "title": "Usage cosmétique",
+              "content": "Les feuilles broyées du Sidr sont traditionnellement utilisées comme shampoing naturel et masque capillaire. Elles nettoient, fortifient les cheveux et apaisent le cuir chevelu. La poudre de Sidr est également employée pour laver le corps.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le jujubier épineux est cultivé dans les régions arides et semi-arides pour ses fruits et ses usages multiples. Il est tolérant à la sécheresse et peut survivre dans des sols pauvres et salins. Sa capacité à fournir de l'ombre et à stabiliser les sols en fait une essence précieuse pour la restauration écologique.",
+          "children": []
+        },
+        {
+          "id": "dans_la_culture_et_la_religion",
+          "level": 1,
+          "title": "Dans la culture et la religion",
+          "content": "L'arbre est cité dans la Bible et le Coran. Dans l'Islam, le Sidr est mentionné comme un arbre du paradis. Il a également une signification culturelle et spirituelle dans de nombreuses communautés du Moyen-Orient et d'Afrique du Nord, où il est souvent planté près des lieux saints.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/ziziphus-spina-christi",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Ziziphus_spina-christi"
+    }
+  }
+}
