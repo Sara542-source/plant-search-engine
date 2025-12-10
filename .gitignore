@@ -1,3 +1,26 @@
+# --- Fichiers Python à ignorer ---
+__pycache__/
+*.pyc
+
+# --- Environnement Virtuel (TRES IMPORTANT) ---
+venv/
+env/
+.env
+
+# --- Configuration IDE (Optionnel mais recommandé) ---
+.idea/
+
+# --- Fichiers générés par ton script SRI ---
+# On ignore tous les JSON à la racine ou dans indexer
+*.json
+indexer/*.json
+
+# --- MAIS on garde les données sources ! ---
+!docs/*.json
+
+# Fichiers de configuration IntelliJ / PyCharm (IML)
+*.iml
+.idea/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
