@@ -1,0 +1,2963 @@
+{
+  "nigella sativa": {
+    "BT": [
+      "nigella",
+      "ranunculaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "jardin",
+      "odeur poivrée et aromatique",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "asie de l'ouest",
+      "fleur délicate",
+      "épice",
+      "tonique",
+      "autre usage médical",
+      "bleu pâle à blanc",
+      "délicate",
+      "salade",
+      "antiseptique",
+      "digestif",
+      "odeur caractéristique",
+      "aromatique",
+      "fleurs coupées",
+      "printemps-été",
+      "infusion",
+      "poivrée et aromatique",
+      "moyen-orient",
+      "caractéristique",
+      "respiratoire",
+      "fleur bleu pâle à blanc",
+      "apaisant",
+      "annuelle",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "nigelle cultivée",
+      "sanouj",
+      "سانوج",
+      "faux cumin",
+      "حبة البركة",
+      "cumin noir",
+      "graine noire",
+      "poivrette"
+    ]
+  },
+  "opuntia ficus-indica": {
+    "BT": [
+      "cactaceae",
+      "opuntia"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "couvre-sol",
+      "jardin",
+      "anti-inflammatoire",
+      "cladodes",
+      "jardin sec",
+      "oui",
+      "tonique",
+      "généralement faible au gel intense",
+      "haie",
+      "autre usage médical",
+      "salade",
+      "mexique",
+      "digestif",
+      "arbustive à arborescente",
+      "aromatique",
+      "infusion",
+      "bassin méditerranéen",
+      "très élevée",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "cactée raquette",
+      "nopal",
+      "poire épineuse",
+      "figuier de barbarie",
+      "كرموس الهندي",
+      "kermouss el hindi",
+      "hendiya"
+    ]
+  },
+  "pimpinella anisum": {
+    "BT": [
+      "pimpinella",
+      "apiacées"
+    ],
+    "NT": [],
+    "RT": [
+      "jardin",
+      "feuilles composées",
+      "doux et aromatique",
+      "petites",
+      "fleur petites",
+      "velu",
+      "odeur anisée et sucrée",
+      "bassin méditerranéen oriental",
+      "divisées",
+      "regroupées en ombelles",
+      "épice",
+      "fleur regroupées en ombelles",
+      "blanches",
+      "autre usage médical",
+      "gris-vert",
+      "digestif",
+      "diakène ovoïde ou piriforme",
+      "aromatique",
+      "anisée et sucrée",
+      "infusion",
+      "fleur blanches",
+      "moyen-orient",
+      "respiratoire",
+      "asie occidentale",
+      "apaisant",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "حبة حلاوة",
+      "nafeh",
+      "anis",
+      "anis cultivé",
+      "boucage anis",
+      "anis vert",
+      "نافع",
+      "habt hlawa"
+    ]
+  },
+  "pistacia lentiscus": {
+    "BT": [
+      "pistacia",
+      "anacardiaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "odeur résineuse",
+      "maroc",
+      "jardin sec",
+      "épice",
+      "oui",
+      "tunisie",
+      "haie",
+      "autre usage médical",
+      "arbuste ou petit arbre persistant",
+      "antiseptique",
+      "digestif",
+      "aromatique",
+      "algérie",
+      "été-automne",
+      "infusion",
+      "printemps",
+      "bassin méditerranéen",
+      "résineuse",
+      "apaisant",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "mastic tree",
+      "dhrou",
+      "ضرو",
+      "arbre à mastic",
+      "lentisque"
+    ]
+  },
+  "elettaria cardamomum": {
+    "BT": [
+      "zingiberaceae",
+      "elettaria"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "intérieur",
+      "jardin",
+      "chaude",
+      "sri lanka",
+      "anti-inflammatoire",
+      "légèrement piquant",
+      "inde",
+      "épice",
+      "odeur aromatique",
+      "capsules triangulaires à trois loges",
+      "sucré",
+      "antiseptique",
+      "digestif",
+      "épicée",
+      "plante herbacée vivace",
+      "aromatique",
+      "rhizomateuse",
+      "infusion",
+      "odeur épicée",
+      "malaisie",
+      "respiratoire",
+      "intense",
+      "contenant des graines noires",
+      "apaisant",
+      "odeur chaude",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "vraie cardamome",
+      "habb hal",
+      "cardamome aromatique",
+      "qaqoulla",
+      "cardamome de malabar",
+      "cardamome verte",
+      "حب الهال",
+      "قاكولة"
+    ]
+  },
+  "urtica dioica": {
+    "BT": [
+      "urticaceae",
+      "urtica"
+    ],
+    "NT": [],
+    "RT": [
+      "amérique du nord",
+      "cuit",
+      "printemps-été",
+      "odeur herbacée caractéristique",
+      "dermatologique",
+      "infusion",
+      "salade",
+      "vivace",
+      "asie",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "herbacée caractéristique",
+      "tonique",
+      "europe",
+      "apaisant",
+      "fleur printemps-été",
+      "autre usage médical",
+      "toxique"
+    ],
+    "UF": [
+      "ortie piquante",
+      "hriqa",
+      "ortie vivace",
+      "حريقة",
+      "ortie commune",
+      "grande ortie"
+    ]
+  },
+  "vitis vinifera": {
+    "BT": [
+      "vitis",
+      "vitaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "jardin",
+      "palmatilobé",
+      "anti-inflammatoire",
+      "très longue",
+      "caduc",
+      "liane ligneuse grimpante",
+      "tonique",
+      "haie",
+      "autre usage médical",
+      "salade",
+      "bonne",
+      "digestif",
+      "profond et étendu",
+      "infusion",
+      "europe du sud",
+      "asie du sud-ouest",
+      "baies regroupées en grappes",
+      "balcon",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "raisin",
+      "عنب",
+      "karma",
+      "vigne européenne",
+      "كرمة",
+      "vigne cultivée",
+      "inab",
+      "vigne à vin"
+    ]
+  },
+  "malva sylvestris": {
+    "BT": [
+      "malvaceae",
+      "malva"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "dermatologique",
+      "fleur rose-pourpre à violettes",
+      "jardin",
+      "composées de méricarpes",
+      "alternes",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "asie de l'ouest",
+      "jardin sec",
+      "mai à septembre",
+      "europe",
+      "salade",
+      "fleur avec des nervures plus foncées",
+      "digestif",
+      "avec des nervures plus foncées",
+      "riche en mucilages",
+      "à long pétiole",
+      "rose-pourpre à violettes",
+      "palmatilobées",
+      "fleurs coupées",
+      "infusion",
+      "à cinq pétales échancrés",
+      "fleur à cinq pétales échancrés",
+      "herbacée vivace",
+      "respiratoire",
+      "apaisant",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "grande mauve",
+      "khobbiza",
+      "mauve officinale",
+      "mauve des bois",
+      "mauve sylvestre",
+      "faux géranium",
+      "mauve sauvage",
+      "خبّيزة"
+    ]
+  },
+  "ruta graveolens": {
+    "BT": [
+      "rutaceae",
+      "ruta"
+    ],
+    "NT": [],
+    "RT": [
+      "printemps-été",
+      "fleur jaune verdâtre",
+      "jaune verdâtre",
+      "bassin méditerranéen",
+      "jardin",
+      "jardin sec",
+      "épice",
+      "odeur forte et caractéristique",
+      "sous-arbrisseau",
+      "bonne",
+      "digestif",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "forte et caractéristique",
+      "sud de l'europe",
+      "apaisant",
+      "aromatique",
+      "toxique"
+    ],
+    "UF": [
+      "péganium",
+      "سذاب",
+      "rue des jardins",
+      "herbe de grâce",
+      "rue officinale",
+      "sadab",
+      "fijel",
+      "فيجل"
+    ]
+  },
+  "pelargonium graveolens": {
+    "BT": [
+      "pelargonium",
+      "geraniaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "jardin",
+      "citronnée",
+      "anti-inflammatoire",
+      "roses à blanchâtres",
+      "très aromatiques",
+      "production d'huile essentielle",
+      "feuilles duveteuses et profondément lobées",
+      "odeur citronnée",
+      "jardin sec",
+      "fleurs petites",
+      "tonique",
+      "antiseptique",
+      "digestif",
+      "épicée",
+      "aromatique",
+      "odeur rosée",
+      "infusion",
+      "avec des marques violettes",
+      "afrique du sud",
+      "odeur épicée",
+      "rosée",
+      "apaisant",
+      "balcon",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "pélargonium à forte odeur",
+      "géranium rosat",
+      "عطرش",
+      "géranium odorant",
+      "atrach"
+    ]
+  },
+  "punica granatum": {
+    "BT": [
+      "punica",
+      "lythraceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "jardin",
+      "fleur orange-rouge vif",
+      "anti-inflammatoire",
+      "jardin sec",
+      "élevée une fois établi",
+      "tonique",
+      "autre usage médical",
+      "salade",
+      "antiseptique",
+      "asie centrale",
+      "digestif",
+      "orange-rouge vif",
+      "aromatique",
+      "fleurs coupées",
+      "baie à nombreuses graines",
+      "infusion",
+      "bassin méditerranéen",
+      "caduc à semi-persistant",
+      "moyen-orient",
+      "balcon",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "grenadier",
+      "rummân",
+      "grenadier commun",
+      "pomme de carthage",
+      "رمان"
+    ]
+  },
+  "peganum harmala": {
+    "BT": [
+      "nitrariaceae",
+      "peganum"
+    ],
+    "NT": [],
+    "RT": [
+      "antiseptique",
+      "bassin méditerranéen",
+      "jardin sec",
+      "asie centrale",
+      "odeur forte et caractéristique",
+      "profondes",
+      "moyen-orient",
+      "digestif",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "forte et caractéristique",
+      "apaisant",
+      "autre usage médical",
+      "toxique"
+    ],
+    "UF": [
+      "harmal",
+      "الحرمل",
+      "harmel",
+      "rue sauvage",
+      "harmala",
+      "rue syrienne"
+    ]
+  },
+  "papaver rhoeas l.": {
+    "BT": [
+      "papaver",
+      "papaveraceae"
+    ],
+    "NT": [],
+    "RT": [
+      "asie tempérée",
+      "jardin",
+      "afrique du nord",
+      "velues",
+      "jardin sec",
+      "fleur pétales délicats",
+      "vert-gris",
+      "europe",
+      "salade",
+      "digestif",
+      "aromatique",
+      "fleurs coupées",
+      "souvent froissés",
+      "contient une sève laiteuse",
+      "infusion",
+      "fleur souvent froissés",
+      "pétales délicats",
+      "feuilles pennatifides",
+      "avril à juillet",
+      "respiratoire",
+      "apaisant",
+      "toxique"
+    ],
+    "UF": [
+      "coquelicot",
+      "chaudron",
+      "بنت النعاس",
+      "coq",
+      "خشخاش",
+      "pavot-des-champs",
+      "khchkhach",
+      "ponceau",
+      "mahboula",
+      "graza",
+      "pavot-coq",
+      "ben nouma"
+    ]
+  },
+  "sesamum indicum": {
+    "BT": [
+      "pedaliaceae",
+      "sesamum"
+    ],
+    "NT": [],
+    "RT": [
+      "riches en huile et protéines",
+      "cuit",
+      "afrique",
+      "annuel",
+      "inde",
+      "jardin",
+      "épice",
+      "digestif",
+      "anti-inflammatoire",
+      "autre usage médical",
+      "capsules contenant des graines",
+      "tonique",
+      "aromatique",
+      "herbacée",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "sésame",
+      "gingelly",
+      "jeljlan",
+      "جلجلان",
+      "benne"
+    ]
+  },
+  "arbutus unedo": {
+    "BT": [
+      "arbutus",
+      "ericaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "vert foncé et brillant",
+      "persistant",
+      "cuit",
+      "maroc",
+      "infusion",
+      "antiseptique",
+      "bassin méditerranéen",
+      "jardin",
+      "coriace et finement denté.",
+      "jardin sec",
+      "apparaissant en automne",
+      "aromatique",
+      "europe de l'ouest",
+      "révélant une sous-couche plus claire.",
+      "haie",
+      "balcon",
+      "autre usage médical",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "arbre aux fraises",
+      "arbousier",
+      "قاتل أبيه",
+      "qatlab"
+    ]
+  },
+  "bougainvillea spectabilis": {
+    "BT": [
+      "bougainvillea",
+      "nyctaginaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "variée",
+      "fleur variée",
+      "couvre-sol",
+      "arbuste grimpant ou rampant",
+      "jardin",
+      "anti-inflammatoire",
+      "brésil",
+      "rapide",
+      "oui",
+      "respiratoire",
+      "amérique du sud",
+      "haie",
+      "balcon",
+      "élevée",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "bougainvillier spectaculaire",
+      "بوجانفيليا",
+      "fleur de papier",
+      "bougainvillée",
+      "boughanfiliya"
+    ]
+  },
+  "carum carvi": {
+    "BT": [
+      "carum",
+      "apiaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "odeur odeur forte et aromatique",
+      "afrique du nord",
+      "plante bisannuelle herbacée",
+      "odeur forte et aromatique",
+      "épice",
+      "odeur saveur anisée et piquante",
+      "diakènes ovoïdes",
+      "saveur anisée et piquante",
+      "europe",
+      "côtelés",
+      "autre usage médical",
+      "salade",
+      "antiseptique",
+      "digestif",
+      "aromatique",
+      "arqués",
+      "infusion",
+      "respiratoire",
+      "asie occidentale",
+      "apaisant",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "كروية",
+      "karwiya",
+      "cumin des prés",
+      "anis des vosges",
+      "carvi officinal",
+      "carvi"
+    ]
+  },
+  "cedrus atlantica": {
+    "BT": [
+      "pinaceae",
+      "cedrus"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "antiseptique",
+      "jardin",
+      "se désarticulant à maturité",
+      "aiguilles courtes et rigides",
+      "dressés",
+      "très longue",
+      "odeur caractéristique",
+      "groupées en rosettes",
+      "odeur résineuse",
+      "très bonne",
+      "persistant",
+      "ovoïdes",
+      "jardin sec",
+      "montagnes de l'atlas",
+      "caractéristique",
+      "résineuse",
+      "respiratoire",
+      "autre usage médical",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "cèdre bleu",
+      "cèdre de l'atlantique",
+      "cèdre de l'atlas",
+      "arz",
+      "أرز الأطلس"
+    ]
+  },
+  "cinnamomum verum": {
+    "BT": [
+      "lauraceae",
+      "cinnamomum"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "infusion",
+      "antiseptique",
+      "inde",
+      "jardin",
+      "odeur forte",
+      "arbre persistant",
+      "épice",
+      "écorce",
+      "dessert",
+      "forte",
+      "digestif",
+      "odeur aromatique",
+      "sri lanka",
+      "anti-inflammatoire",
+      "tonique",
+      "aromatique",
+      "autre usage médical",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "qarfa",
+      "cannelle de ceylan",
+      "cannelle officinale",
+      "cannelle vraie",
+      "قرفة"
+    ]
+  },
+  "citrus × aurantium l.": {
+    "BT": [
+      "rutaceae",
+      "citrus"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "asie du sud-est",
+      "fruit amer",
+      "jardin",
+      "petit grain bigarade",
+      "rameaux souvent épineux",
+      "fleurs intensément parfumées",
+      "odeur fleurs intensément parfumées",
+      "épice",
+      "tonique",
+      "antiseptique",
+      "supporte de légers gels",
+      "non consommé frais",
+      "digestif",
+      "aromatique",
+      "feuilles et fruits aromatiques",
+      "fleurs coupées",
+      "bigarade",
+      "infusion",
+      "bassin méditerranéen",
+      "odeur feuilles et fruits aromatiques",
+      "plus rustique que l'oranger doux",
+      "apaisant",
+      "balcon",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "oranger aigre",
+      "bigaradier",
+      "limon merr",
+      "oranger amer",
+      "oranger de séville",
+      "narenj",
+      "نارنج",
+      "chadeck",
+      "ليمون مر"
+    ]
+  },
+  "citrus limon": {
+    "BT": [
+      "rutaceae",
+      "citrus"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "intérieur",
+      "dermatologique",
+      "fleur apparaissant toute l'année.",
+      "jardin",
+      "aromatique et légèrement denté.",
+      "sensible au gel",
+      "très parfumées",
+      "anti-inflammatoire",
+      "apparaissant toute l'année.",
+      "petites",
+      "fleur petites",
+      "himalaya",
+      "souvent jaune vif à maturité.",
+      "épice",
+      "tonique",
+      "blanches",
+      "sud-est de l'asie",
+      "salade",
+      "antiseptique",
+      "digestif",
+      "aromatique",
+      "fleur très parfumées",
+      "persistant",
+      "infusion",
+      "vert brillant",
+      "arbuste ou petit arbre épineux",
+      "fleur blanches",
+      "respiratoire",
+      "apaisant",
+      "balcon",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "citronnier",
+      "limoun hmad",
+      "laymoun",
+      "ليمون",
+      "limon",
+      "lemon tree",
+      "zitrone",
+      "ليمون حامض"
+    ]
+  },
+  "zingiber officinale": {
+    "BT": [
+      "zingiberaceae",
+      "zingiber"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "jardin",
+      "rhizome",
+      "citronnée",
+      "anti-inflammatoire",
+      "piquant",
+      "odeur citronnée",
+      "épice",
+      "tonique",
+      "digestif",
+      "épicée",
+      "odeur caractéristique",
+      "aromatique",
+      "asie du sud-est maritime",
+      "infusion",
+      "non résistant au gel",
+      "odeur épicée",
+      "caractéristique",
+      "herbacée vivace",
+      "respiratoire",
+      "apaisant",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "سكينجبير",
+      "gingembre",
+      "gingembre officinal",
+      "skenjbir"
+    ]
+  },
+  "coriandrum sativum": {
+    "BT": [
+      "coriandrum",
+      "apiaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "apaisant",
+      "odeur boisée",
+      "jardin",
+      "citronnée",
+      "chaude",
+      "anti-inflammatoire",
+      "odeur citronnée",
+      "fleur blanc à rose pâle",
+      "épice",
+      "forte",
+      "blanc à rose pâle",
+      "salade",
+      "antiseptique",
+      "odeur forte",
+      "légèrement musquée",
+      "boisée",
+      "digestif",
+      "épicée",
+      "aromatique",
+      "infusion",
+      "europe du sud",
+      "odeur épicée",
+      "moyen-orient",
+      "odeur légèrement musquée",
+      "asie du sud",
+      "annuelle",
+      "balcon",
+      "odeur chaude",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "qasbour",
+      "kouzbar",
+      "persil arabe",
+      "coriandre",
+      "قزبور",
+      "cilantro",
+      "كزبر"
+    ]
+  },
+  "cupressus sempervirens": {
+    "BT": [
+      "cupressus",
+      "cupressaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "jardin",
+      "anti-inflammatoire",
+      "très longue",
+      "odeur résineuse",
+      "jardin sec",
+      "odeur aromatique",
+      "tonique",
+      "haie",
+      "élevée",
+      "autre usage médical",
+      "antiseptique",
+      "pyramidal",
+      "digestif",
+      "aromatique",
+      "persistant",
+      "bassin méditerranéen",
+      "moyen-orient",
+      "résineuse",
+      "respiratoire",
+      "colonnaire",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "cyprès commun",
+      "cyprès d'italie",
+      "cyprès toujours vert",
+      "sarw",
+      "cyprès méditerranéen",
+      "cyprès pyramidal",
+      "سرو"
+    ]
+  },
+  "foeniculum vulgare": {
+    "BT": [
+      "foeniculum",
+      "apiaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "en ombelles",
+      "jardin",
+      "petites",
+      "anisée",
+      "fleur en ombelles",
+      "fleur petites",
+      "fleur jaunes",
+      "jardin sec",
+      "épice",
+      "jaunes",
+      "très découpé en lanières fines",
+      "autre usage médical",
+      "salade",
+      "digestif",
+      "aromatique",
+      "vivace",
+      "infusion",
+      "odeur anisée",
+      "bassin méditerranéen",
+      "douce",
+      "respiratoire",
+      "apaisant",
+      "vert-bleuté",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "fenouil sauvage",
+      "fenouil commun",
+      "basbas",
+      "fenouil officinal",
+      "fenouil amer",
+      "aneth doux",
+      "بسباس",
+      "nafaa",
+      "نافع"
+    ]
+  },
+  "hibiscus rosa-sinensis": {
+    "BT": [
+      "malvaceae",
+      "hibiscus"
+    ],
+    "NT": [],
+    "RT": [
+      "asie orientale",
+      "intérieur",
+      "dermatologique",
+      "jardin",
+      "anti-inflammatoire",
+      "fleur jaune",
+      "printemps à automne",
+      "rouge",
+      "bicolore",
+      "haie",
+      "orange",
+      "autre usage médical",
+      "fleur orange",
+      "salade",
+      "fleur rose",
+      "arbuste",
+      "rose",
+      "persistant",
+      "fleurs coupées",
+      "jaune",
+      "infusion",
+      "fleur blanc",
+      "fleur rouge",
+      "blanc",
+      "balcon",
+      "fleur bicolore",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "faux-hibiscus",
+      "hibiscus rose de chine",
+      "rose de chine",
+      "الوردة الصينية",
+      "هيبسكوس",
+      "hibiscus"
+    ]
+  },
+  "hibiscus sabdariffa": {
+    "BT": [
+      "malvaceae",
+      "hibiscus"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "afrique centrale",
+      "infusion",
+      "fin d'été à automne",
+      "jardin",
+      "afrique de l'ouest",
+      "acide et fruitée",
+      "digestif",
+      "anti-inflammatoire",
+      "autre usage médical",
+      "fleur rouge vif",
+      "tonique",
+      "rouge vif",
+      "aromatique",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "bissap",
+      "fleur de jamaïque",
+      "oseille de guinée",
+      "roselle",
+      "karkadé",
+      "كركديه"
+    ]
+  },
+  "petroselinum crispum": {
+    "BT": [
+      "apiaceae",
+      "petroselinum"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "jardin",
+      "brillantes",
+      "épice",
+      "tonique",
+      "odeur fraîche",
+      "autre usage médical",
+      "salade",
+      "légèrement poivré et herbacé",
+      "digestif",
+      "fraîche",
+      "aromatique caractéristique",
+      "vert foncé",
+      "aromatique",
+      "très découpées",
+      "europe du sud-est",
+      "infusion",
+      "herbe aromatique bisannuelle",
+      "odeur aromatique caractéristique",
+      "frais",
+      "région méditerranéenne",
+      "balcon",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "persil commun",
+      "معدنوس",
+      "persil cultivé",
+      "ma'dnoos",
+      "persil"
+    ]
+  },
+  "allium sativum": {
+    "BT": [
+      "allium",
+      "amaryllidaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "salade",
+      "antiseptique",
+      "bassin méditerranéen",
+      "rarement fertile",
+      "composé de plusieurs caïeux",
+      "épice",
+      "asie centrale",
+      "forte",
+      "digestif",
+      "caractéristique",
+      "anti-inflammatoire",
+      "odeur forte",
+      "odeur caractéristique",
+      "aromatique",
+      "reproduction végétative privilégiée",
+      "autre usage médical",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "ثومة",
+      "touma",
+      "ail cultivé",
+      "ail",
+      "ail commun"
+    ]
+  },
+  "aloe vera (l.) burm.f.": {
+    "BT": [
+      "asphodelaceae",
+      "aloe"
+    ],
+    "NT": [],
+    "RT": [
+      "intérieur",
+      "dermatologique",
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "regroupées en longues hampes florales",
+      "fleur tubulaires",
+      "avec des bords dentelés",
+      "succulentes",
+      "très bonne",
+      "charnues",
+      "jardin sec",
+      "tonique",
+      "fleur regroupées en longues hampes florales",
+      "autre usage médical",
+      "antiseptique",
+      "tubulaires",
+      "vertes à gris-vert",
+      "digestif",
+      "péninsule arabique",
+      "aromatique",
+      "fleur jaunes ou orangées",
+      "infusion",
+      "jaunes ou orangées",
+      "apaisant",
+      "balcon",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "aloès",
+      "صبار",
+      "aloès des barbades",
+      "aloès vulgaire",
+      "aloe vera",
+      "sabbar"
+    ]
+  },
+  "crocus sativus": {
+    "BT": [
+      "crocus",
+      "iridaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "odeur unique",
+      "unique",
+      "jardin",
+      "anti-inflammatoire",
+      "maroc",
+      "violet",
+      "jardin sec",
+      "épice",
+      "tonique",
+      "automne",
+      "autre usage médical",
+      "légèrement terreux",
+      "fleur violet",
+      "odeur caractéristique",
+      "grèce",
+      "aromatique",
+      "stigmates",
+      "infusion",
+      "bassin méditerranéen",
+      "asie mineure",
+      "amer",
+      "caractéristique",
+      "iran",
+      "apaisant",
+      "toxique"
+    ],
+    "UF": [
+      "za'faran",
+      "زعفران",
+      "safran cultivé",
+      "safran",
+      "safran d'automne"
+    ]
+  },
+  "jasminum officinale": {
+    "BT": [
+      "jasminum",
+      "oleaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "fleurs coupées",
+      "europe du sud-est",
+      "abondante en été",
+      "infusion",
+      "antiseptique",
+      "plante grimpante",
+      "jardin",
+      "doux et enivrant",
+      "asie",
+      "très prononcé",
+      "volubile",
+      "apaisant",
+      "aromatique",
+      "balcon",
+      "autre usage médical",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "jasmin blanc",
+      "jasmin poète",
+      "jasmin commun",
+      "ياسمين",
+      "yasmin"
+    ]
+  },
+  "calendula officinalis": {
+    "BT": [
+      "calendula",
+      "astéracées"
+    ],
+    "NT": [],
+    "RT": [
+      "fleurs coupées",
+      "printemps à automne",
+      "dermatologique",
+      "infusion",
+      "salade",
+      "herbacée annuelle ou bisannuelle",
+      "jardin",
+      "digestif",
+      "odeur aromatique",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "fleur jaune à orange vif",
+      "jaune à orange vif",
+      "sud de l'europe",
+      "asie occidentale",
+      "apaisant",
+      "aromatique",
+      "balcon",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "souci",
+      "souci commun",
+      "المَرْقَد",
+      "souci des jardins",
+      "souci officinal"
+    ]
+  },
+  "olea europaea": {
+    "BT": [
+      "olea",
+      "oleaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "très longue",
+      "jardin sec",
+      "épice",
+      "sagesse",
+      "tonique",
+      "olive",
+      "salade",
+      "antiseptique",
+      "paix",
+      "digestif",
+      "aromatique",
+      "persistant",
+      "infusion",
+      "bassin méditerranéen",
+      "balcon",
+      "longévité",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "olivier cultivé",
+      "arbre à olives",
+      "olivier commun",
+      "زيتون",
+      "zitoune"
+    ]
+  },
+  "aloysia citrodora": {
+    "BT": [
+      "aloysia",
+      "verbenaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "feuilles lancéolées",
+      "jardin",
+      "très aromatiques",
+      "gélive",
+      "épice",
+      "vert vif",
+      "amérique du sud",
+      "chili",
+      "autre usage médical",
+      "pérou",
+      "digestif",
+      "aromatique",
+      "citronnée intense",
+      "infusion",
+      "argentine",
+      "odeur citronnée intense",
+      "apaisant",
+      "arbuste caduc",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "verveine citronnelle",
+      "louiza",
+      "verveine odorante",
+      "لويزة",
+      "verveine à feuilles de citron"
+    ]
+  },
+  "eucalyptus globulus": {
+    "BT": [
+      "myrtaceae",
+      "eucalyptus"
+    ],
+    "NT": [],
+    "RT": [
+      "bleu-vert",
+      "jardin",
+      "alternes",
+      "anti-inflammatoire",
+      "sessiles",
+      "très rapide",
+      "odeur camphrée",
+      "camphrée",
+      "jardin sec",
+      "forte",
+      "odeur aromatique",
+      "ovales",
+      "tonique",
+      "haie",
+      "gris-bleuâtre",
+      "élevée",
+      "autre usage médical",
+      "antiseptique",
+      "tasmanie",
+      "opposées",
+      "aromatique",
+      "falciformes",
+      "d'un vert bleuté pruineux",
+      "australie du sud-est",
+      "infusion",
+      "respiratoire",
+      "révélant une écorce plus claire",
+      "odeur forte",
+      "lisse",
+      "s'exfoliant en longues lanières",
+      "toxique"
+    ],
+    "UF": [
+      "arbre à la fièvre",
+      "klitous",
+      "أوكالبتوس",
+      "kaliptos",
+      "gommier bleu",
+      "كليبتوس",
+      "eucalyptus commun"
+    ]
+  },
+  "prunus dulcis": {
+    "BT": [
+      "prunus",
+      "rosaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "drupe",
+      "dermatologique",
+      "salade",
+      "infusion",
+      "bassin méditerranéen",
+      "jardin",
+      "caduc",
+      "sécheresse",
+      "épice",
+      "arbre fruitier",
+      "digestif",
+      "tonique",
+      "asie centrale et occidentale",
+      "apaisant",
+      "aromatique",
+      "précoce",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "louz",
+      "amandier",
+      "amandier commun",
+      "amandier à graines douces",
+      "لوز"
+    ]
+  },
+  "alchemilla vulgaris": {
+    "BT": [
+      "alchemilla",
+      "rosaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "fleur verdâtres/jaune-vert",
+      "asie tempérée",
+      "dermatologique",
+      "couvre-sol",
+      "regroupées en cymes lâches.",
+      "fleur apétales",
+      "jardin",
+      "acides phénoliques.",
+      "anti-inflammatoire",
+      "petites",
+      "fleur petites",
+      "fleur regroupées en cymes lâches.",
+      "mai à septembre",
+      "tonique",
+      "europe",
+      "riche en tanins",
+      "autre usage médical",
+      "salade",
+      "forme de rein ou d'éventail",
+      "digestif",
+      "verdâtres/jaune-vert",
+      "flavonoïdes",
+      "palmatilobées",
+      "infusion",
+      "pubescentes",
+      "apaisant",
+      "apétales",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "pied-de-lion",
+      "manteau de notre-dame",
+      "alchémille commune"
+    ]
+  },
+  "mespilus germanica": {
+    "BT": [
+      "rosaceae",
+      "mespilus"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "europe du sud-est",
+      "infusion",
+      "antiseptique",
+      "nèfle",
+      "jardin",
+      "printemps",
+      "asie du sud-ouest",
+      "digestif",
+      "caucase",
+      "comestible après blettissement",
+      "caduc",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "za'rour",
+      "زعرور",
+      "néflier d'allemagne",
+      "néflier commun"
+    ]
+  },
+  "rosa × damascena": {
+    "BT": [
+      "rosa",
+      "rosaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "doubles",
+      "jardin",
+      "très parfumées",
+      "anti-inflammatoire",
+      "douce et caractéristique",
+      "arbuste caduc épineux",
+      "maroc",
+      "odeur intense",
+      "huile essentielle",
+      "antiseptique",
+      "digestif",
+      "aromatique",
+      "fleur très parfumées",
+      "fleurs coupées",
+      "infusion",
+      "odeur douce et caractéristique",
+      "moyen-orient",
+      "intense",
+      "apaisant",
+      "balcon",
+      "fleur doubles",
+      "eau de rose",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "rosier de damas",
+      "ورد بلدي",
+      "rose de damas",
+      "rose de castille",
+      "ward baladi"
+    ]
+  },
+  "moringa oleifera": {
+    "BT": [
+      "moringaceae",
+      "moringa"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "jardin",
+      "racines",
+      "anti-inflammatoire",
+      "feuilles",
+      "très rapide",
+      "fleurs",
+      "inde",
+      "jardin sec",
+      "épice",
+      "tonique",
+      "autre usage médical",
+      "graines",
+      "salade",
+      "antiseptique",
+      "gousses",
+      "digestif",
+      "aromatique",
+      "afrique",
+      "infusion",
+      "asie",
+      "protéines et antioxydants",
+      "riche en vitamines",
+      "minéraux",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "arbre à raifort",
+      "moringa",
+      "arbre de vie",
+      "شجرة الحياة",
+      "المورينجا"
+    ]
+  },
+  "artemisia absinthium": {
+    "BT": [
+      "artemisia",
+      "asteraceae"
+    ],
+    "NT": [],
+    "RT": [
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "feuillage gris-argenté",
+      "jardin sec",
+      "forte",
+      "odeur aromatique",
+      "très amer",
+      "tonique",
+      "europe",
+      "très aromatique",
+      "autre usage médical",
+      "antiseptique",
+      "digestif",
+      "odeur caractéristique",
+      "aromatique",
+      "duveteux",
+      "infusion",
+      "asie",
+      "caractéristique",
+      "odeur forte",
+      "toxique"
+    ],
+    "UF": [
+      "herbe aux vers",
+      "الشيبة",
+      "chiba",
+      "absinthe",
+      "grande absinthe",
+      "armoise amère"
+    ]
+  },
+  "ziziphus spina-christi": {
+    "BT": [
+      "rhamnaceae",
+      "ziziphus"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "infusion",
+      "antiseptique",
+      "sahel",
+      "jardin",
+      "jardin sec",
+      "moyen-orient",
+      "digestif",
+      "oui",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "autre usage médical",
+      "haie",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "jujubier épineux",
+      "jujubier de palestine",
+      "pommier de sidon",
+      "sidr",
+      "épine du christ",
+      "السدر"
+    ]
+  },
+  "senna alexandrina": {
+    "BT": [
+      "senna",
+      "fabaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "oblongues",
+      "jardin",
+      "digestif",
+      "afrique du nord",
+      "fleur en grappes axillaires",
+      "gousses plates",
+      "arbuste",
+      "proche-orient",
+      "caduc ou semi-persistant",
+      "inde",
+      "fleur jaunes",
+      "jardin sec",
+      "jaunes",
+      "en grappes axillaires",
+      "toxique"
+    ],
+    "UF": [
+      "séné de khartum",
+      "سنا",
+      "séné de tinnevelly",
+      "séné d'égypte",
+      "sena",
+      "séné d'alexandrie"
+    ]
+  },
+  "ceratonia siliqua": {
+    "BT": [
+      "ceratonia",
+      "fabaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "persistant",
+      "cuit",
+      "tolère la sécheresse",
+      "infusion",
+      "bassin méditerranéen",
+      "jardin",
+      "jardin sec",
+      "épice",
+      "digestif",
+      "vert foncé",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "autre usage médical",
+      "pouvant atteindre plusieurs siècles",
+      "gousses charnues appelées caroubes",
+      "haie",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "kharrûb",
+      "figuier d'égypte",
+      "خروب",
+      "pain de saint-jean",
+      "caroubier"
+    ]
+  },
+  "artemisia herba-alba asso": {
+    "BT": [
+      "artemisia",
+      "asteraceae"
+    ],
+    "NT": [],
+    "RT": [
+      "afrique du nord",
+      "anti-inflammatoire",
+      "odeur aromatique puissante",
+      "maroc",
+      "zones semi-désertiques",
+      "jardin sec",
+      "argenté-blanc",
+      "autre usage médical",
+      "antiseptique",
+      "aromatique puissante",
+      "digestif",
+      "odeur caractéristique",
+      "aromatique",
+      "duveteux",
+      "infusion",
+      "bassin méditerranéen",
+      "moyen-orient",
+      "caractéristique",
+      "respiratoire",
+      "apaisant",
+      "steppes",
+      "toxique"
+    ],
+    "UF": [
+      "armoise du désert",
+      "chih",
+      "armoise herbe blanche",
+      "الشيح",
+      "absinthe blanche du désert"
+    ]
+  },
+  "saussurea costus (falc.) lipsch.": {
+    "BT": [
+      "astéracées",
+      "saussurea"
+    ],
+    "NT": [],
+    "RT": [
+      "néphrotoxique et cancérigène.",
+      "himalaya",
+      "infusion",
+      "antiseptique",
+      "inde",
+      "racine très aromatique et puissante",
+      "odeur racine très aromatique et puissante",
+      "digestif",
+      "anti-inflammatoire",
+      "respiratoire",
+      "tonique",
+      "pakistan",
+      "racine",
+      "notamment par l'acide aristolochique",
+      "autre usage médical",
+      "toxique"
+    ],
+    "UF": [
+      "القسط الهندي",
+      "costus indien",
+      "costus amer",
+      "racine de costus",
+      "عود هندي",
+      "qist al-hindi"
+    ]
+  },
+  "silybum marianum": {
+    "BT": [
+      "silybum",
+      "asteraceae"
+    ],
+    "NT": [],
+    "RT": [
+      "capitules solitaires",
+      "cuit",
+      "zones en friche",
+      "jardin",
+      "lobées",
+      "fleur capitules solitaires",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "terrains vagues",
+      "épineuses",
+      "de juin à août",
+      "jardin sec",
+      "autre usage médical",
+      "salade",
+      "herbacée annuelle ou bisannuelle",
+      "digestif",
+      "grandes",
+      "fleurs tubuleuses pourpres",
+      "infusion",
+      "europe du sud",
+      "bassin méditerranéen",
+      "bords de chemins",
+      "fleur fleurs tubuleuses pourpres",
+      "vert brillant marbré de blanc",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "chardon notre-dame",
+      "artichaut sauvage",
+      "chardon-marie",
+      "شوك الجمل",
+      "chouk al-jamal",
+      "chardon argenté"
+    ]
+  },
+  "glycyrrhiza glabra": {
+    "BT": [
+      "glycyrrhiza",
+      "fabaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "asie de l'ouest",
+      "regroupées en grappes dressées.",
+      "dressée",
+      "épice",
+      "fleurs petites",
+      "tonique",
+      "autre usage médical",
+      "digestif",
+      "plante herbacée vivace",
+      "aromatique",
+      "de couleur bleu-violacé",
+      "infusion",
+      "europe du sud",
+      "très sucrés",
+      "respiratoire",
+      "apaisant",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "عرق السوس",
+      "bois doux",
+      "réglisse",
+      "araq as-sūs",
+      "licorice"
+    ]
+  },
+  "trigonella foenum-graecum": {
+    "BT": [
+      "trigonella",
+      "fabaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "de couleur jaune-brun",
+      "anti-inflammatoire",
+      "odeur rappelant le curry",
+      "petites",
+      "plante légumineuse fixant l'azote atmosphérique",
+      "inde",
+      "épice",
+      "tonique",
+      "odeur aromatique forte",
+      "autre usage médical",
+      "rappelant le curry",
+      "salade",
+      "digestif",
+      "épicée",
+      "anguleuses",
+      "aromatique",
+      "proche-orient",
+      "infusion",
+      "bassin méditerranéen",
+      "amer",
+      "odeur épicée",
+      "aromatique forte",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "helba",
+      "sénégrain",
+      "الحلبة",
+      "fenugrec"
+    ]
+  },
+  "ficus carica": {
+    "BT": [
+      "moraceae",
+      "ficus"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "rugueuses sur le dessus.",
+      "infusion",
+      "bassin méditerranéen",
+      "jardin",
+      "produit des sycones",
+      "digestif",
+      "grandes feuilles lobées",
+      "anti-inflammatoire",
+      "autre usage médical",
+      "asie occidentale",
+      "aromatique",
+      "balcon",
+      "couramment appelés figues",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "figuier commun",
+      "تين",
+      "figuier comestible",
+      "شجرة التين",
+      "kermous",
+      "figuier"
+    ]
+  },
+  "lantana camara": {
+    "BT": [
+      "lantana",
+      "verbenaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "antiseptique",
+      "odeur parfois forte ou piquante",
+      "jardin",
+      "arbuste buissonnant",
+      "jardin sec",
+      "parfois grimpant",
+      "amériques tropicales",
+      "aromatique",
+      "odeur aromatique",
+      "anti-inflammatoire",
+      "parfois forte ou piquante",
+      "haie",
+      "balcon",
+      "autre usage médical",
+      "toxique"
+    ],
+    "UF": [
+      "corbeille d'or",
+      "لانتانا",
+      "lantana",
+      "verveine de cunning",
+      "lantanier"
+    ]
+  },
+  "lavandula angustifolia": {
+    "BT": [
+      "lamiaceae",
+      "lavandula"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "très rustique",
+      "jardin",
+      "cultivée au maroc",
+      "anti-inflammatoire",
+      "odeur parfum floral et herbacé caractéristique",
+      "jardin sec",
+      "parfum floral et herbacé caractéristique",
+      "gris-vert",
+      "antiseptique",
+      "digestif",
+      "aromatique",
+      "persistant",
+      "fleurs coupées",
+      "très apprécié",
+      "linéaire",
+      "infusion",
+      "bassin méditerranéen",
+      "respiratoire",
+      "été",
+      "apaisant",
+      "odeur très apprécié",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "lavande fine",
+      "khzama",
+      "خزامى",
+      "lavande à feuilles étroites",
+      "lavande vraie",
+      "lavande officinale"
+    ]
+  },
+  "taraxacum officinale": {
+    "BT": [
+      "taraxacum",
+      "astéracées"
+    ],
+    "NT": [],
+    "RT": [
+      "feuilles basales en rosette",
+      "cuit",
+      "fleurs jaunes en capitules solitaires",
+      "couvre-sol",
+      "infusion",
+      "salade",
+      "jardin",
+      "sève laiteuse blanche",
+      "profondément lobées",
+      "digestif",
+      "asie",
+      "fleur fleurs jaunes en capitules solitaires",
+      "anti-inflammatoire",
+      "tonique",
+      "europe",
+      "racine pivotante longue et épaisse",
+      "autre usage médical",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "hindiba",
+      "baraban",
+      "salade de taupe",
+      "pissenlit",
+      "هندباء",
+      "dent-de-lion",
+      "cochet",
+      "florin d'or"
+    ]
+  },
+  "mentha pulegium l.": {
+    "BT": [
+      "mentha",
+      "lamiaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "caractéristique de menthe/camphre",
+      "couvre-sol",
+      "jardin",
+      "afrique du nord",
+      "odeur caractéristique de menthe/camphre",
+      "fleurs mauves en verticilles axillaires",
+      "forte",
+      "plante rampante ou ascendante",
+      "europe",
+      "autre usage médical",
+      "antiseptique",
+      "digestif",
+      "aromatique",
+      "infusion",
+      "traçants",
+      "permettant une propagation rapide",
+      "odeur forte",
+      "asie occidentale",
+      "apaisant",
+      "toxique"
+    ],
+    "UF": [
+      "ghleou",
+      "menthe à pouliot",
+      "menthe pouliot",
+      "fliou",
+      "فلّيو",
+      "menthe sauvage",
+      "pouliot"
+    ]
+  },
+  "mentha spicata": {
+    "BT": [
+      "mentha",
+      "lamiaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "asie tempérée",
+      "roses à lilas",
+      "jardin",
+      "terrains incultes",
+      "odeur mentholée",
+      "anti-inflammatoire",
+      "légèrement froissées",
+      "petites",
+      "fleur petites",
+      "odeur fraîche et caractéristique",
+      "rapide",
+      "vertes",
+      "résiste au froid",
+      "europe",
+      "fraîche et caractéristique",
+      "fleur regroupées en épis terminaux",
+      "salade",
+      "antiseptique",
+      "zones humides",
+      "bonne",
+      "digestif",
+      "regroupées en épis terminaux",
+      "aromatique",
+      "lancéolées",
+      "dentelées",
+      "infusion",
+      "bords de chemins",
+      "mentholée",
+      "fleur roses à lilas",
+      "respiratoire",
+      "peut être envahissante",
+      "apaisant",
+      "balcon",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "menthe douce",
+      "naanaa",
+      "menthe en épi",
+      "menthe verte",
+      "menthe marocaine",
+      "نعناع"
+    ]
+  },
+  "myrtus communis": {
+    "BT": [
+      "myrtaceae",
+      "myrtus"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "dermatologique",
+      "antiseptique",
+      "jardin",
+      "odeur camphrées et épicées",
+      "digestif",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "bleu-noir à maturité",
+      "sphériques",
+      "aromatique",
+      "relativement rustique",
+      "fleurs blanches odorantes",
+      "proche-orient",
+      "persistant",
+      "fleurs coupées",
+      "camphrées et épicées",
+      "infusion",
+      "baies comestibles",
+      "bassin méditerranéen",
+      "de juin à août",
+      "odeur feuilles fortement aromatiques",
+      "jardin sec",
+      "épice",
+      "feuilles fortement aromatiques",
+      "arbuste buissonnant ou petit arbre",
+      "avec de nombreuses étamines dorées",
+      "respiratoire",
+      "tonique",
+      "haie",
+      "balcon",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "مرس",
+      "nerte",
+      "herbe du paradis",
+      "myrte des jardins",
+      "mirs",
+      "myrte commun",
+      "ريحان",
+      "myrte juif",
+      "rihane"
+    ]
+  },
+  "nerium oleander": {
+    "BT": [
+      "apocynaceae",
+      "nerium"
+    ],
+    "NT": [],
+    "RT": [
+      "jardin",
+      "persistant",
+      "longue et abondante",
+      "bassin méditerranéen",
+      "asie du sud-ouest",
+      "jardin sec",
+      "du printemps à l'automne",
+      "haie",
+      "balcon",
+      "élevée",
+      "autre usage médical",
+      "toxique"
+    ],
+    "UF": [
+      "دفلة",
+      "laurier-rose",
+      "nérion",
+      "oléandre",
+      "difla"
+    ]
+  },
+  "ocimum basilicum": {
+    "BT": [
+      "lamiaceae",
+      "ocimum"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "intérieur",
+      "aromatique et épicée",
+      "salade",
+      "infusion",
+      "odeur aromatique et épicée",
+      "jardin",
+      "épice",
+      "asie du sud",
+      "été",
+      "digestif",
+      "anti-inflammatoire",
+      "afrique tropicale",
+      "annuelle",
+      "tonique",
+      "apaisant",
+      "aromatique",
+      "balcon",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "basilic",
+      "حبق",
+      "herbe royale",
+      "hbak",
+      "basilic commun"
+    ]
+  },
+  "origanum majorana": {
+    "BT": [
+      "lamiaceae",
+      "origanum"
+    ],
+    "NT": [],
+    "RT": [
+      "duveteux",
+      "odeur aromatique et délicate",
+      "vivace",
+      "infusion",
+      "antiseptique",
+      "bassin méditerranéen",
+      "jardin",
+      "aromatique et délicate",
+      "gris-vert",
+      "épice",
+      "moyen-orient",
+      "digestif",
+      "anti-inflammatoire",
+      "apaisant",
+      "aromatique",
+      "balcon",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "thym de jardin",
+      "marjolaine",
+      "mardadouch",
+      "marjolaine des jardins",
+      "مرددوش"
+    ]
+  },
+  "origanum vulgare": {
+    "BT": [
+      "lamiaceae",
+      "origanum"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "couvre-sol",
+      "très rustique",
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "jardin sec",
+      "épice",
+      "tonique",
+      "europe",
+      "odeur aromatique forte",
+      "antiseptique",
+      "digestif",
+      "épicée",
+      "aromatique",
+      "rhizomateuse",
+      "infusion",
+      "bassin méditerranéen",
+      "caduc à semi-persistant",
+      "odeur épicée",
+      "aromatique forte",
+      "asie",
+      "respiratoire",
+      "été",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "زعتر",
+      "origan",
+      "thym d'espagne",
+      "zaatar",
+      "mardadouch",
+      "مردادوش",
+      "marjolaine sauvage"
+    ]
+  },
+  "argania spinosa": {
+    "BT": [
+      "argania",
+      "sapotaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "fourrage",
+      "cuit",
+      "dermatologique",
+      "salade",
+      "sud-ouest du maroc",
+      "résistant à la sécheresse",
+      "jardin",
+      "jardin sec",
+      "rôle écologique majeur",
+      "profondes",
+      "bois",
+      "anti-inflammatoire",
+      "tonique",
+      "huile d'argan",
+      "aromatique",
+      "arbre épineux",
+      "longue",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "tili",
+      "arganier",
+      "tamat",
+      "moroccan ironwood",
+      "أركان",
+      "argan tree",
+      "argan"
+    ]
+  },
+  "carthamus tinctorius": {
+    "BT": [
+      "asteraceae",
+      "carthamus"
+    ],
+    "NT": [],
+    "RT": [
+      "fleurs coupées",
+      "dermatologique",
+      "salade",
+      "infusion",
+      "jardin",
+      "jardin sec",
+      "épice",
+      "cycle de vie d'un an.",
+      "moyen-orient",
+      "digestif",
+      "asie",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "tonique",
+      "apaisant",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "عصفر",
+      "قرطم",
+      "faux-safran",
+      "guerṭem",
+      "safran des teinturiers",
+      "carthame des teinturiers"
+    ]
+  },
+  "phoenix dactylifera": {
+    "BT": [
+      "arecaceae",
+      "phoenix"
+    ],
+    "NT": [],
+    "RT": [
+      "non ramifié",
+      "cuit",
+      "sud-ouest de l'asie",
+      "persistant",
+      "jardin",
+      "voire plus",
+      "jardin sec",
+      "dioïque",
+      "moyen-orient",
+      "digestif",
+      "afrique du nord",
+      "grandes palmes pennées",
+      "tonique",
+      "aromatique",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "تمر",
+      "palmier dattier",
+      "nakhla",
+      "dattier",
+      "dattier commun"
+    ]
+  },
+  "ricinus communis": {
+    "BT": [
+      "ricinus",
+      "euphorbiaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "jardin",
+      "odeur feuillage faiblement odorant",
+      "digestif",
+      "anti-inflammatoire",
+      "feuillage faiblement odorant",
+      "arbuste pouvant atteindre plusieurs mètres",
+      "jardin sec",
+      "afrique tropicale",
+      "capsules épineuses",
+      "toxique"
+    ],
+    "UF": [
+      "kharwaa",
+      "ricin",
+      "الخروع",
+      "palma christi",
+      "ricin commun"
+    ]
+  },
+  "rosmarinus officinalis": {
+    "BT": [
+      "lamiaceae",
+      "rosmarinus"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "aciculaire",
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "odeur camphrée",
+      "camphrée",
+      "petites",
+      "fleur petites",
+      "modérée",
+      "jardin sec",
+      "épice",
+      "fleur bilabiées",
+      "bleu-violet à blanc",
+      "arbuste érigé",
+      "tonique",
+      "odeur fortement aromatique",
+      "majoritairement printemps et été",
+      "haie",
+      "autre usage médical",
+      "antiseptique",
+      "bilabiées",
+      "digestif",
+      "aromatique",
+      "fortement aromatique",
+      "fleur bleu-violet à blanc",
+      "persistant",
+      "infusion",
+      "europe du sud",
+      "bassin méditerranéen",
+      "ramifié",
+      "respiratoire",
+      "apaisant",
+      "balcon",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "azir",
+      "romarin",
+      "أزير",
+      "herbe aux couronnes",
+      "encensier"
+    ]
+  },
+  "salvia officinalis": {
+    "BT": [
+      "salvia",
+      "lamiaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "fasciculée",
+      "jardin",
+      "anti-inflammatoire",
+      "odeur camphrée",
+      "camphrée",
+      "jardin sec",
+      "épice",
+      "forte",
+      "odeur aromatique",
+      "fleurs bleu-violet",
+      "tonique",
+      "antiseptique",
+      "digestif",
+      "aromatique",
+      "persistant",
+      "infusion",
+      "bassin méditerranéen",
+      "de mai à juillet",
+      "respiratoire",
+      "odeur forte",
+      "apaisant",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "sauge commune",
+      "salmia",
+      "thé d'europe",
+      "sauge officinale",
+      "سلمية"
+    ]
+  },
+  "syzygium aromaticum": {
+    "BT": [
+      "myrtaceae",
+      "syzygium"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "jardin",
+      "moluques",
+      "arbre persistant",
+      "anti-inflammatoire",
+      "régions tropicales d'asie et d'afrique",
+      "boutons floraux séchés",
+      "épice",
+      "eugénol",
+      "forte",
+      "tonique",
+      "antiseptique",
+      "digestif",
+      "épicée",
+      "odeur caractéristique",
+      "aromatique",
+      "infusion",
+      "odeur épicée",
+      "caractéristique",
+      "odeur forte",
+      "apaisant",
+      "dessert",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "eugenia caryophyllata",
+      "clou de girofle (pour les boutons floraux)",
+      "قرنفل",
+      "giroflier",
+      "qronfel"
+    ]
+  },
+  "thymus vulgaris": {
+    "BT": [
+      "lamiacées",
+      "thymus"
+    ],
+    "NT": [],
+    "RT": [
+      "couvre-sol",
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "jardin sec",
+      "épice",
+      "forte",
+      "odeur aromatique",
+      "tonique",
+      "antiseptique",
+      "digestif",
+      "aromatique",
+      "persistant",
+      "printemps-été",
+      "infusion",
+      "europe du sud",
+      "bassin méditerranéen",
+      "respiratoire",
+      "odeur forte",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "farigoule",
+      "زعتر",
+      "thym commun",
+      "thym cultivé",
+      "za'atar"
+    ]
+  },
+  "matricaria chamomilla": {
+    "BT": [
+      "matricaria",
+      "astéracées"
+    ],
+    "NT": [],
+    "RT": [
+      "printemps-été",
+      "dermatologique",
+      "infusion",
+      "jardin",
+      "aromatique et douce",
+      "jardin sec",
+      "rappelant la pomme",
+      "digestif",
+      "asie",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "odeur rappelant la pomme",
+      "odeur aromatique et douce",
+      "europe",
+      "apaisant",
+      "aromatique",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "camomille matricaire",
+      "بابونج",
+      "camomille vraie",
+      "camomille sauvage",
+      "matricaire camomille",
+      "camomille allemande",
+      "babounj"
+    ]
+  },
+  "juniperus communis": {
+    "BT": [
+      "cupressaceae",
+      "juniperus"
+    ],
+    "NT": [],
+    "RT": [
+      "jardin",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "cônes charnus",
+      "odeur résineuse",
+      "jardin sec",
+      "épice",
+      "odeur aromatique",
+      "europe",
+      "autre usage médical",
+      "antiseptique",
+      "arbuste ou petit arbre",
+      "digestif",
+      "aromatique",
+      "amérique du nord",
+      "persistant",
+      "infusion",
+      "asie",
+      "résineuse",
+      "aiguilles piquantes",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "ar'ar",
+      "عرعر",
+      "genévrier vulgaire",
+      "genévrier",
+      "genévrier commun"
+    ]
+  },
+  "laurus nobilis": {
+    "BT": [
+      "lauraceae",
+      "laurus"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "jardin",
+      "anti-inflammatoire",
+      "modérée",
+      "jardin sec",
+      "épice",
+      "odeur aromatique",
+      "tonique",
+      "haie",
+      "antiseptique",
+      "arbuste ou petit arbre",
+      "digestif",
+      "odeur caractéristique",
+      "aromatique",
+      "persistant",
+      "infusion",
+      "printemps",
+      "bassin méditerranéen",
+      "caractéristique",
+      "respiratoire",
+      "apaisant",
+      "balcon",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "الرند",
+      "laurier-sauce",
+      "rend",
+      "laurier vrai",
+      "laurier noble"
+    ]
+  },
+  "curcuma longa": {
+    "BT": [
+      "zingiberaceae",
+      "curcuma"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "intérieur",
+      "odeur poivrée et terreuse",
+      "dermatologique",
+      "asie du sud-est",
+      "orange intense",
+      "poivrée et terreuse",
+      "jardin",
+      "indonésie",
+      "anti-inflammatoire",
+      "fleur blanc-jaunâtre à rose",
+      "inde",
+      "nécessite des températures chaudes",
+      "épice",
+      "tonique",
+      "blanc-jaunâtre à rose",
+      "autre usage médical",
+      "antiseptique",
+      "digestif",
+      "odeur caractéristique",
+      "aromatique",
+      "infusion",
+      "gélif",
+      "caractéristique",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "safran des indes",
+      "curcuma",
+      "kharkoum",
+      "turmeric",
+      "خرقوم"
+    ]
+  },
+  "linum usitatissimum": {
+    "BT": [
+      "linum",
+      "linaceae"
+    ],
+    "NT": [],
+    "RT": [
+      "cuit",
+      "dermatologique",
+      "fleur bleues ou parfois blanches",
+      "jardin",
+      "anti-inflammatoire",
+      "riches en fibres",
+      "bleues ou parfois blanches",
+      "brillantes",
+      "plante herbacée annuelle",
+      "épice",
+      "salade",
+      "digestif",
+      "à cinq pétales délicats",
+      "fleur à cinq pétales délicats",
+      "ovoïdes",
+      "infusion",
+      "capsule sphérique déhiscente",
+      "bassin méditerranéen",
+      "moyen-orient",
+      "apaisant",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "كتان",
+      "lin cultivé",
+      "kettane",
+      "lin commun",
+      "lin oléagineux"
+    ]
+  },
+  "lawsonia inermis": {
+    "BT": [
+      "lawsonia",
+      "lythraceae"
+    ],
+    "NT": [],
+    "RT": [
+      "dermatologique",
+      "jardin",
+      "blanches ou rosâtres",
+      "capsules globuleuses",
+      "fleur blanches ou rosâtres",
+      "sous-continent indien",
+      "afrique du nord",
+      "anti-inflammatoire",
+      "très parfumées",
+      "petites",
+      "fleur petites",
+      "jardin sec",
+      "vertes",
+      "haie",
+      "antiseptique",
+      "zones tropicales et subtropicales",
+      "opposées",
+      "arbuste ou petit arbre",
+      "préfère la chaleur",
+      "fleur très parfumées",
+      "colorant naturel",
+      "résistant à la sécheresse",
+      "fleur en panicules terminales",
+      "moyen-orient",
+      "en panicules terminales",
+      "apaisant",
+      "ovales",
+      "d'où est extraite la teinture",
+      "non toxique",
+      "comestible"
+    ],
+    "UF": [
+      "henna",
+      "henné",
+      "arbre à henné",
+      "mignonette égyptienne",
+      "الحناء"
+    ]
+  }
+}
