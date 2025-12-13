@@ -1,23 +1,33 @@
+import os
 import json
 import math
 import re
 import spacy
 from collections import defaultdict, Counter
-import os
 from typing import Set, List, Dict, Tuple, Any
 
 # =============================================================================
-# VOS PARAMÈTRES ET CHEMINS (ASSUREZ-VOUS QU'ILS SONT CORRECTS DEPUIS L'APP FLASK)
+# VOS PARAMÈTRES ET CHEMINS (CORRIGÉS EN ABSOLU)
 # =============================================================================
 
-# NOTE: Les chemins doivent être ajustés en fonction du répertoire de l'application Flask.
-# Par exemple, si l'app est dans 'app/' et les index dans '../indexer/', ajustez ici.
-INDEX_FILE = "../../indexer/Base_Index.json"
-DOC_LENGTHS_FILE = "../../indexer/document_lengths.json"
-FICHIER_CONCEPTS_CLES = "../../docs/mot_conceptuel/protected_concepts.json"
-FICHIER_STOCK_SCIENTIFIQUE = "../../docs/mot_scientifique/protected_terms.json"
-LOOKUP_FILE = "../../docs/Lookup/lookup.json"
-THESAURUS_FILE = "../../docs/Thesaurus/thesaurus_complet.json"
+# Récupère le chemin absolu du répertoire de CE script (Model_vectoriel)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Remonte au dossier racine du projet (plant-search-engine)
+# Si search_service.py est dans Model/Model_vectoriel, il faut remonter DEUX fois.
+PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, '..', '..')) 
+
+# Construction des chemins absolus pour chaque dossier
+INDEX_DIR = os.path.join(PROJECT_ROOT, "indexer")
+DOCS_DIR = os.path.join(PROJECT_ROOT, "docs")
+
+# Chemins des fichiers de ressources et d'index
+INDEX_FILE = os.path.join(INDEX_DIR, "Base_Index.json")
+DOC_LENGTHS_FILE = os.path.join(INDEX_DIR, "document_lengths.json")
+FICHIER_CONCEPTS_CLES = os.path.join(DOCS_DIR, "mot_conceptuel", "protected_concepts.json")
+FICHIER_STOCK_SCIENTIFIQUE = os.path.join(DOCS_DIR, "mot_scientifique", "protected_terms.json")
+LOOKUP_FILE = os.path.join(DOCS_DIR, "Lookup", "lookup.json")
+THESAURUS_FILE = os.path.join(DOCS_DIR, "Thesaurus", "thesaurus_complet.json")
 
 LANGUE = 'fr_core_news_lg'
 MAX_NGRAM_SCIENTIFIQUE = 4

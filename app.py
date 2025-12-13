@@ -5,11 +5,20 @@ from flask import Flask, render_template, request, send_from_directory
 from pypdf import PdfReader 
 from googleapiclient.discovery import build
 
+try:
+    # Ce chemin suppose que 'app.py' est à la racine de l'application Flask
+    # et que 'search_service.py' est dans Model/Model_vectoriel/
+    from Model.Model_vectoriel.search_service import rechercher_smart_fallback
+    # L'index et les ressources sont chargés une seule fois ici à l'importation.
+except ImportError as e:
+    print(f"Erreur d'importation du moteur de recherche: {e}")
+    print("Assurez-vous que le chemin d'importation 'Model.Model_vectoriel.search_service' est correct.")
+    rechercher_smart_fallback = None # Prévient les erreurs si l'importation échoue
+
 app = Flask(__name__)
 
 #API de youtube
 API_KEY = "AIzaSyA_wxvkxlTTxQlNGtHPPbcL5497aVymQsY" 
-#Le chemin vers le dossier racine 'docs'
 DOCS_FOLDER = os.path.join(os.getcwd(), 'docs')
 
 # --- FONCTIONS UTILITAIRES (HELPERS) ---
@@ -152,14 +161,21 @@ def search():
     per_page = 5
     
     youtube_videos = search_youtube(query) if query else []
-    # Simulation des résultats
-    base_results = [
-        {'filename': '265454.json'}, 
-        {'filename': 'Arrosage.pdf'},
-        {'filename': '5945.json'},
-         {'filename': '385323.json'}
-    ]
-
+    
+    # =========================================================================
+    # 2. APPEL DU MOTEUR DE RECHERCHE ET MISE EN FORME DES RÉSULTATS
+    # =========================================================================
+    base_results = []
+    if query and rechercher_smart_fallback:
+        # Appelle le moteur de recherche pour obtenir les documents classés.
+        raw_results = rechercher_smart_fallback(query)
+        
+        # Structure les résultats bruts en ajoutant 'score' et 'method'
+        base_results = [
+            {'filename': res['doc_id'], 'score': res['score'], 'method': res['method_used']} 
+            for res in raw_results
+        ]
+    
     first_doc_context = ""
     
     if len(base_results) > 0:
@@ -178,11 +194,9 @@ def search():
         if path and os.path.exists(path):
             try:
                 if dtype == 'json':
-                    # On utilise ta fonction existante pour extraire le résumé
                     _, snippet, _ = get_json_info(path)
                     first_doc_context = snippet
                 elif dtype == 'pdf':
-                    # On utilise ta fonction existante pour extraire le texte PDF
                     _, snippet, _ = extract_pdf_title_and_snippet(path)
                     first_doc_context = snippet
             except Exception as e:
@@ -194,6 +208,10 @@ def search():
 
     for res in base_results:
         filename = res['filename']
+        # Les scores et méthodes sont lus, mais non ajoutés au résultat final pour l'affichage
+        score = res.get('score', 0.0)      
+        method = res.get('method', 'N/A')  
+        
         extracted_title = "Inconnu"
         snippet = ""
         extracted_image = None
@@ -224,6 +242,7 @@ def search():
             'snippet': snippet,
             'type': doc_type,
             'image': extracted_image 
+            # Le score et la méthode sont exclus ici pour l'affichage
         })
     
     # --- LOGIQUE DE PAGINATION ---
