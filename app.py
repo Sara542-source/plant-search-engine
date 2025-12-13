@@ -4,6 +4,8 @@ import math
 from flask import Flask, render_template, request, send_from_directory
 from pypdf import PdfReader 
 from googleapiclient.discovery import build
+from openai import OpenAI
+client = OpenAI(api_key="mon api")
 
 try:
     # Ce chemin suppose que 'app.py' est à la racine de l'application Flask
@@ -97,32 +99,59 @@ def get_json_info(json_path):
     return title, snippet, image_url
 
 def build_rag_prompt(query, context_text):
-    return 0
+    """
+    Construit le prompt pour le LLM en RAG.
+    Le prompt inclut :
+    - La requête utilisateur
+    - Le contexte (extrait du doc trouvé)
+    """
+    prompt = f"""
+Vous êtes un assistant spécialisé en botanique. 
+Répondez de manière concise à la requête suivante en utilisant seulement le contexte fourni.
+
+Contexte du document : 
+"{context_text}"
+
+Requête de l'utilisateur : 
+"{query}"
+
+Réponse :
+"""
+    return prompt
+
 
 def call_llm(prompt):
-    return 0
+    try:
+        response = client.responses.create(
+            model="gpt-5.2",
+            input=prompt,
+            temperature=0.2  # plus précis, moins créatif
+        )
+        # Le texte généré est dans response.output_text
+        return response.output_text
+    except Exception as e:
+        print(f"Erreur LLM : {e}")
+        return "Impossible de générer une réponse pour le moment."
+
 
 def get_ai_rag_response(query, context_text):
     """
-    RAG PUR : Ne génère une réponse que si un document (contexte) est trouvé.
+    Génère une réponse RAG si un document est trouvé.
     """
-    # Si aucun contexte n'est fourni, on ne renvoie RIEN (pas de fallback générique)
     if not context_text:
         return None
 
-    # Si on a un document, on génère le bloc HTML vert (RAG)
+    prompt = build_rag_prompt(query, context_text)
+    llm_response = call_llm(prompt)
+
+    # On renvoie un bloc HTML prêt à afficher dans results.html
     return f"""
     <div style="border-left: 4px solid #4ade80; padding-left: 15px;">
-        <strong style="color: #4ade80;">🔍 Analyse RAG (Basée sur vos documents) :</strong><br>
+        <strong style="color: #4ade80;">🔍 Analyse RAG :</strong><br>
         <em style="font-size: 0.9em; opacity: 0.8; display:block; margin-bottom:10px;">
             Contexte utilisé : "{context_text[:120]}..."
         </em>
-        En croisant votre recherche <strong>"{query}"</strong> avec ce document, l'analyse indique que :
-        <ul style="margin-top:5px; margin-bottom:5px;">
-            <li>Ce sujet est traité spécifiquement dans le document détecté.</li>
-            <li>Les données techniques (voir extrait) correspondent à votre requête.</li>
-        </ul>
-        Cette synthèse est générée à partir du contenu local ci-dessous.
+        {llm_response}
     </div>
     """
 
