@@ -8,8 +8,6 @@ from openai import OpenAI
 client = OpenAI(api_key="mon api")
 
 try:
-    # Ce chemin suppose que 'app.py' est à la racine de l'application Flask
-    # et que 'search_service.py' est dans Model/Model_vectoriel/
     from Model.Model_vectoriel.search_service import rechercher_smart_fallback
     # L'index et les ressources sont chargés une seule fois ici à l'importation.
 except ImportError as e:
@@ -20,48 +18,81 @@ except ImportError as e:
 app = Flask(__name__)
 
 #API de youtube
-API_KEY = "AIzaSyA_wxvkxlTTxQlNGtHPPbcL5497aVymQsY" 
+API_KEY = "" 
 DOCS_FOLDER = os.path.join(os.getcwd(), 'docs')
 
 # --- FONCTIONS UTILITAIRES (HELPERS) ---
 
 def extract_pdf_title_and_snippet(pdf_path):
     """
-    1. Trouve le TITRE (le texte avec la plus grande police sur la page 1).
-    2. Trouve le SNIPPET (le reste du texte).
-    3. Renvoie None pour l'image (car c'est un PDF).
+    Stratégie robuste d'extraction pour PDF :
+    1. Essaie de lire les métadonnées officielles du PDF (Souvent le titre propre s'y trouve).
+    2. Sinon, cherche le texte avec la plus grande police sur la 1ère page.
+    3. Sinon, prend le nom du fichier.
+    Pour le snippet : Extrait le texte brut du début.
     """
     title = ""
     snippet = ""
-    max_font_size = 0
     
     try:
         reader = PdfReader(pdf_path)
-        page = reader.pages[0]
         
-        def visitor_body(text,  fontSize):
-            nonlocal title, max_font_size, snippet
-            if text and len(text.strip()) > 1 and fontSize is not None:
-                if fontSize > max_font_size:
-                    max_font_size = fontSize
-                    title = text.strip()
-                elif fontSize == max_font_size:
-                    title += " " + text.strip()
-                else:
-                    snippet += text + " "
-
-        page.extract_text(visitor_text=visitor_body)
+        # --- PLAN A : Les Métadonnées (Le plus propre) ---
+        if reader.metadata and reader.metadata.title:
+            title = reader.metadata.title.strip()
         
-        if not title: title = os.path.basename(pdf_path)
-        if not snippet: snippet = page.extract_text()
+        # Récupération de la première page pour l'analyse
+        if len(reader.pages) > 0:
+            page = reader.pages[0]
+            raw_text = page.extract_text()
             
+            # --- PLAN B : Analyse de la police (Si pas de métadonnées) ---
+            if not title:
+                max_font_size = 0
+                temp_title = ""
+                
+                # La signature correcte de visitor_body prend 5 arguments
+                def visitor_body(text, cm, tm, fontDict, fontSize):
+                    nonlocal temp_title, max_font_size
+                    # On cherche un texte significatif (pas juste un espace)
+                    if text and len(text.strip()) > 3 and fontSize is not None:
+                        if fontSize > max_font_size:
+                            max_font_size = fontSize
+                            temp_title = text.strip()
+                        elif fontSize == max_font_size:
+                            temp_title += " " + text.strip()
+
+                try:
+                    # On ignore les erreurs mineures d'extraction
+                    page.extract_text(visitor_text=visitor_body)
+                    if temp_title:
+                        title = temp_title
+                except Exception:
+                    pass # Si l'analyse visuelle échoue, on continue
+
+            # --- Construction du SNIPPET ---
+            # On prend le texte brut, on nettoie les sauts de ligne bizarres
+            if raw_text:
+                # On enlève le titre du snippet pour ne pas le répéter
+                clean_text = raw_text.replace(title, '') if title else raw_text
+                snippet = clean_text.replace('\n', ' ').strip()
+        
     except Exception as e:
-        title = "Document PDF"
-        snippet = f"Erreur lecture: {str(e)}"
+        print(f"Erreur PDF {pdf_path}: {e}")
+        snippet = "Lecture impossible."
 
-    snippet = snippet.replace('\n', ' ')[:300] + "..."
+    # --- PLAN C : Le nom de fichier (Secours ultime) ---
+    if not title or len(title) < 3:
+        title = os.path.basename(pdf_path).replace('.pdf', '').replace('_', ' ')
+
+    # Troncature propre du snippet
+    if snippet:
+        snippet = snippet[:300] + "..."
+    else:
+        snippet = "Aperçu non disponible."
+
+    # On renvoie toujours 3 valeurs (Titre, Snippet, Image=None)
     return title, snippet, None
-
 def get_json_info(json_path):
     """Extrait le nom scientifique, le résumé ET l'image"""
     title = ""
@@ -119,7 +150,6 @@ Réponse :
 """
     return prompt
 
-
 def call_llm(prompt):
     try:
         response = client.responses.create(
@@ -132,7 +162,6 @@ def call_llm(prompt):
     except Exception as e:
         print(f"Erreur LLM : {e}")
         return "Impossible de générer une réponse pour le moment."
-
 
 def get_ai_rag_response(query, context_text):
     """
