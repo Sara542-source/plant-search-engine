@@ -1,0 +1,48 @@
+You are helping evaluate an information retrieval system (plant search engine).
+I will give you the content of 95 plant documents.
+Your goal is to generate realistic search queries AND their expected relevant documents ( maximu nbr of documents please )
+
+Rules:
+
+Each query must be something a real user might search.
+
+It can involve symptoms of plants (yellow leaves, pests, fungal diseases)
+
+Or cultivation (watering, spacing, soil type)
+
+Or scientific/technical terms
+
+Or a mix of general + specific vocabulary
+
+For every query, list the document titles that are relevant.
+
+Relevance means the document talks about the plant or concept mentioned.
+The queries must test different aspects:
+
+✔ scientific terms (e.g., “acarien traitement”)
+
+✔ French agricultural vocabulary (“arrosage modéré”, “substrat riche en humus”)
+
+✔ multi-word scientific expressions (“alternariose du solanum melongena”)
+
+✔ symptoms (“feuilles qui jaunissent en été”)
+
+✔ general queries (“plantes aromatiques pour la cuisine”)
+
+✔ difficult ambiguous queries (“maladie noire des feuilles”)
+
+Output format (strict JSON list):
+
+[
+  {
+    "query": "QUERY STRING HERE",
+    "relevant_documents": ["doc_title_1", "doc_title_2", "..."]
+  }
+]
+
+
+Generate 100 queries, varied and high-quality that expect a micture of docs ( json and pdfs)
+
+I gave you all 95 documents (a mix of JSON and PDFs).
+Extract plant names, scientific names, technical terms, diseases, cultivation rules, pests, etc.
+Then generate the evaluation queries.
