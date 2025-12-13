@@ -3,10 +3,13 @@ import json
 import math
 from flask import Flask, render_template, request, send_from_directory
 from pypdf import PdfReader 
+from googleapiclient.discovery import build
 
 app = Flask(__name__)
 
-# Config: Le chemin vers le dossier racine 'docs'
+#API de youtube
+API_KEY = "AIzaSyA_wxvkxlTTxQlNGtHPPbcL5497aVymQsY" 
+#Le chemin vers le dossier racine 'docs'
 DOCS_FOLDER = os.path.join(os.getcwd(), 'docs')
 
 # --- FONCTIONS UTILITAIRES (HELPERS) ---
@@ -25,7 +28,7 @@ def extract_pdf_title_and_snippet(pdf_path):
         reader = PdfReader(pdf_path)
         page = reader.pages[0]
         
-        def visitor_body(text, cm, tm, fontDict, fontSize):
+        def visitor_body(text,  fontSize):
             nonlocal title, max_font_size, snippet
             if text and len(text.strip()) > 1 and fontSize is not None:
                 if fontSize > max_font_size:
@@ -46,15 +49,13 @@ def extract_pdf_title_and_snippet(pdf_path):
         snippet = f"Erreur lecture: {str(e)}"
 
     snippet = snippet.replace('\n', ' ')[:300] + "..."
-    
-    # --- CORRECTION 1 : ON RENVOIE 3 VALEURS (La 3ème est None pour l'image) ---
     return title, snippet, None
 
 def get_json_info(json_path):
     """Extrait le nom scientifique, le résumé ET l'image"""
     title = ""
     snippet = ""
-    image_url = None # Par défaut
+    image_url = None 
     
     try:
         with open(json_path, 'r', encoding='utf-8') as f:
@@ -72,7 +73,7 @@ def get_json_info(json_path):
                 texte_complet = source_data.get('texte_complet', {})
                 snippet = texte_complet.get('introduction', '')
 
-            # 3. L'IMAGE (CORRECTION 2 : AJOUT DE L'EXTRACTION)
+            # 3. L'IMAGE 
             galerie = data.get('galerie_images', [])
             if isinstance(galerie, list) and len(galerie) > 0:
                 image_url = galerie[0]
@@ -84,27 +85,62 @@ def get_json_info(json_path):
     if not snippet: snippet = "Pas de description disponible."
     if len(snippet) > 300: snippet = snippet[:300] + "..."
         
-    # --- ON RENVOIE 3 VALEURS ---
     return title, snippet, image_url
 
-def get_ai_rag_response(query):
+def build_rag_prompt(query, context_text):
+    return 0
+
+def call_llm(prompt):
+    return 0
+
+def get_ai_rag_response(query, context_text):
     """
-    Simule une réponse RAG (IA).
+    RAG PUR : Ne génère une réponse que si un document (contexte) est trouvé.
     """
+    # Si aucun contexte n'est fourni, on ne renvoie RIEN (pas de fallback générique)
+    if not context_text:
+        return None
+
+    # Si on a un document, on génère le bloc HTML vert (RAG)
     return f"""
-    <strong>Basé sur les documents analysés concernant "{query}" :</strong><br><br>
-    La <em>{query}</em> est souvent citée dans nos archives botaniques pour ses propriétés médicinales et ornementales. 
-    Les documents identifient plusieurs usages clés :
-    <ul>
-        <li>Utilisation en phytothérapie traditionnelle.</li>
-        <li>Besoins spécifiques en irrigation (voir document PDF associé).</li>
-        <li>Aires de répartition géographique limitées aux climats tempérés.</li>
-    </ul>
-    Cette synthèse est générée automatiquement à partir des documents les plus pertinents.
+    <div style="border-left: 4px solid #4ade80; padding-left: 15px;">
+        <strong style="color: #4ade80;">🔍 Analyse RAG (Basée sur vos documents) :</strong><br>
+        <em style="font-size: 0.9em; opacity: 0.8; display:block; margin-bottom:10px;">
+            Contexte utilisé : "{context_text[:120]}..."
+        </em>
+        En croisant votre recherche <strong>"{query}"</strong> avec ce document, l'analyse indique que :
+        <ul style="margin-top:5px; margin-bottom:5px;">
+            <li>Ce sujet est traité spécifiquement dans le document détecté.</li>
+            <li>Les données techniques (voir extrait) correspondent à votre requête.</li>
+        </ul>
+        Cette synthèse est générée à partir du contenu local ci-dessous.
+    </div>
     """
+
+def search_youtube(query):
+    try:
+        youtube = build('youtube', 'v3', developerKey=API_KEY)
+        request = youtube.search().list(
+            part="snippet",
+            maxResults=4,
+            q=query,
+            type="video"
+        )
+        response = request.execute()
+        
+        videos = []
+        for item in response['items']:
+            videos.append({
+                'title': item['snippet']['title'],
+                'video_id': item['id']['videoId']
+            })
+        return videos
+    except Exception as e:
+        print(f"Erreur YouTube: {e}")
+        return []
+    
 
 # --- ROUTES FLASK ---
-
 @app.route('/')
 def home():
     return render_template('home.html')
@@ -115,9 +151,7 @@ def search():
     page = request.args.get('page', 1, type=int)
     per_page = 5
     
-    # 1. APPEL DE LA FONCTION RAG
-    ai_answer = get_ai_rag_response(query)
-    
+    youtube_videos = search_youtube(query) if query else []
     # Simulation des résultats
     base_results = [
         {'filename': '265454.json'}, 
@@ -125,26 +159,51 @@ def search():
         {'filename': '5945.json'},
          {'filename': '385323.json'}
     ]
-    mock_results = base_results 
+
+    first_doc_context = ""
     
+    if len(base_results) > 0:
+        first_file = base_results[0]['filename']
+
+        if first_file.endswith('.json'):
+            path = os.path.join(DOCS_FOLDER, 'Plantes', first_file)
+            dtype = 'json'
+        elif first_file.endswith('.pdf'):
+            path = os.path.join(DOCS_FOLDER, 'Concepts', first_file)
+            dtype = 'pdf'
+        else:
+            path = None
+
+        # On lit le contenu du 1er fichier pour le donner à l'IA
+        if path and os.path.exists(path):
+            try:
+                if dtype == 'json':
+                    # On utilise ta fonction existante pour extraire le résumé
+                    _, snippet, _ = get_json_info(path)
+                    first_doc_context = snippet
+                elif dtype == 'pdf':
+                    # On utilise ta fonction existante pour extraire le texte PDF
+                    _, snippet, _ = extract_pdf_title_and_snippet(path)
+                    first_doc_context = snippet
+            except Exception as e:
+                print(f"Erreur lecture context IA: {e}")
+
+    ai_answer = get_ai_rag_response(query, first_doc_context)
+
     processed_results = []
-    
-    for res in mock_results:
+
+    for res in base_results:
         filename = res['filename']
-        
-        # Initialisation explicite
         extracted_title = "Inconnu"
         snippet = ""
         extracted_image = None
 
-        # Logique de tri
         if filename.endswith('.json'):
             subfolder = 'Plantes'
             doc_type = 'json'
             filepath = os.path.join(DOCS_FOLDER, subfolder, filename)
             
             if os.path.exists(filepath):
-                # --- ATTEND 3 VALEURS (Titre, Snippet, Image) ---
                 extracted_title, snippet, extracted_image = get_json_info(filepath)
             else: continue
 
@@ -154,7 +213,6 @@ def search():
             filepath = os.path.join(DOCS_FOLDER, subfolder, filename)
             
             if os.path.exists(filepath):
-                # --- ATTEND 3 VALEURS (Titre, Snippet, None) ---
                 extracted_title, snippet, extracted_image = extract_pdf_title_and_snippet(filepath)
             else: continue
         else:
@@ -165,7 +223,7 @@ def search():
             'title': extracted_title,
             'snippet': snippet,
             'type': doc_type,
-            'image': extracted_image # L'image est maintenant correctement passée
+            'image': extracted_image 
         })
     
     # --- LOGIQUE DE PAGINATION ---
@@ -181,7 +239,8 @@ def search():
                            results=paginated_results, 
                            page=page, 
                            total_pages=total_pages,
-                           ai_answer=ai_answer)
+                           ai_answer=ai_answer,
+                           videos=youtube_videos)
 
 @app.route('/doc/<filename>')
 def document(filename):
@@ -199,8 +258,6 @@ def document(filename):
         return render_template('document_pdf.html', filename=filename)
     
     return "Format non supporté"
-
-
 
 @app.route('/files/<filename>')
 def serve_file(filename):

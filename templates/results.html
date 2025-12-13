@@ -3,7 +3,8 @@
 {% block content %}
 
 <div class="results-page-wrapper">
-    
+        
+    {% if ai_answer %}
     <div class="ai-glass-container">
         <div class="ai-header">
             <span class="ai-icon">✨</span>
@@ -16,6 +17,7 @@
             Généré par le modèle RAG • Vérifiez les sources ci-dessous
         </div>
     </div>
+    {% endif %}
     
     <div class="results-glass-container">
         
@@ -75,27 +77,34 @@
     </div>
 
     <div class="videos-section-container">
-        <h2 class="section-title">Vidéos Associées </h2>
+        <h2 class="section-title">Vidéos Associées à "{{ query }}"</h2>
         
-        <div class="video-grid">
-            <div class="video-card placeholder">
-                <div class="thumbnail"></div>
-                <p>Titre de la vidéo 1</p>
+        {% if videos %}
+            <div class="video-grid" style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+                {% for video in videos %}
+                <div class="glass-card video-card" style="width: 300px; background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 15px; border: 1px solid rgba(255,255,255,0.1);">
+                    
+                    <h3 style="font-size: 14px; height: 40px; overflow: hidden; margin-bottom: 10px;">
+                        {{ video.title }}
+                    </h3>
+                    
+                    <iframe 
+                        width="100%" 
+                        height="180" 
+                        src="https://www.youtube.com/embed/{{ video.video_id }}?origin=http://127.0.0.1:5000" 
+                        frameborder="0" 
+                        allowfullscreen 
+                        style="border-radius: 10px;">
+                    </iframe>
+                    
+                </div>
+                {% endfor %}
             </div>
-            <div class="video-card placeholder">
-                <div class="thumbnail"></div>
-                <p>Titre de la vidéo 2</p>
-            </div>
-            <div class="video-card placeholder">
-                <div class="thumbnail"></div>
-                <p>Titre de la vidéo 3</p>
-            </div>
-            <div class="video-card placeholder">
-                <div class="thumbnail"></div>
-                <p>Titre de la vidéo 4</p>
-            </div>
-        </div>
+        {% else %}
+            <p>Aucune vidéo trouvée pour cette recherche.</p>
+        {% endif %}
     </div>
+    ```
 
 </div>
 
