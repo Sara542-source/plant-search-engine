@@ -1,10 +1,10 @@
 import json
 from typing import List, Dict, Any, Tuple
-from lsa_search import lsa_search
+from lsa import lsa_search
 
 EVALUATION_DATA_FILE = "../../../docs/Test/test.json" 
 # Le nombre maximum de documents retournés par le modèle, comme spécifié.
-CUTOFF_K = 30 
+CUTOFF_K = 10 
 
 
 # --- ÉTAPE 1: LA FONCTION DE MATCHING---
