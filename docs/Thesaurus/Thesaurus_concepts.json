@@ -1,0 +1,2151 @@
+{
+  "arrosage": {
+    "BT": ["irrigation", "eau"],
+    "NT": ["bassinage", "brumisation", "goutte à goutte", "aspersion", "drainage"],
+    "RT": ["humidité", "substrat", "drainage", "évaporation", "stress hydrique"],
+    "UF": [
+      "watering",
+      "سقي",
+      "السقي",
+      "شرب الماء",
+      "تشريب",
+      "رشان",
+      "رشانة",
+      "arroser",
+      "ري",
+      "Irrigation goutte-à-goutte",
+      "drip irrigation",
+      "système d'arrosage",
+      "Apport d'eau",
+      "Mouillage"
+    ],
+    "SN": "Apport contrôlé d'eau aux plantes pour maintenir l'humidité du substrat nécessaire à leur développement"
+  },
+  "irrigation": {
+    "BT": ["eau", "technique"],
+    "NT": ["aspersion", "fertigation", "hydraulique"],
+    "RT": ["arrosage", "drainage", "humidité", "sécheresse"],
+    "UF": [
+      "irrigation système",
+      "système irrigation",
+      "تقنية الري",
+      "الري الحديث",
+      "irrigation des cultures",
+      "réseau d'irrigation",
+      "goutteur"
+    ],
+    "SN": "Ensemble des techniques d'apport d'eau organisé pour les cultures"
+  },
+  "eau": {
+    "BT": [],
+    "NT": ["irrigation", "arrosage", "humidité", "drainage"],
+    "RT": ["substrat", "pH", "minéral", "absorption"],
+    "UF": [
+      "water",
+      "ماء",
+      "الما",
+      "الماء",
+      "ماء صالح",
+      "H2O",
+      "ressource hydrique",
+      "liquide"
+    ],
+    "SN": "Élément vital pour la croissance des plantes, vecteur de nutriments"
+  },
+  "luminosité": {
+    "BT": ["lumière", "environnement"],
+    "NT": ["photosynthèse", "spectre", "intensité", "photoperiode", "ombre"],
+    "RT": ["croissance", "chlorophylle", "température", "led", "éclairage"],
+    "UF": [
+      "light",
+      "ضوء",
+      "الإضاءة",
+      "إضاءة",
+      "الشمس",
+      "ضو الشمس",
+      "éclairage naturel",
+      "exposition lumineuse",
+      "lumière du soleil",
+      "ensoleillement",
+      "exposition"
+    ],
+    "SN": "Quantité et qualité de lumière disponible pour la photosynthèse et le développement végétal"
+  },
+  "lumière": {
+    "BT": ["environnement"],
+    "NT": ["éclairage", "led", "spectre", "photon", "radiation"],
+    "RT": ["luminosité", "photosynthèse", "croissance", "température"],
+    "UF": [
+      "light spectrum",
+      "نور",
+      "ضو",
+      "النور",
+      "rayonnement lumineux",
+      "intensité lumineuse",
+      "lumen"
+    ],
+    "SN": "Énergie électromagnétique nécessaire à la photosynthèse"
+  },
+  "photosynthèse": {
+    "BT": ["processus", "métabolisme"],
+    "NT": ["chlorophylle", "chloroplaste", "atp", "glucose"],
+    "RT": ["lumière", "co", "croissance", "feuille"],
+    "UF": [
+      "photosynthesis",
+      "التمثيل الضوئي",
+      "تمثيل ضوئي",
+      "عملية البناء الضوئي",
+      "assimilation chlorophyllienne",
+      "production de matière organique"
+    ],
+    "SN": "Processus biochimique de conversion de l'énergie lumineuse en énergie chimique"
+  },
+  "substrat": {
+    "BT": ["sol", "support"],
+    "NT": ["terreau", "terre", "compost", "tourbe", "perlite", "vermiculite"],
+    "RT": ["drainage", "pH", "nutrition", "racine", "porosité"],
+    "UF": [
+      "substrate",
+      "تربة",
+      "التربة",
+      "تراب",
+      "طين",
+      "milieu de culture",
+      "growing medium",
+      "terreau de culture",
+      "mélange de terre",
+      "support culture"
+    ],
+    "SN": "Support de culture fournissant ancrage et nutriments aux plantes"
+  },
+  "sol": {
+    "BT": ["milieu"],
+    "NT": ["argile", "sable", "limon", "humus", "texture"],
+    "RT": ["substrat", "pH", "drainage", "nutriment", "racine"],
+    "UF": [
+      "soil",
+      "تربة",
+      "تراب",
+      "الارض",
+      "terre",
+      "ground",
+      "terre de jardin",
+      "terrain"
+    ],
+    "SN": "Milieu naturel meuble où se développent les racines des plantes"
+  },
+  "pH": {
+    "BT": ["propriété", "chimie"],
+    "NT": ["acidité", "alcalinité", "acide", "neutre", "alcalin"],
+    "RT": ["sol", "substrat", "nutriment", "disponibilité", "absorption"],
+    "UF": [
+      "pH soil",
+      "حموضة التربة",
+      "مستوى الحموضة",
+      "acidité du sol",
+      "potentiel hydrogène",
+      "pH niveau",
+      "alcalinité sol",
+      "taux pH"
+    ],
+    "SN": "Mesure de l'acidité ou alcalinité du substrat, déterminant la disponibilité des nutriments"
+  },
+  "acidité": {
+    "BT": ["pH", "propriété"],
+    "NT": ["acide", "acidification", "acidophile"],
+    "RT": ["pH", "sol", "substrat", "aluminium"],
+    "UF": [
+      "acidity",
+      "حمضية",
+      "حموضة",
+      "sol acide",
+      "terrain acide",
+      "faible pH",
+      "pH bas"
+    ],
+    "SN": "Caractère acide d'un substrat avec pH inférieur à 7"
+  },
+  "température": {
+    "BT": ["climat", "environnement"],
+    "NT": ["chaleur", "froid", "gel", "canicule", "thermique"],
+    "RT": ["croissance", "stress", "germination", "photosynthèse", "humidité"],
+    "UF": [
+      "temperature",
+      "حرارة",
+      "الحرارة",
+      "البرد",
+      "درجة الحرارة",
+      "température ambiante",
+      "temp",
+      "degré",
+      "température idéale",
+      "chaleur excessive"
+    ],
+    "SN": "Mesure de chaleur de l'environnement influençant tous les processus physiologiques"
+  },
+  "humidité": {
+    "BT": ["environnement", "eau"],
+    "NT": ["hygrométrie", "vapeur", "humide", "hygrophyte"],
+    "RT": ["arrosage", "transpiration", "évaporation", "température", "air"],
+    "UF": [
+      "humidity",
+      "رطوبة",
+      "الرطوبة",
+      "humidité relative",
+      "HR",
+      "moisture",
+      "humidité de l'air",
+      "air humide",
+      "taux d'humidité"
+    ],
+    "SN": "Quantité de vapeur d'eau présente dans l'air ambiant"
+  },
+  "engrais": {
+    "BT": ["fertilisation", "nutrition"],
+    "NT": ["npk", "azote", "phosphore", "potassium", "organique", "compost"],
+    "RT": ["nutriment", "sol", "croissance", "fertilité", "apport"],
+    "UF": [
+      "fertilizer",
+      "سماد",
+      "السماد",
+      "مخصبات",
+      "fertilisant",
+      "amendement",
+      "engrais organique",
+      "engrais minéral",
+      "nourriture plante",
+      "produit nutritif"
+    ],
+    "SN": "Substance apportant des nutriments essentiels pour la croissance des plantes"
+  },
+  "npk": {
+    "BT": ["engrais", "nutriment"],
+    "NT": ["azote", "phosphore", "potassium"],
+    "RT": ["engrais", "nutrition", "fertilisation", "croissance"],
+    "UF": [
+      "NPK ratio",
+      "نيتروجين فوسفور بوتاسيوم",
+      "formule NPK",
+      "nitrogen phosphorus potassium",
+      "engrais composé",
+      "ratio npk",
+      "تركيبة NPK"
+    ],
+    "SN": "Proportion des trois nutriments primaires: azote, phosphore et potassium"
+  },
+  "azote": {
+    "BT": ["npk", "nutriment", "macronutriment"],
+    "NT": ["nh", "azoté", "nitrate", "ammonium"],
+    "RT": ["engrais", "croissance", "feuillage", "chlorophylle"],
+    "UF": [
+      "nitrogen",
+      "آزوت",
+      "N",
+      "نيتروجين",
+      "nitrogen fertilizer",
+      "engrais azoté",
+      "nitrogène",
+      "urée"
+    ],
+    "SN": "Élément nutritif essentiel pour la croissance végétative et le feuillage"
+  },
+  "rempotage": {
+    "BT": ["culture", "technique"],
+    "NT": ["empotage", "dépotage", "transplantation"],
+    "RT": ["pot", "substrat", "racine", "croissance", "drainage"],
+    "UF": [
+      "repotting",
+      "إعادة الزرع",
+      "تبدال المحبق",
+      "تغيير الوعاء",
+      "changer de pot",
+      "transplantation en pot",
+      "rempotement"
+    ],
+    "SN": "Action de transférer une plante dans un contenant plus grand avec substrat frais"
+  },
+  "plantation": {
+    "BT": ["culture", "technique"],
+    "NT": ["planter", "semis", "mise en terre", "transplantation"],
+    "RT": ["sol", "racine", "croissance", "espacement"],
+    "UF": [
+      "planting",
+      "زراعة",
+      "الزراعة",
+      "غرس",
+      "غراسة",
+      "mise en place",
+      "implantation",
+      "transplanter",
+      "mettre en terre"
+    ],
+    "SN": "Action de mettre en terre ou en pot une plante pour sa culture"
+  },
+  "drainage": {
+    "BT": ["eau", "technique"],
+    "NT": ["drainer", "évacuation", "percolation", "porosité"],
+    "RT": ["arrosage", "substrat", "eau", "porosité", "humidité"],
+    "UF": [
+      "draining",
+      "تصريف",
+      "التصريف",
+      "تصفية",
+      "تنفيس",
+      "écoulement",
+      "drainage système",
+      "trous de drainage",
+      "bonne aération du sol"
+    ],
+    "SN": "Évacuation de l'excès d'eau du substrat pour éviter l'asphyxie racinaire"
+  },
+  "propagation": {
+    "BT": ["reproduction", "multiplication"],
+    "NT": ["bouturage", "semis", "marcottage", "greffage", "division"],
+    "RT": ["reproduction", "croissance", "clone", "graine", "multiplication"],
+    "UF": [
+      "propagation",
+      "إكثار",
+      "تكاثر",
+      "توالد",
+      "multiplication végétale",
+      "reproduction végétale",
+      "méthodes de propagation"
+    ],
+    "SN": "Ensemble des techniques de multiplication des plantes"
+  },
+  "bouturage": {
+    "BT": ["propagation", "reproduction"],
+    "NT": ["bouture", "enracinement", "bouture de feuille", "bouture de tige"],
+    "RT": ["racine", "hormone", "propagation", "clone", "auxine"],
+    "UF": [
+      "cutting",
+      "عقلة",
+      "عقل",
+      "تشتيل",
+      "bouture de tige",
+      "cutting propagation",
+      "faire une bouture"
+    ],
+    "SN": "Technique de multiplication par prélèvement et enracinement d'un fragment végétal"
+  },
+  "semis": {
+    "BT": ["propagation", "plantation"],
+    "NT": ["graine", "germination", "levée"],
+    "RT": ["plantation", "graine", "substrat", "reproduction"],
+    "UF": [
+      "seeding",
+      "بذر",
+      "البذر",
+      "زراعة البذور",
+      "زرع البذور",
+      "ensemencement",
+      "sowing",
+      "pépinière"
+    ],
+    "SN": "Action de semer des graines pour obtenir de nouvelles plantes"
+  },
+  "taille": {
+    "BT": ["entretien", "technique"],
+    "NT": ["tailler", "élagage", "pincement", "rabattage", "nettoyage"],
+    "RT": ["croissance", "forme", "ramification", "bourgeon", "sécateur"],
+    "UF": [
+      "pruning",
+      "تقليم",
+      "التقليم",
+      "تقطاع",
+      "coupe",
+      "taille de formation",
+      "couper branches",
+      "taille d'entretien"
+    ],
+    "SN": "Action de couper certaines parties d'une plante pour contrôler sa forme et sa croissance"
+  },
+  "élagage": {
+    "BT": ["taille", "entretien"],
+    "NT": ["élagueur", "coupe", "branche", "suppression"],
+    "RT": ["taille", "arbre", "branche", "sécateur", "bois mort"],
+    "UF": [
+      "tree pruning",
+      "تشذيب",
+      "تشديب",
+      "تقليم الشجر",
+      "élagage des arbres",
+      "coupe des branches"
+    ],
+    "SN": "Coupe des branches des arbres et arbustes pour des raisons sanitaires ou esthétiques"
+  },
+  "maladie": {
+    "BT": ["pathologie", "problème"],
+    "NT": ["fongique", "bactérie", "virus", "infection", "dégât"],
+    "RT": ["parasites", "symptôme", "traitement", "pathogène", "phytopathologie"],
+    "UF": [
+      "disease",
+      "مرض",
+      "أمراض",
+      "مرض النبات",
+      "maladie des plantes",
+      "plant disease",
+      "pathogène",
+      "infection"
+    ],
+    "SN": "Altération de la santé d'une plante causée par des agents pathogènes"
+  },
+  "fongique": {
+    "BT": ["maladie", "champignon"],
+    "NT": ["mildiou", "oïdium", "fusariose", "botrytis", "rouille"],
+    "RT": ["champignon", "humidité", "fongicide", "pathogène", "mycose"],
+    "UF": [
+      "fungal",
+      "فطري",
+      "فطريات",
+      "مرض فطري",
+      "maladie fongique",
+      "infection fongique",
+      "problème champignon"
+    ],
+    "SN": "Relatif aux maladies causées par des champignons parasites"
+  },
+  "mildiou": {
+    "BT": ["fongique", "maladie"],
+    "NT": ["plasmopara", "downy"],
+    "RT": ["humidité", "fongique", "champignon", "traitement", "tomate"],
+    "UF": [
+      "downy mildew",
+      "البياض الزغبي",
+      "البياض الزغبي للقرع",
+      "mildew",
+      "mildiu",
+      "taches mildiou"
+    ],
+    "SN": "Maladie fongique causant des taches jaunes et duvet blanchâtre"
+  },
+  "oïdium": {
+    "BT": ["fongique", "maladie"],
+    "NT": ["powdery", "blanc", "erisiphe"],
+    "RT": ["champignon", "fongique", "feuille", "traitement", "soufre"],
+    "UF": [
+      "powdery mildew",
+      "البياض الدقيقي",
+      "بياض دقيقي",
+      "مرض البياض",
+      "blanc",
+      "feutrage blanc",
+      "poudre blanche"
+    ],
+    "SN": "Maladie fongique formant un feutrage blanc poudreux sur les feuilles"
+  },
+  "parasites": {
+    "BT": ["ravageur", "problème"],
+    "NT": ["puceron", "cochenille", "araignée", "thrips", "aleurode", "nématode"],
+    "RT": ["insecte", "maladie", "lutte", "traitement", "prédateur"],
+    "UF": [
+      "pests",
+      "آفات",
+      "آفات زراعية",
+      "ravageurs",
+      "insectes nuisibles",
+      "bestioles",
+      "petites bêtes"
+    ],
+    "SN": "Organismes vivant aux dépens des plantes et causant des dommages"
+  },
+  "puceron": {
+    "BT": ["parasites", "insecte"],
+    "NT": ["aphid", "miellat", "ailé", "sans ailes"],
+    "RT": ["sève", "feuille", "insecte", "coccinelle", "transmission"],
+    "UF": [
+      "aphid",
+      "من",
+      "المن",
+      "pucerons verts",
+      "pucerons noirs",
+      "plant lice",
+      "insecte piqueur-suceur"
+    ],
+    "SN": "Petit insecte piqueur-suceur se nourrissant de la sève des plantes"
+  },
+  "cochenille": {
+    "BT": ["parasites", "insecte"],
+    "NT": ["mealybug", "carapace", "farineuse", "bouclier"],
+    "RT": ["sève", "insecte", "parasites", "traitement", "miellat"],
+    "UF": [
+      "mealybug",
+      "حشرة قشرية",
+      "القشرية",
+      "حشرة الصدفة",
+      "scale insect",
+      "cochenille farineuse",
+      "cochenille à bouclier"
+    ],
+    "SN": "Insecte suceur protégé par une carapace cireuse"
+  },
+  "toxicité": {
+    "BT": ["danger", "propriété"],
+    "NT": ["toxique", "poison", "intoxication"],
+    "RT": ["plante", "ingestion", "sécurité", "symptôme", "vénéneux"],
+    "UF": [
+      "toxicity",
+      "سمية",
+      "التسمم",
+      "dangerosité",
+      "plante toxique",
+      "empoisonnement",
+      "risque d'intoxication"
+    ],
+    "SN": "Caractère nocif ou vénéneux de certaines plantes pour l'homme ou les animaux"
+  },
+  "toxique": {
+    "BT": ["toxicité", "danger"],
+    "NT": ["poison", "vénéneux", "mortel"],
+    "RT": ["toxicité", "ingestion", "contact", "irritation", "symptôme"],
+    "UF": [
+      "toxic",
+      "سام",
+      "مسموم",
+      "vénéneuse",
+      "empoisonné",
+      "dangereux",
+      "nocif pour l'homme"
+    ],
+    "SN": "Qui contient des substances nocives pouvant causer des troubles"
+  },
+  "croissance": {
+    "BT": ["développement", "processus"],
+    "NT": ["allongement", "élongation", "expansion", "pousse", "taille"],
+    "RT": ["développement", "nutrition", "lumière", "température", "hormone", "auxine"],
+    "UF": [
+      "growth",
+      "نمو",
+      "النمو",
+      "pousser",
+      "développement végétatif",
+      "growing",
+      "rythme de croissance",
+      "vigueur"
+    ],
+    "SN": "Augmentation progressive de la taille et de la masse d'une plante"
+  },
+  "développement": {
+    "BT": ["processus", "cycle"],
+    "NT": ["croissance", "floraison", "fructification", "maturation", "germination"],
+    "RT": ["croissance", "morphogenèse", "cycle", "stade", "phénologie"],
+    "UF": [
+      "development",
+      "تطور",
+      "التطور",
+      "نمو وتطور",
+      "développement végétal",
+      "stade de vie",
+      "évolution"
+    ],
+    "SN": "Ensemble des transformations progressives de la plante depuis la germination"
+  },
+  "germination": {
+    "BT": ["développement", "reproduction"],
+    "NT": ["graine", "levée", "radicule", "cotylédon"],
+    "RT": ["graine", "semis", "eau", "température", "dormance"],
+    "UF": [
+      "germination",
+      "إنبات",
+      "الإنبات",
+      "نبتة",
+      "levée des graines",
+      "démarrage",
+      "faire germer"
+    ],
+    "SN": "Sortie de la plantule hors de la graine en présence de conditions favorables"
+  },
+  "stress": {
+    "BT": ["problème", "condition"],
+    "NT": ["hydrique", "thermique", "lumineux", "salin", "oxydatif"],
+    "RT": ["sécheresse", "température", "lumière", "adaptation", "résistance"],
+    "UF": [
+      "plant stress",
+      "إجهاد",
+      "الإجهاد",
+      "ضعف",
+      "stress environnemental",
+      "stress abiotique",
+      "souffrance de la plante"
+    ],
+    "SN": "Réaction de la plante à des conditions environnementales défavorables"
+  },
+  "hydrique": {
+    "BT": ["stress", "eau"],
+    "NT": ["sécheresse", "déshydratation", "flétrissement"],
+    "RT": ["stress", "eau", "arrosage", "sécheresse", "transpiration"],
+    "UF": [
+      "water stress",
+      "إجهاد مائي",
+      "الإجهاد المائي",
+      "stress de sécheresse",
+      "manque d'eau",
+      "déficit hydrique"
+    ],
+    "SN": "Stress causé par un déficit ou excès d'eau"
+  },
+  "sécheresse": {
+    "BT": ["stress", "climat"],
+    "NT": ["aride", "déshydratation", "flétrissement", "xérophyte"],
+    "RT": ["hydrique", "eau", "stress", "irrigation", "aridité"],
+    "UF": [
+      "drought",
+      "جفاف",
+      "الجفاف",
+      "manque d'eau",
+      "sécheresse du sol",
+      "pénurie d'eau",
+      "période sèche"
+    ],
+    "SN": "Déficit prolongé en eau affectant la croissance des plantes"
+  },
+  "annuelle": {
+    "BT": ["cycle", "plante"],
+    "NT": ["annuel"],
+    "RT": ["cycle", "germination", "floraison", "graine", "bisannuel"],
+    "UF": [
+      "annual",
+      "حولي",
+      "حولية",
+      "plante annuelle",
+      "annual plant",
+      "cycle annuel",
+      "plante d'une année"
+    ],
+    "SN": "Plante accomplissant son cycle de vie en une seule saison"
+  },
+  "vivace": {
+    "BT": ["cycle", "plante"],
+    "NT": ["pérenne", "persistant", "rhizome"],
+    "RT": ["cycle", "longévité", "dormance", "rhizome", "annuelle"],
+    "UF": [
+      "perennial",
+      "معمر",
+      "معمرة",
+      "نبتة معمرة",
+      "plante vivace",
+      "perennial plant",
+      "plante de plusieurs années",
+      "pérennité"
+    ],
+    "SN": "Plante vivant plusieurs années avec repousse annuelle"
+  },
+  "arbuste": {
+    "BT": ["plante", "ligneux"],
+    "NT": ["arbustif", "buisson", "arbrisseau", "haie"],
+    "RT": ["arbre", "ligneux", "ramification", "taille", "port"],
+    "UF": [
+      "shrub",
+      "شجيرة",
+      "شجيرات",
+      "buisson",
+      "arbuste ornemental",
+      "arbuste fruitier",
+      "petit arbre"
+    ],
+    "SN": "Plante ligneuse de taille moyenne avec ramifications dès la base"
+  },
+  "arbre": {
+    "BT": ["plante", "ligneux"],
+    "NT": ["tronc", "forestier", "fruitier", "feuillu", "conifère"],
+    "RT": ["arbuste", "ligneux", "bois", "élagage", "hauteur"],
+    "UF": [
+      "tree",
+      "شجرة",
+      "شجر",
+      "شجر مثمر",
+      "arbre fruitier",
+      "arbre d'ornement",
+      "grand arbre"
+    ],
+    "SN": "Plante ligneuse de grande taille avec un tronc unique"
+  },
+  "climat": {
+    "BT": ["environnement", "géographie"],
+    "NT": ["température", "humidité", "méditerranéen", "tropical", "aride", "tempéré"],
+    "RT": ["biome", "géographique", "adaptation", "zone", "météo"],
+    "UF": [
+      "climate",
+      "مناخ",
+      "الجو",
+      "climat régional",
+      "conditions climatiques",
+      "zone climatique",
+      "météorologie"
+    ],
+    "SN": "Ensemble des conditions météorologiques d'une région"
+  },
+  "méditerranéen": {
+    "BT": ["climat", "biome"],
+    "NT": ["été", "hiver", "garrigue", "maquis", "subméditerranéen"],
+    "RT": ["climat", "sec", "tempéré", "adaptation", "région"],
+    "UF": [
+      "Mediterranean",
+      "متوسطي",
+      "البحر الأبيض المتوسط",
+      "climat méditerranéen",
+      "zone med",
+      "étés secs"
+    ],
+    "SN": "Climat caractérisé par des étés chauds et secs, hivers doux et humides"
+  },
+  "tropical": {
+    "BT": ["climat", "biome"],
+    "NT": ["tropicale", "équatorial", "mousson", "chaud"],
+    "RT": ["humide", "chaleur", "climat", "biodiversité", "équateur"],
+    "UF": [
+      "tropical",
+      "استوائي",
+      "الاستوائي",
+      "حار ورطب",
+      "climat tropical",
+      "zone tropicale",
+      "région chaude"
+    ],
+    "SN": "Climat chaud et humide des régions équatoriales"
+  },
+  "biome": {
+    "BT": ["écosystème", "géographie"],
+    "NT": ["biomes", "forêt", "désert", "savane", "toundra"],
+    "RT": ["climat", "végétation", "géographique", "adaptation", "habitat"],
+    "UF": [
+      "biome",
+      "منطقة حيوية",
+      "إقليم حيوي",
+      "écosystème régional",
+      "zone écologique",
+      "habitat naturel"
+    ],
+    "SN": "Grande zone géographique avec climat et végétation caractéristiques"
+  },
+  "origine": {
+    "BT": ["géographie", "botanique"],
+    "NT": ["endémique", "indigène", "originaire", "introduit", "invasif"],
+    "RT": ["géographique", "distribution", "adaptation", "espèce", "provenance"],
+    "UF": [
+      "origin",
+      "أصل",
+      "المنشأ",
+      "الأصل الجغرافي",
+      "provenance géographique",
+      "lieu d'origine",
+      "habitat d'origine"
+    ],
+    "SN": "Zone géographique naturelle d'une espèce végétale"
+  },
+  "led": {
+    "BT": ["éclairage", "technologie"],
+    "NT": ["diode", "lumière", "spectre", "photomorphogenèse"],
+    "RT": ["luminosité", "éclairage", "photosynthèse", "technologie", "horticole"],
+    "UF": [
+      "LED light",
+      "إضاءة ليد",
+      "ديود",
+      "diode électroluminescente",
+      "LED grow light",
+      "lumière artificielle",
+      "hps"
+    ],
+    "SN": "Technologie d'éclairage horticole à diodes électroluminescentes"
+  },
+  "capteur": {
+    "BT": ["technologie", "instrument"],
+    "NT": ["sensor", "sonde", "détection", "mesure", "télédétection"],
+    "RT": ["monitoring", "automatisation", "mesure", "iot", "données"],
+    "UF": [
+      "sensor",
+      "حساس",
+      "مستشعر",
+      "capteur humidité",
+      "moisture sensor",
+      "capteur température",
+      "sonde de sol",
+      "appareil de mesure"
+    ],
+    "SN": "Dispositif électronique de mesure de paramètres environnementaux"
+  },
+  "hydroponie": {
+    "BT": ["culture", "technologie"],
+    "NT": ["aéroponie", "solution", "nutriment", "NFT", "DWC"],
+    "RT": ["culture", "eau", "substrat", "technologie", "hors-sol", "fertigation"],
+    "UF": [
+      "hydroponics",
+      "زراعة مائية",
+      "زراعة بدون تربة",
+      "culture hors-sol",
+      "soilless culture",
+      "système hydroponique",
+      "aquaponie"
+    ],
+    "SN": "Technique de culture sans sol utilisant une solution nutritive"
+  },
+  "automatisation": {
+    "BT": ["technologie", "gestion"],
+    "NT": ["automatique", "programmable", "automate", "robotique"],
+    "RT": ["capteur", "irrigation", "technologie", "contrôle", "système"],
+    "UF": [
+      "automation",
+      "أتمتة",
+      "نظام أوتوماتيكي",
+      "système automatisé",
+      "smart gardening",
+      "gestion automatique",
+      "régulation"
+    ],
+    "SN": "Utilisation de systèmes automatiques pour la gestion des cultures"
+  },
+  "iot": {
+    "BT": ["technologie", "digital"],
+    "NT": ["capteur", "connecté", "wireless", "télésurveillance"],
+    "RT": ["automatisation", "monitoring", "capteur", "technologie", "données"],
+    "UF": [
+      "Internet of Things",
+      "إنترنت الأشياء",
+      "أجهزة متصلة",
+      "objets connectés",
+      "IoT agriculture",
+      "smart farming"
+    ],
+    "SN": "Réseau d'objets connectés pour la surveillance et gestion horticole"
+  },
+  "racine": {
+    "BT": ["organe", "plante"],
+    "NT": ["racinaire", "pivot", "radicelle", "rhizome", "chevelu"],
+    "RT": ["sol", "absorption", "ancrage", "nutrition", "substrat"],
+    "UF": [
+      "root",
+      "جذر",
+      "الجذر",
+      "جدر",
+      "root system",
+      "système racinaire",
+      "enracinement",
+      "racines"
+    ],
+    "SN": "Organe souterrain assurant ancrage et absorption de l'eau et nutriments"
+  },
+  "feuille": {
+    "BT": ["organe", "plante"],
+    "NT": ["foliaire", "limbe", "nervure", "stomate", "pétiole"],
+    "RT": ["photosynthèse", "transpiration", "chlorophylle", "tige", "feuillage"],
+    "UF": [
+      "leaf",
+      "ورقة",
+      "أوراق",
+      "ورقة الشجر",
+      "feuillage",
+      "leaves",
+      "foliole",
+      "feuille de plante"
+    ],
+    "SN": "Organe aérien principal de la photosynthèse et des échanges gazeux"
+  },
+  "tige": {
+    "BT": ["organe", "plante"],
+    "NT": ["tronc", "rameau", "branche", "chaume"],
+    "RT": ["feuille", "bourgeon", "croissance", "sève", "port"],
+    "UF": [
+      "stem",
+      "ساق",
+      "الساق",
+      "la tige",
+      "tronc",
+      "hampe florale",
+      "support"
+    ],
+    "SN": "Axe aérien portant feuilles, bourgeons et organes reproducteurs"
+  },
+  "fleur": {
+    "BT": ["organe", "reproduction"],
+    "NT": ["floraison", "pétale", "pollen", "sépale", "pistil", "étamine"],
+    "RT": ["reproduction", "pollinisation", "fruit", "bourgeon", "couleur"],
+    "UF": [
+      "flower",
+      "زهرة",
+      "الزهرة",
+      "وردة",
+      "floraison",
+      "bloom",
+      "inflorescence",
+      "bouton de fleur"
+    ],
+    "SN": "Organe reproducteur des plantes à fleurs"
+  },
+  "fruit": {
+    "BT": ["organe", "reproduction"],
+    "NT": ["fructification", "graine", "baie", "drupe", "capsule", "péricarpe"],
+    "RT": ["fleur", "reproduction", "maturation", "graine", "récolte"],
+    "UF": [
+      "fruit",
+      "ثمرة",
+      "ثمر",
+      "ثمار",
+      "fructification",
+      "production de fruits",
+      "pomme"
+    ],
+    "SN": "Organe végétal résultant du développement de l'ovaire après fécondation"
+  },
+  "graine": {
+    "BT": ["reproduction", "organe"],
+    "NT": ["semence", "germination", "embryon", "endosperme", "cotylédon"],
+    "RT": ["fruit", "semis", "germination", "reproduction", "dormance"],
+    "UF": [
+      "seed",
+      "بذرة",
+      "بذور",
+      "زرعة",
+      "semence",
+      "seeds",
+      "grain",
+      "semences"
+    ],
+    "SN": "Structure de reproduction contenant l'embryon d'une nouvelle plante"
+  },
+  "compost": {
+    "BT": ["engrais", "organique"],
+    "NT": ["compostage", "humus", "décomposition", "amendement"],
+    "RT": ["engrais", "matière", "sol", "nutrition", "terreau"],
+    "UF": [
+      "compost",
+      "سماد عضوي",
+      "السماد العضوي",
+      "compostage",
+      "composté",
+      "terreau maison",
+      "déchets organiques"
+    ],
+    "SN": "Produit de décomposition de matières organiques utilisé comme amendement"
+  },
+  "perlite": {
+    "BT": ["substrat", "minéral"],
+    "NT": ["expansé", "porosité"],
+    "RT": ["substrat", "drainage", "aération", "léger", "inorganique"],
+    "UF": [
+      "perlite",
+      "بيرلايت",
+      "برلايت",
+      "perlite expansée",
+      "roche volcanique",
+      "alléger substrat"
+    ],
+    "SN": "Roche volcanique expansée utilisée pour alléger et drainer les substrats"
+  },
+  "vermiculite": {
+    "BT": ["substrat", "minéral"],
+    "NT": ["rétention", "minéral"],
+    "RT": ["substrat", "eau", "rétention", "aération", "magnésium"],
+    "UF": [
+      "vermiculite",
+      "فيرميكوليت",
+      "فيرمي",
+      "vermiculite expansée",
+      "rétention d'eau"
+    ],
+    "SN": "Minéral expansé retenant l'eau et les nutriments dans les substrats"
+  },
+  "tourbe": {
+    "BT": ["substrat", "organique"],
+    "NT": ["sphaigne", "tourbier", "acide", "mousse"],
+    "RT": ["substrat", "acidité", "rétention", "terreau", "fibre"],
+    "UF": [
+      "peat",
+      "خث",
+      "الخث",
+      "tourbe blonde",
+      "tourbe noire",
+      "sphagnum peat",
+      "mousse de tourbe"
+    ],
+    "SN": "Matière organique végétale décomposée utilisée dans les substrats"
+  },
+  "terreau": {
+    "BT": ["substrat", "support"],
+    "NT": ["terreautage", "mélange", "composé", "enrichi"],
+    "RT": ["substrat", "terre", "compost", "plantation", "rempotage"],
+    "UF": [
+      "potting soil",
+      "تربة زراعية",
+      "تراب الورد",
+      "terreau de culture",
+      "growing soil",
+      "sac de terreau",
+      "terre pour pot"
+    ],
+    "SN": "Mélange de terre et matières organiques prêt à l'emploi pour la culture"
+  },
+  "chlorophylle": {
+    "BT": ["pigment", "photosynthèse"],
+    "NT": ["chlorophyllien", "chloroplaste", "vert", "pigment vert"],
+    "RT": ["photosynthèse", "feuille", "lumière", "azote", "magnésium"],
+    "UF": [
+      "chlorophyll",
+      "كلوروفيل",
+      "اليخضور",
+      "pigment vert",
+      "chlorophylle a",
+      "couleur verte"
+    ],
+    "SN": "Pigment vert captant l'énergie lumineuse pour la photosynthèse"
+  },
+  "transpiration": {
+    "BT": ["processus", "eau"],
+    "NT": ["évapotranspiration", "stomate", "évaporation", "vapeur"],
+    "RT": ["feuille", "eau", "humidité", "température", "gazeux"],
+    "UF": [
+      "transpiration",
+      "نتح",
+      "النتح",
+      "évapotranspiration",
+      "plant transpiration",
+      "perte d'eau"
+    ],
+    "SN": "Perte d'eau sous forme de vapeur par les stomates des feuilles"
+  },
+  "stomate": {
+    "BT": ["anatomie", "feuille"],
+    "NT": ["stomatique", "ouverture", "cellule de garde"],
+    "RT": ["transpiration", "feuille", "échange", "photosynthèse", "CO2"],
+    "UF": [
+      "stomata",
+      "ثغور",
+      "الثغور",
+      "pores foliaires",
+      "orifice"
+    ],
+    "SN": "Orifice microscopique permettant les échanges gazeux des feuilles"
+  },
+  "hormone": {
+    "BT": ["substance", "régulation"],
+    "NT": ["auxine", "gibbérelline", "cytokinine", "éthylène"],
+    "RT": ["croissance", "développement", "bouturage", "floraison", "régulateur"],
+    "UF": [
+      "plant hormone",
+      "هرمون نباتي",
+      "الهرمون النباتي",
+      "phytohormone",
+      "hormone végétale",
+      "régulateur de croissance"
+    ],
+    "SN": "Substance naturelle régulant la croissance et le développement végétal"
+  },
+  "auxine": {
+    "BT": ["hormone", "régulation"],
+    "NT": ["enracinement", "croissance", "IAA"],
+    "RT": ["hormone", "racine", "bouturage", "croissance", "apex"],
+    "UF": [
+      "auxin",
+      "أوكسين",
+      "هرمون التجذير",
+      "hormone d'enracinement",
+      "AIA"
+    ],
+    "SN": "Hormone stimulant l'élongation cellulaire et l'enracinement"
+  },
+  "bourgeon": {
+    "BT": ["organe", "croissance"],
+    "NT": ["œil", "débourrement", "apex", "axillaire", "terminal"],
+    "RT": ["tige", "croissance", "taille", "floraison", "dormance"],
+    "UF": [
+      "bud",
+      "برعم",
+      "برعوم",
+      "bouton",
+      "gemme",
+      "nouvelle pousse"
+    ],
+    "SN": "Organe végétal contenant une tige, feuille ou fleur en devenir"
+  },
+  "marcottage": {
+    "BT": ["propagation", "reproduction"],
+    "NT": ["marcotte", "enracinement", "cernage"],
+    "RT": ["propagation", "bouturage", "racine", "multiplication", "méthode"],
+    "UF": [
+      "layering",
+      "ترقيد",
+      "الترقيد",
+      "ترقيد هوائي",
+      "marcotte aérienne",
+      "air layering",
+      "enraciner branche"
+    ],
+    "SN": "Technique de multiplication par enracinement d'une branche encore attachée"
+  },
+  "greffage": {
+    "BT": ["propagation", "technique"],
+    "NT": ["greffe", "greffon", "porte-greffe", "soudure", "écusson"],
+    "RT": ["propagation", "arbre", "fruitier", "multiplication", "bouturage"],
+    "UF": [
+      "grafting",
+      "تطعيم",
+      "التطعيم",
+      "التركيب",
+      "greffe en écusson",
+      "bud grafting",
+      "greffer un arbre",
+      "assemblage végétal"
+    ],
+    "SN": "Technique d'assemblage de deux végétaux pour n'en former qu'un"
+  },
+  "division": {
+    "BT": ["propagation", "multiplication"],
+    "NT": ["diviser", "séparation", "touffe", "rhizome"],
+    "RT": ["propagation", "vivace", "rhizome", "multiplication", "bouturage"],
+    "UF": [
+      "division",
+      "تقسيم",
+      "التقسيم",
+      "تجزئة",
+      "division de touffe",
+      "plant division",
+      "séparer les pieds"
+    ],
+    "SN": "Multiplication par séparation d'une plante mère en plusieurs parties"
+  },
+  "pollinisation": {
+    "BT": ["reproduction", "processus"],
+    "NT": ["pollen", "fécondation", "pollinique", "allogamie", "autopollinisation"],
+    "RT": ["fleur", "reproduction", "fruit", "insecte", "vent"],
+    "UF": [
+      "pollination",
+      "تلقيح",
+      "التلقيح",
+      "لقاح",
+      "نقل اللقاح",
+      "pollinisation croisée",
+      "cross-pollination",
+      "agent pollinisateur"
+    ],
+    "SN": "Transport du pollen vers le pistil permettant la fécondation"
+  },
+  "fécondation": {
+    "BT": ["reproduction", "processus"],
+    "NT": ["ovule", "gamète", "embryon", "zygote"],
+    "RT": ["pollinisation", "fleur", "fruit", "graine", "sexualité"],
+    "UF": [
+      "fertilization",
+      "إخصاب",
+      "الإخصاب",
+      "تخصيب",
+      "تكوين البذور",
+      "fécondation florale",
+      "union des gamètes"
+    ],
+    "SN": "Union des gamètes mâle et femelle formant l'embryon"
+  },
+  "phosphore": {
+    "BT": ["npk", "nutriment", "macronutriment"],
+    "NT": ["phosphate", "phosphoré", "P2O5"],
+    "RT": ["engrais", "racine", "floraison", "npk", "énergie"],
+    "UF": [
+      "phosphorus",
+      "فوسفور",
+      "الفوسفور",
+      "P",
+      "phosphate",
+      "développement racinaire",
+      "engrais P"
+    ],
+    "SN": "Élément essentiel pour le développement racinaire et la floraison"
+  },
+  "potassium": {
+    "BT": ["npk", "nutriment", "macronutriment"],
+    "NT": ["potasse", "potassique", "K2O"],
+    "RT": ["engrais", "résistance", "fruit", "npk", "qualité"],
+    "UF": [
+      "potassium",
+      "بوتاسيوم",
+      "البوتاسيوم",
+      "K",
+      "potasse",
+      "résistance aux maladies",
+      "engrais K"
+    ],
+    "SN": "Élément renforçant la résistance et la qualité des fruits"
+  },
+  "calcium": {
+    "BT": ["nutriment", "macronutriment"],
+    "NT": ["calcaire", "calcique", "chaux", "Ca"],
+    "RT": ["sol", "pH", "structure", "paroi", "amendement"],
+    "UF": [
+      "calcium",
+      "كالسيوم",
+      "الكالسيوم",
+      "chaux",
+      "amendement calcaire",
+      "problème pH"
+    ],
+    "SN": "Élément structurel des parois cellulaires et régulateur du pH"
+  },
+  "magnésium": {
+    "BT": ["nutriment", "macronutriment"],
+    "NT": ["magnésien", "Mg"],
+    "RT": ["chlorophylle", "photosynthèse", "nutriment", "carence"],
+    "UF": [
+      "magnesium",
+      "مغنيسيوم",
+      "المغنيسيوم",
+      "Mg",
+      "composant chlorophylle",
+      "sel de magnésium"
+    ],
+    "SN": "Composant central de la chlorophylle, essentiel à la photosynthèse"
+  },
+  "fer": {
+    "BT": ["micronutriment", "nutriment"],
+    "NT": ["ferrique", "chélate", "Fe"],
+    "RT": ["chlorophylle", "chlorose", "vert", "oligo-élément"],
+    "UF": [
+      "iron",
+      "حديد",
+      "الحديد",
+      "Fe",
+      "fer chélaté",
+      "engrais ferreux",
+      "anti-chlorose"
+    ],
+    "SN": "Oligo-élément essentiel à la synthèse de la chlorophylle"
+  },
+  "chlorose": {
+    "BT": ["carence", "symptôme"],
+    "NT": ["jaunissement", "chlorotique", "veines vertes"],
+    "RT": ["fer", "azote", "feuille", "carence", "jaune"],
+    "UF": [
+      "chlorosis",
+      "اصفرار",
+      "الإصفرار",
+      "لون اصفر",
+      "jaunissement foliaire",
+      "feuilles jaunes",
+      "manque de fer"
+    ],
+    "SN": "Jaunissement des feuilles causé par une carence en chlorophylle"
+  },
+  "carence": {
+    "BT": ["problème", "nutrition"],
+    "NT": ["déficit", "déficience", "manque", "sous-alimentation"],
+    "RT": ["nutriment", "chlorose", "engrais", "symptôme", "toxicité"],
+    "UF": [
+      "deficiency",
+      "نقص",
+      "النقص",
+      "ناقص",
+      "déficience nutritive",
+      "nutrient deficiency",
+      "manque d'engrais",
+      "sous-nutrition"
+    ],
+    "SN": "Manque d'un élément nutritif essentiel pour la plante"
+  },
+  "absorption": {
+    "BT": ["processus", "nutrition"],
+    "NT": ["absorber", "assimilation", "uptake", "osmose"],
+    "RT": ["racine", "nutriment", "eau", "sol", "capillaire"],
+    "UF": [
+      "absorption",
+      "امتصاص",
+      "الامتصاص",
+      "تشرب",
+      "uptake",
+      "assimilation",
+      "capacité d'absorption",
+      "prise de nutriment"
+    ],
+    "SN": "Processus de prélèvement des nutriments et de l'eau par les racines"
+  },
+  "drainage": {
+    "BT": ["eau", "technique"],
+    "NT": ["drainer", "évacuation", "percolation", "filtration"],
+    "RT": ["arrosage", "substrat", "eau", "porosité", "inondation"],
+    "UF": [
+      "drainage",
+      "تصريف",
+      "التصريف",
+      "تصفية",
+      "écoulement",
+      "système de drainage",
+      "bon écoulement"
+    ],
+    "SN": "Évacuation de l'excès d'eau pour prévenir l'asphyxie racinaire"
+  },
+  "porosité": {
+    "BT": ["propriété", "sol"],
+    "NT": ["pore", "macropore", "aération", "micropore"],
+    "RT": ["drainage", "aération", "substrat", "structure", "texture"],
+    "UF": [
+      "porosity",
+      "مسامية",
+      "المسامية",
+      "مسام التربة",
+      "porosité du sol",
+      "espace vide"
+    ],
+    "SN": "Proportion de vide dans le substrat permettant circulation d'air et d'eau"
+  },
+  "aération": {
+    "BT": ["processus", "sol"],
+    "NT": ["aérer", "oxygénation", "ventilation", "oxygène"],
+    "RT": ["porosité", "racine", "drainage", "respiration", "air"],
+    "UF": [
+      "aeration",
+      "تهوية",
+      "التهوية",
+      "تنفيس",
+      "aération du sol",
+      "soil aeration",
+      "oxygénation des racines"
+    ],
+    "SN": "Présence d'air dans le substrat nécessaire aux racines"
+  },
+  "compaction": {
+    "BT": ["problème", "sol"],
+    "NT": ["compacter", "tassement", "compact", "densification"],
+    "RT": ["aération", "porosité", "drainage", "structure", "travail du sol"],
+    "UF": [
+      "compaction",
+      "انضغاط",
+      "تكتل التربة",
+      "tassement du sol",
+      "soil compaction",
+      "sol dur",
+      "terre tassée"
+    ],
+    "SN": "Densification excessive du sol réduisant la porosité"
+  },
+  "mulching": {
+    "BT": ["technique", "protection"],
+    "NT": ["paillage", "paille", "couverture", "mulch"],
+    "RT": ["humidité", "température", "adventice", "sol", "paillis"],
+    "UF": [
+      "mulching",
+      "تغطية",
+      "التغطية",
+      "تغطية التربة",
+      "paillage",
+      "mulch",
+      "couvrir le sol"
+    ],
+    "SN": "Couverture du sol pour conserver l'humidité et limiter les adventices"
+  },
+  "paillage": {
+    "BT": ["technique", "protection"],
+    "NT": ["paille", "pailler", "copeaux", "matière organique"],
+    "RT": ["mulching", "humidité", "température", "adventice", "sol"],
+    "UF": [
+      "mulch",
+      "نشارة",
+      "النشارة",
+      "paillis",
+      "paille pour sol",
+      "paillage bois",
+      "couverture végétale"
+    ],
+    "SN": "Application d'une couche protectrice organique ou minérale sur le sol"
+  },
+  "adventice": {
+    "BT": ["plante", "problème"],
+    "NT": ["herbe", "envahissant", "mauvaise herbe", "rudérale"],
+    "RT": ["paillage", "désherbage", "compétition", "lutte"],
+    "UF": [
+      "weed",
+      "أعشاب ضارة",
+      "الأعشاب الضارة",
+      "حشائش",
+      "mauvaise herbe",
+      "herbe indésirable",
+      "herbes folles"
+    ],
+    "SN": "Plante indésirable en compétition avec les cultures"
+  },
+  "compétition": {
+    "BT": ["interaction", "écologie"],
+    "NT": ["concurrent", "compétitif", "rivalité"],
+    "RT": ["adventice", "nutriment", "lumière", "eau", "ressource"],
+    "UF": [
+      "competition",
+      "منافسة",
+      "التنافس",
+      "compétition végétale",
+      "rivalité entre plantes",
+      "concurrence"
+    ],
+    "SN": "Rivalité entre plantes pour les ressources disponibles"
+  },
+  "dormance": {
+    "BT": ["cycle", "repos"],
+    "NT": ["dormant", "repos", "quiescence", "vernalisation"],
+    "RT": ["graine", "bourgeon", "hiver", "germination", "survie"],
+    "UF": [
+      "dormancy",
+      "سكون",
+      "السبات",
+      "فترة السكون",
+      "repos végétatif",
+      "dormancy period",
+      "repos hivernal"
+    ],
+    "SN": "État de vie ralentie permettant la survie en conditions défavorables"
+  },
+  "vernalisation": {
+    "BT": ["processus", "développement"],
+    "NT": ["froid", "floraison", "induction"],
+    "RT": ["dormance", "température", "floraison", "hiver", "tempéré"],
+    "UF": [
+      "vernalization",
+      "vernalisation",
+      "تخضير",
+      "الحاجة للبرد",
+      "traitement par le froid"
+    ],
+    "SN": "Besoin de froid hivernal pour déclencher la floraison"
+  },
+  "floraison": {
+    "BT": ["développement", "cycle"],
+    "NT": ["fleurir", "anthèse", "bouton floral"],
+    "RT": ["fleur", "reproduction", "pollinisation", "bourgeon", "fructification"],
+    "UF": [
+      "flowering",
+      "إزهار",
+      "الإزهار",
+      "تزهير",
+      "bloom",
+      "floraison printanière",
+      "période de fleurs"
+    ],
+    "SN": "Phase de production des fleurs dans le cycle de développement"
+  },
+  "fructification": {
+    "BT": ["développement", "reproduction"],
+    "NT": ["fructifier", "fruit", "formation"],
+    "RT": ["fruit", "floraison", "pollinisation", "maturation", "production"],
+    "UF": [
+      "fruiting",
+      "إثمار",
+      "الإثمار",
+      "عقد الثمار",
+      "production de fruits",
+      "formation de fruits"
+    ],
+    "SN": "Formation et développement des fruits après la fécondation"
+  },
+  "maturation": {
+    "BT": ["développement", "processus"],
+    "NT": ["mûrir", "mature", "maturité", "sénescence"],
+    "RT": ["fruit", "graine", "développement", "récolte", "qualité"],
+    "UF": [
+      "ripening",
+      "نضج",
+      "النضج",
+      "مرحلة النضج",
+      "maturation des fruits",
+      "mûrissement",
+      "fruit mûr"
+    ],
+    "SN": "Processus final de développement amenant un organe à maturité"
+  },
+  "récolte": {
+    "BT": ["pratique", "production"],
+    "NT": ["récolter", "cueillette", "vendange", "moisson"],
+    "RT": ["maturation", "fruit", "production", "culture", "rendement"],
+    "UF": [
+      "harvest",
+      "حصاد",
+      "الحصاد",
+      "جمع الثمار",
+      "cueillette",
+      "harvesting",
+      "moment de récolter"
+    ],
+    "SN": "Action de collecter les parties utiles d'une plante cultivée"
+  },
+  "rendement": {
+    "BT": ["production", "performance"],
+    "NT": ["production", "productivité", "efficacité"],
+    "RT": ["récolte", "culture", "engrais", "irrigation", "qualité"],
+    "UF": [
+      "yield",
+      "إنتاجية",
+      "الإنتاجية",
+      "إنتاج",
+      "production",
+      "crop yield",
+      "quantité produite"
+    ],
+    "SN": "Quantité produite par unité de surface cultivée"
+  },
+  "rotation": {
+    "BT": ["technique", "culture"],
+    "NT": ["succession", "alternance", "assolement"],
+    "RT": ["culture", "sol", "fertilité", "maladie", "npk"],
+    "UF": [
+      "crop rotation",
+      "دورة زراعية",
+      "تناوب المحاصيل",
+      "rotation des cultures",
+      "assolement",
+      "changement de culture"
+    ],
+    "SN": "Alternance planifiée des cultures pour préserver la fertilité du sol"
+  },
+  "culture": {
+    "BT": ["pratique", "agriculture"],
+    "NT": ["cultiver", "cultural", "cultivé", "horticulture", "agronomie"],
+    "RT": ["plantation", "sol", "rendement", "technique", "production"],
+    "UF": [
+      "cultivation",
+      "زراعة",
+      "الزراعة",
+      "زرع",
+      "growing",
+      "culture végétale",
+      "jardinage"
+    ],
+    "SN": "Ensemble des techniques de production végétale"
+  },
+  "serre": {
+    "BT": ["structure", "protection"],
+    "NT": ["tunnel", "véranda", "abri"],
+    "RT": ["température", "humidité", "protection", "culture", "climatisation"],
+    "UF": [
+      "greenhouse",
+      "دفيئة",
+      "بيت زجاجي",
+      "serre horticole",
+      "glasshouse",
+      "serre de jardin"
+    ],
+    "SN": "Structure fermée protégeant les cultures et optimisant le climat"
+  },
+  "ventilation": {
+    "BT": ["technique", "climatisation"],
+    "NT": ["ventiler", "ventilateur", "aération", "air"],
+    "RT": ["serre", "température", "humidité", "air", "renouvellement"],
+    "UF": [
+      "ventilation",
+      "تهوية",
+      "التهوية",
+      "مروحة",
+      "aération",
+      "air circulation",
+      "régulation d'air"
+    ],
+    "SN": "Renouvellement de l'air pour réguler température et humidité"
+  },
+  "ombrage": {
+    "BT": ["protection", "lumière"],
+    "NT": ["ombrager", "ombre", "voile"],
+    "RT": ["lumière", "température", "protection", "stress", "chaleur"],
+    "UF": [
+      "shading",
+      "تظليل",
+      "الظل",
+      "ombre",
+      "protection solaire",
+      "filet d'ombrage",
+      "trop de soleil"
+    ],
+    "SN": "Réduction de l'intensité lumineuse pour protéger les plantes"
+  },
+  "protection": {
+    "BT": ["technique", "soin"],
+    "NT": ["protéger", "défense", "prévention"],
+    "RT": ["maladie", "parasites", "stress", "traitement", "lutte"],
+    "UF": [
+      "protection",
+      "حماية",
+      "الحماية",
+      "وقاية",
+      "protection des plantes",
+      "plant protection",
+      "mesure de protection"
+    ],
+    "SN": "Ensemble des mesures préservant la santé des plantes"
+  },
+  "traitement": {
+    "BT": ["technique", "soin"],
+    "NT": ["traiter", "thérapeutique", "curatif", "préventif"],
+    "RT": ["maladie", "parasites", "fongicide", "insecticide", "lutte"],
+    "UF": [
+      "treatment",
+      "علاج",
+      "العلاج",
+      "مداواة",
+      "traitement phytosanitaire",
+      "plant treatment",
+      "produit de soin",
+      "solution"
+    ],
+    "SN": "Application de produits ou méthodes pour soigner les plantes"
+  },
+  "fongicide": {
+    "BT": ["traitement", "produit"],
+    "NT": ["antifongique", "fungicide", "cuivre", "soufre"],
+    "RT": ["fongique", "maladie", "champignon", "traitement", "lutte"],
+    "UF": [
+      "fungicide",
+      "مبيد فطري",
+      "مضاد فطري",
+      "antifongique",
+      "produit anti-champignon",
+      "traitement contre les mycoses"
+    ],
+    "SN": "Produit détruisant ou limitant le développement des champignons"
+  },
+  "insecticide": {
+    "BT": ["traitement", "produit"],
+    "NT": ["pesticide", "acaricide", "larvicide"],
+    "RT": ["parasites", "insecte", "traitement", "lutte", "chimique"],
+    "UF": [
+      "insecticide",
+      "مبيد حشري",
+      "قاتل الحشرات",
+      "pesticide",
+      "produit anti-insecte",
+      "traitement contre les parasites"
+    ],
+    "SN": "Produit destiné à éliminer les insectes nuisibles"
+  },
+  "biologique": {
+    "BT": ["méthode", "agriculture"],
+    "NT": ["bio", "organique", "naturel", "écologique"],
+    "RT": ["culture", "engrais", "traitement", "écologique", "lutte"],
+    "UF": [
+      "organic",
+      "عضوي",
+      "بايو",
+      "bio",
+      "agriculture biologique",
+      "produit naturel",
+      "cultiver bio"
+    ],
+    "SN": "Méthode de culture respectant les cycles naturels sans produits chimiques"
+  },
+  "lutte": {
+    "BT": ["technique", "protection"],
+    "NT": ["contrôle", "biocontrôle", "intégrée"],
+    "RT": ["parasites", "maladie", "traitement", "prédateur", "auxiliaire"],
+    "UF": [
+      "pest control",
+      "مكافحة",
+      "مكافحة الآفات",
+      "lutte biologique",
+      "integrated pest management",
+      "contrôle des maladies"
+    ],
+    "SN": "Ensemble des méthodes de contrôle des ravageurs et maladies"
+  },
+  "prédateur": {
+    "BT": ["auxiliaire", "organisme"],
+    "NT": ["coccinelle", "chrysope", "mite"],
+    "RT": ["lutte", "parasites", "biologique", "puceron", "insecte utile"],
+    "UF": [
+      "predator",
+      "مفترس",
+      "كائن مفترس",
+      "prédateur naturel",
+      "beneficial insect",
+      "insecte chasseur"
+    ],
+    "SN": "Organisme se nourrissant de ravageurs et utile à la protection"
+  },
+  "coccinelle": {
+    "BT": ["prédateur", "insecte"],
+    "NT": ["adalia", "bipunctata", "larve"],
+    "RT": ["puceron", "prédateur", "auxiliaire", "lutte", "biologique"],
+    "UF": [
+      "ladybug",
+      "دعسوقة",
+      "حشرة الدعسوقة",
+      "bête à bon Dieu",
+      "ladybird",
+      "coccinelle mangeuse de pucerons"
+    ],
+    "SN": "Insecte auxiliaire prédateur de pucerons et autres ravageurs"
+  },
+  "auxiliaire": {
+    "BT": ["organisme", "protection"],
+    "NT": ["prédateur", "parasite", "coccinelle"],
+    "RT": ["lutte", "biologique", "coccinelle", "parasites", "insecte utile"],
+    "UF": [
+      "beneficial",
+      "كائن مساعد",
+      "حشرة نافعة",
+      "insecte auxiliaire",
+      "beneficial organism",
+      "aide naturel"
+    ],
+    "SN": "Organisme utile à la protection naturelle des cultures"
+  },
+  "thrips": {
+    "BT": ["parasites", "insecte"],
+    "NT": ["piqueur", "frankliniella"],
+    "RT": ["parasites", "feuille", "fleur", "dégât", "symptôme"],
+    "UF": [
+      "thrips",
+      "تريبس",
+      "حشرة التريبس",
+      "thrips des fleurs",
+      "insecte fin",
+      "dégâts floraux"
+    ],
+    "SN": "Petit insecte piqueur-suceur causant décoloration et déformation"
+  },
+  "araignée": {
+    "BT": ["parasites", "acarien"],
+    "NT": ["tétranyque", "acarien", "toile"],
+    "RT": ["parasites", "feuille", "sécheresse", "toile", "chaleur"],
+    "UF": [
+      "spider mite",
+      "عنكبوت أحمر",
+      "araignée rouge",
+      "حلم",
+      "red spider",
+      "tétranyque tisserand"
+    ],
+    "SN": "Acarien tissant une toile fine et suçant la sève des feuilles"
+  },
+  "aleurode": {
+    "BT": ["parasites", "insecte"],
+    "NT": ["mouche", "whiteflie", "trialeurodes"],
+    "RT": ["parasites", "sève", "serre", "feuille", "miellat"],
+    "UF": [
+      "whitefly",
+      "ذبابة بيضاء",
+      "المغشة",
+      "mouche blanche",
+      "aleurode des serres"
+    ],
+    "SN": "Petit insecte blanc ailé se nourrissant de la sève des plantes"
+  },
+  "nécrose": {
+    "BT": ["symptôme", "maladie"],
+    "NT": ["nécroser", "nécrotique", "mort", "brunissement"],
+    "RT": ["maladie", "tissus", "stress", "dégât", "symptôme"],
+    "UF": [
+      "necrosis",
+      "نخر",
+      "النخر",
+      "موت الأنسجة",
+      "mort tissulaire",
+      "tissue death",
+      "tache brune"
+    ],
+    "SN": "Mort localisée de tissus végétaux visible par brunissement"
+  },
+  "flétrissement": {
+    "BT": ["symptôme", "stress"],
+    "NT": ["flétrir", "fané", "turgescence"],
+    "RT": ["eau", "stress", "hydrique", "maladie", "sécheresse"],
+    "UF": [
+      "wilting",
+      "ذبول",
+      "الذبول",
+      "تدلي الأوراق",
+      "flétrissure",
+      "wilt",
+      "feuille molle"
+    ],
+    "SN": "Perte de rigidité des organes due à un déficit hydrique"
+  },
+  "brûlure": {
+    "BT": ["symptôme", "dégât"],
+    "NT": ["brûler", "griller", "coup de soleil"],
+    "RT": ["stress", "lumière", "température", "engrais", "chaleur"],
+    "UF": [
+      "burn",
+      "حرق",
+      "حروق",
+      "brûlure foliaire",
+      "leaf burn",
+      "coup de chaud",
+      "phytotoxicité"
+    ],
+    "SN": "Dommage tissulaire causé par excès de soleil, chaleur ou engrais"
+  },
+  "décoloration": {
+    "BT": ["symptôme", "problème"],
+    "NT": ["décolorer", "pâleur", "blanchiment"],
+    "RT": ["chlorose", "carence", "maladie", "feuille", "symptôme"],
+    "UF": [
+      "discoloration",
+      "تغير اللون",
+      "بهتان اللون",
+      "décoloration foliaire",
+      "feuille pâle",
+      "perte de couleur"
+    ],
+    "SN": "Changement anormal de couleur révélant un problème"
+  },
+  "tache": {
+    "BT": ["symptôme", "maladie"],
+    "NT": ["marbrure", "moucheture", "spot"],
+    "RT": ["fongique", "maladie", "feuille", "bactérie", "nécrose"],
+    "UF": [
+      "spot",
+      "بقعة",
+      "بقع",
+      "تلطخ",
+      "tache foliaire",
+      "leaf spot",
+      "tâches sur les feuilles"
+    ],
+    "SN": "Marque localisée sur les organes causée par pathogène ou stress"
+  },
+  "acclimatation": {
+    "BT": ["processus", "adaptation"],
+    "NT": ["acclimater", "habituation", "durcissement"],
+    "RT": ["adaptation", "stress", "environnement", "transplantation", "choc"],
+    "UF": [
+      "acclimatization",
+      "تأقلم",
+      "التأقلم",
+      "تكيف",
+      "adaptation",
+      "hardening",
+      "s'habituer au climat"
+    ],
+    "SN": "Adaptation progressive d'une plante à de nouvelles conditions"
+  },
+  "adaptation": {
+    "BT": ["processus", "évolution"],
+    "NT": ["adapter", "adapté", "acclimatation"],
+    "RT": ["acclimatation", "stress", "climat", "résistance", "sélection"],
+    "UF": [
+      "adaptation",
+      "تكيف",
+      "التكيف",
+      "ملاءمة",
+      "adaptation végétale",
+      "capacité d'adaptation",
+      "être adapté"
+    ],
+    "SN": "Capacité d'une plante à survivre dans des conditions spécifiques"
+  },
+  "résistance": {
+    "BT": ["propriété", "défense"],
+    "NT": ["résister", "tolérance", "immunité", "robustesse"],
+    "RT": ["adaptation", "stress", "maladie", "parasites", "défense"],
+    "UF": [
+      "resistance",
+      "مقاومة",
+      "المقاومة",
+      "صلابة",
+      "résistance aux maladies",
+      "disease resistance",
+      "variété résistante"
+    ],
+    "SN": "Capacité à résister aux stress biotiques ou abiotiques"
+  },
+  "tolérance": {
+    "BT": ["propriété", "résistance"],
+    "NT": ["tolérer", "tolérant", "support"],
+    "RT": ["résistance", "stress", "adaptation", "robuste", "défavorable"],
+    "UF": [
+      "tolerance",
+      "تحمل",
+      "التحمل",
+      "تحمل الإجهاد",
+      "tolérance au stress",
+      "supporter les conditions"
+    ],
+    "SN": "Aptitude à supporter des conditions défavorables sans dommage majeur"
+  },
+  "rusticité": {
+    "BT": ["propriété", "résistance"],
+    "NT": ["rustique", "gel", "froid"],
+    "RT": ["température", "froid", "résistance", "zone", "hiver"],
+    "UF": [
+      "hardiness",
+      "صلابة",
+      "الصلابة",
+      "مقاومة البرد",
+      "résistance au froid",
+      "cold hardiness",
+      "plante rustique"
+    ],
+    "SN": "Capacité à résister aux températures basses et au gel"
+  },
+  "xérophyte": {
+    "BT": ["plante", "adaptation"],
+    "NT": ["succulent", "cactus", "aride"],
+    "RT": ["sécheresse", "aride", "adaptation", "eau", "désert"],
+    "UF": [
+      "xerophyte",
+      "نبات جاف",
+      "نبات صحراوي",
+      "plante xérophyte",
+      "drought-tolerant plant",
+      "résistant à la sécheresse"
+    ],
+    "SN": "Plante adaptée aux milieux arides avec faible besoin en eau"
+  },
+  "succulent": {
+    "BT": ["xérophyte", "plante"],
+    "NT": ["succulente", "charnu", "feuille épaisse"],
+    "RT": ["xérophyte", "eau", "cactus", "sécheresse", "réserve"],
+    "UF": [
+      "succulent",
+      "عصاري",
+      "نبات عصاري",
+      "plante grasse",
+      "succulent plant",
+      "plantes charnues"
+    ],
+    "SN": "Plante aux tissus gorgés d'eau pour survivre en milieu aride"
+  },
+  "cactus": {
+    "BT": ["succulent", "xérophyte"],
+    "NT": ["cactée", "épine", "opuntia"],
+    "RT": ["succulent", "aride", "xérophyte", "désert", "sans feuille"],
+    "UF": [
+      "cactus",
+      "صبار",
+      "الصبار",
+      "cactée",
+      "plante du désert",
+      "chardon"
+    ],
+    "SN": "Plante succulente adaptée aux déserts avec épines et réserves d'eau"
+  },
+  "espèce": {
+    "BT": ["taxonomie", "classification"],
+    "NT": ["variété", "cultivar", "sous-espèce"],
+    "RT": ["genre", "famille", "botanique", "plante", "nom scientifique"],
+    "UF": [
+      "species",
+      "نوع",
+      "النوع",
+      "أصناف",
+      "espèce végétale",
+      "plant species",
+      "variété de plante"
+    ],
+    "SN": "Unité de base de classification des êtres vivants"
+  },
+  "cultivar": {
+    "BT": ["espèce", "variété"],
+    "NT": ["variété", "sélection", "cv"],
+    "RT": ["espèce", "hybride", "culture", "sélection", "génétique"],
+    "UF": [
+      "cultivar",
+      "صنف",
+      "الصنف",
+      "variété cultivée",
+      "variety",
+      "sélectionnée par l'homme"
+    ],
+    "SN": "Variété de plante obtenue et maintenue par culture"
+  },
+  "hybride": {
+    "BT": ["plante", "génétique"],
+    "NT": ["hybridation", "croisement", "f1"],
+    "RT": ["cultivar", "sélection", "reproduction", "espèce", "génétique"],
+    "UF": [
+      "hybrid",
+      "هجين",
+      "هجنة",
+      "hybride F1",
+      "crossbreed",
+      "croisement végétal"
+    ],
+    "SN": "Plante issue du croisement de deux variétés ou espèces différentes"
+  },
+  "endémique": {
+    "BT": ["origine", "géographie"],
+    "NT": ["indigène", "natif", "local"],
+    "RT": ["origine", "espèce", "géographique", "distribution", "régional"],
+    "UF": [
+      "endemic",
+      "مستوطن",
+      "متوطن",
+      "espèce endémique",
+      "native species",
+      "espèce locale",
+      "propre à la région"
+    ],
+    "SN": "Espèce naturellement présente uniquement dans une région donnée"
+  },
+  "arganier": {
+    "BT": ["arbre", "endémique"],
+    "NT": ["argania spinosa"],
+    "RT": ["huile", "maroc", "sécheresse", "olivier", "huile d'argan"],
+    "UF": [
+      "argania spinosa", 
+      "arbre d'argan", 
+      "argan", 
+      "أركان" ,
+      "شجرة الأركان", 
+      "ارغان" , 
+      "argan tree"
+    ],
+    "SN": "Arbre endémique du Maroc, producteur de l'huile d'argan."
+  },
+  "argania spinosa": {
+    "BT": ["espèce", "arbre"],
+    "NT": ["argania", "spinosa"],
+    "RT": ["arganier", "botanique", "xérophyte", "argan"],
+    "UF": [
+      "Argania spinosa", 
+      "argan",
+      "أرغانيا شوكية" ,
+      "Argania"
+    ],
+    "SN": "Nom scientifique de l'arganier."
+  },
+  "cedrus atlantica": {
+    "BT": ["espèce", "arbre"],
+    "NT": ["cedrus", "atlantica"],
+    "RT": ["cèdre", "cyprès", "forestier", "montagne", "résineux"],
+    "UF": [
+      "Cèdre de l'Atlas", 
+      "cedrus", 
+      "cèdre", 
+      "أرز الأطلس" ,
+      "cedar of atlas"
+    ],
+    "SN": "Nom scientifique du cèdre de l'Atlas, arbre résineux forestier."
+  },
+  "crocus sativus": {
+    "BT": ["espèce", "plante"],
+    "NT": ["crocus", "sativus"],
+    "RT": ["safran", "épice", "cultivé", "bulbe", "stigmate"],
+    "UF": [
+      "Crocus sativus", 
+      "safran", 
+      "épice safran", 
+      "الزعفران" ,
+      "زعفران" , 
+      "نبات الزعفران"
+    ],
+    "SN": "Nom scientifique de la plante dont on tire le safran."
+  },
+  "malva sylvestris": {
+    "BT": ["espèce", "plante"],
+    "NT": ["malva", "sylvestris"],
+    "RT": ["mauve", "herbe", "médicinale", "fleur", "tisane"],
+    "UF": [
+      "Malva sylvestris", 
+      "grande mauve", 
+      "mauve commune", 
+      "خبيزة" ,
+      "خبيزة بلدية" , 
+      "الخباز" , 
+      "khobiza"
+    ],
+    "SN": "Nom scientifique de la Grande Mauve, utilisée comme plante médicinale."
+  },
+  "nerium oleander": {
+    "BT": ["espèce", "plante"],
+    "NT": ["nerium", "oleander"],
+    "RT": ["laurier", "toxique", "ornemental", "fleur", "jardin"],
+    "UF": [
+      "Nerium oleander", 
+      "laurier-rose", 
+      "oleander", 
+      "الدفلة" ,
+      "الورد الكذاب" , 
+      "défle" ,
+      "laurier rose"
+    ],
+    "SN": "Nom scientifique du laurier-rose, plante ornementale toxique."
+  },
+  "olea europaea": {
+    "BT": ["espèce", "arbre"],
+    "NT": ["olea", "europaea"],
+    "RT": ["olivier", "huile", "méditerranéen", "cultivé", "olive"],
+    "UF": [
+      "Olea europaea", 
+      "olivier", 
+      "olivier cultivé", 
+      "الزيتون" ,
+      "زيتون", 
+      "chajra zzitoun"
+    ],
+    "SN": "Nom scientifique de l'olivier commun cultivé."
+  },
+  "ricinus communis": {
+    "BT": ["espèce", "plante"],
+    "NT": ["ricinus", "communis"],
+    "RT": ["ricin", "huile", "toxique", "médicinale", "graine"],
+    "UF": [
+      "Ricinus communis", 
+      "ricin", 
+      "huile de ricin", 
+      "الخروع" ,
+      "خروع", 
+      "ricin commun"
+    ],
+    "SN": "Nom scientifique du Ricin, utilisé pour son huile."
+  },
+  "rosa × damascena": {
+    "BT": ["espèce", "fleur"],
+    "NT": ["rosa", "damascena"],
+    "RT": ["rose", "rosier de damas", "damas", "huile essentielle", "parfum", "cosmétique"],
+    "UF": [
+      "Rosa damascena", 
+      "rosier de damas", 
+      "rose de Damas", 
+      "ورد بلدي" , 
+      "الورد الدمشقي" , 
+      "ward beldi"
+    ],
+    "SN": "Nom scientifique du rosier de Damas, célèbre pour son parfum."
+  },
+  "thymus": {
+    "BT": ["genre", "plante"],
+    "NT": ["thym", "thymus vulgaris"],
+    "RT": ["aromatique", "salvia", "romarin", "herbe", "cuisine"],
+    "UF": [
+      "Thymus", 
+      "thym", 
+      "الزعتر" ,
+      "زعيترة" , 
+      "zaatar", 
+      "thym commun"
+    ],
+    "SN": "Genre de plantes aromatiques souvent utilisées en cuisine et médecine."
+  },
+  "lavandula": {
+    "BT": ["genre", "plante"],
+    "NT": ["lavande", "lavandula angustifolia"],
+    "RT": ["aromatique", "parfum", "plante médicinale", "huiles essentielles", "calmant"],
+    "UF": [
+      "Lavandula", 
+      "lavande", 
+      "الخزامى" ,
+      "اللاڤندر" , 
+      "khzama",
+      "lavender"
+    ],
+    "SN": "Genre de plantes de la famille de la menthe, très aromatiques."
+  },
+  "mentha": {
+    "BT": ["genre", "plante"],
+    "NT": ["menthe", "mentha spicata"],
+    "RT": ["aromatique", "basilic", "infusion", "salvia", "thé"],
+    "UF": [
+      "Mentha", 
+      "menthe", 
+      "النعناع" ,
+      "نعناع", 
+      "nanaa" , 
+      "menthe poivrée"
+    ],
+    "SN": "Genre de plantes aromatiques très utilisées dans le bassin méditerranéen."
+  },
+  "salvia": {
+    "BT": ["genre", "plante"],
+    "NT": ["sauge", "salvia officinalis"],
+    "RT": ["aromatique", "médicinale", "thymus", "feuille", "tisane"],
+    "UF": [
+      "Salvia", 
+      "sauge", 
+      "المريمية" ,
+      "الميرمية" , 
+      "mermiya",
+      "sauge officinale"
+    ],
+    "SN": "Genre de plantes herbacées ou arbustives, dont la sauge."
+  }
+
+}
