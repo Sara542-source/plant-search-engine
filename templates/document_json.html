@@ -1,0 +1,181 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="doc-page-wrapper">
+
+    {% set bg_img = '' %}
+    {% if data.galerie_images and data.galerie_images|length > 0 %}
+        {% set bg_img = data.galerie_images[0] %}
+    {% endif %}
+
+    <div class="doc-hero" style="background-image: url('{{ bg_img }}');">
+        <div class="doc-hero-overlay">
+            <div class="doc-hero-content">
+                <span class="doc-badge-json">FICHE BOTANIQUE</span>
+                
+                <h1 class="doc-title">{{ data.infos_generales.nom_scientifique }}</h1>
+                <h2 class="doc-subtitle">{{ data.infos_generales.nom_commun }}</h2>
+                
+                <div class="doc-tags">
+                    <span class="tag">Famille : {{ data.infos_generales.famille }}</span>
+                    <span class="tag">Genre : {{ data.infos_generales.genre }}</span>
+                    
+                    {% if data.infos_generales.noms_darija %}
+                        {% for nom in data.infos_generales.noms_darija %}
+                            <span class="tag darija">Darija : {{ nom }}</span>
+                        {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="doc-grid-container">
+        
+        <div class="doc-card glass">
+            <h3>🌱 Caractéristiques</h3>
+            <ul class="info-list">
+                <li><strong>Arrosage :</strong> {{ data.caracteristiques.arrosage }}</li>
+                <li><strong>Luminosité :</strong> {{ data.caracteristiques.luminosite }}</li>
+                <li><strong>Sol :</strong> {{ data.caracteristiques.type_sol }}</li>
+                <li>
+                    <strong>Toxicité :</strong> 
+                    {% if data.caracteristiques.toxicite %}Oui{% else %}Non{% endif %}
+                </li>
+            </ul>
+        </div>
+
+        <div class="doc-card glass">
+            <h3>🌸 Attributs</h3>
+            <ul class="info-list">
+                {% if data.attributs_specifiques %}
+                    
+                    {% for key, value in data.attributs_specifiques.items() %}
+                        <li>
+                            <strong>{{ key|replace('_', ' ')|capitalize }} :</strong> 
+                            {{ value }}
+                        </li>
+                    {% endfor %}
+
+                {% else %}
+                    <li>Aucun attribut spécifié</li>
+                {% endif %}
+            </ul>
+        </div>
+
+        <div class="doc-card glass gallery-card">
+            <h3>📸 Galerie</h3>
+            <div class="mini-gallery">
+                {% if data.galerie_images %}
+                    {% for img_url in data.galerie_images %}
+                        <a href="{{ img_url }}" target="_blank">
+                            <img src="{{ img_url }}" alt="Photo plante">
+                        </a>
+                    {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+
+    </div>
+
+    <div class="doc-main-content">
+        
+        <div class="text-column">
+            <div class="doc-section glass">
+                <h3>📝 Résumé</h3>
+                <p class="summary-text">{{ data.source_data.resume }}</p>
+            </div>
+
+            {% if data.source_data.texte_complet.introduction %}
+                <div class="doc-section glass">
+                    <h4>Introduction</h4>
+                    <p>{{ data.source_data.texte_complet.introduction }}</p>
+                </div>
+            {% endif %}
+
+            {% if data.source_data.texte_complet.sections %}
+                
+                {% for section in data.source_data.texte_complet.sections %}
+                <div class="doc-section glass">
+                    <h4>{{ section.title }}</h4>
+                    
+                    {% if section.content %}
+                        <p>{{ section.content }}</p>
+                    {% endif %}
+                    
+                    {% if section.children %}
+                        {% for child in section.children %}
+                        <div class="sub-section">
+                            <h5>{{ child.title }}</h5>
+                            <p>{{ child.content }}</p>
+                        </div>
+                        {% endfor %}
+                    {% endif %}
+                </div>
+                {% endfor %}
+
+            {% endif %}
+            
+            <div class="external-links">
+                {% if data.urls %}
+                    
+                    {% if data.urls.wikipedia %}
+                        <a href="{{ data.urls.wikipedia }}" target="_blank" class="btn-external">Wikipédia &rarr;</a>
+                    {% endif %}
+                    
+                    {% if data.urls.trefle %}
+                        <a href="{{ data.urls.trefle }}" target="_blank" class="btn-external secondary">Trefle.io &rarr;</a>
+                    {% endif %}
+                    
+                {% endif %}
+            </div>
+        </div>
+
+        <div class="side-column">
+            <div class="doc-card glass usage-card">
+                <h3>💊 Utilisations</h3>
+                
+                {% if data.utilisations.medicale %}
+                <div class="usage-group">
+                    <span class="usage-icon">⚕️</span> <strong>Médical :</strong>
+                    <div class="tags-cloud">
+                        {% for u in data.utilisations.medicale %}<span>{{ u }}</span>{% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if data.utilisations.culinaire %}
+                <div class="usage-group">
+                    <span class="usage-icon">🥗</span> <strong>Culinaire :</strong>
+                    <div class="tags-cloud">
+                        {% for u in data.utilisations.culinaire %}<span>{{ u }}</span>{% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
+                {% if data.utilisations.decoration %}
+                <div class="usage-group">
+                    <span class="usage-icon">🏡</span> <strong>Décoration :</strong>
+                    <div class="tags-cloud">
+                        {% for u in data.utilisations.decoration %}<span>{{ u }}</span>{% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+
+            <div class="doc-card glass">
+                <h3>🌍 Origines</h3>
+                <ul class="info-list">
+                    {% if data.caracteristiques.regions_origine %}
+                        {% for region in data.caracteristiques.regions_origine %}
+                            <li>{{ region }}</li>
+                        {% endfor %}
+                    {% endif %}
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+{% endblock %}

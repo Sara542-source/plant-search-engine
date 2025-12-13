@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Botanique Search Engine</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <header>
+        
+        <form action="/search" method="GET" class="header-search-form">
+            <input type="text" name="q" class="header-search-input" placeholder="Rechercher par nom, famille, propriété ou description..." required>
+            <button type="submit" class="header-search-btn">🔍</button>
+        </form>
+        
+        <div>
+    </header>
+
+    <main>
+        {% block content %}{% endblock %}
+    </main>
+
+</body>
+</html>

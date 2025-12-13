@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="results-page-wrapper">
+    
+    <div class="ai-glass-container">
+        <div class="ai-header">
+            <span class="ai-icon">✨</span>
+            <h3>Synthèse Botanique IA</h3>
+        </div>
+        <div class="ai-content">
+            {{ ai_answer | safe }}
+        </div>
+        <div class="ai-footer">
+            Généré par le modèle RAG • Vérifiez les sources ci-dessous
+        </div>
+    </div>
+    
+    <div class="results-glass-container">
+        
+        <div class="results-header">
+            <h4>Résultats pour <span class="highlight">"{{ query }}"</span></h4>
+        </div>
+        
+        <hr class="glass-divider">
+
+        {% if results %}
+            <div class="results-list">
+                {% for res in results %}
+                <div class="result-item">
+                    <div class="result-top-line">
+                <span class="doc-type {{ res.type }}">
+                    {% if res.type == 'pdf' %}PDF{% else %}JSON{% endif %}
+                </span>
+                <h3><a href="{{ url_for('document', filename=res.id) }}">{{ res.title }}</a></h3>
+            </div>  
+    <div class="result-content" style="display: flex; gap: 20px; align-items: start;">
+        
+        {% if res.image %}
+            <div class="result-thumbnail-wrapper" style="flex-shrink: 0;">
+                <img src="{{ res.image }}" alt="{{ res.title }}" class="result-thumbnail" 
+                     style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; border: 1px solid rgba(255,255,255,0.1);">
+            </div>
+        {% endif %}
+
+        <div class="result-text-wrapper" style="flex-grow: 1;">
+            
+            
+            <p class="snippet">{{ res.snippet }}</p>
+            
+            <a href="{{ url_for('document', filename=res.id) }}" class="read-more-link">Consulter &rarr;</a>
+        </div>
+        
+    </div>
+</div>
+                {% endfor %}
+            </div>
+
+            <div class="pagination">
+                {% if page > 1 %}
+                    <a href="{{ url_for('search', q=query, page=page-1) }}" class="page-btn">← Précédent</a>
+                {% endif %}
+
+                <span class="page-info">Page {{ page }} sur {{ total_pages }}</span>
+
+                {% if page < total_pages %}
+                    <a href="{{ url_for('search', q=query, page=page+1) }}" class="page-btn">Suivant →</a>
+                {% endif %}
+            </div>
+
+        {% else %}
+            <div class="no-results"><h3>Aucun document trouvé.</h3></div>
+        {% endif %}
+    </div>
+
+    <div class="videos-section-container">
+        <h2 class="section-title">Vidéos Associées </h2>
+        
+        <div class="video-grid">
+            <div class="video-card placeholder">
+                <div class="thumbnail"></div>
+                <p>Titre de la vidéo 1</p>
+            </div>
+            <div class="video-card placeholder">
+                <div class="thumbnail"></div>
+                <p>Titre de la vidéo 2</p>
+            </div>
+            <div class="video-card placeholder">
+                <div class="thumbnail"></div>
+                <p>Titre de la vidéo 3</p>
+            </div>
+            <div class="video-card placeholder">
+                <div class="thumbnail"></div>
+                <p>Titre de la vidéo 4</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+{% endblock %}
