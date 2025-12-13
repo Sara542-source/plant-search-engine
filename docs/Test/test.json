@@ -1,0 +1,869 @@
+[
+  {
+    "query": "acarien traitement purin d'ortie",
+    "relevant_documents": [
+      "109482.json",
+      "Maladies Fongiques.pdf"
+    ]
+  },
+  {
+    "query": "substrat riche en humus pour plante aromatique",
+    "relevant_documents": [
+      "103942.json",
+      "107333.json",
+      "64847.json",
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "multiplication par bouturage de cladodes",
+    "relevant_documents": [
+      "102667.json",
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "feuilles qui jaunissent cause excès humidité",
+    "relevant_documents": [
+      "102667.json",
+      "Arrosage.pdf",
+      "Maladies Fongiques.pdf"
+    ]
+  },
+  {
+    "query": "plantes aromatiques méditerranéennes pour la cuisine",
+    "relevant_documents": [
+      "101391.json",
+      "103942.json",
+      "104788.json",
+      "109482.json",
+      "64847.json",
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "maladie noire des feuilles et traitement cuivre",
+    "relevant_documents": [
+      "Maladies Fongiques.pdf",
+      "110975.json"
+    ]
+  },
+  {
+    "query": "huile essentielle thymoquinone propriétés",
+    "relevant_documents": [
+      "101391.json",
+      "67501.json"
+    ]
+  },
+  {
+    "query": "plante dioïque habitat maquis garrigue",
+    "relevant_documents": [
+      "104788.json",
+      "109482.json"
+    ]
+  },
+  {
+    "query": "carminatif antispasmodique pour troubles gastro-intestinaux",
+    "relevant_documents": [
+      "103942.json",
+      "107333.json",
+      "241584.json",
+      "332467.json",
+      "64847.json"
+    ]
+  },
+  {
+    "query": "liane ligneuse à racines profondes",
+    "relevant_documents": [
+      "110975.json"
+    ]
+  },
+  {
+    "query": "cultiver Nigella sativa sol calcaire",
+    "relevant_documents": [
+      "101391.json",
+      "102667.json",
+      "104788.json"
+    ]
+  },
+  {
+    "query": "toxicité ingestion Nerium oleander",
+    "relevant_documents": [
+      "56501.json",
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "adaptation à la xéricité et déficit hydrique estival",
+    "relevant_documents": [
+      "102667.json",
+      "104788.json",
+      "332467.json",
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "traitement Botrytis cinerea vigne",
+    "relevant_documents": [
+      "110975.json",
+      "Maladies Fongiques.pdf"
+    ]
+  },
+  {
+    "query": "plante médicinale pour psoriasis eczéma",
+    "relevant_documents": [
+      "101391.json",
+      "235122.json"
+    ]
+  },
+  {
+    "query": "Anacardiaceae résine mastic",
+    "relevant_documents": [
+      "104788.json"
+    ]
+  },
+  {
+    "query": "variétés de Lavandula pour huile essentielle",
+    "relevant_documents": [
+      "374921.json",
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "feuilles composées divisées en lanières étroites",
+    "relevant_documents": [
+      "101391.json",
+      "103942.json"
+    ]
+  },
+  {
+    "query": "récolte calices Hibiscus sabdariffa",
+    "relevant_documents": [
+      "195745.json"
+    ]
+  },
+  {
+    "query": "purin d'ortie utilisation jardinage biologique",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  },
+  {
+    "query": "semis et germination de l'Arganier",
+    "relevant_documents": [
+      "Adaptation_Climatique.pdf",
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "régulation du sébum cuir chevelu ortie",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  },
+  {
+    "query": "facteur déterminant réussite horticole (lumière vs arrosage)",
+    "relevant_documents": [
+      "Lumiere_Horticole.pdf",
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "syndrome d'intoxication Nerium oleander",
+    "relevant_documents": [
+      "56501.json",
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "Anéthol propriétés et présence",
+    "relevant_documents": [
+      "103942.json",
+      "147610.json"
+    ]
+  },
+  {
+    "query": "huile extraite des graines de figue de Barbarie",
+    "relevant_documents": [
+      "102667.json"
+    ]
+  },
+  {
+    "query": "sol riche en azote indicateur plante",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  },
+  {
+    "query": "rhizomes traçants plante médicinale",
+    "relevant_documents": [
+      "107333.json",
+      "109482.json",
+      "67501.json"
+    ]
+  },
+  {
+    "query": "gomme de mastic usage culinaire",
+    "relevant_documents": [
+      "104788.json"
+    ]
+  },
+  {
+    "query": "toxicité sève jaune Aloe vera",
+    "relevant_documents": [
+      "235122.json",
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "Curcuma longa propriétés hépatoprotectrices",
+    "relevant_documents": [
+      "67501.json"
+    ]
+  },
+  {
+    "query": "feuillage persistant aromatique arbre ornemental",
+    "relevant_documents": [
+      "104788.json",
+      "253369.json",
+      "56501.json"
+    ]
+  },
+  {
+    "query": "Eucalyptus globulus bois d'œuvre pâte à papier",
+    "relevant_documents": [
+      "253369.json"
+    ]
+  },
+  {
+    "query": "anthracnose du solanum melongena",
+    "relevant_documents": [
+      "Maladies Fongiques.pdf"
+    ]
+  },
+  {
+    "query": "greffage Rosa x damascena porte-greffe",
+    "relevant_documents": [
+      "269781.json",
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "méthode d'arrosage goutte-à-goutte avantages",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "plante médicinale en phytothérapie pour rhumatismes",
+    "relevant_documents": [
+      "109482.json",
+      "405786.json",
+      "67501.json"
+    ]
+  },
+  {
+    "query": "propriétés galactogènes Pimpinella anisum",
+    "relevant_documents": [
+      "103942.json",
+      "147610.json"
+    ]
+  },
+  {
+    "query": "plante hôte cochenille Dactylopius coccus",
+    "relevant_documents": [
+      "102667.json"
+    ]
+  },
+  {
+    "query": "facteurs d'épuisement hydrique sol",
+    "relevant_documents": [
+      "Arrosage.pdf",
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "Plasmopara viticola traitement",
+    "relevant_documents": [
+      "110975.json",
+      "Maladies Fongiques.pdf"
+    ]
+  },
+  {
+    "query": "utilisation cosmétique eau de rose",
+    "relevant_documents": [
+      "269781.json"
+    ]
+  },
+  {
+    "query": "herbe royale contre maux d'estomac",
+    "relevant_documents": [
+      "64847.json"
+    ]
+  },
+  {
+    "query": "variétés de fenouil (sauvage vs doux)",
+    "relevant_documents": [
+      "147610.json"
+    ]
+  },
+  {
+    "query": "culture en mi-ombre sol humifère",
+    "relevant_documents": [
+      "107333.json",
+      "109482.json"
+    ]
+  },
+  {
+    "query": "lumière artificielle horticulture indoor",
+    "relevant_documents": [
+      "Lumiere_Horticole.pdf"
+    ]
+  },
+  {
+    "query": "Hibiscus sabdariffa couleur rouge anthocyanes",
+    "relevant_documents": [
+      "195745.json"
+    ]
+  },
+  {
+    "query": "plante médicinale pour la toux et bronchite",
+    "relevant_documents": [
+      "101391.json",
+      "103942.json",
+      "107333.json",
+      "253369.json",
+      "374921.json"
+    ]
+  },
+  {
+    "query": "sédatives anxiolytiques infusion verveine",
+    "relevant_documents": [
+      "103942.json",
+      "241584.json",
+      "269781.json",
+      "374921.json"
+    ]
+  },
+  {
+    "query": "toxicité pour le bétail (animaux)",
+    "relevant_documents": [
+      "56501.json",
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "plante mellifère printemps pissenlit",
+    "relevant_documents": [
+      "405786.json"
+    ]
+  },
+  {
+    "query": "Lawsonia inermis lawsone usage tinctorial",
+    "relevant_documents": [
+      "83525.json"
+    ]
+  },
+  {
+    "query": "arbre emblématique xérophyte Maroc",
+    "relevant_documents": [
+      "104788.json",
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "sol acide tourbe blonde",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "curcuminoïdes anti-inflammatoires puissants",
+    "relevant_documents": [
+      "67501.json"
+    ]
+  },
+  {
+    "query": "propagation division des rhizomes",
+    "relevant_documents": [
+      "107333.json",
+      "109482.json",
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "gestion hydrique des plantes en région Souss-Massa",
+    "relevant_documents": [
+      "Arrosage.pdf",
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "maladies fongiques généralités et traitement",
+    "relevant_documents": [
+      "Maladies Fongiques.pdf"
+    ]
+  },
+  {
+    "query": "arbuste méditerranéen persistant (Dhrou)",
+    "relevant_documents": [
+      "104788.json"
+    ]
+  },
+  {
+    "query": "plante cosmétique régénératrice hydratante",
+    "relevant_documents": [
+      "102667.json",
+      "235122.json",
+      "269781.json"
+    ]
+  },
+  {
+    "query": "plante annuelle pour sols légers et ensoleillés",
+    "relevant_documents": [
+      "101391.json",
+      "103942.json"
+    ]
+  },
+  {
+    "query": "utilisation du compost végétal mature",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "effet urticant Urtica dioica composition",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  },
+  {
+    "query": "pollen de datte propriétés nutritionnelles",
+    "relevant_documents": [
+      "65241.json"
+    ]
+  },
+  {
+    "query": "Nerium oleander rusticité gel",
+    "relevant_documents": [
+      "56501.json"
+    ]
+  },
+  {
+    "query": "plantes ornementales toxiques jardin",
+    "relevant_documents": [
+      "56501.json",
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "méthodes de désinfection des outils de multiplication végétale",
+    "relevant_documents": [
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "plante médicinale diurétique et dépurative",
+    "relevant_documents": [
+      "109482.json",
+      "147610.json",
+      "405786.json"
+    ]
+  },
+  {
+    "query": "différence entre fenouil sauvage et fenouil de Florence",
+    "relevant_documents": [
+      "147610.json"
+    ]
+  },
+  {
+    "query": "Aloe barbadensis synonymes botaniques",
+    "relevant_documents": [
+      "235122.json"
+    ]
+  },
+  {
+    "query": "plante médicinale pour asthme et bronchite",
+    "relevant_documents": [
+      "101391.json",
+      "107333.json",
+      "253369.json"
+    ]
+  },
+  {
+    "query": "rôle écologique Lentisque et dispersion des graines",
+    "relevant_documents": [
+      "104788.json"
+    ]
+  },
+  {
+    "query": "lombricompost enrichissement premium substrat",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "Elettaria cardamomum culture climat tropical humide",
+    "relevant_documents": [
+      "107333.json"
+    ]
+  },
+  {
+    "query": "toxine contenue dans l'Aloe vera",
+    "relevant_documents": [
+      "235122.json",
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "plante de la famille des Apiacées",
+    "relevant_documents": [
+      "103942.json",
+      "147610.json"
+    ]
+  },
+  {
+    "query": "mécanismes de défense plantes contre chaleur sécheresse",
+    "relevant_documents": [
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "régulateur de croissance semis pépinière",
+    "relevant_documents": [
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "graine noire habba sawda usages",
+    "relevant_documents": [
+      "101391.json"
+    ]
+  },
+  {
+    "query": "Artemisia herba-alba propriétés antispasmodiques",
+    "relevant_documents": [
+      "332467.json"
+    ]
+  },
+  {
+    "query": "impact de l'orientation saisonnière du soleil en serre",
+    "relevant_documents": [
+      "Lumiere_Horticole.pdf"
+    ]
+  },
+  {
+    "query": "feuilles lancéolées vert brillant rhizome",
+    "relevant_documents": [
+      "107333.json",
+      "67501.json"
+    ]
+  },
+  {
+    "query": "traitement fongique taches foliaires",
+    "relevant_documents": [
+      "Maladies Fongiques.pdf"
+    ]
+  },
+  {
+    "query": "plante indicatrice de sols eutrophisés",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  },
+  {
+    "query": "cultiver Phoenix dactylifera conditions",
+    "relevant_documents": [
+      "65241.json"
+    ]
+  },
+  {
+    "query": "gomme de mastic pour ulcères estomac",
+    "relevant_documents": [
+      "104788.json"
+    ]
+  },
+  {
+    "query": "plante hôte papillons chenilles",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  },
+  {
+    "query": "propriétés hypoglycémiantes Opuntia ficus-indica",
+    "relevant_documents": [
+      "102667.json"
+    ]
+  },
+  {
+    "query": "utilisation du gel interne Aloe vera",
+    "relevant_documents": [
+      "235122.json"
+    ]
+  },
+  {
+    "query": "plante ornementale pour haie brise-vent",
+    "relevant_documents": [
+      "102667.json",
+      "104788.json",
+      "253369.json"
+    ]
+  },
+  {
+    "query": "lutter contre l'érosion des sols arides",
+    "relevant_documents": [
+      "102667.json",
+      "104788.json"
+    ]
+  },
+  {
+    "query": "méthode multiplication semis en pépinière",
+    "relevant_documents": [
+      "Multiplication_Vege.pdf",
+      "65241.json"
+    ]
+  },
+  {
+    "query": "différence entre Perlite et Vermiculite substrat",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "Lavandula angustifolia huile essentielle danger",
+    "relevant_documents": [
+      "374921.json",
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "utilisation culinaire des jeunes pousses d'ortie",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  },
+  {
+    "query": "plante médicinale pour les verrues (latex)",
+    "relevant_documents": [
+      "405786.json"
+    ]
+  },
+  {
+    "query": "arrosage modéré sol bien drainé",
+    "relevant_documents": [
+      "101391.json",
+      "102667.json",
+      "103942.json",
+      "104788.json",
+      "110975.json",
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "rôle de l'eau dans la transpiration végétale",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "Hibiscus rose de Chine conditions de culture",
+    "relevant_documents": [
+      "194712.json"
+    ]
+  },
+  {
+    "query": "utilisation Curcuma longue dans cuisine indienne",
+    "relevant_documents": [
+      "67501.json"
+    ]
+  },
+  {
+    "query": "Artemisia herba-alba (chih) climat aride",
+    "relevant_documents": [
+      "332467.json",
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "lumière forte besoins nutritifs élevés",
+    "relevant_documents": [
+      "Lumiere_Horticole.pdf"
+    ]
+  },
+  {
+    "query": "propriétés anti-inflammatoires plantes médicinales",
+    "relevant_documents": [
+      "101391.json",
+      "102667.json",
+      "104788.json",
+      "107333.json",
+      "109482.json",
+      "110975.json",
+      "269781.json",
+      "332467.json",
+      "67501.json"
+    ]
+  },
+  {
+    "query": "substances toxiques qui induisent des troubles systémiques",
+    "relevant_documents": [
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "gestion des maladies fongiques en serre",
+    "relevant_documents": [
+      "Maladies Fongiques.pdf"
+    ]
+  },
+  {
+    "query": "Hibiscus sabdariffa (Roselle) infusion karkadé bissap",
+    "relevant_documents": [
+      "195745.json"
+    ]
+  },
+  {
+    "query": "sols sableux et drainants zones arides",
+    "relevant_documents": [
+      "102667.json",
+      "332467.json",
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "plante médicinale pour troubles biliaires et foie",
+    "relevant_documents": [
+      "405786.json",
+      "67501.json"
+    ]
+  },
+  {
+    "query": "multiplication des plantes par greffage",
+    "relevant_documents": [
+      "Multiplication_Vege.pdf",
+      "269781.json"
+    ]
+  },
+  {
+    "query": "plante utilisée pour éloigner les parasites (usage vétérinaire)",
+    "relevant_documents": [
+      "374921.json"
+    ]
+  },
+  {
+    "query": "Opuntia cladodes consommation nopales",
+    "relevant_documents": [
+      "102667.json"
+    ]
+  },
+  {
+    "query": "rôle du calcium et potassium dans les graines de Nigelle",
+    "relevant_documents": [
+      "101391.json"
+    ]
+  },
+  {
+    "query": "composés actifs de l'huile essentielle d'Eucalyptus",
+    "relevant_documents": [
+      "253369.json"
+    ]
+  },
+  {
+    "query": "phytothérapie pour maux d'estomac et irritation cutanée",
+    "relevant_documents": [
+      "104788.json",
+      "269781.json"
+    ]
+  },
+  {
+    "query": "culture Aloysia citrodora parfum citronné",
+    "relevant_documents": [
+      "241584.json"
+    ]
+  },
+  {
+    "query": "plante aromatique utilisée comme épice et médicinale (digestif, respiratoire)",
+    "relevant_documents": [
+      "101391.json",
+      "103942.json",
+      "107333.json"
+    ]
+  },
+  {
+    "query": "lutter contre les ulcères gastriques gomme mastic",
+    "relevant_documents": [
+      "104788.json"
+    ]
+  },
+  {
+    "query": "Toxicité alcaloïdes cardiotoniques",
+    "relevant_documents": [
+      "56501.json",
+      "Toxicité Végétale.pdf"
+    ]
+  },
+  {
+    "query": "méthode d'arrosage en fonction du type de sol (argileux, sableux)",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "arrosage modéré ou faible pour plantes xérophiles",
+    "relevant_documents": [
+      "102667.json",
+      "104788.json",
+      "332467.json",
+      "Adaptation_Climatique.pdf"
+    ]
+  },
+  {
+    "query": "plante médicinale pour anémie (riche en fer)",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  },
+  {
+    "query": "propagation in vitro micro-propagation arganier",
+    "relevant_documents": [
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "Rôle de la perlite dans le drainage du substrat",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "plante utilisée pour colorant carmin",
+    "relevant_documents": [
+      "102667.json"
+    ]
+  },
+  {
+    "query": "gestion de la conductivité électrique en hydroponie",
+    "relevant_documents": [
+      "Arrosage.pdf"
+    ]
+  },
+  {
+    "query": "feuilles caduques palmatilobées",
+    "relevant_documents": [
+      "110975.json"
+    ]
+  },
+  {
+    "query": "Rosier de Damas culture produits dérivés (parfum, eau de rose)",
+    "relevant_documents": [
+      "269781.json",
+      "Multiplication_Vege.pdf"
+    ]
+  },
+  {
+    "query": "plante utilisée pour fibres textiles cordes",
+    "relevant_documents": [
+      "109482.json"
+    ]
+  }
+]

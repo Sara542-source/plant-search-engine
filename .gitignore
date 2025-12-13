@@ -96,10 +96,3 @@ env/
 .pdm-python
 .pdm-build/
 
-# --- Fichiers Générés par le Projet (Règles spécifiques au SRI) ---
-# On ignore tous les JSON générés par l'indexeur
-*.json
-indexer/*.json
-
-# MAIS on garde les données sources (Règle essentielle du projet !)
-!docs/*.json
