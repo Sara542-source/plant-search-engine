@@ -1,0 +1,3113 @@
+{
+    "nigella sativa": {
+        "prefLabel": "nigella sativa",
+        "altLabels": [
+            "nigelle cultivée",
+            "sanouj",
+            "سانوج",
+            "faux cumin",
+            "حبة البركة",
+            "cumin noir",
+            "graine noire",
+            "poivrette"
+        ],
+        "broader": [
+            "nigella",
+            "ranunculaceae"
+        ],
+        "related": [
+            "dermatologique",
+            "jardin",
+            "odeur poivrée et aromatique",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "asie de l'ouest",
+            "fleur délicate",
+            "épice",
+            "tonique",
+            "autre usage médical",
+            "bleu pâle à blanc",
+            "délicate",
+            "salade",
+            "antiseptique",
+            "digestif",
+            "odeur caractéristique",
+            "aromatique",
+            "fleurs coupées",
+            "printemps-été",
+            "infusion",
+            "poivrée et aromatique",
+            "moyen-orient",
+            "caractéristique",
+            "respiratoire",
+            "fleur bleu pâle à blanc",
+            "apaisant",
+            "annuelle"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "opuntia ficus-indica": {
+        "prefLabel": "opuntia ficus-indica",
+        "altLabels": [
+            "cactée raquette",
+            "nopal",
+            "poire épineuse",
+            "figuier de barbarie",
+            "كرموس الهندي",
+            "kermouss el hindi",
+            "hendiya"
+        ],
+        "broader": [
+            "cactaceae",
+            "opuntia"
+        ],
+        "related": [
+            "cuit",
+            "couvre-sol",
+            "jardin",
+            "anti-inflammatoire",
+            "cladodes",
+            "jardin sec",
+            "oui",
+            "tonique",
+            "généralement faible au gel intense",
+            "haie",
+            "autre usage médical",
+            "salade",
+            "mexique",
+            "digestif",
+            "arbustive à arborescente",
+            "aromatique",
+            "infusion",
+            "bassin méditerranéen",
+            "très élevée",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "pimpinella anisum": {
+        "prefLabel": "pimpinella anisum",
+        "altLabels": [
+            "حبة حلاوة",
+            "nafeh",
+            "anis",
+            "anis cultivé",
+            "boucage anis",
+            "anis vert",
+            "نافع",
+            "habt hlawa"
+        ],
+        "broader": [
+            "pimpinella",
+            "apiacées"
+        ],
+        "related": [
+            "jardin",
+            "feuilles composées",
+            "doux et aromatique",
+            "petites",
+            "fleur petites",
+            "velu",
+            "odeur anisée et sucrée",
+            "bassin méditerranéen oriental",
+            "divisées",
+            "regroupées en ombelles",
+            "épice",
+            "fleur regroupées en ombelles",
+            "blanches",
+            "autre usage médical",
+            "gris-vert",
+            "digestif",
+            "diakène ovoïde ou piriforme",
+            "aromatique",
+            "anisée et sucrée",
+            "infusion",
+            "fleur blanches",
+            "moyen-orient",
+            "respiratoire",
+            "asie occidentale",
+            "apaisant"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "pistacia lentiscus": {
+        "prefLabel": "pistacia lentiscus",
+        "altLabels": [
+            "mastic tree",
+            "dhrou",
+            "ضرو",
+            "arbre à mastic",
+            "lentisque"
+        ],
+        "broader": [
+            "pistacia",
+            "anacardiaceae"
+        ],
+        "related": [
+            "dermatologique",
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "odeur résineuse",
+            "maroc",
+            "jardin sec",
+            "épice",
+            "oui",
+            "tunisie",
+            "haie",
+            "autre usage médical",
+            "arbuste ou petit arbre persistant",
+            "antiseptique",
+            "digestif",
+            "aromatique",
+            "algérie",
+            "été-automne",
+            "infusion",
+            "printemps",
+            "bassin méditerranéen",
+            "résineuse",
+            "apaisant",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "elettaria cardamomum": {
+        "prefLabel": "elettaria cardamomum",
+        "altLabels": [
+            "vraie cardamome",
+            "habb hal",
+            "cardamome aromatique",
+            "qaqoulla",
+            "cardamome de malabar",
+            "cardamome verte",
+            "حب الهال",
+            "قاكولة"
+        ],
+        "broader": [
+            "zingiberaceae",
+            "elettaria"
+        ],
+        "related": [
+            "cuit",
+            "intérieur",
+            "jardin",
+            "chaude",
+            "sri lanka",
+            "anti-inflammatoire",
+            "légèrement piquant",
+            "inde",
+            "épice",
+            "odeur aromatique",
+            "capsules triangulaires à trois loges",
+            "sucré",
+            "antiseptique",
+            "digestif",
+            "épicée",
+            "plante herbacée vivace",
+            "aromatique",
+            "rhizomateuse",
+            "infusion",
+            "odeur épicée",
+            "malaisie",
+            "respiratoire",
+            "intense",
+            "contenant des graines noires",
+            "apaisant",
+            "odeur chaude",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "urtica dioica": {
+        "prefLabel": "urtica dioica",
+        "altLabels": [
+            "ortie piquante",
+            "hriqa",
+            "ortie vivace",
+            "حريقة",
+            "ortie commune",
+            "grande ortie"
+        ],
+        "broader": [
+            "urticaceae",
+            "urtica"
+        ],
+        "related": [
+            "amérique du nord",
+            "cuit",
+            "printemps-été",
+            "odeur herbacée caractéristique",
+            "dermatologique",
+            "infusion",
+            "salade",
+            "vivace",
+            "asie",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "herbacée caractéristique",
+            "tonique",
+            "europe",
+            "apaisant",
+            "fleur printemps-été",
+            "autre usage médical"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "vitis vinifera": {
+        "prefLabel": "vitis vinifera",
+        "altLabels": [
+            "raisin",
+            "عنب",
+            "karma",
+            "vigne européenne",
+            "كرمة",
+            "vigne cultivée",
+            "inab",
+            "vigne à vin"
+        ],
+        "broader": [
+            "vitis",
+            "vitaceae"
+        ],
+        "related": [
+            "cuit",
+            "jardin",
+            "palmatilobé",
+            "anti-inflammatoire",
+            "très longue",
+            "caduc",
+            "liane ligneuse grimpante",
+            "tonique",
+            "haie",
+            "autre usage médical",
+            "salade",
+            "bonne",
+            "digestif",
+            "profond et étendu",
+            "infusion",
+            "europe du sud",
+            "asie du sud-ouest",
+            "baies regroupées en grappes",
+            "balcon",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "malva sylvestris": {
+        "prefLabel": "malva sylvestris",
+        "altLabels": [
+            "grande mauve",
+            "khobbiza",
+            "mauve officinale",
+            "mauve des bois",
+            "mauve sylvestre",
+            "faux géranium",
+            "mauve sauvage",
+            "خبّيزة"
+        ],
+        "broader": [
+            "malvaceae",
+            "malva"
+        ],
+        "related": [
+            "cuit",
+            "dermatologique",
+            "fleur rose-pourpre à violettes",
+            "jardin",
+            "composées de méricarpes",
+            "alternes",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "asie de l'ouest",
+            "jardin sec",
+            "mai à septembre",
+            "europe",
+            "salade",
+            "fleur avec des nervures plus foncées",
+            "digestif",
+            "avec des nervures plus foncées",
+            "riche en mucilages",
+            "à long pétiole",
+            "rose-pourpre à violettes",
+            "palmatilobées",
+            "fleurs coupées",
+            "infusion",
+            "à cinq pétales échancrés",
+            "fleur à cinq pétales échancrés",
+            "herbacée vivace",
+            "respiratoire",
+            "apaisant"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "ruta graveolens": {
+        "prefLabel": "ruta graveolens",
+        "altLabels": [
+            "péganium",
+            "سذاب",
+            "rue des jardins",
+            "herbe de grâce",
+            "rue officinale",
+            "sadab",
+            "fijel",
+            "فيجل"
+        ],
+        "broader": [
+            "rutaceae",
+            "ruta"
+        ],
+        "related": [
+            "printemps-été",
+            "fleur jaune verdâtre",
+            "jaune verdâtre",
+            "bassin méditerranéen",
+            "jardin",
+            "jardin sec",
+            "épice",
+            "odeur forte et caractéristique",
+            "sous-arbrisseau",
+            "bonne",
+            "digestif",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "forte et caractéristique",
+            "sud de l'europe",
+            "apaisant",
+            "aromatique"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "pelargonium graveolens": {
+        "prefLabel": "pelargonium graveolens",
+        "altLabels": [
+            "pélargonium à forte odeur",
+            "géranium rosat",
+            "عطرش",
+            "géranium odorant",
+            "atrach"
+        ],
+        "broader": [
+            "pelargonium",
+            "geraniaceae"
+        ],
+        "related": [
+            "dermatologique",
+            "jardin",
+            "citronnée",
+            "anti-inflammatoire",
+            "roses à blanchâtres",
+            "très aromatiques",
+            "production d'huile essentielle",
+            "feuilles duveteuses et profondément lobées",
+            "odeur citronnée",
+            "jardin sec",
+            "fleurs petites",
+            "tonique",
+            "antiseptique",
+            "digestif",
+            "épicée",
+            "aromatique",
+            "odeur rosée",
+            "infusion",
+            "avec des marques violettes",
+            "afrique du sud",
+            "odeur épicée",
+            "rosée",
+            "apaisant",
+            "balcon",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "punica granatum": {
+        "prefLabel": "punica granatum",
+        "altLabels": [
+            "grenadier",
+            "rummân",
+            "grenadier commun",
+            "pomme de carthage",
+            "رمان"
+        ],
+        "broader": [
+            "punica",
+            "lythraceae"
+        ],
+        "related": [
+            "cuit",
+            "jardin",
+            "fleur orange-rouge vif",
+            "anti-inflammatoire",
+            "jardin sec",
+            "élevée une fois établi",
+            "tonique",
+            "autre usage médical",
+            "salade",
+            "antiseptique",
+            "asie centrale",
+            "digestif",
+            "orange-rouge vif",
+            "aromatique",
+            "fleurs coupées",
+            "baie à nombreuses graines",
+            "infusion",
+            "bassin méditerranéen",
+            "caduc à semi-persistant",
+            "moyen-orient",
+            "balcon",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "peganum harmala": {
+        "prefLabel": "peganum harmala",
+        "altLabels": [
+            "harmal",
+            "الحرمل",
+            "harmel",
+            "rue sauvage",
+            "harmala",
+            "rue syrienne"
+        ],
+        "broader": [
+            "nitrariaceae",
+            "peganum"
+        ],
+        "related": [
+            "antiseptique",
+            "bassin méditerranéen",
+            "jardin sec",
+            "asie centrale",
+            "odeur forte et caractéristique",
+            "profondes",
+            "moyen-orient",
+            "digestif",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "forte et caractéristique",
+            "apaisant",
+            "autre usage médical"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "papaver rhoeas l.": {
+        "prefLabel": "papaver rhoeas l.",
+        "altLabels": [
+            "coquelicot",
+            "chaudron",
+            "بنت النعاس",
+            "coq",
+            "خشخاش",
+            "pavot-des-champs",
+            "khchkhach",
+            "ponceau",
+            "mahboula",
+            "graza",
+            "pavot-coq",
+            "ben nouma"
+        ],
+        "broader": [
+            "papaver",
+            "papaveraceae"
+        ],
+        "related": [
+            "asie tempérée",
+            "jardin",
+            "afrique du nord",
+            "velues",
+            "jardin sec",
+            "fleur pétales délicats",
+            "vert-gris",
+            "europe",
+            "salade",
+            "digestif",
+            "aromatique",
+            "fleurs coupées",
+            "souvent froissés",
+            "contient une sève laiteuse",
+            "infusion",
+            "fleur souvent froissés",
+            "pétales délicats",
+            "feuilles pennatifides",
+            "avril à juillet",
+            "respiratoire",
+            "apaisant"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "sesamum indicum": {
+        "prefLabel": "sesamum indicum",
+        "altLabels": [
+            "sésame",
+            "gingelly",
+            "jeljlan",
+            "جلجلان",
+            "benne"
+        ],
+        "broader": [
+            "pedaliaceae",
+            "sesamum"
+        ],
+        "related": [
+            "riches en huile et protéines",
+            "cuit",
+            "afrique",
+            "annuel",
+            "inde",
+            "jardin",
+            "épice",
+            "digestif",
+            "anti-inflammatoire",
+            "autre usage médical",
+            "capsules contenant des graines",
+            "tonique",
+            "aromatique",
+            "herbacée",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "arbutus unedo": {
+        "prefLabel": "arbutus unedo",
+        "altLabels": [
+            "arbre aux fraises",
+            "arbousier",
+            "قاتل أبيه",
+            "qatlab"
+        ],
+        "broader": [
+            "arbutus",
+            "ericaceae"
+        ],
+        "related": [
+            "vert foncé et brillant",
+            "persistant",
+            "cuit",
+            "maroc",
+            "infusion",
+            "antiseptique",
+            "bassin méditerranéen",
+            "jardin",
+            "coriace et finement denté.",
+            "jardin sec",
+            "apparaissant en automne",
+            "aromatique",
+            "europe de l'ouest",
+            "révélant une sous-couche plus claire.",
+            "haie",
+            "balcon",
+            "autre usage médical"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "bougainvillea spectabilis": {
+        "prefLabel": "bougainvillea spectabilis",
+        "altLabels": [
+            "bougainvillier spectaculaire",
+            "بوجانفيليا",
+            "fleur de papier",
+            "bougainvillée",
+            "boughanfiliya"
+        ],
+        "broader": [
+            "bougainvillea",
+            "nyctaginaceae"
+        ],
+        "related": [
+            "variée",
+            "fleur variée",
+            "couvre-sol",
+            "arbuste grimpant ou rampant",
+            "jardin",
+            "anti-inflammatoire",
+            "brésil",
+            "rapide",
+            "oui",
+            "respiratoire",
+            "amérique du sud",
+            "haie",
+            "balcon",
+            "élevée"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "carum carvi": {
+        "prefLabel": "carum carvi",
+        "altLabels": [
+            "كروية",
+            "karwiya",
+            "cumin des prés",
+            "anis des vosges",
+            "carvi officinal",
+            "carvi"
+        ],
+        "broader": [
+            "carum",
+            "apiaceae"
+        ],
+        "related": [
+            "cuit",
+            "odeur odeur forte et aromatique",
+            "afrique du nord",
+            "plante bisannuelle herbacée",
+            "odeur forte et aromatique",
+            "épice",
+            "odeur saveur anisée et piquante",
+            "diakènes ovoïdes",
+            "saveur anisée et piquante",
+            "europe",
+            "côtelés",
+            "autre usage médical",
+            "salade",
+            "antiseptique",
+            "digestif",
+            "aromatique",
+            "arqués",
+            "infusion",
+            "respiratoire",
+            "asie occidentale",
+            "apaisant",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "cedrus atlantica": {
+        "prefLabel": "cedrus atlantica",
+        "altLabels": [
+            "cèdre bleu",
+            "cèdre de l'atlantique",
+            "cèdre de l'atlas",
+            "arz",
+            "أرز الأطلس"
+        ],
+        "broader": [
+            "pinaceae",
+            "cedrus"
+        ],
+        "related": [
+            "dermatologique",
+            "antiseptique",
+            "jardin",
+            "se désarticulant à maturité",
+            "aiguilles courtes et rigides",
+            "dressés",
+            "très longue",
+            "odeur caractéristique",
+            "groupées en rosettes",
+            "odeur résineuse",
+            "très bonne",
+            "persistant",
+            "ovoïdes",
+            "jardin sec",
+            "montagnes de l'atlas",
+            "caractéristique",
+            "résineuse",
+            "respiratoire",
+            "autre usage médical"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "cinnamomum verum": {
+        "prefLabel": "cinnamomum verum",
+        "altLabels": [
+            "qarfa",
+            "cannelle de ceylan",
+            "cannelle officinale",
+            "cannelle vraie",
+            "قرفة"
+        ],
+        "broader": [
+            "lauraceae",
+            "cinnamomum"
+        ],
+        "related": [
+            "cuit",
+            "infusion",
+            "antiseptique",
+            "inde",
+            "jardin",
+            "odeur forte",
+            "arbre persistant",
+            "épice",
+            "écorce",
+            "dessert",
+            "forte",
+            "digestif",
+            "odeur aromatique",
+            "sri lanka",
+            "anti-inflammatoire",
+            "tonique",
+            "aromatique",
+            "autre usage médical"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "citrus × aurantium l.": {
+        "prefLabel": "citrus × aurantium l.",
+        "altLabels": [
+            "oranger aigre",
+            "bigaradier",
+            "limon merr",
+            "oranger amer",
+            "oranger de séville",
+            "narenj",
+            "نارنج",
+            "chadeck",
+            "ليمون مر"
+        ],
+        "broader": [
+            "rutaceae",
+            "citrus"
+        ],
+        "related": [
+            "cuit",
+            "asie du sud-est",
+            "fruit amer",
+            "jardin",
+            "petit grain bigarade",
+            "rameaux souvent épineux",
+            "fleurs intensément parfumées",
+            "odeur fleurs intensément parfumées",
+            "épice",
+            "tonique",
+            "antiseptique",
+            "supporte de légers gels",
+            "non consommé frais",
+            "digestif",
+            "aromatique",
+            "feuilles et fruits aromatiques",
+            "fleurs coupées",
+            "bigarade",
+            "infusion",
+            "bassin méditerranéen",
+            "odeur feuilles et fruits aromatiques",
+            "plus rustique que l'oranger doux",
+            "apaisant",
+            "balcon"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "citrus limon": {
+        "prefLabel": "citrus limon",
+        "altLabels": [
+            "citronnier",
+            "limoun hmad",
+            "laymoun",
+            "ليمون",
+            "limon",
+            "lemon tree",
+            "zitrone",
+            "ليمون حامض"
+        ],
+        "broader": [
+            "rutaceae",
+            "citrus"
+        ],
+        "related": [
+            "cuit",
+            "intérieur",
+            "dermatologique",
+            "fleur apparaissant toute l'année.",
+            "jardin",
+            "aromatique et légèrement denté.",
+            "sensible au gel",
+            "très parfumées",
+            "anti-inflammatoire",
+            "apparaissant toute l'année.",
+            "petites",
+            "fleur petites",
+            "himalaya",
+            "souvent jaune vif à maturité.",
+            "épice",
+            "tonique",
+            "blanches",
+            "sud-est de l'asie",
+            "salade",
+            "antiseptique",
+            "digestif",
+            "aromatique",
+            "fleur très parfumées",
+            "persistant",
+            "infusion",
+            "vert brillant",
+            "arbuste ou petit arbre épineux",
+            "fleur blanches",
+            "respiratoire",
+            "apaisant",
+            "balcon",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "zingiber officinale": {
+        "prefLabel": "zingiber officinale",
+        "altLabels": [
+            "سكينجبير",
+            "gingembre",
+            "gingembre officinal",
+            "skenjbir"
+        ],
+        "broader": [
+            "zingiberaceae",
+            "zingiber"
+        ],
+        "related": [
+            "cuit",
+            "jardin",
+            "rhizome",
+            "citronnée",
+            "anti-inflammatoire",
+            "piquant",
+            "odeur citronnée",
+            "épice",
+            "tonique",
+            "digestif",
+            "épicée",
+            "odeur caractéristique",
+            "aromatique",
+            "asie du sud-est maritime",
+            "infusion",
+            "non résistant au gel",
+            "odeur épicée",
+            "caractéristique",
+            "herbacée vivace",
+            "respiratoire",
+            "apaisant",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "coriandrum sativum": {
+        "prefLabel": "coriandrum sativum",
+        "altLabels": [
+            "qasbour",
+            "kouzbar",
+            "persil arabe",
+            "coriandre",
+            "قزبور",
+            "cilantro",
+            "كزبر"
+        ],
+        "broader": [
+            "coriandrum",
+            "apiaceae"
+        ],
+        "related": [
+            "cuit",
+            "apaisant",
+            "odeur boisée",
+            "jardin",
+            "citronnée",
+            "chaude",
+            "anti-inflammatoire",
+            "odeur citronnée",
+            "fleur blanc à rose pâle",
+            "épice",
+            "forte",
+            "blanc à rose pâle",
+            "salade",
+            "antiseptique",
+            "odeur forte",
+            "légèrement musquée",
+            "boisée",
+            "digestif",
+            "épicée",
+            "aromatique",
+            "infusion",
+            "europe du sud",
+            "odeur épicée",
+            "moyen-orient",
+            "odeur légèrement musquée",
+            "asie du sud",
+            "annuelle",
+            "balcon",
+            "odeur chaude"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "cupressus sempervirens": {
+        "prefLabel": "cupressus sempervirens",
+        "altLabels": [
+            "cyprès commun",
+            "cyprès d'italie",
+            "cyprès toujours vert",
+            "sarw",
+            "cyprès méditerranéen",
+            "cyprès pyramidal",
+            "سرو"
+        ],
+        "broader": [
+            "cupressus",
+            "cupressaceae"
+        ],
+        "related": [
+            "jardin",
+            "anti-inflammatoire",
+            "très longue",
+            "odeur résineuse",
+            "jardin sec",
+            "odeur aromatique",
+            "tonique",
+            "haie",
+            "élevée",
+            "autre usage médical",
+            "antiseptique",
+            "pyramidal",
+            "digestif",
+            "aromatique",
+            "persistant",
+            "bassin méditerranéen",
+            "moyen-orient",
+            "résineuse",
+            "respiratoire",
+            "colonnaire"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "foeniculum vulgare": {
+        "prefLabel": "foeniculum vulgare",
+        "altLabels": [
+            "fenouil sauvage",
+            "fenouil commun",
+            "basbas",
+            "fenouil officinal",
+            "fenouil amer",
+            "aneth doux",
+            "بسباس",
+            "nafaa",
+            "نافع"
+        ],
+        "broader": [
+            "foeniculum",
+            "apiaceae"
+        ],
+        "related": [
+            "cuit",
+            "en ombelles",
+            "jardin",
+            "petites",
+            "anisée",
+            "fleur en ombelles",
+            "fleur petites",
+            "fleur jaunes",
+            "jardin sec",
+            "épice",
+            "jaunes",
+            "très découpé en lanières fines",
+            "autre usage médical",
+            "salade",
+            "digestif",
+            "aromatique",
+            "vivace",
+            "infusion",
+            "odeur anisée",
+            "bassin méditerranéen",
+            "douce",
+            "respiratoire",
+            "apaisant",
+            "vert-bleuté"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "hibiscus rosa-sinensis": {
+        "prefLabel": "hibiscus rosa-sinensis",
+        "altLabels": [
+            "faux-hibiscus",
+            "hibiscus rose de chine",
+            "rose de chine",
+            "الوردة الصينية",
+            "هيبسكوس",
+            "hibiscus"
+        ],
+        "broader": [
+            "malvaceae",
+            "hibiscus"
+        ],
+        "related": [
+            "asie orientale",
+            "intérieur",
+            "dermatologique",
+            "jardin",
+            "anti-inflammatoire",
+            "fleur jaune",
+            "printemps à automne",
+            "rouge",
+            "bicolore",
+            "haie",
+            "orange",
+            "autre usage médical",
+            "fleur orange",
+            "salade",
+            "fleur rose",
+            "arbuste",
+            "rose",
+            "persistant",
+            "fleurs coupées",
+            "jaune",
+            "infusion",
+            "fleur blanc",
+            "fleur rouge",
+            "blanc",
+            "balcon",
+            "fleur bicolore"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "hibiscus sabdariffa": {
+        "prefLabel": "hibiscus sabdariffa",
+        "altLabels": [
+            "bissap",
+            "fleur de jamaïque",
+            "oseille de guinée",
+            "roselle",
+            "karkadé",
+            "كركديه"
+        ],
+        "broader": [
+            "malvaceae",
+            "hibiscus"
+        ],
+        "related": [
+            "cuit",
+            "afrique centrale",
+            "infusion",
+            "fin d'été à automne",
+            "jardin",
+            "afrique de l'ouest",
+            "acide et fruitée",
+            "digestif",
+            "anti-inflammatoire",
+            "autre usage médical",
+            "fleur rouge vif",
+            "tonique",
+            "rouge vif",
+            "aromatique",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "petroselinum crispum": {
+        "prefLabel": "petroselinum crispum",
+        "altLabels": [
+            "persil commun",
+            "معدنوس",
+            "persil cultivé",
+            "ma'dnoos",
+            "persil"
+        ],
+        "broader": [
+            "apiaceae",
+            "petroselinum"
+        ],
+        "related": [
+            "cuit",
+            "jardin",
+            "brillantes",
+            "épice",
+            "tonique",
+            "odeur fraîche",
+            "autre usage médical",
+            "salade",
+            "légèrement poivré et herbacé",
+            "digestif",
+            "fraîche",
+            "aromatique caractéristique",
+            "vert foncé",
+            "aromatique",
+            "très découpées",
+            "europe du sud-est",
+            "infusion",
+            "herbe aromatique bisannuelle",
+            "odeur aromatique caractéristique",
+            "frais",
+            "région méditerranéenne",
+            "balcon"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "allium sativum": {
+        "prefLabel": "allium sativum",
+        "altLabels": [
+            "ثومة",
+            "touma",
+            "ail cultivé",
+            "ail",
+            "ail commun"
+        ],
+        "broader": [
+            "allium",
+            "amaryllidaceae"
+        ],
+        "related": [
+            "cuit",
+            "salade",
+            "antiseptique",
+            "bassin méditerranéen",
+            "rarement fertile",
+            "composé de plusieurs caïeux",
+            "épice",
+            "asie centrale",
+            "forte",
+            "digestif",
+            "caractéristique",
+            "anti-inflammatoire",
+            "odeur forte",
+            "odeur caractéristique",
+            "aromatique",
+            "reproduction végétative privilégiée",
+            "autre usage médical"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "aloe vera (l.) burm.f.": {
+        "prefLabel": "aloe vera (l.) burm.f.",
+        "altLabels": [
+            "aloès",
+            "صبار",
+            "aloès des barbades",
+            "aloès vulgaire",
+            "aloe vera",
+            "sabbar"
+        ],
+        "broader": [
+            "asphodelaceae",
+            "aloe"
+        ],
+        "related": [
+            "intérieur",
+            "dermatologique",
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "regroupées en longues hampes florales",
+            "fleur tubulaires",
+            "avec des bords dentelés",
+            "succulentes",
+            "très bonne",
+            "charnues",
+            "jardin sec",
+            "tonique",
+            "fleur regroupées en longues hampes florales",
+            "autre usage médical",
+            "antiseptique",
+            "tubulaires",
+            "vertes à gris-vert",
+            "digestif",
+            "péninsule arabique",
+            "aromatique",
+            "fleur jaunes ou orangées",
+            "infusion",
+            "jaunes ou orangées",
+            "apaisant",
+            "balcon",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "crocus sativus": {
+        "prefLabel": "crocus sativus",
+        "altLabels": [
+            "za'faran",
+            "زعفران",
+            "safran cultivé",
+            "safran",
+            "safran d'automne"
+        ],
+        "broader": [
+            "crocus",
+            "iridaceae"
+        ],
+        "related": [
+            "odeur unique",
+            "unique",
+            "jardin",
+            "anti-inflammatoire",
+            "maroc",
+            "violet",
+            "jardin sec",
+            "épice",
+            "tonique",
+            "automne",
+            "autre usage médical",
+            "légèrement terreux",
+            "fleur violet",
+            "odeur caractéristique",
+            "grèce",
+            "aromatique",
+            "stigmates",
+            "infusion",
+            "bassin méditerranéen",
+            "asie mineure",
+            "amer",
+            "caractéristique",
+            "iran",
+            "apaisant"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "jasminum officinale": {
+        "prefLabel": "jasminum officinale",
+        "altLabels": [
+            "jasmin blanc",
+            "jasmin poète",
+            "jasmin commun",
+            "ياسمين",
+            "yasmin"
+        ],
+        "broader": [
+            "jasminum",
+            "oleaceae"
+        ],
+        "related": [
+            "fleurs coupées",
+            "europe du sud-est",
+            "abondante en été",
+            "infusion",
+            "antiseptique",
+            "plante grimpante",
+            "jardin",
+            "doux et enivrant",
+            "asie",
+            "très prononcé",
+            "volubile",
+            "apaisant",
+            "aromatique",
+            "balcon",
+            "autre usage médical"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "calendula officinalis": {
+        "prefLabel": "calendula officinalis",
+        "altLabels": [
+            "souci",
+            "souci commun",
+            "المَرْقَد",
+            "souci des jardins",
+            "souci officinal"
+        ],
+        "broader": [
+            "calendula",
+            "astéracées"
+        ],
+        "related": [
+            "fleurs coupées",
+            "printemps à automne",
+            "dermatologique",
+            "infusion",
+            "salade",
+            "herbacée annuelle ou bisannuelle",
+            "jardin",
+            "digestif",
+            "odeur aromatique",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "fleur jaune à orange vif",
+            "jaune à orange vif",
+            "sud de l'europe",
+            "asie occidentale",
+            "apaisant",
+            "aromatique",
+            "balcon"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "olea europaea": {
+        "prefLabel": "olea europaea",
+        "altLabels": [
+            "olivier cultivé",
+            "arbre à olives",
+            "olivier commun",
+            "زيتون",
+            "zitoune"
+        ],
+        "broader": [
+            "olea",
+            "oleaceae"
+        ],
+        "related": [
+            "cuit",
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "très longue",
+            "jardin sec",
+            "épice",
+            "sagesse",
+            "tonique",
+            "olive",
+            "salade",
+            "antiseptique",
+            "paix",
+            "digestif",
+            "aromatique",
+            "persistant",
+            "infusion",
+            "bassin méditerranéen",
+            "balcon",
+            "longévité"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "aloysia citrodora": {
+        "prefLabel": "aloysia citrodora",
+        "altLabels": [
+            "verveine citronnelle",
+            "louiza",
+            "verveine odorante",
+            "لويزة",
+            "verveine à feuilles de citron"
+        ],
+        "broader": [
+            "aloysia",
+            "verbenaceae"
+        ],
+        "related": [
+            "cuit",
+            "feuilles lancéolées",
+            "jardin",
+            "très aromatiques",
+            "gélive",
+            "épice",
+            "vert vif",
+            "amérique du sud",
+            "chili",
+            "autre usage médical",
+            "pérou",
+            "digestif",
+            "aromatique",
+            "citronnée intense",
+            "infusion",
+            "argentine",
+            "odeur citronnée intense",
+            "apaisant",
+            "arbuste caduc",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "eucalyptus globulus": {
+        "prefLabel": "eucalyptus globulus",
+        "altLabels": [
+            "arbre à la fièvre",
+            "klitous",
+            "أوكالبتوس",
+            "kaliptos",
+            "gommier bleu",
+            "كليبتوس",
+            "eucalyptus commun"
+        ],
+        "broader": [
+            "myrtaceae",
+            "eucalyptus"
+        ],
+        "related": [
+            "bleu-vert",
+            "jardin",
+            "alternes",
+            "anti-inflammatoire",
+            "sessiles",
+            "très rapide",
+            "odeur camphrée",
+            "camphrée",
+            "jardin sec",
+            "forte",
+            "odeur aromatique",
+            "ovales",
+            "tonique",
+            "haie",
+            "gris-bleuâtre",
+            "élevée",
+            "autre usage médical",
+            "antiseptique",
+            "tasmanie",
+            "opposées",
+            "aromatique",
+            "falciformes",
+            "d'un vert bleuté pruineux",
+            "australie du sud-est",
+            "infusion",
+            "respiratoire",
+            "révélant une écorce plus claire",
+            "odeur forte",
+            "lisse",
+            "s'exfoliant en longues lanières"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "prunus dulcis": {
+        "prefLabel": "prunus dulcis",
+        "altLabels": [
+            "louz",
+            "amandier",
+            "amandier commun",
+            "amandier à graines douces",
+            "لوز"
+        ],
+        "broader": [
+            "prunus",
+            "rosaceae"
+        ],
+        "related": [
+            "drupe",
+            "dermatologique",
+            "salade",
+            "infusion",
+            "bassin méditerranéen",
+            "jardin",
+            "caduc",
+            "sécheresse",
+            "épice",
+            "arbre fruitier",
+            "digestif",
+            "tonique",
+            "asie centrale et occidentale",
+            "apaisant",
+            "aromatique",
+            "précoce",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "alchemilla vulgaris": {
+        "prefLabel": "alchemilla vulgaris",
+        "altLabels": [
+            "pied-de-lion",
+            "manteau de notre-dame",
+            "alchémille commune"
+        ],
+        "broader": [
+            "alchemilla",
+            "rosaceae"
+        ],
+        "related": [
+            "fleur verdâtres/jaune-vert",
+            "asie tempérée",
+            "dermatologique",
+            "couvre-sol",
+            "regroupées en cymes lâches.",
+            "fleur apétales",
+            "jardin",
+            "acides phénoliques.",
+            "anti-inflammatoire",
+            "petites",
+            "fleur petites",
+            "fleur regroupées en cymes lâches.",
+            "mai à septembre",
+            "tonique",
+            "europe",
+            "riche en tanins",
+            "autre usage médical",
+            "salade",
+            "forme de rein ou d'éventail",
+            "digestif",
+            "verdâtres/jaune-vert",
+            "flavonoïdes",
+            "palmatilobées",
+            "infusion",
+            "pubescentes",
+            "apaisant",
+            "apétales"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "mespilus germanica": {
+        "prefLabel": "mespilus germanica",
+        "altLabels": [
+            "za'rour",
+            "زعرور",
+            "néflier d'allemagne",
+            "néflier commun"
+        ],
+        "broader": [
+            "rosaceae",
+            "mespilus"
+        ],
+        "related": [
+            "cuit",
+            "europe du sud-est",
+            "infusion",
+            "antiseptique",
+            "nèfle",
+            "jardin",
+            "printemps",
+            "asie du sud-ouest",
+            "digestif",
+            "caucase",
+            "comestible après blettissement",
+            "caduc",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "rosa × damascena": {
+        "prefLabel": "rosa × damascena",
+        "altLabels": [
+            "rosier de damas",
+            "ورد بلدي",
+            "rose de damas",
+            "rose de castille",
+            "ward baladi"
+        ],
+        "broader": [
+            "rosa",
+            "rosaceae"
+        ],
+        "related": [
+            "dermatologique",
+            "doubles",
+            "jardin",
+            "très parfumées",
+            "anti-inflammatoire",
+            "douce et caractéristique",
+            "arbuste caduc épineux",
+            "maroc",
+            "odeur intense",
+            "huile essentielle",
+            "antiseptique",
+            "digestif",
+            "aromatique",
+            "fleur très parfumées",
+            "fleurs coupées",
+            "infusion",
+            "odeur douce et caractéristique",
+            "moyen-orient",
+            "intense",
+            "apaisant",
+            "balcon",
+            "fleur doubles",
+            "eau de rose",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "moringa oleifera": {
+        "prefLabel": "moringa oleifera",
+        "altLabels": [
+            "arbre à raifort",
+            "moringa",
+            "arbre de vie",
+            "شجرة الحياة",
+            "المورينجا"
+        ],
+        "broader": [
+            "moringaceae",
+            "moringa"
+        ],
+        "related": [
+            "cuit",
+            "jardin",
+            "racines",
+            "anti-inflammatoire",
+            "feuilles",
+            "très rapide",
+            "fleurs",
+            "inde",
+            "jardin sec",
+            "épice",
+            "tonique",
+            "autre usage médical",
+            "graines",
+            "salade",
+            "antiseptique",
+            "gousses",
+            "digestif",
+            "aromatique",
+            "afrique",
+            "infusion",
+            "asie",
+            "protéines et antioxydants",
+            "riche en vitamines",
+            "minéraux"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "artemisia absinthium": {
+        "prefLabel": "artemisia absinthium",
+        "altLabels": [
+            "herbe aux vers",
+            "الشيبة",
+            "chiba",
+            "absinthe",
+            "grande absinthe",
+            "armoise amère"
+        ],
+        "broader": [
+            "artemisia",
+            "asteraceae"
+        ],
+        "related": [
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "feuillage gris-argenté",
+            "jardin sec",
+            "forte",
+            "odeur aromatique",
+            "très amer",
+            "tonique",
+            "europe",
+            "très aromatique",
+            "autre usage médical",
+            "antiseptique",
+            "digestif",
+            "odeur caractéristique",
+            "aromatique",
+            "duveteux",
+            "infusion",
+            "asie",
+            "caractéristique",
+            "odeur forte"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "ziziphus spina-christi": {
+        "prefLabel": "ziziphus spina-christi",
+        "altLabels": [
+            "jujubier épineux",
+            "jujubier de palestine",
+            "pommier de sidon",
+            "sidr",
+            "épine du christ",
+            "السدر"
+        ],
+        "broader": [
+            "rhamnaceae",
+            "ziziphus"
+        ],
+        "related": [
+            "dermatologique",
+            "infusion",
+            "antiseptique",
+            "sahel",
+            "jardin",
+            "jardin sec",
+            "moyen-orient",
+            "digestif",
+            "oui",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "autre usage médical",
+            "haie",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "senna alexandrina": {
+        "prefLabel": "senna alexandrina",
+        "altLabels": [
+            "séné de khartum",
+            "سنا",
+            "séné de tinnevelly",
+            "séné d'égypte",
+            "sena",
+            "séné d'alexandrie"
+        ],
+        "broader": [
+            "senna",
+            "fabaceae"
+        ],
+        "related": [
+            "oblongues",
+            "jardin",
+            "digestif",
+            "afrique du nord",
+            "fleur en grappes axillaires",
+            "gousses plates",
+            "arbuste",
+            "proche-orient",
+            "caduc ou semi-persistant",
+            "inde",
+            "fleur jaunes",
+            "jardin sec",
+            "jaunes",
+            "en grappes axillaires"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "ceratonia siliqua": {
+        "prefLabel": "ceratonia siliqua",
+        "altLabels": [
+            "kharrûb",
+            "figuier d'égypte",
+            "خروب",
+            "pain de saint-jean",
+            "caroubier"
+        ],
+        "broader": [
+            "ceratonia",
+            "fabaceae"
+        ],
+        "related": [
+            "persistant",
+            "cuit",
+            "tolère la sécheresse",
+            "infusion",
+            "bassin méditerranéen",
+            "jardin",
+            "jardin sec",
+            "épice",
+            "digestif",
+            "vert foncé",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "autre usage médical",
+            "pouvant atteindre plusieurs siècles",
+            "gousses charnues appelées caroubes",
+            "haie",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "artemisia herba-alba asso": {
+        "prefLabel": "artemisia herba-alba asso",
+        "altLabels": [
+            "armoise du désert",
+            "chih",
+            "armoise herbe blanche",
+            "الشيح",
+            "absinthe blanche du désert"
+        ],
+        "broader": [
+            "artemisia",
+            "asteraceae"
+        ],
+        "related": [
+            "afrique du nord",
+            "anti-inflammatoire",
+            "odeur aromatique puissante",
+            "maroc",
+            "zones semi-désertiques",
+            "jardin sec",
+            "argenté-blanc",
+            "autre usage médical",
+            "antiseptique",
+            "aromatique puissante",
+            "digestif",
+            "odeur caractéristique",
+            "aromatique",
+            "duveteux",
+            "infusion",
+            "bassin méditerranéen",
+            "moyen-orient",
+            "caractéristique",
+            "respiratoire",
+            "apaisant",
+            "steppes"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "saussurea costus (falc.) lipsch.": {
+        "prefLabel": "saussurea costus (falc.) lipsch.",
+        "altLabels": [
+            "القسط الهندي",
+            "costus indien",
+            "costus amer",
+            "racine de costus",
+            "عود هندي",
+            "qist al-hindi"
+        ],
+        "broader": [
+            "astéracées",
+            "saussurea"
+        ],
+        "related": [
+            "néphrotoxique et cancérigène.",
+            "himalaya",
+            "infusion",
+            "antiseptique",
+            "inde",
+            "racine très aromatique et puissante",
+            "odeur racine très aromatique et puissante",
+            "digestif",
+            "anti-inflammatoire",
+            "respiratoire",
+            "tonique",
+            "pakistan",
+            "racine",
+            "notamment par l'acide aristolochique",
+            "autre usage médical"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "silybum marianum": {
+        "prefLabel": "silybum marianum",
+        "altLabels": [
+            "chardon notre-dame",
+            "artichaut sauvage",
+            "chardon-marie",
+            "شوك الجمل",
+            "chouk al-jamal",
+            "chardon argenté"
+        ],
+        "broader": [
+            "silybum",
+            "asteraceae"
+        ],
+        "related": [
+            "capitules solitaires",
+            "cuit",
+            "zones en friche",
+            "jardin",
+            "lobées",
+            "fleur capitules solitaires",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "terrains vagues",
+            "épineuses",
+            "de juin à août",
+            "jardin sec",
+            "autre usage médical",
+            "salade",
+            "herbacée annuelle ou bisannuelle",
+            "digestif",
+            "grandes",
+            "fleurs tubuleuses pourpres",
+            "infusion",
+            "europe du sud",
+            "bassin méditerranéen",
+            "bords de chemins",
+            "fleur fleurs tubuleuses pourpres",
+            "vert brillant marbré de blanc"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "glycyrrhiza glabra": {
+        "prefLabel": "glycyrrhiza glabra",
+        "altLabels": [
+            "عرق السوس",
+            "bois doux",
+            "réglisse",
+            "araq as-sūs",
+            "licorice"
+        ],
+        "broader": [
+            "glycyrrhiza",
+            "fabaceae"
+        ],
+        "related": [
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "asie de l'ouest",
+            "regroupées en grappes dressées.",
+            "dressée",
+            "épice",
+            "fleurs petites",
+            "tonique",
+            "autre usage médical",
+            "digestif",
+            "plante herbacée vivace",
+            "aromatique",
+            "de couleur bleu-violacé",
+            "infusion",
+            "europe du sud",
+            "très sucrés",
+            "respiratoire",
+            "apaisant"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "trigonella foenum-graecum": {
+        "prefLabel": "trigonella foenum-graecum",
+        "altLabels": [
+            "helba",
+            "sénégrain",
+            "الحلبة",
+            "fenugrec"
+        ],
+        "broader": [
+            "trigonella",
+            "fabaceae"
+        ],
+        "related": [
+            "dermatologique",
+            "de couleur jaune-brun",
+            "anti-inflammatoire",
+            "odeur rappelant le curry",
+            "petites",
+            "plante légumineuse fixant l'azote atmosphérique",
+            "inde",
+            "épice",
+            "tonique",
+            "odeur aromatique forte",
+            "autre usage médical",
+            "rappelant le curry",
+            "salade",
+            "digestif",
+            "épicée",
+            "anguleuses",
+            "aromatique",
+            "proche-orient",
+            "infusion",
+            "bassin méditerranéen",
+            "amer",
+            "odeur épicée",
+            "aromatique forte"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "ficus carica": {
+        "prefLabel": "ficus carica",
+        "altLabels": [
+            "figuier commun",
+            "تين",
+            "figuier comestible",
+            "شجرة التين",
+            "kermous",
+            "figuier"
+        ],
+        "broader": [
+            "moraceae",
+            "ficus"
+        ],
+        "related": [
+            "cuit",
+            "rugueuses sur le dessus.",
+            "infusion",
+            "bassin méditerranéen",
+            "jardin",
+            "produit des sycones",
+            "digestif",
+            "grandes feuilles lobées",
+            "anti-inflammatoire",
+            "autre usage médical",
+            "asie occidentale",
+            "aromatique",
+            "balcon",
+            "couramment appelés figues",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "lantana camara": {
+        "prefLabel": "lantana camara",
+        "altLabels": [
+            "corbeille d'or",
+            "لانتانا",
+            "lantana",
+            "verveine de cunning",
+            "lantanier"
+        ],
+        "broader": [
+            "lantana",
+            "verbenaceae"
+        ],
+        "related": [
+            "dermatologique",
+            "antiseptique",
+            "odeur parfois forte ou piquante",
+            "jardin",
+            "arbuste buissonnant",
+            "jardin sec",
+            "parfois grimpant",
+            "amériques tropicales",
+            "aromatique",
+            "odeur aromatique",
+            "anti-inflammatoire",
+            "parfois forte ou piquante",
+            "haie",
+            "balcon",
+            "autre usage médical"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "lavandula angustifolia": {
+        "prefLabel": "lavandula angustifolia",
+        "altLabels": [
+            "lavande fine",
+            "khzama",
+            "خزامى",
+            "lavande à feuilles étroites",
+            "lavande vraie",
+            "lavande officinale"
+        ],
+        "broader": [
+            "lamiaceae",
+            "lavandula"
+        ],
+        "related": [
+            "dermatologique",
+            "très rustique",
+            "jardin",
+            "cultivée au maroc",
+            "anti-inflammatoire",
+            "odeur parfum floral et herbacé caractéristique",
+            "jardin sec",
+            "parfum floral et herbacé caractéristique",
+            "gris-vert",
+            "antiseptique",
+            "digestif",
+            "aromatique",
+            "persistant",
+            "fleurs coupées",
+            "très apprécié",
+            "linéaire",
+            "infusion",
+            "bassin méditerranéen",
+            "respiratoire",
+            "été",
+            "apaisant",
+            "odeur très apprécié",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "taraxacum officinale": {
+        "prefLabel": "taraxacum officinale",
+        "altLabels": [
+            "hindiba",
+            "baraban",
+            "salade de taupe",
+            "pissenlit",
+            "هندباء",
+            "dent-de-lion",
+            "cochet",
+            "florin d'or"
+        ],
+        "broader": [
+            "taraxacum",
+            "astéracées"
+        ],
+        "related": [
+            "feuilles basales en rosette",
+            "cuit",
+            "fleurs jaunes en capitules solitaires",
+            "couvre-sol",
+            "infusion",
+            "salade",
+            "jardin",
+            "sève laiteuse blanche",
+            "profondément lobées",
+            "digestif",
+            "asie",
+            "fleur fleurs jaunes en capitules solitaires",
+            "anti-inflammatoire",
+            "tonique",
+            "europe",
+            "racine pivotante longue et épaisse",
+            "autre usage médical"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "mentha pulegium l.": {
+        "prefLabel": "mentha pulegium l.",
+        "altLabels": [
+            "ghleou",
+            "menthe à pouliot",
+            "menthe pouliot",
+            "fliou",
+            "فلّيو",
+            "menthe sauvage",
+            "pouliot"
+        ],
+        "broader": [
+            "mentha",
+            "lamiaceae"
+        ],
+        "related": [
+            "caractéristique de menthe/camphre",
+            "couvre-sol",
+            "jardin",
+            "afrique du nord",
+            "odeur caractéristique de menthe/camphre",
+            "fleurs mauves en verticilles axillaires",
+            "forte",
+            "plante rampante ou ascendante",
+            "europe",
+            "autre usage médical",
+            "antiseptique",
+            "digestif",
+            "aromatique",
+            "infusion",
+            "traçants",
+            "permettant une propagation rapide",
+            "odeur forte",
+            "asie occidentale",
+            "apaisant"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "mentha spicata": {
+        "prefLabel": "mentha spicata",
+        "altLabels": [
+            "menthe douce",
+            "naanaa",
+            "menthe en épi",
+            "menthe verte",
+            "menthe marocaine",
+            "نعناع"
+        ],
+        "broader": [
+            "mentha",
+            "lamiaceae"
+        ],
+        "related": [
+            "cuit",
+            "asie tempérée",
+            "roses à lilas",
+            "jardin",
+            "terrains incultes",
+            "odeur mentholée",
+            "anti-inflammatoire",
+            "légèrement froissées",
+            "petites",
+            "fleur petites",
+            "odeur fraîche et caractéristique",
+            "rapide",
+            "vertes",
+            "résiste au froid",
+            "europe",
+            "fraîche et caractéristique",
+            "fleur regroupées en épis terminaux",
+            "salade",
+            "antiseptique",
+            "zones humides",
+            "bonne",
+            "digestif",
+            "regroupées en épis terminaux",
+            "aromatique",
+            "lancéolées",
+            "dentelées",
+            "infusion",
+            "bords de chemins",
+            "mentholée",
+            "fleur roses à lilas",
+            "respiratoire",
+            "peut être envahissante",
+            "apaisant",
+            "balcon"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "myrtus communis": {
+        "prefLabel": "myrtus communis",
+        "altLabels": [
+            "مرس",
+            "nerte",
+            "herbe du paradis",
+            "myrte des jardins",
+            "mirs",
+            "myrte commun",
+            "ريحان",
+            "myrte juif",
+            "rihane"
+        ],
+        "broader": [
+            "myrtaceae",
+            "myrtus"
+        ],
+        "related": [
+            "cuit",
+            "dermatologique",
+            "antiseptique",
+            "jardin",
+            "odeur camphrées et épicées",
+            "digestif",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "bleu-noir à maturité",
+            "sphériques",
+            "aromatique",
+            "relativement rustique",
+            "fleurs blanches odorantes",
+            "proche-orient",
+            "persistant",
+            "fleurs coupées",
+            "camphrées et épicées",
+            "infusion",
+            "baies comestibles",
+            "bassin méditerranéen",
+            "de juin à août",
+            "odeur feuilles fortement aromatiques",
+            "jardin sec",
+            "épice",
+            "feuilles fortement aromatiques",
+            "arbuste buissonnant ou petit arbre",
+            "avec de nombreuses étamines dorées",
+            "respiratoire",
+            "tonique",
+            "haie",
+            "balcon",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "nerium oleander": {
+        "prefLabel": "nerium oleander",
+        "altLabels": [
+            "دفلة",
+            "laurier-rose",
+            "nérion",
+            "oléandre",
+            "difla"
+        ],
+        "broader": [
+            "apocynaceae",
+            "nerium"
+        ],
+        "related": [
+            "jardin",
+            "persistant",
+            "longue et abondante",
+            "bassin méditerranéen",
+            "asie du sud-ouest",
+            "jardin sec",
+            "du printemps à l'automne",
+            "haie",
+            "balcon",
+            "élevée",
+            "autre usage médical"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "ocimum basilicum": {
+        "prefLabel": "ocimum basilicum",
+        "altLabels": [
+            "basilic",
+            "حبق",
+            "herbe royale",
+            "hbak",
+            "basilic commun"
+        ],
+        "broader": [
+            "lamiaceae",
+            "ocimum"
+        ],
+        "related": [
+            "cuit",
+            "intérieur",
+            "aromatique et épicée",
+            "salade",
+            "infusion",
+            "odeur aromatique et épicée",
+            "jardin",
+            "épice",
+            "asie du sud",
+            "été",
+            "digestif",
+            "anti-inflammatoire",
+            "afrique tropicale",
+            "annuelle",
+            "tonique",
+            "apaisant",
+            "aromatique",
+            "balcon"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "origanum majorana": {
+        "prefLabel": "origanum majorana",
+        "altLabels": [
+            "thym de jardin",
+            "marjolaine",
+            "mardadouch",
+            "marjolaine des jardins",
+            "مرددوش"
+        ],
+        "broader": [
+            "lamiaceae",
+            "origanum"
+        ],
+        "related": [
+            "duveteux",
+            "odeur aromatique et délicate",
+            "vivace",
+            "infusion",
+            "antiseptique",
+            "bassin méditerranéen",
+            "jardin",
+            "aromatique et délicate",
+            "gris-vert",
+            "épice",
+            "moyen-orient",
+            "digestif",
+            "anti-inflammatoire",
+            "apaisant",
+            "aromatique",
+            "balcon"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "origanum vulgare": {
+        "prefLabel": "origanum vulgare",
+        "altLabels": [
+            "زعتر",
+            "origan",
+            "thym d'espagne",
+            "zaatar",
+            "mardadouch",
+            "مردادوش",
+            "marjolaine sauvage"
+        ],
+        "broader": [
+            "lamiaceae",
+            "origanum"
+        ],
+        "related": [
+            "dermatologique",
+            "couvre-sol",
+            "très rustique",
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "jardin sec",
+            "épice",
+            "tonique",
+            "europe",
+            "odeur aromatique forte",
+            "antiseptique",
+            "digestif",
+            "épicée",
+            "aromatique",
+            "rhizomateuse",
+            "infusion",
+            "bassin méditerranéen",
+            "caduc à semi-persistant",
+            "odeur épicée",
+            "aromatique forte",
+            "asie",
+            "respiratoire",
+            "été"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "argania spinosa": {
+        "prefLabel": "argania spinosa",
+        "altLabels": [
+            "tili",
+            "arganier",
+            "tamat",
+            "moroccan ironwood",
+            "أركان",
+            "argan tree",
+            "argan"
+        ],
+        "broader": [
+            "argania",
+            "sapotaceae"
+        ],
+        "related": [
+            "fourrage",
+            "cuit",
+            "dermatologique",
+            "salade",
+            "sud-ouest du maroc",
+            "résistant à la sécheresse",
+            "jardin",
+            "jardin sec",
+            "rôle écologique majeur",
+            "profondes",
+            "bois",
+            "anti-inflammatoire",
+            "tonique",
+            "huile d'argan",
+            "aromatique",
+            "arbre épineux",
+            "longue",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "carthamus tinctorius": {
+        "prefLabel": "carthamus tinctorius",
+        "altLabels": [
+            "عصفر",
+            "قرطم",
+            "faux-safran",
+            "guerṭem",
+            "safran des teinturiers",
+            "carthame des teinturiers"
+        ],
+        "broader": [
+            "asteraceae",
+            "carthamus"
+        ],
+        "related": [
+            "fleurs coupées",
+            "dermatologique",
+            "salade",
+            "infusion",
+            "jardin",
+            "jardin sec",
+            "épice",
+            "cycle de vie d'un an.",
+            "moyen-orient",
+            "digestif",
+            "asie",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "tonique",
+            "apaisant"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "phoenix dactylifera": {
+        "prefLabel": "phoenix dactylifera",
+        "altLabels": [
+            "تمر",
+            "palmier dattier",
+            "nakhla",
+            "dattier",
+            "dattier commun"
+        ],
+        "broader": [
+            "arecaceae",
+            "phoenix"
+        ],
+        "related": [
+            "non ramifié",
+            "cuit",
+            "sud-ouest de l'asie",
+            "persistant",
+            "jardin",
+            "voire plus",
+            "jardin sec",
+            "dioïque",
+            "moyen-orient",
+            "digestif",
+            "afrique du nord",
+            "grandes palmes pennées",
+            "tonique",
+            "aromatique",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "ricinus communis": {
+        "prefLabel": "ricinus communis",
+        "altLabels": [
+            "kharwaa",
+            "ricin",
+            "الخروع",
+            "palma christi",
+            "ricin commun"
+        ],
+        "broader": [
+            "ricinus",
+            "euphorbiaceae"
+        ],
+        "related": [
+            "dermatologique",
+            "jardin",
+            "odeur feuillage faiblement odorant",
+            "digestif",
+            "anti-inflammatoire",
+            "feuillage faiblement odorant",
+            "arbuste pouvant atteindre plusieurs mètres",
+            "jardin sec",
+            "afrique tropicale",
+            "capsules épineuses"
+        ],
+        "flags": [
+            "toxique"
+        ]
+    },
+    "rosmarinus officinalis": {
+        "prefLabel": "rosmarinus officinalis",
+        "altLabels": [
+            "azir",
+            "romarin",
+            "أزير",
+            "herbe aux couronnes",
+            "encensier"
+        ],
+        "broader": [
+            "lamiaceae",
+            "rosmarinus"
+        ],
+        "related": [
+            "cuit",
+            "aciculaire",
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "odeur camphrée",
+            "camphrée",
+            "petites",
+            "fleur petites",
+            "modérée",
+            "jardin sec",
+            "épice",
+            "fleur bilabiées",
+            "bleu-violet à blanc",
+            "arbuste érigé",
+            "tonique",
+            "odeur fortement aromatique",
+            "majoritairement printemps et été",
+            "haie",
+            "autre usage médical",
+            "antiseptique",
+            "bilabiées",
+            "digestif",
+            "aromatique",
+            "fortement aromatique",
+            "fleur bleu-violet à blanc",
+            "persistant",
+            "infusion",
+            "europe du sud",
+            "bassin méditerranéen",
+            "ramifié",
+            "respiratoire",
+            "apaisant",
+            "balcon"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "salvia officinalis": {
+        "prefLabel": "salvia officinalis",
+        "altLabels": [
+            "sauge commune",
+            "salmia",
+            "thé d'europe",
+            "sauge officinale",
+            "سلمية"
+        ],
+        "broader": [
+            "salvia",
+            "lamiaceae"
+        ],
+        "related": [
+            "dermatologique",
+            "fasciculée",
+            "jardin",
+            "anti-inflammatoire",
+            "odeur camphrée",
+            "camphrée",
+            "jardin sec",
+            "épice",
+            "forte",
+            "odeur aromatique",
+            "fleurs bleu-violet",
+            "tonique",
+            "antiseptique",
+            "digestif",
+            "aromatique",
+            "persistant",
+            "infusion",
+            "bassin méditerranéen",
+            "de mai à juillet",
+            "respiratoire",
+            "odeur forte",
+            "apaisant"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "syzygium aromaticum": {
+        "prefLabel": "syzygium aromaticum",
+        "altLabels": [
+            "eugenia caryophyllata",
+            "clou de girofle (pour les boutons floraux)",
+            "قرنفل",
+            "giroflier",
+            "qronfel"
+        ],
+        "broader": [
+            "myrtaceae",
+            "syzygium"
+        ],
+        "related": [
+            "cuit",
+            "jardin",
+            "moluques",
+            "arbre persistant",
+            "anti-inflammatoire",
+            "régions tropicales d'asie et d'afrique",
+            "boutons floraux séchés",
+            "épice",
+            "eugénol",
+            "forte",
+            "tonique",
+            "antiseptique",
+            "digestif",
+            "épicée",
+            "odeur caractéristique",
+            "aromatique",
+            "infusion",
+            "odeur épicée",
+            "caractéristique",
+            "odeur forte",
+            "apaisant",
+            "dessert"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "thymus vulgaris": {
+        "prefLabel": "thymus vulgaris",
+        "altLabels": [
+            "farigoule",
+            "زعتر",
+            "thym commun",
+            "thym cultivé",
+            "za'atar"
+        ],
+        "broader": [
+            "lamiacées",
+            "thymus"
+        ],
+        "related": [
+            "couvre-sol",
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "jardin sec",
+            "épice",
+            "forte",
+            "odeur aromatique",
+            "tonique",
+            "antiseptique",
+            "digestif",
+            "aromatique",
+            "persistant",
+            "printemps-été",
+            "infusion",
+            "europe du sud",
+            "bassin méditerranéen",
+            "respiratoire",
+            "odeur forte"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "matricaria chamomilla": {
+        "prefLabel": "matricaria chamomilla",
+        "altLabels": [
+            "camomille matricaire",
+            "بابونج",
+            "camomille vraie",
+            "camomille sauvage",
+            "matricaire camomille",
+            "camomille allemande",
+            "babounj"
+        ],
+        "broader": [
+            "matricaria",
+            "astéracées"
+        ],
+        "related": [
+            "printemps-été",
+            "dermatologique",
+            "infusion",
+            "jardin",
+            "aromatique et douce",
+            "jardin sec",
+            "rappelant la pomme",
+            "digestif",
+            "asie",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "odeur rappelant la pomme",
+            "odeur aromatique et douce",
+            "europe",
+            "apaisant",
+            "aromatique"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "juniperus communis": {
+        "prefLabel": "juniperus communis",
+        "altLabels": [
+            "ar'ar",
+            "عرعر",
+            "genévrier vulgaire",
+            "genévrier",
+            "genévrier commun"
+        ],
+        "broader": [
+            "cupressaceae",
+            "juniperus"
+        ],
+        "related": [
+            "jardin",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "cônes charnus",
+            "odeur résineuse",
+            "jardin sec",
+            "épice",
+            "odeur aromatique",
+            "europe",
+            "autre usage médical",
+            "antiseptique",
+            "arbuste ou petit arbre",
+            "digestif",
+            "aromatique",
+            "amérique du nord",
+            "persistant",
+            "infusion",
+            "asie",
+            "résineuse",
+            "aiguilles piquantes"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "laurus nobilis": {
+        "prefLabel": "laurus nobilis",
+        "altLabels": [
+            "الرند",
+            "laurier-sauce",
+            "rend",
+            "laurier vrai",
+            "laurier noble"
+        ],
+        "broader": [
+            "lauraceae",
+            "laurus"
+        ],
+        "related": [
+            "cuit",
+            "jardin",
+            "anti-inflammatoire",
+            "modérée",
+            "jardin sec",
+            "épice",
+            "odeur aromatique",
+            "tonique",
+            "haie",
+            "antiseptique",
+            "arbuste ou petit arbre",
+            "digestif",
+            "odeur caractéristique",
+            "aromatique",
+            "persistant",
+            "infusion",
+            "printemps",
+            "bassin méditerranéen",
+            "caractéristique",
+            "respiratoire",
+            "apaisant",
+            "balcon"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "curcuma longa": {
+        "prefLabel": "curcuma longa",
+        "altLabels": [
+            "safran des indes",
+            "curcuma",
+            "kharkoum",
+            "turmeric",
+            "خرقوم"
+        ],
+        "broader": [
+            "zingiberaceae",
+            "curcuma"
+        ],
+        "related": [
+            "cuit",
+            "intérieur",
+            "odeur poivrée et terreuse",
+            "dermatologique",
+            "asie du sud-est",
+            "orange intense",
+            "poivrée et terreuse",
+            "jardin",
+            "indonésie",
+            "anti-inflammatoire",
+            "fleur blanc-jaunâtre à rose",
+            "inde",
+            "nécessite des températures chaudes",
+            "épice",
+            "tonique",
+            "blanc-jaunâtre à rose",
+            "autre usage médical",
+            "antiseptique",
+            "digestif",
+            "odeur caractéristique",
+            "aromatique",
+            "infusion",
+            "gélif",
+            "caractéristique"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "linum usitatissimum": {
+        "prefLabel": "linum usitatissimum",
+        "altLabels": [
+            "كتان",
+            "lin cultivé",
+            "kettane",
+            "lin commun",
+            "lin oléagineux"
+        ],
+        "broader": [
+            "linum",
+            "linaceae"
+        ],
+        "related": [
+            "cuit",
+            "dermatologique",
+            "fleur bleues ou parfois blanches",
+            "jardin",
+            "anti-inflammatoire",
+            "riches en fibres",
+            "bleues ou parfois blanches",
+            "brillantes",
+            "plante herbacée annuelle",
+            "épice",
+            "salade",
+            "digestif",
+            "à cinq pétales délicats",
+            "fleur à cinq pétales délicats",
+            "ovoïdes",
+            "infusion",
+            "capsule sphérique déhiscente",
+            "bassin méditerranéen",
+            "moyen-orient",
+            "apaisant"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    },
+    "lawsonia inermis": {
+        "prefLabel": "lawsonia inermis",
+        "altLabels": [
+            "henna",
+            "henné",
+            "arbre à henné",
+            "mignonette égyptienne",
+            "الحناء"
+        ],
+        "broader": [
+            "lawsonia",
+            "lythraceae"
+        ],
+        "related": [
+            "dermatologique",
+            "jardin",
+            "blanches ou rosâtres",
+            "capsules globuleuses",
+            "fleur blanches ou rosâtres",
+            "sous-continent indien",
+            "afrique du nord",
+            "anti-inflammatoire",
+            "très parfumées",
+            "petites",
+            "fleur petites",
+            "jardin sec",
+            "vertes",
+            "haie",
+            "antiseptique",
+            "zones tropicales et subtropicales",
+            "opposées",
+            "arbuste ou petit arbre",
+            "préfère la chaleur",
+            "fleur très parfumées",
+            "colorant naturel",
+            "résistant à la sécheresse",
+            "fleur en panicules terminales",
+            "moyen-orient",
+            "en panicules terminales",
+            "apaisant",
+            "ovales",
+            "d'où est extraite la teinture"
+        ],
+        "flags": [
+            "non toxique",
+            "comestible"
+        ]
+    }
+}
