@@ -1,0 +1,180 @@
+{
+  "id": "145097",
+  "infos_generales": {
+    "nom_scientifique": "Arbutus unedo",
+    "nom_commun": "Arbousier",
+    "noms_darija": [
+      "Qatlab",
+      "قاتل أبيه"
+    ],
+    "noms_alternatifs": [
+      "Arbre aux fraises"
+    ],
+    "famille": "Ericaceae",
+    "genre": "Arbutus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/c41fdca72fdd5e6f6491434adf92ed5998112d94",
+    "https://d2seqvvyy3b8p2.cloudfront.net/7960b85474b2db9abf4f833ea12431b2.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, acide à neutre",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Europe de l'Ouest",
+      "Maroc"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Écorce": "Rougeâtre et s'exfolie en fines lanières, révélant une sous-couche plus claire.",
+    "Fruits": "Baies comestibles ressemblant à des fraises, mûrissent en automne de l'année suivant leur floraison.",
+    "Feuillage": "Persistant, vert foncé et brillant, coriace et finement denté.",
+    "Floraison": "Fleurs blanches ou rosées en grappes pendantes, apparaissant en automne, souvent simultanément avec les fruits mûrs."
+  },
+  "utilisations": {
+    "medicale": [
+      "Antiseptique",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Cuit",
+      "Infusion",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Haie",
+      "Jardin sec",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "L'arbousier (Arbutus unedo) est un arbuste ou petit arbre emblématique du bassin méditerranéen, reconnu pour son feuillage persistant, ses fleurs blanches ou rosées et ses fruits comestibles, les arbouses, qui mûrissent en automne un an après la floraison. Résilient à la sécheresse, il est apprécié pour son esthétique ornementale, son rôle écologique et ses usages variés. Ses fruits sont consommés frais ou transformés (confitures, liqueurs), tandis que ses feuilles sont utilisées en phytothérapie pour leurs propriétés diurétiques et antiseptiques. Il joue un rôle crucial dans les écosystèmes de maquis et de garrigue.",
+    "texte_complet": {
+      "introduction": "L'arbousier (Arbutus unedo) est un arbuste ou un petit arbre de la famille des Ericaceae, typique du maquis méditerranéen. Il est remarquable par son feuillage persistant, ses fleurs blanches ou rosées qui apparaissent à l'automne, et ses fruits comestibles, les arbouses, qui mûrissent l'année suivante, souvent au même moment que la floraison nouvelle.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "L'Arbousier est un arbuste ou un petit arbre de 5 à 15 mètres de haut. Son tronc est court et tordu, son écorce est rouge-brun et se desquame en lamelles.",
+          "children": [
+            {
+              "id": "feuilles",
+              "level": 2,
+              "title": "Feuilles",
+              "content": "Les feuilles sont persistantes, alternes, ovales-lancéolées, coriaces, vert foncé brillant sur le dessus, et finement dentées sur les bords. Elles mesurent de 5 à 10 cm de long.",
+              "children": []
+            },
+            {
+              "id": "fleurs",
+              "level": 2,
+              "title": "Fleurs",
+              "content": "Les fleurs de l'arbousier sont petites, en forme de clochette, de couleur blanche ou légèrement rosée. Elles sont regroupées en panicules pendantes et apparaissent généralement en automne, de septembre à décembre.",
+              "children": []
+            },
+            {
+              "id": "fruits",
+              "level": 2,
+              "title": "Fruits",
+              "content": "Les fruits, appelés arbouses, sont des baies charnues, sphériques, d'environ 2 cm de diamètre. Leur couleur passe du jaune-orangé au rouge vif à pleine maturité. Ils ont une surface rugueuse et murissent environ un an après la floraison, d'où la particularité de voir des fleurs et des fruits mûrs sur le même arbre.",
+              "children": []
+            },
+            {
+              "id": "ecorce",
+              "level": 2,
+              "title": "Écorce",
+              "content": "L'écorce est caractérisée par sa couleur rouge-brunâtre et sa tendance à se desquamer en fines lanières, révélant une sous-couche plus claire.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "L'arbousier est originaire du bassin méditerranéen et de l'ouest de l'Europe, s'étendant jusqu'en Irlande et au sud de la France. On le trouve couramment dans les maquis, les garrigues, les forêts claires de chênes-lièges et les pinèdes, préférant les sols acides ou neutres, mais tolérant une certaine quantité de calcaire.",
+          "children": []
+        },
+        {
+          "id": "culture_et_multiplication",
+          "level": 1,
+          "title": "Culture et multiplication",
+          "content": "L'arbousier est une plante rustique qui supporte bien la sécheresse une fois établie. Il préfère le plein soleil et un sol bien drainé. La multiplication se fait principalement par semis des graines ou par bouturage.",
+          "children": []
+        },
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "L'arbousier est apprécié pour ses multiples usages, notamment alimentaires, médicinaux et ornementaux.",
+          "children": [
+            {
+              "id": "utilisations_alimentaires",
+              "level": 2,
+              "title": "Utilisations alimentaires",
+              "content": "Les arbouses sont comestibles crues, bien que leur texture farineuse et leur goût légèrement âpre ne plaisent pas à tous. Elles sont souvent utilisées pour faire des confitures, des gelées, des compotes, ou fermentées pour produire des liqueurs et de l'eau-de-vie. Riches en vitamine C, elles sont également appréciées pour leurs apports nutritionnels.",
+              "children": []
+            },
+            {
+              "id": "utilisations_medicinales",
+              "level": 2,
+              "title": "Utilisations médicinales",
+              "content": "Les feuilles de l'arbousier sont utilisées en phytothérapie pour leurs propriétés diurétiques, astringentes et antiseptiques, notamment dans le traitement des infections urinaires et des diarrhées. Elles sont généralement consommées en infusion.",
+              "children": []
+            },
+            {
+              "id": "autres_utilisations",
+              "level": 2,
+              "title": "Autres utilisations",
+              "content": "Le bois de l'arbousier est dense et dur, utilisé pour de petits objets et comme excellent bois de chauffage. La plante est aussi très utilisée pour l'aménagement paysager en tant qu'arbre d'ornement, ou pour la revégétalisation des sols dégradés grâce à son système racinaire puissant.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "pathologies",
+          "level": 1,
+          "title": "Pathologies",
+          "content": "L'arbousier est une plante relativement résistante aux maladies et parasites. Cependant, il peut être sujet à l'oïdium dans des conditions humides ou à des attaques de cochenilles.",
+          "children": []
+        },
+        {
+          "id": "culture_populaire",
+          "level": 1,
+          "title": "Culture populaire",
+          "content": "L'arbousier est un symbole de la ville de Madrid, figurant sur son blason avec un ours qui se nourrit de ses fruits. Il est également mentionné dans diverses œuvres littéraires et contes populaires méditerranéens.",
+          "children": []
+        },
+        {
+          "id": "symbolique",
+          "level": 1,
+          "title": "Symbolique",
+          "content": "En raison de sa floraison et de sa fructification simultanées, l'arbousier est parfois vu comme un symbole d'éternité ou de cycle de vie continu. Ses fruits rouges vif et son feuillage persistant en font aussi un symbole de vitalité.",
+          "children": []
+        },
+        {
+          "id": "aspects_ecologiques",
+          "level": 1,
+          "title": "Aspects écologiques",
+          "content": "L'arbousier joue un rôle écologique important dans les écosystèmes méditerranéens. Il contribue à la fixation des sols, offre un abri et une source de nourriture (fruits et pollen pour les abeilles) pour de nombreuses espèces animales, et est résistant aux incendies, ce qui en fait une espèce pionnière après les feux.",
+          "children": []
+        },
+        {
+          "id": "autres_especes",
+          "level": 1,
+          "title": "Autres espèces",
+          "content": "Bien qu'Arbutus unedo soit l'espèce la plus connue, d'autres espèces du genre Arbutus existent, notamment Arbutus andrachne ou Arbutus menziesii, chacune avec ses propres caractéristiques et aires de répartition.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/arbutus-unedo",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Arbutus_unedo"
+    }
+  }
+}

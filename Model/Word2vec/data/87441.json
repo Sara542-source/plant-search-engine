@@ -1,0 +1,134 @@
+{
+  "id": "87441",
+  "infos_generales": {
+    "nom_scientifique": "Thymus vulgaris",
+    "nom_commun": "Thym commun",
+    "noms_darija": [
+      "Za'atar",
+      "زعتر"
+    ],
+    "noms_alternatifs": [
+      "Farigoule",
+      "Thym cultivé"
+    ],
+    "famille": "Lamiacées",
+    "genre": "Thymus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/8709185087a881e96ffc55ce766b53f7e861cb3b",
+    "https://d2seqvvyy3b8p2.cloudfront.net/b88ea9fb81b86329558cae985fdf17a0.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/12/Thymus_vulgaris_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-271.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Sec, calcaire et bien drainé",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Europe du Sud",
+      "Afrique du Nord"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Forte, aromatique",
+    "feuillage": "Persistant",
+    "floraison": "Printemps-Été"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Respiratoire",
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Tonique"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Couvre-sol",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le thym commun (Thymus vulgaris) est un sous-arbrisseau aromatique et médicinal emblématique du bassin méditerranéen. Apprécié pour son feuillage persistant et ses petites fleurs roses ou blanches, il est largement utilisé en cuisine comme épice et aromate. En phytothérapie, le thym est reconnu pour ses propriétés antiseptiques, digestives et expectorantes, en faisant un remède populaire contre les affections respiratoires. Sa robustesse et sa préférence pour les sols secs et ensoleillés le rendent idéal pour les jardins méditerranéens et les jardins secs.",
+    "texte_complet": {
+      "introduction": "Le thym commun (Thymus vulgaris L.) est une espèce de sous-arbrisseaux de la famille des Lamiacées, très courante dans les garrigues des régions méditerranéennes. C'est une plante aromatique et médicinale très largement utilisée, notamment en cuisine et en phytothérapie. Il est caractérisé par ses petites feuilles persistantes, très parfumées, et ses fleurs roses ou blanches regroupées en petits épis terminaux.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Thymus vulgaris est un sous-arbrisseau vivace, ligneux à la base, atteignant généralement 10 à 30 cm de hauteur. Ses tiges sont ramifiées et souvent couchées à la base avant de s'ériger, couvertes d'un fin duvet. Ses petites fleurs et ses feuilles persistantes sont très aromatiques.",
+          "children": [
+            {
+              "id": "feuilles",
+              "level": 2,
+              "title": "Feuilles",
+              "content": "Les feuilles sont petites, linéaires à elliptiques, sessiles ou très courtement pétiolées, à bords roulés vers l'intérieur, de couleur vert-grisâtre, et couvertes de glandes à essence visibles. Elles sont persistantes et dégagent un parfum puissant au froissement.",
+              "children": []
+            },
+            {
+              "id": "fleurs",
+              "level": 2,
+              "title": "Fleurs",
+              "content": "Les fleurs sont petites, bilabiées, de couleur rose pâle à lilas ou blanches, et sont regroupées en verticilles axillaires formant des épis terminaux compacts. La floraison a lieu du printemps à l'été (d'avril à juillet), attirant de nombreux insectes pollinisateurs, notamment les abeilles, ce qui en fait une plante mellifère.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "distribution_et_habitat",
+          "level": 1,
+          "title": "Distribution et habitat",
+          "content": "Le thym commun est originaire du bassin méditerranéen occidental, couvrant des régions comme le sud de l'Europe (Espagne, France, Italie, Grèce) et l'Afrique du Nord (Maroc, Algérie, Tunisie). Il pousse naturellement dans les zones arides et semi-arides, préférant les sols calcaires, secs et bien drainés des garrigues, des maquis et des coteaux ensoleillés. Il est très résistant à la sécheresse et au froid modéré, s'adaptant bien aux conditions difficiles.",
+          "children": []
+        },
+        {
+          "id": "utilisation",
+          "level": 1,
+          "title": "Utilisation",
+          "content": "Le thym est une plante aux multiples usages, tant en cuisine qu'en médecine traditionnelle et en horticulture, grâce à son arôme distinctif et ses propriétés bénéfiques.",
+          "children": [
+            {
+              "id": "culinaire",
+              "level": 2,
+              "title": "Culinaire",
+              "content": "Le thym est une herbe aromatique essentielle de la cuisine méditerranéenne. Ses feuilles fraîches ou séchées parfument ragoûts, grillades, légumes, sauces, marinades, soupes et plats de volaille ou de poisson. Il est un composant majeur des herbes de Provence et est également utilisé pour aromatiser les huiles et les vinaigres, ou dans les infusions.",
+              "children": []
+            },
+            {
+              "id": "medicinale",
+              "level": 2,
+              "title": "Médicinale",
+              "content": "En phytothérapie, le thym est réputé pour ses propriétés antiseptiques (grâce au thymol et au carvacrol), antispasmodiques, expectorantes, digestives et toniques. Il est traditionnellement utilisé sous forme d'infusion pour soulager les maux de gorge, la toux, les bronchites, les problèmes digestifs (ballonnements, digestion difficile) et comme stimulant général de l'organisme. L'huile essentielle de thym est puissante et doit être utilisée avec précaution et sur avis médical.",
+              "children": []
+            },
+            {
+              "id": "horticulture",
+              "level": 2,
+              "title": "Horticulture",
+              "content": "Grâce à sa résistance à la sécheresse, sa rusticité et sa floraison attractive, le thym est une excellente plante pour les jardins de rocaille, les bordures, les jardins secs et les toits verts. Il peut servir de couvre-sol aromatique et attire les abeilles et autres pollinisateurs, contribuant à la biodiversité du jardin.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "composition",
+          "level": 1,
+          "title": "Composition",
+          "content": "Le thym est riche en huiles essentielles, dont les principaux composants sont les phénols monoterpéniques tels que le thymol et le carvacrol. Ces composés sont responsables de son arôme puissant et de ses propriétés antiseptiques et médicinales. Il contient également des flavonoïdes (comme la lutéoline), des tanins et des acides phénoliques (comme l'acide rosmarinique), qui contribuent à ses vertus antioxydantes.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/thymus-vulgaris",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Thymus_vulgaris"
+    }
+  }
+}

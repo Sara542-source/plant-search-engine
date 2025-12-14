@@ -1,0 +1,122 @@
+{
+  "id": "158382",
+  "infos_generales": {
+    "nom_scientifique": "Cedrus atlantica",
+    "nom_commun": "Cèdre de l'Atlas",
+    "noms_darija": [
+      "Arz",
+      "أرز الأطلس"
+    ],
+    "noms_alternatifs": [
+      "Cèdre bleu",
+      "Cèdre de l'Atlantique"
+    ],
+    "famille": "Pinaceae",
+    "genre": "Cedrus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/af4ceec8b97feb832468c287bb6b9b1a398765b5",
+    "https://d2seqvvyy3b8p2.cloudfront.net/4eabbf87798fae259ff289406e5c7dfc.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cedrus_atlantica.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Calcaire ou siliceux, bien drainé",
+    "regions_origine": [
+      "Montagnes de l'Atlas (Maroc, Algérie)"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "longévité": "Très longue (plusieurs siècles)",
+    "hauteur_moyenne": "30-40 mètres",
+    "odeur": "Résineuse, caractéristique",
+    "port": "Conique large à étalé avec l'âge",
+    "feuillage": "Persistant, aiguilles courtes et rigides, groupées en rosettes",
+    "cônes": "Dressés, ovoïdes, se désarticulant à maturité",
+    "résistance_froid": "Très bonne (jusqu'à -20°C)"
+  },
+  "utilisations": {
+    "medicale": [
+      "Respiratoire",
+      "Antiseptique",
+      "Dermatologique",
+      "Autre usage médical"
+    ],
+    "culinaire": [],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Cèdre de l'Atlas (Cedrus atlantica) est un grand conifère majestueux et emblématique, originaire des montagnes de l'Atlas au Maroc et en Algérie. Apprécié pour son bois aromatique et ses propriétés médicinales, notamment son huile essentielle utilisée en aromathérapie. Cet arbre, qui peut vivre plusieurs siècles, est adapté aux climats secs et ensoleillés. Il est valorisé pour son port ornemental en aménagement paysager, mais fait face à des menaces liées à la déforestation et au changement climatique, soulignant l'importance de sa conservation.",
+    "texte_complet": {
+      "introduction": "Le cèdre de l'Atlas (Cedrus atlantica (Endl.) Manetti ex Carrière) est une espèce d'arbre de la famille des Pinaceae et du genre Cedrus. Il est originaire des montagnes d'Afrique du Nord (Atlas au Maroc et en Algérie). C'est un grand conifère de 30 à 40 m de haut et de 2 à 3 m de diamètre, dont la durée de vie peut dépasser 600 ans. On le distingue des autres cèdres par ses aiguilles plus courtes (2 à 2,5 cm) et sa silhouette colonnaire. Son écorce est de couleur gris clair et lisse sur les jeunes sujets et devient gris foncé, fissurée et craquelée en vieillissant. Son port est tabulaire chez le jeune arbre, puis prend une forme étalée, parfois colonnaire avec les branches primaires orientées vers le haut. Il est souvent planté comme arbre d'ornement dans les parcs et jardins des régions tempérées.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le cèdre de l'Atlas est un grand arbre à croissance lente pouvant atteindre 30 à 40 m de hauteur et un diamètre de tronc de 2 à 3 m. Il a une longévité remarquable, souvent plusieurs siècles.\nIl possède un feuillage persistant, caractérisé par des aiguilles rigides, de 2 à 2,5 cm de long, de couleur vert-bleuté ou vert-argenté, groupées en rosettes sur les rameaux courts et solitaires sur les longs rameaux.\nLes cônes femelles sont ovoïdes à cylindriques, de 5 à 7 cm de long, dressés sur les branches, et de couleur brun clair. Ils mettent deux ans à mûrir et se désarticulent sur l'arbre en libérant les graines ailées. Les cônes mâles sont plus petits et jaunes, libérant leur pollen en automne.",
+          "children": [
+            {
+              "id": "ecologie",
+              "level": 2,
+              "title": "Écologie",
+              "content": "Le cèdre de l'Atlas est une espèce montagnarde, poussant entre 1 300 et 2 600 mètres d'altitude. Il s'adapte à des sols variés, souvent calcaires, mais aussi siliceux, pourvu qu'ils soient bien drainés. Il est très résistant au froid et à la sécheresse une fois établi.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "Le cèdre de l'Atlas est endémique des montagnes de l'Atlas, au Maroc (Moyen Atlas, Haut Atlas, Rif) et en Algérie (Aurès, Ouarsenis, Grande Kabylie). Il forme de vastes forêts, souvent pures ou associées à d'autres espèces comme le Chêne vert (Quercus ilex) ou le Sapin de Numidie (Abies numidica) en Algérie.",
+          "children": []
+        },
+        {
+          "id": "menaces_et_conservation",
+          "level": 1,
+          "title": "Menaces et conservation",
+          "content": "Les forêts de cèdres de l'Atlas ont subi une forte régression au cours des derniers siècles en raison de l'exploitation forestière intensive, du surpâturage et des incendies. Le changement climatique, avec l'augmentation des températures et la diminution des précipitations, représente également une menace majeure pour cette espèce, notamment au Maroc. Des efforts de conservation, incluant reboisement et gestion durable, sont mis en œuvre.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le cèdre de l'Atlas est un arbre ornemental populaire dans les parcs et grands jardins. Il préfère un sol bien drainé et une exposition en plein soleil. Sa croissance est relativement lente. Il existe plusieurs cultivars, dont le « Glauca » aux aiguilles particulièrement bleutées.",
+          "children": []
+        },
+        {
+          "id": "utilisation",
+          "level": 1,
+          "title": "Utilisation",
+          "content": "Le bois du cèdre de l'Atlas est réputé pour sa durabilité, sa résistance aux insectes et son parfum agréable. Il est utilisé en ébénisterie, construction, et sculpture. L'huile essentielle extraite du bois est employée en parfumerie, cosmétique et aromathérapie pour ses propriétés antiseptiques, expectorantes et tonifiantes. Elle est également utilisée comme répulsif naturel.",
+          "children": []
+        },
+        {
+          "id": "symbolique",
+          "level": 1,
+          "title": "Symbolique",
+          "content": "Le cèdre est un arbre symbolique au Maroc, souvent associé à la puissance, la longévité et la grandeur. Il est un emblème de la nature sauvage et de la force des montagnes.",
+          "children": []
+        },
+        {
+          "id": "galerie",
+          "level": 1,
+          "title": "Galerie",
+          "content": "(Contenu visuel non textuel, ne pas inclure les images elles-mêmes dans le texte).",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/cedrus-atlantica",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Cedrus_atlantica"
+    }
+  }
+}

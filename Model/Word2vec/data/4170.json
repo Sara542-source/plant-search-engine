@@ -1,0 +1,148 @@
+{
+  "id": "4170",
+  "infos_generales": {
+    "nom_scientifique": "Silybum marianum",
+    "nom_commun": "Chardon-Marie",
+    "noms_darija": [
+      "Chouk al-jamal",
+      "شوك الجمل"
+    ],
+    "noms_alternatifs": [
+      "Artichaut sauvage",
+      "Chardon argenté",
+      "Chardon Notre-Dame"
+    ],
+    "famille": "Asteraceae",
+    "genre": "Silybum"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/74b5b8a85b3ed2620a99a2d2799300e56f78b4ea",
+    "https://bs.plantnet.org/image/o/f5a09200f08755a40b432113d5319ba51d6cfecb"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Tout type de sol, bien drainé, préférence calcaire",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Afrique du Nord",
+      "Europe du Sud"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Port": "Herbacée annuelle ou bisannuelle",
+    "Hauteur": "Jusqu'à 1,5 à 2 mètres",
+    "Feuilles": "Grandes, lobées, épineuses, vert brillant marbré de blanc",
+    "Fleurs": "Capitules solitaires, fleurs tubuleuses pourpres",
+    "Période de floraison": "De juin à août",
+    "Habitat": "Terrains vagues, bords de chemins, zones en friche"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Anti-inflammatoire",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Salade",
+      "Cuit",
+      "Infusion"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Chardon-Marie (Silybum marianum) est une plante herbacée annuelle ou bisannuelle de la famille des Asteraceae, originaire du bassin méditerranéen et d'Afrique du Nord. Caractérisé par ses grandes feuilles épineuses marbrées de blanc et ses fleurs pourpres en capitules, il est principalement réputé pour ses propriétés médicinales, notamment hépato-protectrices, grâce à la silymarine contenue dans ses graines. Il est également utilisé en cuisine et comme plante ornementale dans les jardins secs pour son aspect architectural.",
+    "texte_complet": {
+      "introduction": "Le Chardon-Marie (Silybum marianum (L.) Gaertn.) est une plante herbacée annuelle ou bisannuelle de la famille des Astéracées (Composées), à feuilles épineuses. Il est originaire du bassin méditerranéen et de l'Afrique du Nord. Les Anciens le connaissaient déjà pour ses propriétés curatives. C'est l'une des rares espèces de chardons considérées comme médicinales, notamment pour ses effets sur le foie. Il est souvent utilisé en phytothérapie.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le chardon-Marie est une grande plante qui peut atteindre 1,5 à 2 mètres de hauteur. Sa tige est robuste, ramifiée et souvent striée de rouge.",
+          "children": [
+            {
+              "id": "aspect_general",
+              "level": 2,
+              "title": "Aspect général",
+              "content": "Le chardon-Marie se distingue par son port majestueux et ses feuilles très caractéristiques. C'est une plante qui attire l'attention par sa taille et ses couleurs vives, notamment le violet de ses fleurs et le vert marbré de blanc de son feuillage.",
+              "children": []
+            },
+            {
+              "id": "appareil_vegetatif",
+              "level": 2,
+              "title": "Appareil végétatif",
+              "content": "Les feuilles, alternes, sont grandes, lobées ou pennatifides, très épineuses sur les bords et brillantes. Elles sont de couleur vert clair et sont parcourues de nervures blanchâtres très marquées, donnant l'impression que du lait a été répandu sur leur surface. Cette particularité est à l'origine de son nom « Marie » (la légende dit que ce sont les gouttes de lait de la Vierge Marie qui ont donné sa couleur au chardon). Les feuilles basales sont en rosette, tandis que les feuilles caulinaires sont amplexicaules. La racine est pivotante et robuste.",
+              "children": []
+            },
+            {
+              "id": "appareil_reproducteur",
+              "level": 2,
+              "title": "Appareil reproducteur",
+              "content": "Les fleurs, de couleur pourpre vif, sont regroupées en gros capitules terminaux solitaires, de 4 à 8 cm de diamètre. Elles apparaissent de juin à août. Les bractées de l'involucre sont larges, coriaces et très épineuses, recourbées vers l'extérieur. Les fruits sont des akènes noirs, lisses, brillants, surmontés d'une aigrette de soies blanches non plumeuses, qui facilite leur dispersion par le vent.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "Originaire du bassin méditerranéen, d'Europe du Sud, et d'Afrique du Nord, le chardon-Marie s'est naturalisé dans de nombreuses autres régions du monde, notamment en Amérique du Nord et en Australie. Il pousse dans les terrains vagues, les friches, les bords de chemins, les décombres et les zones incultes, souvent sur des sols riches et ensoleillés. C'est une plante rustique qui tolère bien la sécheresse.",
+          "children": []
+        },
+        {
+          "id": "histoire",
+          "level": 1,
+          "title": "Histoire",
+          "content": "Le Chardon-Marie est utilisé depuis l'Antiquité pour ses propriétés médicinales. Les Grecs et les Romains l'employaient déjà pour soigner diverses affections, notamment hépatiques. Au Moyen Âge, il était cultivé dans les jardins monastiques et ses vertus étaient associées à la Vierge Marie, d'où son nom. Son usage médicinal a été particulièrement bien documenté par les herboristes et médecins européens des siècles passés.",
+          "children": []
+        },
+        {
+          "id": "utilisation",
+          "level": 1,
+          "title": "Utilisation",
+          "content": "Le chardon-Marie est valorisé tant pour ses applications alimentaires que médicinales.",
+          "children": [
+            {
+              "id": "alimentaire",
+              "level": 2,
+              "title": "Alimentaire",
+              "content": "Les jeunes feuilles du Chardon-Marie peuvent être consommées crues en salade ou cuites comme des épinards, à condition d'ôter leurs épines. Les pétioles (tiges des feuilles), après avoir été pelés et blanchis, peuvent être préparés à la manière des cardons. Les capitules floraux, avant la floraison, peuvent être cuits et consommés comme des artichauts. Les graines peuvent être torréfiées et utilisées en infusion, ou pressées pour en extraire une huile comestible.",
+              "children": []
+            },
+            {
+              "id": "medicinale",
+              "level": 2,
+              "title": "Médicinale",
+              "content": "Le Chardon-Marie est principalement reconnu pour ses propriétés hépato-protectrices. La silymarine, un complexe de flavonoïdes extrait de ses graines, est le principal principe actif responsable de ces effets. Il est utilisé pour soutenir la fonction hépatique, en cas de troubles digestifs, de surcharge hépatique, d'intoxications (alcool, médicaments) et comme adjuvant dans le traitement de certaines hépatites chroniques. Ses propriétés anti-inflammatoires et antioxydantes sont également exploitées en phytothérapie. Il est souvent employé sous forme d'extraits standardisés de graines.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le chardon-Marie est facile à cultiver. Il préfère un sol bien drainé et une exposition en plein soleil. Il est résistant à la sécheresse une fois établi. La multiplication se fait par semis direct au printemps ou en automne. Il peut se ressemer spontanément et se montrer envahissant dans certaines conditions. Il est souvent cultivé pour l'ornement dans les jardins secs ou pour la production de ses graines à usage médicinal.",
+          "children": []
+        },
+        {
+          "id": "substances_actives",
+          "level": 1,
+          "title": "Substances actives",
+          "content": "La principale substance active du Chardon-Marie est la silymarine, un complexe de flavolignanes comprenant la silybine, l'isosilybine, la silycristine et la silydianine. Ces composés sont concentrés dans les graines et sont responsables des propriétés hépato-protectrices et antioxydantes de la plante. D'autres composés comme des flavonoïdes, des huiles grasses et des protéines sont également présents.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/silybum-marianum",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Silybum_marianum"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "153102",
+  "infos_generales": {
+    "nom_scientifique": "Bougainvillea spectabilis",
+    "nom_commun": "Bougainvillier spectaculaire",
+    "noms_darija": [
+      "Boughanfiliya",
+      "بوجانفيليا"
+    ],
+    "noms_alternatifs": [
+      "Fleur de papier",
+      "Bougainvillée"
+    ],
+    "famille": "Nyctaginaceae",
+    "genre": "Bougainvillea"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/ed7396e8da5f269f1ed1b98986a82fbe9882c65e",
+    "https://bs.plantnet.org/image/o/24391f8e1e6dff5a505b9f95c74d02b1b594d364",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bougainvillea_spectabilis_Flowers_Closeup2_TorreLaMata.jpg/1000px-Bougainvillea_spectabilis_Flowers_Closeup2_TorreLaMata.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, fertile",
+    "regions_origine": [
+      "Brésil",
+      "Amérique du Sud"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Présence d'épines": "Oui",
+    "Type de floraison": "Bractées colorées entourant de petites fleurs",
+    "Couleur des bractées": "Variée (rose, pourpre, rouge, orange, blanc)",
+    "Type de croissance": "Arbuste grimpant ou rampant",
+    "Résistance à la sécheresse": "Élevée",
+    "Croissance": "Rapide"
+  },
+  "utilisations": {
+    "medicale": [
+      "Respiratoire",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [],
+    "decoration": [
+      "Jardin",
+      "Haie",
+      "Balcon",
+      "Couvre-sol"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Bougainvillier spectaculaire (Bougainvillea spectabilis) est un arbuste grimpant et épineux, originaire du Brésil, largement cultivé dans les régions chaudes du Maroc et ailleurs pour ses bractées très colorées qui entourent ses petites fleurs insignifiantes. Très apprécié pour son esthétisme, sa capacité à couvrir rapidement de grandes surfaces et sa robustesse, il est un élément décoratif emblématique des paysages méditerranéens et tropicaux. Il est connu pour sa floraison abondante et sa tolérance à la sécheresse.",
+    "texte_complet": {
+      "introduction": "Bougainvillea spectabilis, communément appelé Bougainvillier spectaculaire ou Fleur de papier, est une espèce de plante à fleurs de la famille des Nyctaginaceae. C'est un arbuste sarmenteux et épineux, originaire d'Amérique du Sud, plus spécifiquement du Brésil. Il est largement cultivé comme plante ornementale dans les régions tropicales et subtropicales du monde entier, y compris dans le bassin méditerranéen et au Maroc, en raison de ses bractées éclatantes et de sa croissance vigoureuse. Ses couleurs vives sont souvent confondues avec les fleurs elles-mêmes, qui sont en réalité petites et peu voyantes.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le Bougainvillier spectaculaire est un arbuste grimpant qui peut atteindre plusieurs mètres de hauteur et de largeur. Ses tiges sont ligneuses et munies de solides épines recourbées qui lui permettent de s'accrocher à des supports. Les feuilles sont simples, alternes, ovales à elliptiques, et d'un vert moyen. Ce qui est communément appelé 'fleurs' sont en réalité des bractées modifiées, grandes, minces et papyracées, qui entourent trois petites fleurs tubulaires et blanchâtres. Les bractées peuvent varier considérablement en couleur, allant du rose vif, du magenta, du violet, au rouge, à l'orange et au blanc, souvent avec des nuances panachées. La floraison est abondante et se produit la majeure partie de l'année dans les climats chauds.",
+          "children": []
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "Originaire des forêts tropicales et subtropicales du Brésil, Bougainvillea spectabilis s'est naturalisé dans de nombreuses régions du monde où le climat est chaud et ensoleillé. Il prospère dans des environnements où il bénéficie d'une chaleur intense et d'une bonne exposition au soleil. Au Maroc, il est très répandu dans les jardins, les parcs publics et comme plante ornementale le long des murs et des clôtures, notamment dans les villes côtières et les régions du sud.",
+          "children": []
+        },
+        {
+          "id": "culture_et_entretien",
+          "level": 1,
+          "title": "Culture et entretien",
+          "content": "Le Bougainvillier spectaculaire est une plante relativement facile à cultiver dans les climats adaptés. Il requiert un emplacement en plein soleil pour fleurir abondamment. Le sol doit être bien drainé et de préférence fertile, avec un pH légèrement acide à neutre. Bien qu'il tolère des périodes de sécheresse une fois établi, un arrosage modéré et régulier favorise une floraison continue. La taille est essentielle pour contrôler sa croissance vigoureuse, encourager la ramification et maintenir une forme esthétique. Il est résistant aux maladies et aux parasites, bien qu'il puisse être sujet à des attaques de pucerons ou de cochenilles dans certaines conditions. Il n'est pas rustique et ne supporte pas les gelées prolongées, ce qui limite sa culture en pleine terre aux zones où les hivers sont doux.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "Principalement cultivé pour ses qualités ornementales, le Bougainvillier spectaculaire est utilisé pour embellir les façades, créer des haies fleuries, couvrir des pergolas ou comme couvre-sol sur des talus. Dans certaines médecines traditionnelles, notamment en Amérique latine et en Asie, les feuilles et les fleurs de Bougainvillea spectabilis sont utilisées pour leurs propriétés prétendument anti-inflammatoires, antitussives et expectorantes, servant à traiter les affections respiratoires comme la toux, les maux de gorge et la bronchite.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/bougainvillea-spectabilis",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Bougainvillea_spectabilis"
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "117959",
+  "infos_generales": {
+    "nom_scientifique": "Malva sylvestris",
+    "nom_commun": "Mauve sylvestre",
+    "noms_darija": [
+      "Khobbiza",
+      "خبّيزة"
+    ],
+    "noms_alternatifs": [
+      "Grande Mauve",
+      "Mauve des bois",
+      "Mauve sauvage",
+      "Faux géranium",
+      "Mauve officinale"
+    ],
+    "famille": "Malvaceae",
+    "genre": "Malva"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/9ef825ff8902126e52b3e06e8efae2c66bed75a3",
+    "https://bs.plantnet.org/image/o/75c27385b2e3d8644a8d421c7123ce9a42ab810d"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, fertile",
+    "regions_origine": [
+      "Europe",
+      "Afrique du Nord",
+      "Asie de l'Ouest"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Type de plante": "Herbacée vivace",
+    "Hauteur": "Jusqu'à 1 mètre",
+    "Feuilles": "Alternes, palmatilobées, à long pétiole",
+    "Fleurs": "Rose-pourpre à violettes, à cinq pétales échancrés, avec des nervures plus foncées",
+    "Fruits": "Capsules aplaties en forme de fromage, composées de méricarpes",
+    "Période de floraison": "Mai à Septembre",
+    "Propriétés principales": "Riche en mucilages (adoucissant, émollient, anti-inflammatoire)"
+  },
+  "utilisations": {
+    "medicale": [
+      "Respiratoire",
+      "Dermatologique",
+      "Apaisant",
+      "Digestif",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Salade",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec",
+      "Fleurs coupées"
+    ]
+  },
+  "source_data": {
+    "resume": "La Grande Mauve (Malva sylvestris) est une plante herbacée vivace commune en Europe, Afrique du Nord et Asie. Reconnaissable à ses fleurs rose-pourpre et ses feuilles découpées, elle est très appréciée pour ses propriétés médicinales (apaisante, émolliente) et ses usages culinaires (feuilles et fleurs comestibles). Elle s'adapte à divers sols et préfère le plein soleil, faisant d'elle une plante facile à cultiver et polyvalente.",
+    "texte_complet": {
+      "introduction": "La Grande Mauve (Malva sylvestris L.), également appelée Mauve des bois, Mauve sauvage, Faux géranium ou Mauve officinale, est une espèce de plante herbacée vivace de la famille des Malvacées. On la rencontre en Europe, dans l'ouest de l'Asie et dans le nord de l'Afrique. C'est l'une des espèces de plantes les plus courantes des friches et bords de chemins en France. Elle est reconnaissable à ses fleurs rose-pourpre et à ses feuilles découpées.",
+      "sections": [
+        {
+          "id": "caracteristiques",
+          "level": 1,
+          "title": "Caractéristiques",
+          "content": "La Malva sylvestris est une plante herbacée annuelle, bisannuelle ou vivace selon le climat, atteignant jusqu'à un mètre de hauteur. Ses feuilles sont alternes, munies de longs pétioles, orbiculaires ou réniformes, palmatilobées, avec 5 à 7 lobes dentés. Les fleurs sont grandes, solitaires ou groupées par 2 à 6 à l'aisselle des feuilles. Elles ont 5 pétales échancrés, de couleur rose-pourpre à violette, avec des nervures plus foncées. Le fruit est un schizocarpe aplati, en forme de 'fromage', composé de 8 à 12 méricarpes contenant chacun une graine.",
+          "children": [
+            {
+              "id": "description",
+              "level": 2,
+              "title": "Description",
+              "content": "Typiquement, la plante forme une rosette basale de feuilles d'où émergent des tiges érigées ou couchées. Les racines sont pivotantes et profondes. La floraison a lieu de mai à septembre. Les fleurs sont hermaphrodites et entomogames.",
+              "children": []
+            },
+            {
+              "id": "habitat_et_repartition",
+              "level": 2,
+              "title": "Habitat et répartition",
+              "content": "La Grande Mauve est cosmopolite des régions tempérées de l'hémisphère nord. Elle est très commune en Europe, Afrique du Nord et Asie occidentale. On la trouve dans les friches, les bords de chemins, les prairies, les champs cultivés, et les jardins. Elle préfère les sols riches en nutriments et bien drainés, mais est très adaptable.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "La Grande Mauve est utilisée depuis l'Antiquité pour ses multiples propriétés. Elle est reconnue en phytothérapie et pour ses applications culinaires et ornementales.",
+          "children": [
+            {
+              "id": "ornemental",
+              "level": 2,
+              "title": "Ornemental",
+              "content": "Avec ses belles fleurs violettes, la Grande Mauve est souvent cultivée dans les jardins d'ornement, les massifs et les rocailles. Elle attire les pollinisateurs et peut être utilisée pour des compositions florales.",
+              "children": []
+            },
+            {
+              "id": "alimentaire",
+              "level": 2,
+              "title": "Alimentaire",
+              "content": "Les jeunes feuilles, les fleurs et les fruits immatures (appelés 'fromagettes') sont comestibles. Les feuilles peuvent être consommées crues en salade, cuites comme des épinards, ou ajoutées aux soupes pour leur propriété épaississante. Les fleurs décorent les plats et les salades. Les fruits ont un léger goût de noisette.",
+              "children": []
+            },
+            {
+              "id": "medicinal",
+              "level": 2,
+              "title": "Médicinal",
+              "content": "La Grande Mauve est riche en mucilages, des substances qui lui confèrent des propriétés émollientes, adoucissantes et anti-inflammatoires. Elle est traditionnellement utilisée pour soulager les irritations des voies respiratoires (toux, maux de gorge), les problèmes digestifs (constipation légère, irritations gastriques) et les affections cutanées (compresses pour les inflammations, abcès). Elle est aussi légèrement laxative.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "La Malva sylvestris est une plante robuste et facile à cultiver. Elle préfère une exposition en plein soleil ou à mi-ombre et un sol bien drainé, même pauvre. Elle se propage facilement par semis spontanés. Elle est tolérante à la sécheresse une fois établie et ne demande pas beaucoup d'entretien.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/malva-sylvestris",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Malva_sylvestris"
+    }
+  }
+}

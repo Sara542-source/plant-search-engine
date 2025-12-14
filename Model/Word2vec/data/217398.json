@@ -1,0 +1,105 @@
+{
+  "id": "217398",
+  "infos_generales": {
+    "nom_scientifique": "Olea europaea",
+    "nom_commun": "Olivier commun",
+    "noms_darija": [
+      "Zitoune",
+      "زيتون"
+    ],
+    "noms_alternatifs": [
+      "Olivier cultivé",
+      "Arbre à olives"
+    ],
+    "famille": "Oleaceae",
+    "genre": "Olea"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/de82f7f1a82590515b6c24c36fb52c0c745751d6",
+    "https://bs.plantnet.org/image/o/ea662532c01cd8256d64016e7bd2340009ef7a96",
+    "https://upload.wikimedia.org/wikipedia/commons/1/16/Olea_europaea_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-229.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Afrique du Nord"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "longévité": "Très longue (plusieurs siècles)",
+    "feuillage": "Persistant",
+    "fruit": "Olive (drupe)",
+    "symbole": "Paix, longévité, sagesse"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Tonique",
+      "Antiseptique",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique",
+      "Salade",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "L'Olivier (Olea europaea) est un arbre fruitier emblématique du Bassin méditerranéen, cultivé depuis l'Antiquité pour ses fruits, les olives, et l'huile qu'on en extrait. Symbole de paix et de longévité, il est parfaitement adapté aux climats secs et ensoleillés d'Afrique du Nord, y compris le Maroc. Son bois est précieux et son feuillage persistant lui confère une grande valeur ornementale. Il est également apprécié pour ses propriétés médicinales.",
+    "texte_complet": {
+      "introduction": "L'olivier (Olea europaea L.) est un petit arbre fruitier qui pousse sous les climats tempérés chauds, notamment le pourtour méditerranéen, où sa culture remonte à l'Antiquité. Il est apprécié pour ses fruits, les olives, qui sont consommées telles quelles ou transformées en huile d'olive, un pilier de l'alimentation méditerranéenne et un produit d'exportation majeur. C'est une espèce emblématique, symbole de paix et de longévité.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "L'olivier est un arbre à croissance lente, mais d'une grande longévité, pouvant atteindre plusieurs siècles, voire des millénaires. Son tronc est tortueux, crevassé et noueux, devenant de plus en plus large avec l'âge. Son écorce est grise et fissurée. Les feuilles sont persistantes, opposées, lancéolées, d'un vert grisâtre sur le dessus et argentées en dessous, couvertes de petits poils absorbants (écailles peltées) pour limiter l'évaporation. Les fleurs, petites et blanchâtres, sont regroupées en panicules axillaires. Elles sont hermaphrodites ou mâles, apparaissant au printemps. Le fruit est une drupe ovoïde appelée olive. Elle mûrit de l'été à l'automne, passant du vert au noir violacé, et contient un noyau dur.",
+          "children": []
+        },
+        {
+          "id": "varietes_et_sous_especes",
+          "level": 1,
+          "title": "Variétés et sous-espèces",
+          "content": "On distingue principalement deux sous-espèces : Olea europaea subsp. europaea (l'olivier cultivé) et Olea europaea subsp. sylvestris (l'oléastre ou olivier sauvage). De nombreuses variétés cultivées (cultivars) existent, adaptées à différentes régions et usages (olives de table, huile).",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "L'olivier préfère les sols calcaires, bien drainés, et un climat méditerranéen ensoleillé avec des étés chauds et secs et des hivers doux. Il est résistant à la sécheresse mais bénéficie d'un arrosage d'appoint pour une meilleure fructification. La taille est essentielle pour la production.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "L'olive est consommée après désamérisation. L'huile d'olive, extraite des fruits, est un élément fondamental de la cuisine méditerranéenne, utilisée pour la cuisson, les assaisonnements et la conservation. Les feuilles d'olivier sont utilisées en phytothérapie pour leurs propriétés hypotensives, diurétiques et antioxydantes. L'huile d'olive est également reconnue pour ses bienfaits cardiovasculaires. Le bois d'olivier, dur et dense, est très apprécié en ébénisterie, pour la sculpture et la fabrication d'objets artisanaux. L'olivier est un arbre ornemental très prisé pour son esthétique méditerranéenne et sa résistance, notamment dans les jardins secs ou les alignements.",
+          "children": []
+        },
+        {
+          "id": "symbolisme",
+          "level": 1,
+          "title": "Symbolisme",
+          "content": "L'olivier est un symbole fort dans de nombreuses cultures et religions. Il représente la paix, la longévité, la sagesse et la fertilité. La colombe de Noé ramène un rameau d'olivier.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/olea-europaea",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Olea_europaea"
+    }
+  }
+}
