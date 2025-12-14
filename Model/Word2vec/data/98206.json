@@ -1,0 +1,156 @@
+{
+  "id": "98206",
+  "infos_generales": {
+    "nom_scientifique": "Curcuma longa",
+    "nom_commun": "Curcuma",
+    "noms_darija": [
+      "Kharkoum",
+      "خرقوم"
+    ],
+    "noms_alternatifs": [
+      "Safran des Indes",
+      "Turmeric"
+    ],
+    "famille": "Zingiberaceae",
+    "genre": "Curcuma"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/95523b50239774e2b60e94607ed8226e2c709fd5",
+    "https://storage.googleapis.com/powop-assets/kew_profiles/Curcuma_longa_illustration_main_v3_fullsize.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Fréquent",
+    "luminosite": "Plein soleil",
+    "type_sol": "Riche, bien drainé, légèrement acide",
+    "regions_origine": [
+      "Asie du Sud-Est",
+      "Inde",
+      "Indonésie"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "rhizome_colore": "Orange intense",
+    "odeur": "Caractéristique, poivrée et terreuse",
+    "fleur_couleur": "Blanc-jaunâtre à rose",
+    "sensibilite_au_froid": "Gélif, nécessite des températures chaudes"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Anti-inflammatoire",
+      "Antiseptique",
+      "Tonique",
+      "Dermatologique",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Épice",
+      "Aromatique",
+      "Cuit",
+      "Infusion"
+    ],
+    "decoration": [
+      "Jardin",
+      "Intérieur"
+    ]
+  },
+  "source_data": {
+    "resume": "Le curcuma (Curcuma longa), aussi appelé safran des Indes, est une plante herbacée rhizomateuse de la famille des Zingibéracées, originaire d'Asie du Sud-Est. Principalement cultivé pour son rhizome, il est mondialement reconnu comme une épice majeure, un colorant naturel et un ingrédient clé en médecine traditionnelle et moderne pour ses puissantes propriétés anti-inflammatoires et antioxydantes. Il est un élément fondamental de la cuisine et de la pharmacopée ayurvédique, et son utilisation s'est répandue à travers le monde.",
+    "texte_complet": {
+      "introduction": "Le curcuma, connu sous le nom scientifique de *Curcuma longa*, est une plante herbacée vivace du genre Curcuma de la famille des Zingibéracées, qui comprend également le gingembre. Originaire d'Asie du Sud-Est, principalement de l'Inde et de l'Indonésie, il est cultivé pour son rhizome, partie souterraine de la tige, d'où est extraite l'épice du même nom. Cette épice est largement utilisée dans la cuisine, notamment indienne et asiatique, comme colorant et aromatisant, et est également très prisée en médecine traditionnelle pour ses nombreuses vertus médicinales.",
+      "sections": [
+        {
+          "id": "terminologie_et_etymologie",
+          "level": 1,
+          "title": "Terminologie et étymologie",
+          "content": "Le terme « curcuma » dérive de l'arabe « kurkum », qui désigne le safran. L'épithète spécifique « longa » vient du latin et signifie « longue », faisant probablement référence à la forme des feuilles ou des rhizomes. La plante est parfois surnommée « safran des Indes » en raison de sa couleur jaune vif, rappelant celle du safran, bien qu'ils soient botaniquement très différents.",
+          "children": []
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Curcuma longa est une plante vivace tropicale qui peut atteindre jusqu'à un mètre de hauteur. Elle se caractérise par un rhizome souterrain charnu, de couleur orange intense à l'intérieur, qui est la partie la plus valorisée. De ce rhizome émergent des tiges dressées portant de grandes feuilles allongées et elliptiques, de couleur vert clair. La floraison, moins courante en culture domestique, présente des épis floraux terminaux avec des bractées de couleur pâle à rosée, d'où émergent de petites fleurs jaunâtres.",
+          "children": [
+            {
+              "id": "le_rhizome",
+              "level": 2,
+              "title": "Le rhizome",
+              "content": "Le rhizome du curcuma est l'organe de stockage de la plante. Il est de forme cylindrique, ramifié, et possède une peau fine de couleur brunâtre. Sa chair interne est d'un orange profond, presque fluorescent, due à la présence de pigments appelés curcuminoïdes, dont la curcumine est le plus important. C'est cette partie qui est récoltée, lavée, bouillie, séchée puis réduite en poudre pour produire l'épice.",
+              "children": []
+            },
+            {
+              "id": "les_feuilles",
+              "level": 2,
+              "title": "Les feuilles",
+              "content": "Les feuilles du curcuma sont grandes, lancéolées et d'un vert vif. Elles poussent directement à partir du rhizome en touffes. Elles peuvent atteindre une longueur significative, ajoutant une touche ornementale à la plante. Elles sont caduques pendant la saison sèche ou froide.",
+              "children": []
+            },
+            {
+              "id": "les_fleurs",
+              "level": 2,
+              "title": "Les fleurs",
+              "content": "Les fleurs sont regroupées en un épi floral cylindrique porté par une hampe florale. Les bractées (feuilles modifiées) qui entourent les fleurs sont souvent plus voyantes que les fleurs elles-mêmes, affichant des teintes allant du blanc crème au rose violacé. Les fleurs sont petites, tubulaires et de couleur jaune pâle, souvent discrètes au milieu des bractées colorées.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le curcuma prospère dans les climats tropicaux et subtropicaux, nécessitant des températures chaudes et une humidité élevée. Il est généralement cultivé à partir de fragments de rhizomes plantés dans un sol riche, bien drainé et légèrement acide. La plante préfère une exposition en plein soleil, mais peut tolérer une légère mi-ombre dans les régions où le soleil est intense. L'arrosage doit être fréquent et régulier, surtout pendant la période de croissance, pour maintenir le sol constamment humide sans être gorgé d'eau. La récolte des rhizomes a lieu environ 7 à 10 mois après la plantation, une fois que les feuilles commencent à jaunir et à sécher.",
+          "children": []
+        },
+        {
+          "id": "composition_chimique",
+          "level": 1,
+          "title": "Composition chimique",
+          "content": "La richesse du curcuma réside dans sa composition chimique complexe, dominée par les curcuminoïdes, notamment la curcumine, la déméthoxycurcumine et la bisdéméthoxycurcumine. Ce sont ces composés polyphénoliques qui confèrent au curcuma sa couleur caractéristique et la plupart de ses propriétés biologiques. Le rhizome contient également des huiles essentielles (tumerones, zingibérène), des polysaccharides, des vitamines (C, B), des minéraux (fer, manganèse) et des fibres.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "Le curcuma est une plante aux multiples usages, allant de la gastronomie à la médecine, en passant par la teinture. Son rhizome est la partie la plus exploitée, utilisé frais, séché ou réduit en poudre.",
+          "children": [
+            {
+              "id": "en_cuisine",
+              "level": 2,
+              "title": "En cuisine",
+              "content": "Le curcuma est une épice fondamentale dans de nombreuses cuisines du monde, en particulier en Asie du Sud et du Sud-Est. Il est un ingrédient clé des currys indiens, apportant une couleur jaune-orangée vibrante et une saveur légèrement amère, poivrée et terreuse. Il est utilisé pour aromatiser et colorer riz, soupes, sauces, légumes, viandes et poissons. Il peut être utilisé en poudre ou frais, râpé, ajoutant une note parfumée distinctive.",
+              "children": []
+            },
+            {
+              "id": "en_medecine_traditionnelle",
+              "level": 2,
+              "title": "En médecine traditionnelle",
+              "content": "Depuis des milliers d'années, le curcuma est un pilier de la médecine ayurvédique et d'autres systèmes de médecine traditionnelle. Il est réputé pour ses propriétés anti-inflammatoires, antioxydantes, digestives, antiseptiques et hépatoprotectrices. Il est utilisé pour traiter une large gamme d'affections, notamment les troubles digestifs, les inflammations articulaires, les problèmes de peau, et comme tonique général pour le corps.",
+              "children": []
+            },
+            {
+              "id": "autres_usages",
+              "level": 2,
+              "title": "Autres usages",
+              "content": "Au-delà de ses utilisations culinaires et médicinales, le curcuma est également employé comme colorant naturel pour les textiles, notamment pour la soie, et parfois comme colorant alimentaire dans l'industrie. Son pigment stable est apprécié pour sa teinte dorée.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "production_et_commerce",
+          "level": 1,
+          "title": "Production et commerce",
+          "content": "L'Inde est de loin le premier producteur mondial de curcuma, suivie par d'autres pays d'Asie comme la Chine, le Bangladesh, la Thaïlande et l'Indonésie. La demande mondiale de curcuma a considérablement augmenté en raison de son utilisation croissante dans l'industrie alimentaire, nutraceutique et pharmaceutique, propulsée par l'intérêt croissant pour les produits naturels et leurs bienfaits pour la santé.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/curcuma-longa",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Curcuma_longa"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "204705",
+  "infos_generales": {
+    "nom_scientifique": "Aloe vera (L.) Burm.f.",
+    "nom_commun": "Aloe vera",
+    "noms_darija": [
+      "Sabbar",
+      "صبار"
+    ],
+    "noms_alternatifs": [
+      "Aloès",
+      "Aloès des Barbades",
+      "Aloès vulgaire"
+    ],
+    "famille": "Asphodelaceae",
+    "genre": "Aloe"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/170cc12d490078fc218c45d6ea2f76546b44d416",
+    "https://bs.plantnet.org/image/o/c7fe313538e137f5fda7e68bb14d2abb332da181",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aloe_vera_Lanzarote.jpg/1000px-Aloe_vera_Lanzarote.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Léger, bien drainé, sablonneux",
+    "regions_origine": [
+      "Péninsule arabique",
+      "Afrique du Nord (naturalisé)"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "feuilles": "Charnues, succulentes, vertes à gris-vert, avec des bords dentelés",
+    "gel_interne": "Gel translucide aux propriétés hydratantes et apaisantes",
+    "fleurs": "Jaunes ou orangées, tubulaires, regroupées en longues hampes florales",
+    "resistance_secheresse": "Très bonne"
+  },
+  "utilisations": {
+    "medicale": [
+      "Dermatologique",
+      "Digestif",
+      "Apaisant",
+      "Anti-inflammatoire",
+      "Antiseptique",
+      "Tonique",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Dessert",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Intérieur",
+      "Jardin",
+      "Jardin sec",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "L'Aloe vera est une plante succulente vivace originaire de la Péninsule arabique, largement cultivée et naturalisée dans les régions subtropicales, y compris au Maroc. Elle est reconnue mondialement pour ses feuilles charnues contenant un gel aux multiples propriétés médicinales et cosmétiques. Utilisée depuis l'Antiquité, elle est appréciée pour ses vertus apaisantes, hydratantes, cicatrisantes et anti-inflammatoires, ce qui en fait un ingrédient clé dans de nombreux produits de santé et de beauté.",
+    "texte_complet": {
+      "introduction": "L'Aloe vera (Aloe vera (L.) Burm.f., anciennement Aloe barbadensis Miller) est une espèce d'Aloès. Cette plante succulente sans tige (ou avec une tige très courte, jusqu'à 25 cm) est une vivace aux feuilles charnues et persistantes, disposées en rosette. Originaire de la péninsule arabique, l'Aloe vera est cultivée depuis l'Antiquité en Méditerranée, en Afrique du Nord, aux îles Canaries et au Cap-Vert. En tant que plante médicinale et cosmétique, elle est utilisée dans de nombreux produits de santé, de bien-être et de beauté. Le nom « aloès » vient du grec aloa désignant une plante amère, et vera (vrai) du latin.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "La plante est une succulente vivace, souvent considérée comme arbustive, atteignant 60 à 90 cm de hauteur et de largeur. Elle a une tige très courte, pouvant aller jusqu'à 25 cm, sur laquelle poussent des feuilles charnues, persistantes, disposées en rosette. Les feuilles sont vert clair à gris-vert, épaisses, lancéolées, dentelées sur les bords, et peuvent avoir des taches claires chez les jeunes plants. Elles sont riches en pulpe gélatineuse.\nLes fleurs sont tubulaires, jaunes ou orange, et apparaissent en été sur de longues hampes florales (tiges de fleurs) pouvant atteindre 90 cm de hauteur. Les fruits sont des capsules contenant des graines.",
+          "children": [
+            {
+              "id": "morphologie",
+              "level": 2,
+              "title": "Morphologie",
+              "content": "Les feuilles sont disposées en rosette basale. Elles sont charnues, vert bleuté, avec des épines molles sur les bords. La face supérieure est plate ou légèrement concave, tandis que la face inférieure est convexe. Elles sont pointues à l'extrémité et peuvent atteindre 40 à 50 cm de long sur 5 à 10 cm de large à la base. Chaque feuille est composée de trois couches : une écorce protectrice externe, une couche de sève jaune-verdâtre amère (latex) juste sous l'écorce (qui contient des anthraquinones laxatives), et un gel clair interne (parenchyme mucilagineux) qui constitue la partie la plus utilisée pour ses propriétés.",
+              "children": []
+            },
+            {
+              "id": "composition",
+              "level": 2,
+              "title": "Composition",
+              "content": "Le gel d'Aloe vera est composé à 98-99 % d'eau et contient plus de 75 composés actifs, notamment des vitamines (A, B, C, E), des minéraux (calcium, chrome, cuivre, fer, magnésium, manganèse, potassium, sodium, zinc), des acides aminés (essentiels et non essentiels), des enzymes (amylase, catalase, cellulase, lipase, oxydase, etc.), des sucres (monosaccharides et polysaccharides comme l'acemannan), des stérols végétaux, des saponines et des lignines. Les anthraquinones (aloïne, émodine) se trouvent principalement dans le latex jaune sous l'écorce et sont responsables de l'effet laxatif.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "L'Aloe vera est une plante facile à cultiver dans les climats chauds et secs. Elle préfère un sol bien drainé, sablonneux et une exposition en plein soleil. Elle est très tolérante à la sécheresse et ne nécessite que peu d'arrosage. En régions tempérées, elle est souvent cultivée en pot et rentrée à l'intérieur pendant l'hiver. La multiplication se fait par rejets qui poussent à la base de la plante mère.",
+          "children": [
+            {
+              "id": "maladies-et-parasites",
+              "level": 2,
+              "title": "Maladies et parasites",
+              "content": "L'Aloe vera est relativement résistante, mais peut être sujette à la pourriture des racines en cas d'excès d'eau. Les cochenilles et les pucerons peuvent parfois l'attaquer, surtout en culture intérieure.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "utilisation",
+          "level": 1,
+          "title": "Utilisation",
+          "content": "L'Aloe vera est largement reconnue et utilisée pour ses propriétés médicinales, cosmétiques et parfois alimentaires.",
+          "children": [
+            {
+              "id": "utilisation-medicinale-traditionnelle",
+              "level": 2,
+              "title": "Utilisation médicinale traditionnelle",
+              "content": "Historiquement, l'Aloe vera a été utilisée dans de nombreuses civilisations anciennes (Égyptiens, Grecs, Romains, Indiens, Chinois) pour ses vertus curatives. Les Égyptiens l'appelaient la « plante de l'immortalité » et l'utilisaient pour les soins de la peau et l'embaumement. Elle était réputée pour soigner les brûlures, les plaies, les troubles digestifs et comme laxatif.",
+              "children": [
+                {
+                  "id": "histoire-traditionnelle",
+                  "level": 3,
+                  "title": "Histoire",
+                  "content": "Les premières mentions écrites de l'Aloe vera remontent à l'Égypte antique (Papyrus d'Ebers, 1550 av. J.-C.) et aux Sumériens (tablettes d'argile, 2200 av. J.-C.). Alexandre le Grand aurait conquis l'île de Socotra pour s'assurer un approvisionnement en aloès afin de soigner ses soldats. Dioscoride et Pline l'Ancien ont également décrit ses usages médicinaux dans leurs ouvrages.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "usage-medicinal-moderne",
+              "level": 2,
+              "title": "Usage médicinal moderne",
+              "content": "Aujourd'hui, le gel d'Aloe vera est principalement utilisé en topique pour apaiser les brûlures mineures, les coups de soleil, les irritations cutanées, les piqûres d'insectes, et pour favoriser la cicatrisation des plaies. Ses propriétés anti-inflammatoires, antiseptiques et régénératrices sont reconnues. Le latex d'aloès (jus jaune) est utilisé comme laxatif puissant, mais sa consommation doit être contrôlée en raison de possibles effets secondaires.",
+              "children": []
+            },
+            {
+              "id": "utilisation-cosmetique",
+              "level": 2,
+              "title": "Utilisation cosmétique",
+              "content": "Grâce à ses propriétés hydratantes, apaisantes et régénératrices, l'Aloe vera est un ingrédient très populaire dans les produits cosmétiques : crèmes, lotions, gels douche, shampooings, masques capillaires. Il aide à maintenir l'élasticité de la peau, à hydrater et à calmer les peaux sensibles ou irritées.",
+              "children": []
+            },
+            {
+              "id": "utilisation-alimentaire",
+              "level": 2,
+              "title": "Utilisation alimentaire",
+              "content": "Le gel d'Aloe vera, une fois la couche externe et le latex retirés, peut être consommé. Il est parfois ajouté aux jus de fruits, aux boissons détox, aux yaourts ou aux salades pour ses bienfaits nutritionnels et son goût légèrement amer. Il est riche en vitamines, minéraux et antioxydants. Toutefois, l'ingestion de la plante brute avec le latex peut provoquer des troubles digestifs.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "statut-taxonomique-et-historique",
+          "level": 1,
+          "title": "Statut taxonomique et historique",
+          "content": "L'Aloe vera a été décrite pour la première fois par Carl Linnaeus en 1753 sous le nom de Aloe perfoliata var. vera. Plus tard, Nicholas Laurens Burman l'a reclassée comme Aloe vera en 1768. Son histoire taxonomique est complexe, ayant été attribuée à différentes familles avant d'être finalement placée dans les Asphodelaceae.",
+          "children": [
+            {
+              "id": "historique-taxonomique",
+              "level": 2,
+              "title": "Historique",
+              "content": "La première description botanique de l'Aloe vera sous son nom actuel par Nicholas Laurens Burman date de 1768 dans son ouvrage « Flora Indica ». Cependant, l'utilisation de la plante est bien plus ancienne, comme en témoignent les écrits égyptiens, grecs et romains.",
+              "children": []
+            },
+            {
+              "id": "synonymes",
+              "level": 2,
+              "title": "Synonymes",
+              "content": "Parmi les synonymes botaniques de l'Aloe vera, on trouve Aloe barbadensis Mill., Aloe indica Royle, Aloe perfoliata L. var. vera L., Aloe vulgaris Lam. et d'autres. Cette multiplicité de noms reflète la longue histoire de son étude et de sa classification.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/aloe-vera",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Aloe_vera"
+    }
+  }
+}

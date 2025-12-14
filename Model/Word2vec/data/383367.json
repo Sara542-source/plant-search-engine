@@ -1,0 +1,96 @@
+{
+  "id": "383367",
+  "infos_generales": {
+    "nom_scientifique": "Artemisia herba-alba Asso",
+    "nom_commun": "Armoise herbe blanche",
+    "noms_darija": [
+      "Chih",
+      "الشيح"
+    ],
+    "noms_alternatifs": [
+      "Absinthe blanche du désert",
+      "Armoise du désert"
+    ],
+    "famille": "Asteraceae",
+    "genre": "Artemisia"
+  },
+  "galerie_images": [
+    "https://fr.wikipedia.org/wiki/Armoise_herbe_blanche#/media/Fichier:Artemisa_herba_alba_floratrek2013.jpg",
+    "https://fr.wikipedia.org/wiki/Armoise_herbe_blanche#/media/Fichier:Artemisia_absinthium_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-164.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Sec, rocailleux, pauvre, bien drainé",
+    "regions_origine": [
+      "Afrique du Nord",
+      "Bassin méditerranéen",
+      "Moyen-Orient",
+      "Maroc"
+    ],
+    "toxicite": true
+  },
+  "attributs_specifiques": {
+    "odeur": "Aromatique puissante, caractéristique",
+    "feuillage": "Argenté-blanc, duveteux",
+    "resistance_climatique": "Très résistante à la sécheresse et aux températures extrêmes",
+    "habitat_preferentiel": "Steppes, zones semi-désertiques"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Respiratoire",
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Apaisant",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "L'Armoise herbe blanche (Artemisia herba-alba) est une plante aromatique et médicinale emblématique des régions arides et semi-arides d'Afrique du Nord et du Moyen-Orient. Reconnaissable à son feuillage argenté et son odeur puissante, elle est très prisée en médecine traditionnelle pour ses nombreuses vertus, notamment digestives et respiratoires. Sa capacité à prospérer dans des environnements secs en fait une plante robuste et polyvalente.",
+    "texte_complet": {
+      "introduction": "L'Armoise herbe blanche (Artemisia herba-alba) est une espèce de plante à fleurs de la famille des Astéracées. C'est une plante aromatique et médicinale, très répandue dans les régions arides et semi-arides du bassin méditerranéen, notamment en Afrique du Nord et au Moyen-Orient. Elle est reconnue pour ses feuilles argentées et son odeur caractéristique. Elle est également connue sous le nom de « Chih » dans les pays du Maghreb.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "L'Artemisia herba-alba est un sous-arbrisseau vivace, atteignant généralement 20 à 60 cm de hauteur, très ramifié. Ses tiges sont ligneuses à la base et herbacées au sommet. Les feuilles sont alternes, sessiles, très divisées (pennatiséquées), et sont recouvertes d'un dense duvet soyeux qui leur confère une couleur blanc argenté, d'où l'appellation « herbe blanche ». Cette pilosité est une adaptation à la sécheresse, réduisant la transpiration et protégeant la plante des fortes radiations solaires. Les fleurs sont petites, de couleur jaunâtre, regroupées en capitules globuleux qui sont eux-mêmes disposés en panicules feuillées. La floraison a lieu principalement en automne, de septembre à novembre. Le fruit est un akène, une petite graine sèche.",
+          "children": []
+        },
+        {
+          "id": "habitat-et-repartition",
+          "level": 1,
+          "title": "Habitat et répartition",
+          "content": "L'Armoise herbe blanche est une espèce xérophile, c'est-à-dire qu'elle est adaptée aux environnements secs. Elle pousse naturellement sur des sols arides, rocailleux, sableux ou limoneux, souvent dégradés ou salés, et dans des conditions de forte insolation. On la trouve typiquement dans les steppes, les déserts et les zones semi-désertiques. Sa répartition géographique s'étend sur une vaste aire, couvrant le pourtour méditerranéen : de l'Espagne au Moyen-Orient, en passant par l'Afrique du Nord (Maroc, Algérie, Tunisie, Libye, Égypte). Au Maroc, elle est très répandue dans les zones de plateaux et de montagnes arides, où elle constitue une composante importante des écosystèmes steppiques.",
+          "children": []
+        },
+        {
+          "id": "usages-traditionnels-et-proprietes",
+          "level": 1,
+          "title": "Usages traditionnels et propriétés",
+          "content": "Cette plante est très appréciée et largement utilisée en médecine traditionnelle dans les régions où elle pousse. Elle est réputée pour ses nombreuses propriétés médicinales : antispasmodique, digestive, antiseptique, fébrifuge (contre la fièvre), anti-inflammatoire et vermifuge. En Afrique du Nord, l'infusion de feuilles et de sommités fleuries d'Armoise herbe blanche est une boisson courante, consommée pour soulager les troubles digestifs (maux d'estomac, ballonnements), les affections respiratoires (rhume, toux, bronchite), et pour ses effets toniques généraux. Des études scientifiques modernes ont également commencé à explorer ses potentiels antidiabétiques, antioxydants et antimicrobiens, validant certaines de ses utilisations traditionnelles. La plante est parfois utilisée pour aromatiser certains plats ou thés, bien que son amertume et sa forte odeur limitent son usage culinaire direct à des préparations spécifiques.",
+          "children": []
+        },
+        {
+          "id": "principes-actifs-et-toxicite",
+          "level": 1,
+          "title": "Principes actifs et toxicité",
+          "content": "L'Artemisia herba-alba est riche en composés phytochimiques, en particulier en huiles essentielles. Les principaux composants identifiés dans ces huiles sont la thuyone, le camphre, le 1,8-cinéole et le chrysanténone, dont les proportions peuvent varier en fonction de l'origine géographique et des conditions environnementales. Elle contient également des flavonoïdes, des coumarines, et des lactones sesquiterpéniques. La thuyone est un composé reconnu pour ses propriétés neurotoxiques à des doses élevées, ce qui impose une utilisation prudente de la plante, surtout sous forme d'extraits concentrés. Une consommation excessive ou prolongée peut entraîner des effets indésirables. Il est toujours recommandé de consulter un professionnel de santé pour une utilisation thérapeutique.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/artemisia-sieberi",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Artemisia_herba-alba"
+    }
+  }
+}

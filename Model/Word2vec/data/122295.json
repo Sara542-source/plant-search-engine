@@ -1,0 +1,128 @@
+{
+  "id": "122295",
+  "infos_generales": {
+    "nom_scientifique": "Ruta graveolens",
+    "nom_commun": "Rue officinale",
+    "noms_darija": [
+      "Fijel",
+      "فيجل",
+      "Sadab",
+      "سذاب"
+    ],
+    "noms_alternatifs": [
+      "Rue des jardins",
+      "Herbe de grâce",
+      "Péganium"
+    ],
+    "famille": "Rutaceae",
+    "genre": "Ruta"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/64b12cb0e496fd0e77e96eb8091f5d531fb377ae",
+    "https://d2seqvvyy3b8p2.cloudfront.net/9b2ae347cabe4dc23b2add27bb4491ac.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/48/Ruta_graveolens_jfg.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Sud de l'Europe",
+      "Afrique du Nord"
+    ],
+    "toxicite": true
+  },
+  "attributs_specifiques": {
+    "odeur": "Forte et caractéristique",
+    "floraison": "Printemps-Été",
+    "couleur_fleurs": "Jaune verdâtre",
+    "type_plante": "Sous-arbrisseau",
+    "hauteur": "30-100 cm",
+    "resistance_froid": "Bonne"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Apaisant",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [
+      "Aromatique",
+      "Épice"
+    ],
+    "decoration": [
+      "Jardin",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "La rue officinale (Ruta graveolens) est un sous-arbrisseau aromatique et médicinal de la famille des Rutacées, originaire du bassin méditerranéen. Appréciée pour son odeur distinctive et ses feuilles bleutées, elle est aussi reconnue pour sa forte toxicité, notamment ses propriétés phototoxiques et abortives. Utilisée avec parcimonie en cuisine comme aromate et traditionnellement en médecine pour ses effets digestifs ou apaisants, elle doit être manipulée avec prudence en raison de ses composés chimiques puissants.",
+    "texte_complet": {
+      "introduction": "La rue officinale (Ruta graveolens L.) est une plante dicotylédone de la famille des Rutacées, cultivée comme plante médicinale et aromatique. Elle est parfois appelée rue des jardins, herbe de grâce ou péganium. Elle est originaire du sud de l'Europe. La plante est connue pour son odeur forte et caractéristique, ainsi que pour ses propriétés médicinales traditionnelles et sa toxicité. Elle est largement utilisée dans la médecine traditionnelle de différentes cultures, y compris dans le bassin méditerranéen.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "La rue officinale est un sous-arbrisseau à tige ligneuse, atteignant 30 à 100 cm de haut. Ses feuilles sont alternes, bipennatiséquées ou tripennatiséquées, d'un vert bleuté, avec des glandes translucides. Froissées, elles dégagent une odeur puissante et âcre, caractéristique. Les fleurs sont petites, de couleur jaune verdâtre, groupées en corymbes, et apparaissent de juin à septembre. Elles sont composées de quatre ou cinq pétales concaves. Le fruit est une capsule lobée contenant de petites graines noires.",
+          "children": []
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "Originaire de l'Europe méridionale, la rue officinale est naturalisée et cultivée dans de nombreuses régions du monde, notamment en Afrique du Nord, au Proche-Orient et en Amérique. Elle préfère les sols secs, bien drainés et en plein soleil, supportant bien la sécheresse et les sols pauvres. On la trouve souvent sur les coteaux pierreux, les talus et dans les jardins méditerranéens.",
+          "children": []
+        },
+        {
+          "id": "composition",
+          "level": 1,
+          "title": "Composition",
+          "content": "La rue officinale contient de nombreux composés chimiques actifs, notamment des alcaloïdes (acridone, furosyl, quinoline), des coumarines (bergaptène, psoralène, xanthotoxine), des flavonoïdes (rutine), des huiles essentielles (méthyl nonyl cétone, undécanone) et des furocoumarines. Ces composés sont responsables de ses propriétés médicinales et de sa toxicité. Les furocoumarines sont notamment photoactives et peuvent provoquer des réactions cutanées au soleil.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "La rue officinale a une longue histoire d'utilisation dans la médecine traditionnelle et en cuisine, bien que sa toxicité nécessite une grande prudence.",
+          "children": [
+            {
+              "id": "usages_medicinaux",
+              "level": 2,
+              "title": "Usages médicinaux",
+              "content": "Traditionnellement, la rue est employée pour ses propriétés antispasmodiques, emménagogues, digestives, sédatives et anti-inflammatoires. Elle était utilisée pour traiter les douleurs menstruelles, les troubles digestifs, les rhumatismes et comme abortif. Cependant, en raison de sa toxicité potentielle et de ses effets secondaires, son usage interne est aujourd'hui fortement déconseillé et doit être supervisé par un professionnel de la santé. Externement, elle est parfois utilisée pour les affections cutanées, mais avec prudence en raison des risques de phototoxicité.",
+              "children": []
+            },
+            {
+              "id": "usages_culinaires",
+              "level": 2,
+              "title": "Usages culinaires",
+              "content": "Dans certaines cuisines méditerranéennes et du Moyen-Orient, de petites quantités de feuilles de rue sont utilisées comme aromate pour parfumer les salades, les fromages, les boissons ou les plats de viande. Son goût est amer et puissant, et elle doit être utilisée avec parcimonie. Elle est également un ingrédient de certaines liqueurs ou eaux-de-vie traditionnelles.",
+              "children": []
+            },
+            {
+              "id": "autres_usages",
+              "level": 2,
+              "title": "Autres usages",
+              "content": "La rue est connue comme plante répulsive contre certains insectes et parasites. Elle est parfois plantée dans les jardins pour éloigner les chats ou certains ravageurs. Historiquement, elle était aussi utilisée comme porte-bonheur ou pour la protection dans certaines cultures.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "toxicite",
+          "level": 1,
+          "title": "Toxicité",
+          "content": "La rue officinale est une plante toxique. Elle contient des furocoumarines, notamment le psoralène et le bergaptène, qui peuvent provoquer une phototoxicité cutanée (phytophotodermatite) se manifestant par des brûlures, des cloques et des irritations après contact avec la plante et exposition au soleil. L'ingestion de grandes quantités peut entraîner des nausées, vomissements, douleurs abdominales, troubles neurologiques, hémorragies et peut être mortelle. Elle est également abortive et emménagogue. Il est crucial d'éviter tout contact direct et ingestion sans avis médical.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/ruta-graveolens",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Ruta_graveolens"
+    }
+  }
+}

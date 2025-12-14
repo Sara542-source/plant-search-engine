@@ -1,0 +1,188 @@
+{
+  "id": "rosmarinus-officinalis",
+  "infos_generales": {
+    "nom_scientifique": "Salvia rosmarinus",
+    "nom_commun": "Romarin",
+    "noms_darija": [
+      "Azir",
+      "أزير",
+      "Iklil Aljabal",
+      "إكليل الجبل"
+    ],
+    "noms_alternatifs": [
+      "Rosmarinus officinalis (Synonyme)",
+      "Rosée de mer",
+      "Herbe-aux-couronnes",
+      "Encensier"
+    ],
+    "famille": "Lamiaceae",
+    "genre": "Salvia"
+  },
+  "galerie_images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rosmarinus_officinalis_in_Monaco.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/23/Rosemary_flower_close_up.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/52/Rosmarinus_officinalis_%27Prostratus%27.JPG"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Calcaire et bien drainé",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Maroc",
+      "Tunisie",
+      "Algérie",
+      "Espagne",
+      "Italie",
+      "France",
+      "Portugal"
+    ],
+    "toxicite": true
+  },
+  "attributs_specifiques": {
+    "feuillage": "Persistant, coriace, vert sombre luisant sur le dessus, blanchâtres en dessous, bords enroulés",
+    "odeur": "Très camphrée, évoquant l'encens",
+    "taille_maximale": "Jusqu'à 1,50 m (2 m en culture)",
+    "floraison": "Février à mai, fleurs bleu pâle au violet (existe en blanc)"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Antiseptique",
+      "Tonique",
+      "Respiratoire",
+      "Dermatologique",
+      "Apaisant",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique",
+      "Dessert"
+    ],
+    "decoration": [
+      "Jardin",
+      "Haie",
+      "Couvre-sol",
+      "Intérieur",
+      "Balcon",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Romarin (*Salvia rosmarinus*, anciennement *Rosmarinus officinalis*) est un arbrisseau aromatique typique du bassin méditerranéen, poussant dans les garrigues arides. Cultivé à grande échelle, notamment au Maroc, il est recherché pour ses usages culinaires, en parfumerie, et en phytothérapie. Ses feuilles persistantes sont utilisées comme aromate (grillades, infusions, desserts). Ses vertus médicinales incluent des effets cholérétiques (digestifs), antibactériens, antispasmodiques, toniques pour le système nerveux et stimulateurs de la circulation. Ses agents actifs principaux comprennent le 1,8 cinéole et l'acide carnosique. Il est apprécié en décoration pour son feuillage et ses fleurs bleues. L'huile essentielle pure présente des risques neurotoxiques et est déconseillée aux femmes enceintes ou allaitantes.",
+    "texte_complet": {
+      "metadata": {
+        "extracted_date": "2025-12-03",
+        "total_sections": 5,
+        "max_depth": 3
+      },
+      "introduction": "Le Romarin, Salvia rosmarinus, est une espèce de plantes à fleurs de la famille des Lamiacées (ou Labiées). C'est un arbrisseau poussant à l'état sauvage sur le pourtour méditerranéen, en particulier dans les garrigues arides et rocailleuses, sur terrains calcaires. Aussi connu sous le nom de Rosmarinus officinalis, ce nom est devenu synonyme quand l'espèce a été reclassée, en 2017, dans le genre Salvia. Fraîche ou séchée, cette herbe condimentaire fait partie de la cuisine méditerranéenne, et une variété se cultive dans les jardins. C'est une plante mellifère ; le miel de romarin, ou « miel de Narbonne » est réputé. C'est également un produit fréquemment utilisé en parfumerie. Enfin, diverses vertus phytothérapeutiques ont été étudiées. Le nom « romarin » viendrait du latin « ros marinus » (rosée de mer), ou bien du grec « rhops myrinos » (buisson aromatique), ou encore du latin « rhus marinus » (sumac de mer). On l'appelle également « herbe-aux-couronnes », et en provençal, « encensier ». Le romarin est une des plantes recommandées dans les domaines royaux par Charlemagne dans le capitulaire De Villis (fin du VIIIe ou début du IXe siècle).",
+      "sections": [
+        {
+          "id": "caracteristiques",
+          "level": 1,
+          "title": "Caractéristiques",
+          "content": "",
+          "children": [
+            {
+              "id": "description",
+              "level": 2,
+              "title": "Description",
+              "content": "Le romarin peut atteindre jusqu'à 1,50 m de hauteur, voire jusqu'à 2 m en culture. Il est reconnaissable en toute saison à ses feuilles persistantes sans pétiole, coriaces, beaucoup plus longues que larges, aux bords légèrement enroulés, vert sombre luisant sur le dessus, blanchâtres en dessous. Leur odeur, très camphrée, évoque aussi l'encens d'où il doit son nom « encensier » en provençal. La floraison commence dès le mois de février, parfois en janvier, et se poursuit jusqu'en avril-mai. Certaines variétés peuvent fleurir une deuxième fois en début d'automne. La couleur des fleurs, qui se présentent en grappes assez semblables à des épis, varie du bleu pâle au violet. On trouve également, mais plus rarement, la variété à fleurs blanches R. officinalis albiflorus. Leur calice est velu, à dents bordées de blanc. Elles portent deux étamines ayant une petite dent vers leur base. La lèvre inférieure de la corolle est profondément divisée, faisant penser au labelle de certaines orchidées. Comme pour la plupart des Lamiacées, le fruit est un tétrakène. Ce dernier est de couleur brune."
+            },
+            {
+              "id": "repartition_et_habitat",
+              "level": 2,
+              "title": "Répartition et habitat",
+              "content": "Le romarin est originaire du bassin méditerranéen. On le trouve principalement dans les terrains arides et ensoleillés, comme les garrigues, les maquis et les rocailles. Il n'apprécie pas une sécheresse trop importante mais se contente de l'humidité du littoral, d'où il pourrait tenir son nom (« rosée de mer » en latin). Il est répandu entre le niveau de la mer et 650 mètres, parfois jusqu'à 1 500 mètres d'altitude."
+            },
+            {
+              "id": "statuts_de_protection",
+              "level": 2,
+              "title": "Statuts de protection",
+              "content": "L'espèce n'est pas considérée comme étant menacée en France. Elle est classée Espèce de préoccupation mineure (LC) par l'UICN."
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le romarin se cultive dans un endroit ensoleillé, dans un sol calcaire et bien drainé. Bien que ce soit une plante aimant les climats chauds, il supporte les gelées si le sol ne conserve pas l'humidité. Idéalement, ce dernier doit avoir un pH compris entre 7 et 7,5. Une légère taille au printemps après sa floraison peut contribuer à lui conserver une forme harmonieuse. Son feuillage persistant et sa tenue rendent propice l'utilisation de certaines variétés touffues à une utilisation en topiaire. Il se multiplie facilement au printemps ou à l'automne par bouturage ou marcottage ; plus difficilement en été par semis car sa germination est lente. Le romarin est assez résistant aux nuisibles : il craint toutefois le rhizoctone brun en cas d'humidité trop importante. Sa zone de rusticité se situe entre 8 et 10.",
+          "children": [
+            {
+              "id": "production_mondiale",
+              "level": 2,
+              "title": "Production mondiale",
+              "content": "Rosmarinus officinalis prostratus (Romarin \"Prostratus\"). Le romarin est cultivé à large échelle en Espagne, en Tunisie, au Maroc, en Italie, en France, en Algérie et au Portugal, principalement pour en extraire de l'huile essentielle. La production mondiale d'huile essentielle de romarin atteint 200 à 300 tonnes en 2005. En Inde, la CIMAP (Central Institute of Medicinal and Aromatic Plants) a introduit la production de romarin à la fin des années 80, qui s'est développée au cours des années 90. Cette production est concentrée dans le sud, dans les Nîlgîri et autour de Bangalore."
+            }
+          ]
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "",
+          "children": [
+            {
+              "id": "gastronomie",
+              "level": 2,
+              "title": "Gastronomie",
+              "content": "Les branches feuillues de romarin s'utilisent de préférence fraîches, mais peuvent également se conserver séchées. Les fleurs ont une saveur plus douce et se consomment crues, saupoudrées pour parfumer un plat ou un dessert. Les branches s'emploient généralement comme aromate par infusion dans les ragoûts, les civets, les soupes et les sauces. Le romarin est également utilisé pour parfumer les grillades. Quelques branches sont alors utilisées dans la confection d'une marinade ou une branche comme pinceau pour enduire la pièce à griller de marinade. Il est également possible de fumer la viande ou le poisson en déposant quelques branches sur les charbons, ou en petite quantité dans un fumoir. On peut enfin se servir de branches pour embrocher des légumes avant leur cuisson. Plus audacieux, le romarin est parfois utilisé en infusion pour parfumer des desserts comme les flans, les crèmes ou certaines confitures."
+            },
+            {
+              "id": "parfumerie",
+              "level": 2,
+              "title": "Parfumerie",
+              "content": "L'utilisation du romarin en parfumerie est très ancienne. Le premier parfum alcoolique dont on connaisse l'existence est l'eau de Hongrie, alcoolat fréquemment utilisé au XVIIe siècle et qui pourrait dater du XIVe siècle, dont le romarin était l'un des principaux composants. L'essence est obtenue par la distillation des branches, de préférence en n'utilisant que les sommités fleuries. Elle contient notamment du bornéol, du 1,8 cinéol (ou eucalyptol), du camphène et du pinène. Le romarin entre dans la composition de parfums surtout masculins, hespéridés aromatiques (eaux de Cologne), boisés et fougères aromatiques."
+            },
+            {
+              "id": "medecine_et_phytotherapie",
+              "level": 2,
+              "title": "Médecine et phytothérapie",
+              "content": "",
+              "children": [
+                {
+                  "id": "agents_actifs",
+                  "level": 3,
+                  "title": "Agents actifs",
+                  "content": "La plante contient plusieurs agents actifs parmi lesquels : Huiles essentielles : 1,8 cinéole, alpha-pinène, camphre de romarin, bornéol, camphène. Flavonoïdes : lutéoline, apigénine, quercétine, diosmine. Diterpènes : acide carnosique, rosmadial. Triterpènes et stéroïdes : acide oléanolique, acide ursolique. Tanins, Lipides : n-alcanes, isolalcanes, alcènes. Rosmaricine, Acide rosmarinique."
+                },
+                {
+                  "id": "effets",
+                  "level": 3,
+                  "title": "Effets",
+                  "content": "Le romarin fut longtemps utilisé empiriquement en phytothérapie. Le miel de romarin, aussi appelé « Miel de Narbonne » était un des multiples constituants de la thériaque de la pharmacopée maritime occidentale au XVIIIe siècle. Des études modernes montrent les effets du romarin : cholérétique et hépatoprotecteur - le romarin a longtemps été utilisé empiriquement comme agent hépatoprotecteur et cholérétique. Ces effets ont été montrés expérimentalement. Le romarin permet donc d'activer les fonctions digestives, en particulier le travail de la vésicule biliaire ; antimycosique et antibactérien - les substances du romarin limitent le développement de certains agents pathogènes ; effets sur le système nerveux - l'administration d'huile de romarin, à la fois par inhalation et par voie orale, stimule l'activité du système nerveux central, respiratoire et locomotrice chez la souris. L'extrait alcoolique de R. officinalis a montré une activité antidépressive sur la nage forcée et les tests d'immobilité de la souris. Le romarin serait donc recommandé pour traiter les divers cas d'asthénie ; effets sur la circulation sanguine - l'utilisation d'huile de romarin dans un bain stimule la circulation dermique et améliore l'hémodynamique pour les problèmes d'occlusion artérielle ; effets sur les muscles lisses - l'huile ou l'extrait aqueux de feuilles permettent d'inhiber certaines contractions induites chez les lapins et les cochons d'Inde. Le romarin aurait donc des effets antispasmodiques ; antitumorigénique et antioxydant - de nombreuses études indiquent que le romarin permettrait de prévenir et de limiter la progression de certains types de cancers ; antibactérienne - l'huile essentielle de romarin à cinéole permet de lutter contre le rhume, bronchites et sinusites ; anticoagulante - les extraits de la plante ont des activités anticoagulantes qui peuvent diminuer le risque de la formation de caillots dans les vaisseaux sanguins."
+                },
+                {
+                  "id": "risques",
+                  "level": 3,
+                  "title": "Risques",
+                  "content": "L'huile essentielle de romarin peut avoir des effets neurotoxiques, déclencher convulsions et crises d'épilepsie. Par voie orale, et à part l'utilisation en cuisine, il est déconseillé aux femmes enceintes ou allaitantes."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "varietes",
+          "level": 1,
+          "title": "Variétés",
+          "content": "On dénombre plus de 150 variétés de romarin. Elles se différencient par leur taille maximale (d'une dizaine de centimètres à deux mètres), leur tenue (vertical ou rampant), la couleur de leurs fleurs (violettes, bleues, blanches, roses) et de leurs feuilles, leur rusticité... Rosmarinus officinalis Alba ou Albus (Romarin à fleurs blanches) a des fleurs et bourgeons blancs. Rosmarinus officinalis Arp (Romarin \"Arp\") supporte particulièrement bien le froid (zones 6 à 10) et ses feuilles ont une odeur citronnée. Rosmarinus officinalis Athens Blue Spire (Romarin \"Athens Blue Spire\") a un feuillage dense et un arôme puissant. Rosmarinus officinalis Barbeque (Romarin \"Barbeque\") a des tiges bien droites, adaptées à l'usage des tiges comme brochettes. Rosmarinus officinalis Bennenden Blue (Romarin \"Bennenden Blue\") a de grandes fleurs bleu-ciel, feuilles étroites et foncées. Rosmarinus officinalis Blaulippe (Romarin \"Blaulippe\") est un buisson compact, avec des fleurs bleu tirant sur le violet, sensible au froid. Rosmarinus officinalis Blue Lagoon (Romarin \"Blue Lagoon\") est un buisson compact avec de petites fleurs bleues. Rosmarinus officinalis Corsican Blue (Romarin \"Corsican Blue\") est rampant, avec des fleurs bleu soutenu. Rosmarinus officinalis Fota Blue (Romarin \"Fota Blue\") a des fleurs bleu foncé soutenu et un feuillage vert foncé. Rosmarinus officinalis Gorizia (Romarin \"Gorizia\") a de grandes feuilles et grandes fleurs bleues, avec une saveur légèrement épicée rappelant le gingembre. Rosmarinus officinalis Haifa (Romarin \"Haifa\") est rampant, petit et fragile, adapté à la culture en pot en intérieur. Rosmarinus officinalis Jackmann's Blue (Romarin \"Jackmann's Blue\") a des fleurs bleu ciel et est retombant. Rosmarinus officinalis Miss Jessop's Upright (Romarin \"Miss Jessop's Upright\") a une croissance verticale, utilisé comme haie. Rosmarinus officinalis Pinkie (Romarin \"Pinkie\") a des fleurs roses, feuilles courtes et ternes. Rosmarinus officinalis Primley Blue (Romarin \"Primley Blue\") est non détaillé. Rosmarinus officinalis Prostratus (Romarin \"Prostratus\") a des feuilles brillantes et croit en s'étalant, adapté aux topiaires. Rosmarinus officinalis Roseus (Romarin \"Roseus\") a des fleurs roses. Rosmarinus officinalis Salem est non détaillé. Rosmarinus officinalis Severn Sea (Romarin \"Severn Sea\") a des branches retombantes et des fleurs bleues tendant vers le violet. Rosmarinus officinalis Sudbury Blue (Romarin \"Sudbury Blue\") a des feuilles bleu-vert et des fleurs bleues. Rosmarinus officinalis Tarentinus (Romarin \"Tarentinus\") est buissonnant, avec des fleurs bleu pâle à violettes. Rosmarinus officinalis Tuscan Blue (Romarin \"Tuscan Blue\") a une croissance rapide (jusqu'à 2 mètres), des fleurs bleu foncé, des feuilles bleu-vert foncé et brillantes, et un arôme apprécié pour la cuisine. Rosmarinus officinalis Vicomte de Noailles est non détaillé. Rosmarinus officinalis f. repandens (Romarin retombant) est non détaillé. Rosmarinus officinalis Lavandulaceus (Romarin \"Lavandulaceus\") est une petite plante rampante, avec des fleurs violettes."
+        },
+        {
+          "id": "legendes",
+          "level": 1,
+          "title": "Légendes",
+          "content": "Selon une légende, le romarin était à l'origine une plante à fleurs blanches. Avant de donner naissance à l'enfant Jésus, Marie, aurait déposé sa cape de couleur bleue sur un romarin planté devant l'étable. La cape aurait déteint sur l'arbrisseau et c'est ainsi que, depuis, le romarin fleurit bleu."
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/species/rosmarinus-officinalis",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Romarin"
+    }
+  }
+}

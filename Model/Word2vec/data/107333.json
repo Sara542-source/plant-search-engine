@@ -1,0 +1,137 @@
+{
+  "id": "107333",
+  "infos_generales": {
+    "nom_scientifique": "Elettaria cardamomum",
+    "nom_commun": "Cardamome verte",
+    "noms_darija": [
+      "Habb Hal",
+      "حب الهال",
+      "Qaqoulla",
+      "قاكولة"
+    ],
+    "noms_alternatifs": [
+      "Vraie cardamome",
+      "Cardamome de Malabar",
+      "Cardamome aromatique"
+    ],
+    "famille": "Zingiberaceae",
+    "genre": "Elettaria"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/a8ad3c8a7699b14621710abf94703480fea71d71",
+    "https://storage.googleapis.com/powop-assets/kew_profiles/EBC_Green_Cardamom_050111AM002_main_web_fullsize.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Fréquent",
+    "luminosite": "Mi-ombre",
+    "type_sol": "Riche, bien drainé, humifère",
+    "regions_origine": [
+      "Inde",
+      "Sri Lanka",
+      "Malaisie"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Aromatique, chaude, épicée",
+    "gout": "Intense, sucré, légèrement piquant",
+    "forme": "Plante herbacée vivace, rhizomateuse",
+    "fruits": "Capsules triangulaires à trois loges, contenant des graines noires"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Respiratoire",
+      "Apaisant",
+      "Antiseptique",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [
+      "Épice",
+      "Aromatique",
+      "Infusion",
+      "Dessert",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Intérieur"
+    ]
+  },
+  "source_data": {
+    "resume": "La cardamome verte (Elettaria cardamomum) est une plante herbacée vivace de la famille des Zingiberaceae, originaire des forêts tropicales d'Inde et du Sri Lanka. Elle est mondialement reconnue pour ses capsules aromatiques qui contiennent des graines utilisées comme épice. Son parfum unique, à la fois sucré, floral et légèrement poivré, en fait un ingrédient précieux en cuisine et en pâtisserie. Elle est également prisée pour ses propriétés médicinales, notamment digestives et respiratoires, et est employée dans des boissons et préparations traditionnelles. Bien que non native du Maroc, la cardamome y est une épice très appréciée et importée.",
+    "texte_complet": {
+      "introduction": "La cardamome verte (Elettaria cardamomum) est une plante herbacée vivace de la famille des Zingibéracées. Elle est originaire des forêts tropicales humides du sud de l'Inde et du Sri Lanka. On l'appelle parfois « vraie cardamome » ou « cardamome de Malabar ».",
+      "sections": [
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "",
+          "children": [
+            {
+              "id": "usages_culinaires",
+              "level": 2,
+              "title": "Usages culinaires",
+              "content": "La cardamome est une épice très utilisée dans les cuisines asiatiques (notamment indienne, thaïlandaise, chinoise), moyen-orientales et nordiques. Elle entre dans la composition de nombreux mélanges d'épices comme le curry, le garam masala, ou le ras el-hanout. Elle est appréciée pour son arôme puissant, à la fois sucré, floral et légèrement poivré. On l'utilise pour aromatiser les plats salés (riz, viandes, légumes), les boissons (café, thé, infusions) et les desserts (pâtisseries, crèmes glacées).",
+              "children": []
+            },
+            {
+              "id": "usages_medicinaux",
+              "level": 2,
+              "title": "Usages médicinaux",
+              "content": "Traditionnellement, la cardamome est employée pour ses propriétés digestives, carminatives (aide à réduire les gaz), et stimulantes. Elle est utilisée pour soulager les nausées, les vomissements, les indigestions et les ballonnements. Elle est également réputée pour ses effets expectorants et antiseptiques, utiles en cas de rhumes, toux et affections respiratoires. Certaines études suggèrent aussi des propriétés anti-inflammatoires et antioxydantes.",
+              "children": []
+            },
+            {
+              "id": "autres_usages",
+              "level": 2,
+              "title": "Autres usages",
+              "content": "L'huile essentielle de cardamome est utilisée en parfumerie pour ses notes chaudes et épicées. Elle est également employée en aromathérapie pour ses vertus apaisantes et revigorantes. Dans certaines cultures, elle sert à masquer les mauvaises odeurs corporelles ou buccales.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Elettaria cardamomum est une plante herbacée vivace qui peut atteindre 2 à 4 mètres de hauteur. Elle possède de longs rhizomes souterrains d'où émergent des tiges feuillées. Les feuilles sont longues, lancéolées, d'un vert brillant et mesurent jusqu'à 60 cm. Les fleurs, de couleur blanc verdâtre avec une lèvre pourpre, sont regroupées en panicules ou racèmes qui sortent directement du rhizome à la base de la plante. Les fruits sont des capsules ovoïdes-triangulaires de couleur verte à jaune pâle, de 1 à 2 cm de long, contenant de petites graines noires très aromatiques.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "La cardamome préfère les climats tropicaux humides, avec des températures stables et une humidité élevée. Elle se développe sous le couvert forestier, en mi-ombre, dans des sols riches, humifères et bien drainés. La plante est propagée par division des rhizomes ou par semis. La récolte des capsules se fait à la main, avant leur pleine maturité, pour préserver leur arôme.",
+          "children": []
+        },
+        {
+          "id": "etymologie",
+          "level": 1,
+          "title": "Étymologie",
+          "content": "Le mot « cardamome » vient du grec ancien kardamômon (καρδάμωμον), composé de kardamon (κάρδαμον, cresson) et amômon (ἄμωμον), une épice indienne. Le terme scientifique Elettaria dérive du nom local de la plante en malayalam, 'elakkai'.",
+          "children": []
+        },
+        {
+          "id": "synonymes",
+          "level": 1,
+          "title": "Synonymes",
+          "content": "Plusieurs synonymes botaniques existent pour Elettaria cardamomum, reflétant l'histoire de sa classification. Parmi eux, on trouve Amomum cardamomum L., Matonia cardamomum (L.) J.F.White, Alpinia cardamomum (L.) Roxb., et Cardamomum officinale (L.) Maton.",
+          "children": []
+        },
+        {
+          "id": "liste_des_especes",
+          "level": 1,
+          "title": "Liste des espèces",
+          "content": "Le genre Elettaria comprend plusieurs espèces, bien que Elettaria cardamomum soit la plus connue et cultivée pour ses épices. Les autres espèces du genre, comme Elettaria repens, Elettaria surculosa, Elettaria ensal, et d'autres, sont souvent moins connues ou ont des usages locaux, et sont principalement trouvées dans les régions tropicales d'Asie.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/elettaria-cardamomum",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Elettaria_cardamomum"
+    }
+  }
+}

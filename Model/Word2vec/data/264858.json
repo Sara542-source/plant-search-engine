@@ -1,0 +1,109 @@
+{
+  "id": "264858",
+  "infos_generales": {
+    "nom_scientifique": "Prunus dulcis",
+    "nom_commun": "Amandier",
+    "noms_darija": [
+      "Louz",
+      "لوز"
+    ],
+    "noms_alternatifs": [
+      "Amandier commun",
+      "Amandier à graines douces"
+    ],
+    "famille": "Rosaceae",
+    "genre": "Prunus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/7bc8f32d97b764e1dfb4c71b97cfce2055dbf53c",
+    "https://bs.plantnet.org/image/o/d2c242a91df7fd713f71fa56cf39502cf06aede8"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Sols légers, bien drainés et calcaires",
+    "regions_origine": [
+      "Asie centrale et occidentale",
+      "Bassin méditerranéen (cultivé)"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Type de plante": "Arbre fruitier",
+    "Caduc/Persistant": "Caduc",
+    "Floraison": "Précoce (fin d'hiver/début printemps)",
+    "Fruit": "Drupe (amande)",
+    "Tolérance": "Sécheresse"
+  },
+  "utilisations": {
+    "medicale": [
+      "Dermatologique",
+      "Apaisant",
+      "Digestif",
+      "Tonique"
+    ],
+    "culinaire": [
+      "Dessert",
+      "Aromatique",
+      "Épice",
+      "Salade",
+      "Infusion"
+    ],
+    "decoration": [
+      "Jardin"
+    ]
+  },
+  "source_data": {
+    "resume": "L'amandier (Prunus dulcis) est un arbre fruitier originaire d'Asie centrale, largement cultivé dans le bassin méditerranéen, y compris au Maroc. Apprécié pour ses fleurs précoces et ses fruits, les amandes, il joue un rôle important dans l'alimentation, la cosmétique et la médecine traditionnelle. Il s'adapte bien aux climats secs et ensoleillés, typiques de nombreuses régions marocaines.",
+    "texte_complet": {
+      "introduction": "L'Amandier (Prunus dulcis, anciennement Prunus amygdalus ou Amygdalus communis) est une espèce d'arbres de la famille des Rosaceae, cultivé pour ses fruits, les amandes. C'est un arbre fruitier largement répandu dans les régions méditerranéennes. Il est originaire des régions chaudes et sèches d'Asie occidentale et centrale. Sa floraison précoce, souvent en fin d'hiver, est très appréciée. Les amandes sont consommées de diverses manières et sont également utilisées pour l'extraction d'une huile aux multiples propriétés.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "L'amandier est un arbre de taille moyenne, atteignant généralement 6 à 10 mètres de haut. Son écorce est grise et fissurée avec l'âge. Ses feuilles sont caduques, lancéolées, finement dentées et d'un vert brillant. La floraison est spectaculaire, se produisant généralement avant l'apparition des feuilles, dès la fin de l'hiver ou au début du printemps. Les fleurs, blanches à légèrement rosées, sont hermaphrodites et s'épanouissent en solitaire ou par paires. Le fruit est une drupe veloutée, de couleur verte, qui s'ouvre à maturité pour révéler un noyau ligneux, la coque, contenant la graine comestible, l'amande. Il existe deux types principaux d'amandes : les amandes douces (utilisées en alimentation et cosmétique) et les amandes amères (riches en amygdaline, toxiques si consommées en grande quantité, utilisées pour l'extraction d'arômes après traitement).",
+          "children": []
+        },
+        {
+          "id": "culture-et-habitat",
+          "level": 1,
+          "title": "Culture et habitat",
+          "content": "L'amandier préfère les climats méditerranéens, caractérisés par des étés longs et chauds et des hivers doux et humides. Il est sensible aux gelées tardives qui peuvent endommager ses fleurs précoces. Il prospère sur des sols légers, bien drainés, même pauvres et calcaires. Il tolère bien la sécheresse une fois établi, mais un arrosage modéré est nécessaire pour optimiser la fructification. La multiplication se fait principalement par greffage sur des porte-greffes résistants. Les principaux pays producteurs d'amandes sont les États-Unis (Californie), l'Espagne, l'Iran, l'Italie et le Maroc.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "Les amandes sont très polyvalentes et sont utilisées dans de nombreux domaines.",
+          "children": [
+            {
+              "id": "utilisations-culinaires",
+              "level": 2,
+              "title": "Utilisations culinaires",
+              "content": "En cuisine, les amandes sont consommées crues, grillées, salées, ou incorporées dans des pâtisseries (massepain, frangipane, cornes de gazelle, macarons), des confiseries, des desserts (nougat, calissons) et des plats salés. L'huile d'amande douce est également utilisée en cuisine pour sa saveur délicate et ses propriétés nutritionnelles. Le lait d'amande est une alternative végétale au lait de vache."
+            },
+            {
+              "id": "utilisations-cosmetiques-et-medicales",
+              "level": 2,
+              "title": "Utilisations cosmétiques et médicales",
+              "content": "L'huile d'amande douce est très prisée en cosmétique pour ses propriétés émollientes, hydratantes et adoucissantes pour la peau et les cheveux. Elle est souvent utilisée dans les produits pour bébés, les crèmes hydratantes et les huiles de massage. En médecine traditionnelle, l'huile d'amande est employée comme laxatif doux, pour apaiser les irritations cutanées et les voies respiratoires. Les amandes, riches en nutriments (vitamines E, magnésium, fibres), sont considérées comme un aliment tonique et bénéfique pour la santé cardiovasculaire."
+            }
+          ]
+        },
+        {
+          "id": "composition-nutritionnelle",
+          "level": 1,
+          "title": "Composition nutritionnelle",
+          "content": "Les amandes sont une excellente source d'énergie, de protéines végétales, de fibres alimentaires, de graisses monoinsaturées (bonnes pour le cœur), de vitamine E, de magnésium, de potassium et de calcium. Elles contiennent également des antioxydants, contribuant à la protection des cellules contre le stress oxydatif. Leur consommation régulière est associée à divers bienfaits pour la santé.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/prunus-dulcis",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Prunus_dulcis"
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "168420",
+  "infos_generales": {
+    "nom_scientifique": "Cupressus sempervirens",
+    "nom_commun": "Cyprès commun",
+    "noms_darija": [
+      "Sarw",
+      "سرو"
+    ],
+    "noms_alternatifs": [
+      "Cyprès méditerranéen",
+      "Cyprès d'Italie",
+      "Cyprès pyramidal",
+      "Cyprès toujours vert"
+    ],
+    "famille": "Cupressaceae",
+    "genre": "Cupressus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/848595e3da41dd054bd0a941840b2d1aa5298cf6",
+    "https://d2seqvvyy3b8p2.cloudfront.net/7ceea836bc2c4eb5b83090b105feff0d.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/7/75/Cypress.JPG"
+  ],
+  "caracteristiques": {
+    "arrosage": "Faible",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé",
+    "regions_origine": [
+      "Bassin méditerranéen",
+      "Moyen-Orient"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur": "Résineuse, aromatique",
+    "feuillage": "Persistant",
+    "port": "Pyramidal, colonnaire",
+    "resistance_froid": "Élevée",
+    "longevite": "Très longue"
+  },
+  "utilisations": {
+    "medicale": [
+      "Respiratoire",
+      "Tonique",
+      "Antiseptique",
+      "Anti-inflammatoire",
+      "Digestif",
+      "Autre usage médical"
+    ],
+    "culinaire": [],
+    "decoration": [
+      "Jardin",
+      "Haie",
+      "Jardin sec"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Cyprès commun (Cupressus sempervirens) est un conifère emblématique du bassin méditerranéen, reconnu pour son port élancé et son feuillage persistant. Cet arbre est extrêmement rustique, tolérant à la sécheresse et préférant les sols bien drainés et le plein soleil. Largement utilisé comme plante ornementale dans les jardins et pour former des haies ou brise-vent, son bois est apprécié pour sa durabilité. Son huile essentielle est valorisée en phytothérapie pour ses propriétés veinotoniques, décongestionnantes et antiseptiques. Il est également chargé d'une riche symbolique culturelle.",
+    "texte_complet": {
+      "introduction": "Le Cyprès commun, Cyprès méditerranéen ou Cyprès d'Italie (Cupressus sempervirens L., 1753) est une espèce de conifères de la famille des Cupressaceae. C'est un arbre à feuillage persistant, originaire des régions orientales du bassin méditerranéen. Il est largement cultivé comme arbre d'ornement dans les régions tempérées chaudes du monde entier, en particulier dans les paysages méditerranéens où son port élancé et sombre est très caractéristique.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "C'est un arbre de taille moyenne à grande atteignant généralement 20 à 30 mètres de hauteur, exceptionnellement jusqu'à 40 mètres. Il peut vivre très longtemps, jusqu'à 2 000 ans pour certains spécimens. Le tronc est droit, parfois cannelé, avec une écorce mince, gris-brun et lisse chez les jeunes arbres, devenant écailleuse et fissurée avec l'âge. Le feuillage est vert foncé, composé de petites feuilles squamiformes, imbriquées et persistantes. Les cônes mâles sont petits et jaunes, tandis que les cônes femelles sont globuleux, mesurant 2-3 cm de diamètre, verts immatures et virant au brun grisâtre à maturité, s'ouvrant pour libérer les graines. Ils persistent longtemps sur l'arbre.",
+          "children": []
+        },
+        {
+          "id": "varietes",
+          "level": 1,
+          "title": "Variétés",
+          "content": "Il existe deux formes principales : Cupressus sempervirens var. horizontalis (ou forme étalée), avec des branches étalées, et Cupressus sempervirens var. pyramidalis (ou forme fastigiée), avec un port étroit et colonnaire, la plus couramment plantée dans les jardins et les parcs.",
+          "children": []
+        },
+        {
+          "id": "repartition_et_habitat",
+          "level": 1,
+          "title": "Répartition et habitat",
+          "content": "Originaire de la Méditerranée orientale (Grèce, Turquie, Syrie, Liban, Israël, Jordanie, Chypre) et du Moyen-Orient (Iran), le cyprès commun a été introduit et naturalisé dans de nombreuses autres régions du monde, y compris l'Europe de l'Ouest et l'Afrique du Nord. Il est très bien adapté aux climats méditerranéens, aux sols calcaires et secs, et supporte bien la sécheresse estivale.",
+          "children": []
+        },
+        {
+          "id": "culture_et_usages",
+          "level": 1,
+          "title": "Culture et usages",
+          "content": "Le cyprès commun est un arbre d'ornement très populaire, apprécié pour sa silhouette élégante et son feuillage persistant. Il est souvent planté en alignement, en brise-vent, en haies ou comme spécimen isolé. Il est également utilisé pour la production de bois, apprécié pour sa durabilité et sa résistance aux insectes. Le bois de cyprès était autrefois utilisé pour la construction navale, la menuiserie et la sculpture. L'huile essentielle extraite de ses feuilles et de ses cônes a des applications en phytothérapie et en aromathérapie. Elle est connue pour ses propriétés astringentes, antiseptiques, antispasmodiques et veinotoniques, souvent utilisée pour les troubles circulatoires, les affections respiratoires et comme décongestionnant.",
+          "children": []
+        },
+        {
+          "id": "symbolique",
+          "level": 1,
+          "title": "Symbolique",
+          "content": "Le cyprès est un arbre avec une forte symbolique, souvent associé à la mort et à l'immortalité dans de nombreuses cultures méditerranéennes et du Moyen-Orient. Il est traditionnellement planté dans les cimetières, mais il symbolise aussi la vie éternelle et la résilience en raison de sa longévité et de son feuillage persistant.",
+          "children": []
+        },
+        {
+          "id": "allergie_au_pollen",
+          "level": 1,
+          "title": "Allergie au pollen",
+          "content": "Le pollen de cyprès est un allergène courant, notamment dans les régions méditerranéennes où l'arbre est très répandu. Il peut provoquer des réactions allergiques chez les personnes sensibles, notamment des rhinites, des conjonctivites et de l'asthme, particulièrement en hiver et au début du printemps, période de pollinisation.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/cupressus-sempervirens",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Cupressus_sempervirens"
+    }
+  }
+}

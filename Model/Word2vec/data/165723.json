@@ -1,0 +1,155 @@
+{
+  "id": "165723",
+  "infos_generales": {
+    "nom_scientifique": "Coriandrum sativum",
+    "nom_commun": "Coriandre",
+    "noms_darija": [
+      "Qasbour",
+      "قزبور",
+      "Kouzbar",
+      "كزبر"
+    ],
+    "noms_alternatifs": [
+      "Persil arabe",
+      "Cilantro"
+    ],
+    "famille": "Apiaceae",
+    "genre": "Coriandrum"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/fffc094e64e175593ed4c1e8c1ac4bde8ccaffa9",
+    "https://d2seqvvyy3b8p2.cloudfront.net/573fc816958f41e55371a94a216a1e3c.jpg"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Léger, bien drainé, riche en matière organique",
+    "regions_origine": [
+      "Moyen-Orient",
+      "Asie du Sud",
+      "Europe du Sud"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "odeur_feuilles": "Forte, citronnée, légèrement musquée",
+    "odeur_graines": "Chaude, épicée, boisée",
+    "cycle_de_vie": "Annuelle",
+    "floraison_couleur": "Blanc à rose pâle"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Apaisant",
+      "Antiseptique",
+      "Anti-inflammatoire"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique",
+      "Salade",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Balcon"
+    ]
+  },
+  "source_data": {
+    "resume": "La coriandre (*Coriandrum sativum*) est une plante aromatique annuelle de la famille des Apiacées, originaire du Moyen-Orient. Ses feuilles fraîches et ses graines séchées sont largement utilisées comme condiment et épice dans la cuisine mondiale, notamment marocaine. Elle est également appréciée pour ses propriétés médicinales, notamment digestives et apaisantes.",
+    "texte_complet": {
+      "introduction": "La coriandre (*Coriandrum sativum*), est une espèce de plante herbacée annuelle de la famille des Apiaceae (ombellifères). Originaire du Proche-Orient et de l'Europe méridionale, elle est largement cultivée pour ses feuilles, souvent appelées cilantro dans certaines cultures, et pour ses graines aromatiques. Plante polyvalente, elle est un pilier de nombreuses cuisines et est également reconnue pour ses vertus médicinales traditionnelles. Elle peut atteindre une hauteur de 30 à 60 cm et se distingue par ses feuilles finement découpées et ses ombelles de petites fleurs blanches ou rosées.",
+      "sections": [
+        {
+          "id": "nomenclature-et-etymologie",
+          "level": 1,
+          "title": "Nomenclature et étymologie",
+          "content": "Le nom scientifique *Coriandrum sativum* dérive du grec ancien 'koris' (κύριος), qui signifie 'punaise', en référence à l'odeur des fruits immatures. 'Sativum' est un terme latin qui signifie 'cultivé', indiquant que la plante est domestiquée depuis longtemps par l'homme. La coriandre est mentionnée dans des textes anciens datant de l'Antiquité, attestant de son usage millénaire.",
+          "children": []
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "La coriandre est une plante annuelle au port dressé, avec une racine pivotante mince. Sa tige est cylindrique, striée et ramifiée dans sa partie supérieure. Ses feuilles sont variables, et ses fleurs et fruits possèdent des caractéristiques distinctives.",
+          "children": []
+        },
+        {
+          "id": "appareil-vegetatif",
+          "level": 1,
+          "title": "Appareil végétatif",
+          "content": "Les feuilles sont très différentes selon leur position sur la tige. Les feuilles basales sont entières, pétiolées, de forme arrondie et sont lobées ou dentelées. Les feuilles caulinaires supérieures, quant à elles, sont sessiles ou courtement pétiolées, très finement divisées en lanières étroites et linéaires, ce qui leur donne un aspect plumeux. L'odeur des feuilles fraîches est caractéristique, souvent décrite comme un mélange d'agrumes et d'herbacé.",
+          "children": []
+        },
+        {
+          "id": "fleurs",
+          "level": 1,
+          "title": "Fleurs",
+          "content": "Les petites fleurs, de couleur blanche à rose pâle, sont regroupées en ombelles composées. Les ombelles terminales sont plus grandes et portent des fleurs généralement plus nombreuses et fertiles que les ombelles latérales. La floraison a lieu généralement en été.",
+          "children": []
+        },
+        {
+          "id": "fruits",
+          "level": 1,
+          "title": "Fruits",
+          "content": "Les fruits sont des diakènes globuleux, d'environ 3 à 5 mm de diamètre, de couleur jaune-brunâtre. Chaque fruit est composé de deux méricarpes (graines) qui restent généralement soudés. Ils sont striés et contiennent des glandes à huile essentielle qui leur confèrent leur arôme distinctif et chaud, très différent de celui des feuilles.",
+          "children": []
+        },
+        {
+          "id": "distribution",
+          "level": 1,
+          "title": "Distribution",
+          "content": "Originaire d'une vaste zone englobant l'Europe du Sud, l'Afrique du Nord (notamment le Maroc où elle est très présente dans la cuisine et la culture locale) et l'Asie du Sud-Ouest, la coriandre est aujourd'hui cultivée dans le monde entier. Elle s'est naturalisée dans de nombreuses régions tempérées et subtropicales.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "La coriandre est une plante relativement facile à cultiver. Elle préfère un sol léger, bien drainé et riche en matière organique, ainsi qu'une exposition en plein soleil. Elle est sensible au gel et est généralement semée au printemps, après les dernières gelées. Une fois établie, elle ne nécessite qu'un arrosage modéré et régulier. La récolte des feuilles peut commencer quelques semaines après le semis, tandis que les graines sont récoltées lorsque la plante commence à jaunir et que les fruits sont matures.",
+          "children": []
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "La coriandre est l'une des herbes et épices les plus utilisées au monde, avec une dualité d'usages entre ses feuilles fraîches et ses graines séchées, à la fois en cuisine et en médecine traditionnelle.",
+          "children": []
+        },
+        {
+          "id": "utilisations-culinaires",
+          "level": 1,
+          "title": "Utilisations Culinaires",
+          "content": "Les feuilles fraîches (souvent appelées 'qasbour' au Maroc) sont un ingrédient essentiel de nombreuses cuisines méditerranéennes, moyen-orientales, asiatiques et latino-américaines. Elles sont utilisées crues dans les salades, les sauces (comme le pesto ou le chutney), les soupes, les tajines et les plats mijotés. Les graines séchées (appelées 'kouzbar' au Maroc), entières ou moulues, sont employées comme épice dans les currys, les pains, les marinades, les charcuteries et les pâtisseries. Elles peuvent également être utilisées en infusion.",
+          "children": []
+        },
+        {
+          "id": "utilisations-medicinales",
+          "level": 1,
+          "title": "Utilisations Médicinales",
+          "content": "En médecine traditionnelle, la coriandre est réputée pour ses propriétés carminatives, digestives et antispasmodiques, aidant à soulager les ballonnements et les troubles gastro-intestinaux. Elle est également considérée comme un diurétique léger et un stimulant. Certaines études suggèrent des propriétés antioxydantes, anti-inflammatoires et anxiolytiques. Elle est parfois utilisée en infusion pour apaiser le système nerveux ou pour ses effets antiseptiques légers.",
+          "children": []
+        },
+        {
+          "id": "composition",
+          "level": 1,
+          "title": "Composition",
+          "content": "La coriandre est riche en composés volatils, principalement des monoterpènes. Les feuilles contiennent des aldéhydes (décénal, tridécanal) qui sont responsables de leur arôme caractéristique. Les graines sont riches en linalool (un alcool monoterpénique), ainsi qu'en géraniol et en camphre. Elles contiennent également des acides gras, des protéines et des fibres alimentaires.",
+          "children": []
+        },
+        {
+          "id": "toxicite",
+          "level": 1,
+          "title": "Toxicité",
+          "content": "La coriandre est généralement considérée comme non toxique et sûre pour la consommation humaine. Cependant, comme pour toute plante, des réactions allergiques peuvent survenir chez certaines personnes, se manifestant par des démangeaisons, des éruptions cutanées ou des troubles digestifs. Ces cas sont rares.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/coriandrum-sativum",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Coriandrum_sativum"
+    }
+  }
+}

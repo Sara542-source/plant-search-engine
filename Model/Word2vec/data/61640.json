@@ -1,0 +1,111 @@
+{
+  "id": "61640",
+  "infos_generales": {
+    "nom_scientifique": "Mentha pulegium L.",
+    "nom_commun": "Menthe pouliot",
+    "noms_darija": [
+      "Fliou",
+      "فلّيو",
+      "Ghleou"
+    ],
+    "noms_alternatifs": [
+      "Pouliot",
+      "Menthe sauvage",
+      "Menthe à pouliot"
+    ],
+    "famille": "Lamiaceae",
+    "genre": "Mentha"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/4770dbec80886ee1869a21ff3f03677fb7b9033b",
+    "https://bs.plantnet.org/image/o/1584bc34e258ce1f90413af1871a6b1af722d246"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Humide, riche, bien drainé",
+    "regions_origine": [
+      "Europe",
+      "Afrique du Nord",
+      "Asie occidentale"
+    ],
+    "toxicite": true
+  },
+  "attributs_specifiques": {
+    "odeur": "Forte, caractéristique de menthe/camphre",
+    "port": "Plante rampante ou ascendante",
+    "floraison": "Fleurs mauves en verticilles axillaires",
+    "rhizomes": "Traçants, permettant une propagation rapide"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Antiseptique",
+      "Apaisant",
+      "Autre usage médical"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Aromatique"
+    ],
+    "decoration": [
+      "Jardin",
+      "Couvre-sol"
+    ]
+  },
+  "source_data": {
+    "resume": "La Menthe pouliot (Mentha pulegium) est une plante herbacée vivace de la famille des Lamiacées, largement répandue en Europe, Afrique du Nord et Asie occidentale. Caractérisée par son odeur forte et ses petites fleurs mauves, elle est traditionnellement utilisée en infusion, mais son huile essentielle est toxique et doit être utilisée avec précaution. Elle est appréciée pour ses propriétés aromatiques et médicinales dans certaines cultures.",
+    "texte_complet": {
+      "introduction": "La Menthe pouliot, Mentha pulegium, est une espèce de plantes herbacées vivaces de la famille des Lamiacées, sous-famille des Nepetoideae, tribu des Mentheae, et genre Mentha. Elle est également connue sous les noms de Pouliot, Menthe sauvage ou Menthe à pouliot. Originaire d'Europe, d'Afrique du Nord et d'Asie occidentale, elle pousse généralement dans les lieux humides, les fossés, les prairies humides et les bords de chemins. Reconnue à son odeur forte et caractéristique, elle est employée depuis l'Antiquité pour ses propriétés aromatiques et médicinales, bien que son usage doive être prudent en raison de la toxicité de son huile essentielle, riche en pulégone.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "La Menthe pouliot est une plante de petite taille, mesurant généralement entre 10 et 50 cm de hauteur, avec des tiges souvent rampantes ou ascendantes, qui s'enracinent au niveau des nœuds. Les feuilles sont petites, ovales à elliptiques, entières ou très finement dentées, d'un vert moyen, et fortement aromatiques. La floraison a lieu de juillet à octobre, produisant de petites fleurs mauves ou lilas, regroupées en verticilles denses et globuleux à l'aisselle des feuilles supérieures. Ces verticilles sont séparés les uns des autres le long de la tige. Le fruit est un tétrakène.",
+          "children": []
+        },
+        {
+          "id": "habitat_et_repartition",
+          "level": 1,
+          "title": "Habitat et répartition",
+          "content": "Mentha pulegium est une espèce cosmopolite des régions tempérées de l'Ancien Monde. On la trouve spontanément en Europe, en Afrique du Nord (notamment au Maroc, en Algérie et en Tunisie) et en Asie occidentale. Elle a été introduite et naturalisée dans d'autres parties du monde, comme en Amérique du Nord. Elle affectionne les sols humides et lourds, les prairies inondables, les rives des cours d'eau, les bords de chemins et les zones perturbées, souvent en plein soleil ou à mi-ombre. Sa capacité à s'étaler grâce à ses rhizomes traçants lui permet de former des colonies denses.",
+          "children": []
+        },
+        {
+          "id": "usages",
+          "level": 1,
+          "title": "Usages",
+          "content": "Historiquement, la Menthe pouliot a été largement utilisée pour ses propriétés médicinales et aromatiques. Son nom 'pulegium' dérive du latin 'pulex' (puce), car elle était réputée pour repousser les puces. L'huile essentielle de Menthe pouliot est caractérisée par une forte concentration de pulégone, un composé toxique. Malgré cela, elle a été employée traditionnellement.",
+          "children": [
+            {
+              "id": "usages-culinaires",
+              "level": 2,
+              "title": "Usages culinaires",
+              "content": "En cuisine, la Menthe pouliot est principalement utilisée pour préparer des infusions et des tisanes, notamment dans les régions du Maghreb où elle est très appréciée comme boisson chaude. Son arôme est plus fort et plus \"terreux\" que celui de la menthe verte commune. Elle peut être employée avec parcimonie pour aromatiser certains plats, mais son usage interne est aujourd'hui souvent déconseillé en grande quantité en raison de sa toxicité.",
+              "children": []
+            },
+            {
+              "id": "usages-medicaux-et-toxicite",
+              "level": 2,
+              "title": "Usages médicaux et toxicité",
+              "content": "Traditionnellement, elle était réputée pour ses propriétés digestives, carminatives, antispasmodiques, diaphorétiques et emménagogues (favorisant le flux menstruel). Elle était également utilisée contre les refroidissements et comme abortif. Cependant, l'ingestion d'huile essentielle de Menthe pouliot, même à faibles doses, peut être mortelle, entraînant des lésions hépatiques graves et des convulsions. Il est impératif de ne pas utiliser l'huile essentielle par voie interne et de limiter la consommation d'infusions concentrées, surtout chez les femmes enceintes et les personnes souffrant de troubles hépatiques. Sa toxicité est bien documentée, notamment l'hépatotoxicité de la pulégone.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "La Menthe pouliot est une plante facile à cultiver dans un jardin, à condition de lui fournir un sol humide et une exposition ensoleillée ou partiellement ombragée. Elle se propage facilement par ses rhizomes ou par semis. Il est conseillé de la cultiver en pot ou de délimiter son espace si l'on ne souhaite pas qu'elle envahisse d'autres zones du jardin, compte tenu de son caractère traçant. Elle est rustique et tolère bien diverses conditions, mais préfère la fraîcheur.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/mentha-pulegium",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Mentha_pulegium"
+    }
+  }
+}

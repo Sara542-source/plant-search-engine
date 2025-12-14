@@ -1,0 +1,125 @@
+{
+  "id": "265454",
+  "infos_generales": {
+    "nom_scientifique": "Mespilus germanica",
+    "nom_commun": "Néflier commun",
+    "noms_darija": [
+      "Za'rour",
+      "زعرور"
+    ],
+    "noms_alternatifs": [
+      "Néflier d'Allemagne"
+    ],
+    "famille": "Rosaceae",
+    "genre": "Mespilus"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/620342667b288f04039ad5c4887c4132e34b9c67",
+    "https://bs.plantnet.org/image/o/d197957a3501df03ebd37f32feef3ab95cc6891c"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Bien drainé, fertile",
+    "regions_origine": [
+      "Asie du Sud-Ouest",
+      "Europe du Sud-Est",
+      "Caucase"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "feuillage": "Caduc",
+    "fruit": "Nèfle, comestible après blettissement",
+    "floraison": "Printemps"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Antiseptique"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Cuit",
+      "Dessert"
+    ],
+    "decoration": [
+      "Jardin"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Néflier commun (Mespilus germanica) est un petit arbre fruitier de la famille des Rosacées, originaire d'Asie du Sud-Ouest et d'Europe du Sud-Est. Connu pour ses fruits, les nèfles, qui deviennent comestibles seulement après blettissement (ramollissement par le gel ou le temps), il est apprécié pour son goût unique et sa consommation hivernale. Outre son intérêt culinaire, l'arbre est également cultivé à des fins ornementales, notamment pour sa floraison tardive et son feuillage automnal. Il est présent au Maroc sous forme cultivée. Ses utilisations médicinales traditionnelles incluent des propriétés digestives et astringentes.",
+    "texte_complet": {
+      "introduction": "Le Néflier commun (Mespilus germanica), aussi appelé Néflier d'Allemagne ou Néflier d'Europe, est une espèce de petits arbres fruitiers de la famille des Rosacées et du genre Mespilus. Le nom d'espèce germanica est trompeur, car l'espèce est probablement originaire du Sud-Ouest de l'Asie (Iran, Turquie, Caucase) et du Sud-Est de l'Europe. Le fruit est la nèfle.",
+      "sections": [
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le Néflier commun est un arbre caduc qui atteint généralement une hauteur de 2 à 5 mètres, pouvant parfois atteindre 8 mètres. Ses jeunes rameaux sont souvent tomentueux. Les feuilles sont alternes, de forme ovale-lancéolée, avec un bord entier ou finement denté, et sont tomenteuses sur leur face inférieure. Les fleurs sont solitaires, de couleur blanche ou légèrement rosée, et sont composées de 5 pétales, de 20 à 40 étamines et de 5 styles. Le fruit, appelé nèfle, est globuleux-aplati, mesurant 2 à 3 cm de diamètre. Il est de couleur marron-roux et n'est comestible qu'après blettissement, un processus de ramollissement qui améliore sa saveur.",
+          "children": []
+        },
+        {
+          "id": "biologie",
+          "level": 1,
+          "title": "Biologie",
+          "content": "La floraison du Néflier commun a lieu en mai-juin. Les fruits mûrissent en automne, mais ne deviennent consommables qu'après avoir subi le blettissement, un processus de maturation secondaire qui peut être déclenché par le gel ou simplement le temps. La pollinisation est entomophile, principalement assurée par les insectes.",
+          "children": []
+        },
+        {
+          "id": "ecologie",
+          "level": 1,
+          "title": "Écologie",
+          "content": "Le Néflier commun pousse naturellement dans les forêts claires, sur les lisières forestières et dans les broussailles. Il préfère les sols riches et bien drainés. Une fois bien établi, il montre une bonne résistance au froid hivernal et à la sécheresse estivale, ce qui en fait une plante robuste et adaptable.",
+          "children": []
+        },
+        {
+          "id": "distribution",
+          "level": 1,
+          "title": "Distribution",
+          "content": "Malgré son nom d'espèce 'germanica', le Néflier commun est probablement originaire du Sud-Ouest de l'Asie (notamment l'Iran, la Turquie, le Caucase) et du Sud-Est de l'Europe. Il a été largement cultivé et s'est naturalisé dans de nombreuses régions d'Europe, y compris en Afrique du Nord, ainsi qu'en Amérique du Nord.",
+          "children": []
+        },
+        {
+          "id": "cultivars",
+          "level": 1,
+          "title": "Cultivars",
+          "content": "Plusieurs cultivars de Néflier commun ont été développés pour leurs qualités fruitières ou ornementales. Parmi les plus connus figurent 'Royal', 'Dutch', 'Nottingham', 'Macrocarpa', 'Monstreuse de Meaux' et 'Géante'. Ces variétés peuvent présenter des différences en termes de taille de fruit, de saveur ou de vigueur de l'arbre.",
+          "children": []
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le Néflier commun est une plante relativement facile à cultiver. Il prospère en plein soleil et dans un sol bien drainé. Il peut être greffé sur différents porte-greffes, tels que le cognassier ou l'aubépine, pour adapter sa croissance ou sa résistance. Une taille d'entretien est recommandée pour maintenir la forme de l'arbre et favoriser la fructification.",
+          "children": []
+        },
+        {
+          "id": "usages-et-proprietes",
+          "level": 1,
+          "title": "Usages et propriétés",
+          "content": "Les fruits, les nèfles, sont principalement consommés après blettissement, soit crus, soit transformés en confitures, gelées ou compotes. Ils sont riches en tanins, pectine et vitamine C. En médecine populaire, les nèfles sont réputées pour leurs propriétés astringentes et digestives. Les feuilles du néflier peuvent également être utilisées en infusion pour leurs vertus médicinales.",
+          "children": []
+        },
+        {
+          "id": "maladies-et-ravageurs",
+          "level": 1,
+          "title": "Maladies et ravageurs",
+          "content": "Le Néflier commun peut être sensible à certaines maladies et ravageurs. Parmi les affections courantes, on trouve la tavelure et le feu bactérien. Il peut également être attaqué par des ravageurs comme les pucerons, qui peuvent affaiblir l'arbre si l'infestation est importante.",
+          "children": []
+        },
+        {
+          "id": "autres-especes",
+          "level": 1,
+          "title": "Autres espèces",
+          "content": "Le genre Mespilus est généralement considéré comme monospécifique ou comprenant très peu d'espèces, selon les classifications botaniques. Outre Mespilus germanica, Mespilus canescens (le Néflier d'Amérique) est une espèce très rare. Il existe également des hybrides intergénériques entre Mespilus et Crataegus (aubépines), appelés Crataemespilus, qui combinent les caractéristiques des deux genres.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/mespilus-germanica",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Mespilus_germanica"
+    }
+  }
+}

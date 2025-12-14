@@ -1,0 +1,163 @@
+{
+  "id": "64847",
+  "infos_generales": {
+    "nom_scientifique": "Ocimum basilicum",
+    "nom_commun": "Basilic",
+    "noms_darija": [
+      "Hbak",
+      "حبق"
+    ],
+    "noms_alternatifs": [
+      "Herbe royale",
+      "Basilic commun"
+    ],
+    "famille": "Lamiaceae",
+    "genre": "Ocimum"
+  },
+  "galerie_images": [
+    "https://bs.plantnet.org/image/o/eaf722de31333a8724b4bb72c8d51959530fae56",
+    "https://bs.plantnet.org/image/o/b03db90006e46afa7b3f7a61d77e1336a61c4b2d"
+  ],
+  "caracteristiques": {
+    "arrosage": "Modéré",
+    "luminosite": "Plein soleil",
+    "type_sol": "Riche et bien drainé",
+    "regions_origine": [
+      "Afrique tropicale",
+      "Asie du Sud"
+    ],
+    "toxicite": false
+  },
+  "attributs_specifiques": {
+    "Odeur": "Aromatique et épicée",
+    "Période de floraison": "Été",
+    "Type de plante": "Annuelle",
+    "Hauteur": "20 à 60 cm"
+  },
+  "utilisations": {
+    "medicale": [
+      "Digestif",
+      "Apaisant",
+      "Anti-inflammatoire",
+      "Tonique"
+    ],
+    "culinaire": [
+      "Infusion",
+      "Épice",
+      "Aromatique",
+      "Salade",
+      "Cuit"
+    ],
+    "decoration": [
+      "Jardin",
+      "Balcon",
+      "Intérieur"
+    ]
+  },
+  "source_data": {
+    "resume": "Le Basilic (Ocimum basilicum) est une plante herbacée aromatique de la famille des Lamiacées, originaire d'Afrique tropicale et d'Asie du Sud. Largement cultivé pour ses feuilles parfumées, il est un pilier de nombreuses cuisines mondiales, notamment méditerranéennes. Ses propriétés médicinales traditionnelles incluent des effets digestifs et apaisants. C'est une plante annuelle qui préfère le plein soleil et un sol riche et bien drainé.",
+    "texte_complet": {
+      "introduction": "L'Ocimum basilicum, ou Basilic, est une espèce de plante herbacée tropicale de la famille des Lamiacées, largement cultivée comme plante aromatique et condimentaire. Le nom commun de basilic désigne l'herbe aromatique elle-même, ou bien la plante entière. Le basilic est parfois appelé herbe royale. Il est apprécié pour son parfum caractéristique et ses saveurs variées selon les cultivars, allant de l'anis au citron en passant par le clou de girofle. Facile à cultiver, il est un incontournable des potagers et des cuisines méditerranéennes.",
+      "sections": [
+        {
+          "id": "etymologie",
+          "level": 1,
+          "title": "Étymologie",
+          "content": "Le nom « basilic » vient du grec ancien βασιλικόν / basilikón, qui signifie « royal » ou « appartenant au roi », via le latin basilicum. On le qualifie aussi d’« herbe royale » en français, attestant de son ancien prestige. Le nom générique Ocimum dérive également du grec ὤκιμον / ôkimon qui désignait déjà le basilic, lui-même issu de ὀσμή / osmê, « odeur », en référence à son parfum puissant et distinctif. Le nom spécifique basilicum vient du latin et renforce son caractère royal ou précieux.",
+          "children": []
+        },
+        {
+          "id": "description",
+          "level": 1,
+          "title": "Description",
+          "content": "Le basilic est une plante herbacée annuelle dans la plupart des climats tempérés, mais peut être vivace sous des climats tropicaux. Il atteint généralement une hauteur de 20 à 60 cm. Ses tiges sont carrées, ramifiées et souvent rougeâtres à la base. Les feuilles sont ovales, pointues, d'un vert vif, parfois pourpres ou légèrement gaufrées, mesurant de 1 à 5 cm de long. Elles sont opposées et dégagent une forte odeur aromatique lorsqu'on les froisse. Les fleurs sont petites, bilabiées, de couleur blanche à rosée, groupées en épis terminaux. Elles sont hermaphrodites et attirent les insectes pollinisateurs. Les fruits sont des akènes contenant de petites graines noires qui libèrent un mucilage au contact de l'eau.",
+          "children": [
+            {
+              "id": "varietes",
+              "level": 2,
+              "title": "Variétés",
+              "content": "Il existe de nombreuses variétés et cultivars de basilic, présentant une grande diversité de formes, de couleurs, de tailles de feuilles et surtout de profils aromatiques. Parmi les plus répandues, on trouve : le basilic grand vert (le plus commun, à l'arôme doux), le basilic citron (parfum d'agrume), le basilic cannelle (arôme épicé), le basilic thaï (saveur anisée et épicée), le basilic pourpre (à feuilles sombres et saveur plus poivrée), le basilic marseillais (à grandes feuilles et saveur prononcée), et le basilic 'Minette' (nain, idéal pour les pots).",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "culture",
+          "level": 1,
+          "title": "Culture",
+          "content": "Le basilic est une plante tropicale qui requiert de la chaleur, une exposition en plein soleil et ne supporte absolument pas le gel. Il est cultivé en annuelle dans les régions tempérées. Il préfère un sol riche en matière organique, léger, frais et bien drainé. Un pH neutre à légèrement acide est idéal. L'arrosage doit être régulier, surtout en période de chaleur et de sécheresse, sans jamais laisser le sol s'assécher complètement ni le gorger d'eau.",
+          "children": [
+            {
+              "id": "semis",
+              "level": 2,
+              "title": "Semis",
+              "content": "Le semis du basilic s'effectue au printemps, généralement après les dernières gelées, lorsque la température du sol atteint au moins 15°C. Les graines peuvent être semées en pleine terre dans les régions chaudes ou en pots à l'intérieur, six à huit semaines avant la dernière gelée prévue. Les graines germent rapidement. Il est conseillé de repiquer les jeunes plants une fois qu'ils ont développé quelques vraies feuilles, en les espaçant d'environ 20 à 30 cm pour permettre un bon développement.",
+              "children": []
+            },
+            {
+              "id": "entretien",
+              "level": 2,
+              "title": "Entretien",
+              "content": "Pour favoriser la croissance des feuilles et prolonger la période de récolte, il est essentiel de pincer régulièrement les tiges florales dès leur apparition, avant qu'elles ne s'épanouissent. Cela évite que la plante ne monte en graines et ne dépense son énergie dans la floraison au détriment du feuillage. L'arrosage doit se faire au pied pour éviter l'humidité excessive sur les feuilles, qui peut favoriser les maladies fongiques. Il convient également de protéger les jeunes plants des limaces et escargots.",
+              "children": []
+            },
+            {
+              "id": "recolte",
+              "level": 2,
+              "title": "Récolte",
+              "content": "Les feuilles de basilic peuvent être récoltées tout au long de la saison, généralement de juin à octobre dans l'hémisphère nord. Il est préférable de cueillir les feuilles le matin, après la rosée, car c'est à ce moment-là que leur concentration en huiles essentielles est la plus élevée. On cueille les feuilles extérieures en priorité, en veillant à ne pas prélever plus d'un tiers du feuillage à la fois pour ne pas épuiser la plante. Le basilic frais est le plus savoureux, mais il peut aussi être conservé séché (bien que son arôme diminue fortement) ou congelé dans de l'huile d'olive ou de l'eau.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "utilisations",
+          "level": 1,
+          "title": "Utilisations",
+          "content": "Le basilic est une plante aux multiples usages, principalement reconnue pour son rôle d'herbe aromatique en cuisine, mais aussi pour ses propriétés médicinales traditionnelles et son attrait décoratif.",
+          "children": [
+            {
+              "id": "usages_alimentaires",
+              "level": 2,
+              "title": "Usages alimentaires",
+              "content": "Le basilic est un ingrédient emblématique de nombreuses cuisines à travers le monde, en particulier la cuisine méditerranéenne (italienne et provençale) et asiatique (thaïe, vietnamienne). Il est l'ingrédient principal du pesto italien. Il est excellent dans les salades (notamment avec la tomate et la mozzarella), les soupes, les sauces pour pâtes, les pizzas, et se marie très bien avec le fromage, l'ail et l'huile d'olive. Il est généralement ajouté en fin de cuisson pour préserver son arôme délicat.",
+              "children": []
+            },
+            {
+              "id": "utilisation_medicinale",
+              "level": 2,
+              "title": "Utilisation médicinale",
+              "content": "En médecine traditionnelle, le basilic est réputé pour ses propriétés digestives, carminatives (aide à l'expulsion des gaz), antispasmodiques, apaisantes, antiseptiques et toniques. Il peut être utilisé en infusion pour soulager les troubles digestifs légers, le stress, les maux de tête et les insomnies. Son huile essentielle, riche en eugénol et linalol, est utilisée en aromathérapie pour ses vertus antibactériennes et anti-inflammatoires, mais doit être employée avec une grande prudence en raison de sa concentration.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "composition_chimique",
+          "level": 1,
+          "title": "Composition chimique",
+          "content": "Le profil aromatique et les propriétés du basilic sont principalement dus à la présence d'huiles essentielles volatiles, dont la composition varie considérablement selon les variétés et les conditions de culture. Les principaux composants incluent l'eugénol (arôme de clou de girofle), le linalol (floral, boisé), le méthylchavicol (estragol, arôme anisé), le méthylcinnamate (cannelle), le camphre et le limonène. Il contient également des flavonoïdes (comme l'orientine et la vicenine), des tanins et des acides phénoliques, contribuant à ses propriétés antioxydantes.",
+          "children": []
+        },
+        {
+          "id": "parasites_et_maladies",
+          "level": 1,
+          "title": "Parasites et maladies",
+          "content": "Le basilic peut être sujet à l'attaque de divers parasites comme les pucerons, les aleurodes (mouches blanches) et les acariens (araignées rouges), surtout en période de sécheresse. Les maladies les plus courantes sont d'origine fongique, notamment le mildiou (causé par Peronospora belbahrii), la fusariose (flétrissement par Fusarium oxysporum) et la pourriture grise (Botrytis cinerea), souvent favorisées par un excès d'humidité, un mauvais drainage ou une mauvaise circulation de l'air.",
+          "children": []
+        },
+        {
+          "id": "symbolique",
+          "level": 1,
+          "title": "Symbolique",
+          "content": "La symbolique du basilic est riche et varie selon les cultures. Dans certaines traditions, il est un symbole d'amour, de fertilité et de protection. En Inde, le basilic sacré (Tulsi) est vénéré et associé à la divinité Vishnu, symbole de pureté et de royauté. En Italie, il est parfois offert en signe d'amour. Cependant, dans d'autres cultures ou à d'autres époques, il a pu être associé à la haine, la folie ou au deuil. Son nom d'« herbe royale » témoigne d'une longue histoire d'appréciation et de significations diverses.",
+          "children": []
+        }
+      ]
+    },
+    "urls": {
+      "trefle": "https://trefle.io/explore/species/ocimum-basilicum",
+      "wikipedia": "https://fr.wikipedia.org/wiki/Ocimum_basilicum"
+    }
+  }
+}
